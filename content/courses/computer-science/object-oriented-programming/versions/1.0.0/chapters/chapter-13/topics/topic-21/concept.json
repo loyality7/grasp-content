@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-13.topic-21",
+  "name": "Complexity Analysis",
+  "subject": "computer-science",
+  "definition": "Complexity Analysis is a fundamental concept in computer-science.",
+  "explanation": "Learn about Complexity Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "complexity-analysis"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.chemical-kinetics.chapter-12.topic-05",
+  "name": "Computational Reaction Dynamics",
+  "subject": "chemistry",
+  "definition": "Computational Reaction Dynamics is a fundamental concept in chemistry.",
+  "explanation": "Learn about Computational Reaction Dynamics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "computational-reaction-dynamics"
+  ]
+}

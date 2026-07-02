@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-12.topic-01",
+  "name": "Parallel Computing",
+  "subject": "chemistry",
+  "definition": "Parallel Computing is a fundamental concept in chemistry.",
+  "explanation": "Learn about Parallel Computing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "parallel-computing"
+  ]
+}

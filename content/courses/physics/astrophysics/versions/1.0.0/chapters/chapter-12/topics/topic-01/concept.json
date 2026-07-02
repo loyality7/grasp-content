@@ -1,0 +1,20 @@
+{
+  "id": "physics.astrophysics.chapter-12.topic-01",
+  "name": "Space Exploration",
+  "subject": "physics",
+  "definition": "Space Exploration is a fundamental concept in physics.",
+  "explanation": "Learn about Space Exploration and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "space-exploration"
+  ]
+}

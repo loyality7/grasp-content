@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Information & Data",
+  "description": "Information & Data",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Data",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Information",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Data Representation",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Binary Number System",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Decimal, Binary & Hexadecimal",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Character Encoding (ASCII, Unicode)",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Data Storage Units",
+      "conceptId": "computer-science.computer-science-foundations.chapter-03.topic-07"
+    }
+  ]
+}

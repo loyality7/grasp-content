@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Special Number Sequences",
+  "description": "Special Number Sequences",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fibonacci Numbers",
+      "conceptId": "mathematics.number-theory.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lucas Numbers",
+      "conceptId": "mathematics.number-theory.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Perfect Numbers",
+      "conceptId": "mathematics.number-theory.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mersenne Primes",
+      "conceptId": "mathematics.number-theory.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Catalan Numbers (Introduction)",
+      "conceptId": "mathematics.number-theory.chapter-11.topic-05"
+    }
+  ]
+}

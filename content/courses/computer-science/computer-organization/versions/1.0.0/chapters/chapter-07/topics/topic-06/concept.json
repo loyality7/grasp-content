@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-07.topic-06",
+  "name": "Memory-Mapped I/O",
+  "subject": "computer-science",
+  "definition": "Memory-Mapped I/O is a fundamental concept in computer-science.",
+  "explanation": "Learn about Memory-Mapped I/O and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "memory-mapped-io"
+  ]
+}

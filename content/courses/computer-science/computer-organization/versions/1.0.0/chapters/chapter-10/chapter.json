@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Multiprocessors & Parallelism",
+  "description": "Multiprocessors & Parallelism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multicore Processors",
+      "conceptId": "computer-science.computer-organization.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "SIMD",
+      "conceptId": "computer-science.computer-organization.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "MIMD",
+      "conceptId": "computer-science.computer-organization.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Parallel Processing",
+      "conceptId": "computer-science.computer-organization.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Shared Memory",
+      "conceptId": "computer-science.computer-organization.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Distributed Memory (Introduction)",
+      "conceptId": "computer-science.computer-organization.chapter-10.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-13.topic-03",
+  "name": "Learning in Games",
+  "subject": "game-theory",
+  "definition": "Learning in Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Learning in Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "learning-in-games"
+  ]
+}

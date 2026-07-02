@@ -1,0 +1,32 @@
+{
+  "id": "chapter-04",
+  "name": "Nomenclature",
+  "description": "Nomenclature",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "IUPAC Naming Rules",
+      "conceptId": "chemistry.coordination-chemistry.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Naming Cationic Complexes",
+      "conceptId": "chemistry.coordination-chemistry.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Naming Anionic Complexes",
+      "conceptId": "chemistry.coordination-chemistry.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Naming Neutral Complexes",
+      "conceptId": "chemistry.coordination-chemistry.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Oxidation State Assignment",
+      "conceptId": "chemistry.coordination-chemistry.chapter-04.topic-05"
+    }
+  ]
+}

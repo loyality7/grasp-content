@@ -1,0 +1,20 @@
+{
+  "id": "physics.kinematics.chapter-06.topic-03",
+  "name": "Angular Projection",
+  "subject": "physics",
+  "definition": "Angular Projection is a fundamental concept in physics.",
+  "explanation": "Learn about Angular Projection and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "angular-projection"
+  ]
+}

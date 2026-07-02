@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Nuclear Medicine",
+  "description": "Nuclear Medicine",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "PET Imaging",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "SPECT Imaging",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Radiation Therapy",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Diagnostic Radiopharmaceuticals",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Therapeutic Radiopharmaceuticals",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Medical Safety",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-10",
+  "name": "Non-Inertial Frames",
+  "description": "Non-Inertial Frames",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Accelerating Frames",
+      "conceptId": "physics.newtonian-mechanics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pseudo Force",
+      "conceptId": "physics.newtonian-mechanics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Elevator Problems",
+      "conceptId": "physics.newtonian-mechanics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rotating Frames (Introduction)",
+      "conceptId": "physics.newtonian-mechanics.chapter-10.topic-04"
+    }
+  ]
+}

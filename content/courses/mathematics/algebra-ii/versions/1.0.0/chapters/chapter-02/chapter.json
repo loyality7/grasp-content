@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Complex Numbers",
+  "description": "Complex Numbers",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Imaginary Unit (i)",
+      "conceptId": "mathematics.algebra-ii.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Complex Numbers",
+      "conceptId": "mathematics.algebra-ii.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Operations on Complex Numbers",
+      "conceptId": "mathematics.algebra-ii.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Complex Conjugates",
+      "conceptId": "mathematics.algebra-ii.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Polar Form (Introduction)",
+      "conceptId": "mathematics.algebra-ii.chapter-02.topic-05"
+    }
+  ]
+}

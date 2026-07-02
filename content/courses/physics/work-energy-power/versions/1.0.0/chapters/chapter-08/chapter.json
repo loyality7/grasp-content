@@ -1,0 +1,27 @@
+{
+  "id": "chapter-08",
+  "name": "Variable Forces",
+  "description": "Variable Forces",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Variable Force",
+      "conceptId": "physics.work-energy-power.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Work from Graphs",
+      "conceptId": "physics.work-energy-power.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Work by Integration",
+      "conceptId": "physics.work-energy-power.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "physics.work-energy-power.chapter-08.topic-04"
+    }
+  ]
+}

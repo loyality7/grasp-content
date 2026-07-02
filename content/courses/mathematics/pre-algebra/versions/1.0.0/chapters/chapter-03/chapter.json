@@ -1,0 +1,32 @@
+{
+  "id": "chapter-03",
+  "name": "Fractions & Decimals Review",
+  "description": "Fractions & Decimals Review",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fraction Operations",
+      "conceptId": "mathematics.pre-algebra.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Decimal Operations",
+      "conceptId": "mathematics.pre-algebra.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Fraction ↔ Decimal",
+      "conceptId": "mathematics.pre-algebra.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mixed Numbers",
+      "conceptId": "mathematics.pre-algebra.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Complex Fractions",
+      "conceptId": "mathematics.pre-algebra.chapter-03.topic-05"
+    }
+  ]
+}

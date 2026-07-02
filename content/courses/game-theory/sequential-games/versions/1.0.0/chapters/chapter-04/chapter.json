@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Backward Induction",
+  "description": "Backward Induction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Backward Induction",
+      "conceptId": "game-theory.sequential-games.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Solving Game Trees",
+      "conceptId": "game-theory.sequential-games.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rational Future Decisions",
+      "conceptId": "game-theory.sequential-games.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Optimal Strategies",
+      "conceptId": "game-theory.sequential-games.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Dynamic Optimization",
+      "conceptId": "game-theory.sequential-games.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sequential Rationality",
+      "conceptId": "game-theory.sequential-games.chapter-04.topic-06"
+    }
+  ]
+}

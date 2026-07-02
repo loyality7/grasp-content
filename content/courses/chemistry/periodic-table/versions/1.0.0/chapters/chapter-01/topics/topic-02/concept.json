@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.periodic-table.chapter-01.topic-02",
+  "name": "Dobereiner's Triads",
+  "subject": "chemistry",
+  "definition": "Dobereiner's Triads is a fundamental concept in chemistry.",
+  "explanation": "Learn about Dobereiner's Triads and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "dobereiners-triads"
+  ]
+}

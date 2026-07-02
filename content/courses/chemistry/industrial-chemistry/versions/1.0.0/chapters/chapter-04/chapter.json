@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Petroleum & Petrochemicals",
+  "description": "Petroleum & Petrochemicals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Crude Oil",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fractional Distillation",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cracking",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Reforming",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Petrochemicals",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Lubricants",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Fuels",
+      "conceptId": "chemistry.industrial-chemistry.chapter-04.topic-07"
+    }
+  ]
+}

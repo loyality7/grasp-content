@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Fields",
+  "description": "Fields",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Definition of a Field",
+      "conceptId": "mathematics.abstract-algebra.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Field Extensions",
+      "conceptId": "mathematics.abstract-algebra.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Finite Fields",
+      "conceptId": "mathematics.abstract-algebra.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Algebraic Extensions",
+      "conceptId": "mathematics.abstract-algebra.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Splitting Fields",
+      "conceptId": "mathematics.abstract-algebra.chapter-08.topic-05"
+    }
+  ]
+}

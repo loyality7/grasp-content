@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-12.topic-02",
+  "name": "Positive Definite Matrices",
+  "subject": "mathematics",
+  "definition": "Positive Definite Matrices is a fundamental concept in mathematics.",
+  "explanation": "Learn about Positive Definite Matrices and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "positive-definite-matrices"
+  ]
+}

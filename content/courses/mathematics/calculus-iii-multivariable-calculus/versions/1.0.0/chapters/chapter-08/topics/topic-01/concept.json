@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-01",
+  "name": "Double Integrals",
+  "subject": "mathematics",
+  "definition": "Double Integrals is a fundamental concept in mathematics.",
+  "explanation": "Learn about Double Integrals and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "double-integrals"
+  ]
+}

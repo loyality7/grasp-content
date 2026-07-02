@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Digital Markets",
+  "description": "Digital Markets",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Platform Markets",
+      "conceptId": "economics.market-structures.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Network Effects",
+      "conceptId": "economics.market-structures.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Sided Markets",
+      "conceptId": "economics.market-structures.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Digital Monopolies",
+      "conceptId": "economics.market-structures.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Data as an Economic Asset",
+      "conceptId": "economics.market-structures.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Competition in the Digital Economy",
+      "conceptId": "economics.market-structures.chapter-09.topic-06"
+    }
+  ]
+}

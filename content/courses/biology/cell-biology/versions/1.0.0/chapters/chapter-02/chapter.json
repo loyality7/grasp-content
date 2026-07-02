@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Cell Membrane",
+  "description": "Cell Membrane",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Plasma Membrane",
+      "conceptId": "biology.cell-biology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fluid Mosaic Model",
+      "conceptId": "biology.cell-biology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Phospholipid Bilayer",
+      "conceptId": "biology.cell-biology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Membrane Proteins",
+      "conceptId": "biology.cell-biology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Membrane Carbohydrates",
+      "conceptId": "biology.cell-biology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Membrane Cholesterol",
+      "conceptId": "biology.cell-biology.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Membrane Functions",
+      "conceptId": "biology.cell-biology.chapter-02.topic-07"
+    }
+  ]
+}

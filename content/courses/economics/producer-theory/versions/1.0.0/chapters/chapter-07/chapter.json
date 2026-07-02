@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Supply Decisions",
+  "description": "Supply Decisions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Individual Supply",
+      "conceptId": "economics.producer-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Market Supply",
+      "conceptId": "economics.producer-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Supply Curve",
+      "conceptId": "economics.producer-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Short-Run Supply",
+      "conceptId": "economics.producer-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Long-Run Supply",
+      "conceptId": "economics.producer-theory.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Supply Elasticity",
+      "conceptId": "economics.producer-theory.chapter-07.topic-06"
+    }
+  ]
+}

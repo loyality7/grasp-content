@@ -1,0 +1,47 @@
+{
+  "id": "chapter-03",
+  "name": "Spring-Mass Systems",
+  "description": "Spring-Mass Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Hooke's Law",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Spring Constant",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Restoring Force",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Horizontal Springs",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Vertical Springs",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Springs in Series",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Springs in Parallel",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Effective Spring Constant",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-08"
+    }
+  ]
+}

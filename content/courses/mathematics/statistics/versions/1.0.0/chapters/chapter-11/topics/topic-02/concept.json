@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-11.topic-02",
+  "name": "Multiple Linear Regression",
+  "subject": "mathematics",
+  "definition": "Multiple Linear Regression is a fundamental concept in mathematics.",
+  "explanation": "Learn about Multiple Linear Regression and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "multiple-linear-regression"
+  ]
+}

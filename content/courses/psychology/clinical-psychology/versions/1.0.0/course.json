@@ -1,0 +1,561 @@
+{
+  "id": "clinical-psychology",
+  "name": "Clinical Psychology",
+  "description": "Clinical Psychology",
+  "version": "1.0.0",
+  "domain": "psychology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Clinical Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Clinical Psychology?",
+          "conceptId": "psychology.clinical-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Clinical Psychology",
+          "conceptId": "psychology.clinical-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Roles of Clinical Psychologists",
+          "conceptId": "psychology.clinical-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mental Health Services",
+          "conceptId": "psychology.clinical-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Evidence-Based Practice",
+          "conceptId": "psychology.clinical-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Professional Ethics",
+          "conceptId": "psychology.clinical-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Clinical Assessment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Clinical Interview",
+          "conceptId": "psychology.clinical-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mental Status Examination",
+          "conceptId": "psychology.clinical-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Behavioral Observation",
+          "conceptId": "psychology.clinical-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Case History",
+          "conceptId": "psychology.clinical-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Risk Assessment",
+          "conceptId": "psychology.clinical-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Clinical Decision Making",
+          "conceptId": "psychology.clinical-psychology.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Psychological Testing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intelligence Tests",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Personality Tests",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Neuropsychological Assessment",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Symptom Rating Scales",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reliability",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Validity",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Test Interpretation",
+          "conceptId": "psychology.clinical-psychology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Case Formulation & Diagnosis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Case Conceptualization",
+          "conceptId": "psychology.clinical-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diagnostic Reasoning",
+          "conceptId": "psychology.clinical-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Differential Diagnosis",
+          "conceptId": "psychology.clinical-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Treatment Planning",
+          "conceptId": "psychology.clinical-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Progress Monitoring",
+          "conceptId": "psychology.clinical-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Outcome Evaluation",
+          "conceptId": "psychology.clinical-psychology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Cognitive Behavioral Therapy (CBT)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cognitive Model",
+          "conceptId": "psychology.clinical-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cognitive Restructuring",
+          "conceptId": "psychology.clinical-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Behavioral Activation",
+          "conceptId": "psychology.clinical-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Exposure Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Behavioral Experiments",
+          "conceptId": "psychology.clinical-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Relapse Prevention",
+          "conceptId": "psychology.clinical-psychology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Major Psychotherapy Approaches",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Psychodynamic Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Humanistic Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Person-Centered Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gestalt Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Existential Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Integrative Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Family & Group Therapy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Family Systems Theory",
+          "conceptId": "psychology.clinical-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Couples Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Family Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Group Therapy",
+          "conceptId": "psychology.clinical-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Support Groups",
+          "conceptId": "psychology.clinical-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Psychoeducation",
+          "conceptId": "psychology.clinical-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Crisis Intervention",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Psychological Crisis",
+          "conceptId": "psychology.clinical-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Suicide Risk Assessment",
+          "conceptId": "psychology.clinical-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Crisis Counseling",
+          "conceptId": "psychology.clinical-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Trauma-Informed Care",
+          "conceptId": "psychology.clinical-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Grief Counseling",
+          "conceptId": "psychology.clinical-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Disaster Mental Health",
+          "conceptId": "psychology.clinical-psychology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Clinical Psychology Across the Lifespan",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Child Clinical Psychology",
+          "conceptId": "psychology.clinical-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adolescent Mental Health",
+          "conceptId": "psychology.clinical-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Adult Mental Health",
+          "conceptId": "psychology.clinical-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Geriatric Psychology",
+          "conceptId": "psychology.clinical-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Developmental Considerations",
+          "conceptId": "psychology.clinical-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Family Involvement",
+          "conceptId": "psychology.clinical-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Ethics & Professional Practice",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Confidentiality",
+          "conceptId": "psychology.clinical-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Informed Consent",
+          "conceptId": "psychology.clinical-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Professional Boundaries",
+          "conceptId": "psychology.clinical-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cultural Competence",
+          "conceptId": "psychology.clinical-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ethical Decision Making",
+          "conceptId": "psychology.clinical-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Legal Issues",
+          "conceptId": "psychology.clinical-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Integrated Mental Healthcare",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multidisciplinary Care",
+          "conceptId": "psychology.clinical-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Psychopharmacology (Overview)",
+          "conceptId": "psychology.clinical-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rehabilitation",
+          "conceptId": "psychology.clinical-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Community Mental Health",
+          "conceptId": "psychology.clinical-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Telepsychology",
+          "conceptId": "psychology.clinical-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Prevention Programs",
+          "conceptId": "psychology.clinical-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hospitals",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Private Practice",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Schools",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rehabilitation Centers",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Corporate Wellness",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Military Psychology",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Forensic Settings",
+          "conceptId": "psychology.clinical-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Third-Wave Therapies",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Digital Mental Health",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Artificial Intelligence in Clinical Practice",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Personalized Mental Healthcare",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cross-Cultural Clinical Psychology",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Psychotherapy",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 10: Industrial & Organizational Psychology**",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Workplace Psychology",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Employee Motivation",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Leadership",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Team Dynamics",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Organizational Culture",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Recruitment & Selection",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Performance Management",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Job Satisfaction",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Workplace Well-Being",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Training & Development",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Organizational Change",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Human Factors",
+          "conceptId": "psychology.clinical-psychology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "psychology",
+      "clinical-psychology"
+    ]
+  }
+}

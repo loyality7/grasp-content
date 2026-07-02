@@ -1,0 +1,47 @@
+{
+  "id": "chapter-02",
+  "name": "Structure of the Atom",
+  "description": "Structure of the Atom",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atom",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Nucleus",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electron",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Proton",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Neutron",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Atomic Number",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Mass Number",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Nuclear Notation",
+      "conceptId": "chemistry.atomic-structure.chapter-02.topic-08"
+    }
+  ]
+}

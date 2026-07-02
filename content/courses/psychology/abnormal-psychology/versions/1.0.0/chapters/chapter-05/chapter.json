@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Mood Disorders",
+  "description": "Mood Disorders",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Major Depressive Disorder",
+      "conceptId": "psychology.abnormal-psychology.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Persistent Depressive Disorder",
+      "conceptId": "psychology.abnormal-psychology.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Bipolar Disorder",
+      "conceptId": "psychology.abnormal-psychology.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Risk Factors",
+      "conceptId": "psychology.abnormal-psychology.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Suicide Prevention",
+      "conceptId": "psychology.abnormal-psychology.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Evidence-Based Treatments",
+      "conceptId": "psychology.abnormal-psychology.chapter-05.topic-06"
+    }
+  ]
+}

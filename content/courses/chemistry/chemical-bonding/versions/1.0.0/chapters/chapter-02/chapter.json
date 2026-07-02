@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Ionic Bonding",
+  "description": "Ionic Bonding",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ionic Bond",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Formation of Ions",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cations",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Anions",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Lattice Energy",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Properties of Ionic Compounds",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Writing Ionic Formulae",
+      "conceptId": "chemistry.chemical-bonding.chapter-02.topic-07"
+    }
+  ]
+}

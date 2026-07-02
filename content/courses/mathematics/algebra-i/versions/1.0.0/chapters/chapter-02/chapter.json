@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Linear Equations",
+  "description": "Linear Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "One-Variable Equations",
+      "conceptId": "mathematics.algebra-i.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Multi-Step Equations",
+      "conceptId": "mathematics.algebra-i.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Literal Equations",
+      "conceptId": "mathematics.algebra-i.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equations with Fractions",
+      "conceptId": "mathematics.algebra-i.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Equations with Decimals",
+      "conceptId": "mathematics.algebra-i.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Absolute Value Equations",
+      "conceptId": "mathematics.algebra-i.chapter-02.topic-06"
+    }
+  ]
+}

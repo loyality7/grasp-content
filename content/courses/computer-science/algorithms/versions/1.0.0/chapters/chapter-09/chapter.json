@@ -1,0 +1,47 @@
+{
+  "id": "chapter-09",
+  "name": "Graph Algorithms",
+  "description": "Graph Algorithms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Breadth-First Search (BFS)",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Depth-First Search (DFS)",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Topological Sorting",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dijkstra's Algorithm",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bellman-Ford Algorithm",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Floyd-Warshall Algorithm",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Prim's Algorithm",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Kruskal's Algorithm",
+      "conceptId": "computer-science.algorithms.chapter-09.topic-08"
+    }
+  ]
+}

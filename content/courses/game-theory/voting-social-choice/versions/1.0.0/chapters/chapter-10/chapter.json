@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Social Choice Applications",
+  "description": "Social Choice Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Elections",
+      "conceptId": "game-theory.voting-social-choice.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Legislatures",
+      "conceptId": "game-theory.voting-social-choice.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Corporate Governance",
+      "conceptId": "game-theory.voting-social-choice.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Budget Allocation",
+      "conceptId": "game-theory.voting-social-choice.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Recommendation Systems",
+      "conceptId": "game-theory.voting-social-choice.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Online Communities",
+      "conceptId": "game-theory.voting-social-choice.chapter-10.topic-06"
+    }
+  ]
+}

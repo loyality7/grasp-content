@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-12.topic-18",
+  "name": "Lie Groups & Lie Algebras",
+  "subject": "mathematics",
+  "definition": "Lie Groups & Lie Algebras is a fundamental concept in mathematics.",
+  "explanation": "Learn about Lie Groups & Lie Algebras and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "lie-groups-lie-algebras"
+  ]
+}

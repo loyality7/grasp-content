@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Probability & Statistics Review",
+  "description": "Probability & Statistics Review",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Random Variables",
+      "conceptId": "economics.econometrics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Probability Distributions",
+      "conceptId": "economics.econometrics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Expected Value",
+      "conceptId": "economics.econometrics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Variance",
+      "conceptId": "economics.econometrics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sampling",
+      "conceptId": "economics.econometrics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Descriptive Statistics",
+      "conceptId": "economics.econometrics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Statistical Inference",
+      "conceptId": "economics.econometrics.chapter-02.topic-07"
+    }
+  ]
+}

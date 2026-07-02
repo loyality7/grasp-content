@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Best Response Analysis",
+  "description": "Best Response Analysis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Best Responses",
+      "conceptId": "game-theory.strategic-decision-making.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mutual Best Responses",
+      "conceptId": "game-theory.strategic-decision-making.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Strategic Adaptation",
+      "conceptId": "game-theory.strategic-decision-making.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Response Functions",
+      "conceptId": "game-theory.strategic-decision-making.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Stable Strategies",
+      "conceptId": "game-theory.strategic-decision-making.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Equilibrium Intuition",
+      "conceptId": "game-theory.strategic-decision-making.chapter-06.topic-06"
+    }
+  ]
+}

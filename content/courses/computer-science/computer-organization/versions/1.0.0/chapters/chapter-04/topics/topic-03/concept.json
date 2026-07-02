@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-04.topic-03",
+  "name": "Opcodes",
+  "subject": "computer-science",
+  "definition": "Opcodes is a fundamental concept in computer-science.",
+  "explanation": "Learn about Opcodes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "opcodes"
+  ]
+}

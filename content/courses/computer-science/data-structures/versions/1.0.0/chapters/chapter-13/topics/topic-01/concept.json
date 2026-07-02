@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-13.topic-01",
+  "name": "Caching",
+  "subject": "computer-science",
+  "definition": "Caching is a fundamental concept in computer-science.",
+  "explanation": "Learn about Caching and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "caching"
+  ]
+}

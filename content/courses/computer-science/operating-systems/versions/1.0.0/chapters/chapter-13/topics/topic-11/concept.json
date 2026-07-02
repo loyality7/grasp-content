@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-13.topic-11",
+  "name": "Physical Layer",
+  "subject": "computer-science",
+  "definition": "Physical Layer is a fundamental concept in computer-science.",
+  "explanation": "Learn about Physical Layer and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "physical-layer"
+  ]
+}

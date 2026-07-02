@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-04.topic-04",
+  "name": "Risk Dominance",
+  "subject": "game-theory",
+  "definition": "Risk Dominance is a fundamental concept in game-theory.",
+  "explanation": "Learn about Risk Dominance and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "risk-dominance"
+  ]
+}

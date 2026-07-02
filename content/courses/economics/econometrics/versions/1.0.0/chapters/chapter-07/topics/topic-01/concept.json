@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-07.topic-01",
+  "name": "Time Series Data",
+  "subject": "economics",
+  "definition": "Time Series Data is a fundamental concept in economics.",
+  "explanation": "Learn about Time Series Data and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "time-series-data"
+  ]
+}

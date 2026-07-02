@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Nuclear Magnetic Resonance (NMR)",
+  "description": "Nuclear Magnetic Resonance (NMR)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nuclear Spin",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Magnetic Resonance",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Chemical Shift",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Spin-Spin Coupling",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Proton NMR (¹H NMR)",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Carbon NMR (¹³C NMR)",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Spectrum Interpretation",
+      "conceptId": "chemistry.spectroscopy.chapter-06.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-13.topic-16",
+  "name": "Model Evaluation",
+  "subject": "computer-science",
+  "definition": "Model Evaluation is a fundamental concept in computer-science.",
+  "explanation": "Learn about Model Evaluation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "model-evaluation"
+  ]
+}

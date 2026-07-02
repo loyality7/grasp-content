@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Stellar Evolution",
+  "description": "Stellar Evolution",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Protostars",
+      "conceptId": "physics.astrophysics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Main Sequence Stars",
+      "conceptId": "physics.astrophysics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Red Giants",
+      "conceptId": "physics.astrophysics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "White Dwarfs",
+      "conceptId": "physics.astrophysics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Neutron Stars",
+      "conceptId": "physics.astrophysics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Black Holes",
+      "conceptId": "physics.astrophysics.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Supernovae",
+      "conceptId": "physics.astrophysics.chapter-04.topic-07"
+    }
+  ]
+}

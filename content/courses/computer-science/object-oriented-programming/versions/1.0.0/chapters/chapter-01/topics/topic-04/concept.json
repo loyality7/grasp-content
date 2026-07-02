@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-01.topic-04",
+  "name": "Attributes",
+  "subject": "computer-science",
+  "definition": "Attributes is a fundamental concept in computer-science.",
+  "explanation": "Learn about Attributes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "attributes"
+  ]
+}

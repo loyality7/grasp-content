@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Case Formulation & Diagnosis",
+  "description": "Case Formulation & Diagnosis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Case Conceptualization",
+      "conceptId": "psychology.clinical-psychology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Diagnostic Reasoning",
+      "conceptId": "psychology.clinical-psychology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Differential Diagnosis",
+      "conceptId": "psychology.clinical-psychology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Treatment Planning",
+      "conceptId": "psychology.clinical-psychology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Progress Monitoring",
+      "conceptId": "psychology.clinical-psychology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Outcome Evaluation",
+      "conceptId": "psychology.clinical-psychology.chapter-04.topic-06"
+    }
+  ]
+}

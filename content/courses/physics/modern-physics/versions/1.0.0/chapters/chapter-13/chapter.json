@@ -1,0 +1,37 @@
+{
+  "id": "chapter-13",
+  "name": "Frontiers of Physics",
+  "description": "Frontiers of Physics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Dark Matter",
+      "conceptId": "physics.modern-physics.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dark Energy",
+      "conceptId": "physics.modern-physics.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Quantum Gravity",
+      "conceptId": "physics.modern-physics.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "String Theory",
+      "conceptId": "physics.modern-physics.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Multiverse Hypotheses",
+      "conceptId": "physics.modern-physics.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Modern Physics",
+      "conceptId": "physics.modern-physics.chapter-13.topic-06"
+    }
+  ]
+}

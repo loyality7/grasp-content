@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Computer Graphics",
+  "description": "Introduction to Computer Graphics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Computer Graphics?",
+      "conceptId": "computer-science.computer-graphics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Graphics Pipeline Overview",
+      "conceptId": "computer-science.computer-graphics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Raster Graphics",
+      "conceptId": "computer-science.computer-graphics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Vector Graphics",
+      "conceptId": "computer-science.computer-graphics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Coordinate Systems",
+      "conceptId": "computer-science.computer-graphics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Graphics Applications",
+      "conceptId": "computer-science.computer-graphics.chapter-01.topic-06"
+    }
+  ]
+}

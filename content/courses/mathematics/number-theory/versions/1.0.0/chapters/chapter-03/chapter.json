@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Modular Arithmetic",
+  "description": "Modular Arithmetic",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Congruence",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Modular Operations",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Modular Addition",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Modular Subtraction",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Modular Multiplication",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Modular Division",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Modular Inverses",
+      "conceptId": "mathematics.number-theory.chapter-03.topic-07"
+    }
+  ]
+}

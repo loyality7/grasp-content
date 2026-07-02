@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Diagnostic Immunology",
+  "description": "Diagnostic Immunology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "ELISA",
+      "conceptId": "biology.immunology.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Western Blot",
+      "conceptId": "biology.immunology.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Flow Cytometry",
+      "conceptId": "biology.immunology.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Immunofluorescence",
+      "conceptId": "biology.immunology.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Serological Tests",
+      "conceptId": "biology.immunology.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Rapid Diagnostic Tests",
+      "conceptId": "biology.immunology.chapter-11.topic-06"
+    }
+  ]
+}

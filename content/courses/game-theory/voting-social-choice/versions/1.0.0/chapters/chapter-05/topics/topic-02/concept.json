@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-05.topic-02",
+  "name": "Arrow's Axioms",
+  "subject": "game-theory",
+  "definition": "Arrow's Axioms is a fundamental concept in game-theory.",
+  "explanation": "Learn about Arrow's Axioms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "arrows-axioms"
+  ]
+}

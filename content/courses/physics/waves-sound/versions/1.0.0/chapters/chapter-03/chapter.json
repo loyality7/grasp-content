@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Wave Propagation",
+  "description": "Wave Propagation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Wave Motion",
+      "conceptId": "physics.waves-sound.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Wave Medium",
+      "conceptId": "physics.waves-sound.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Reflection",
+      "conceptId": "physics.waves-sound.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Transmission",
+      "conceptId": "physics.waves-sound.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Absorption",
+      "conceptId": "physics.waves-sound.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Wave Impedance (Introduction)",
+      "conceptId": "physics.waves-sound.chapter-03.topic-06"
+    }
+  ]
+}

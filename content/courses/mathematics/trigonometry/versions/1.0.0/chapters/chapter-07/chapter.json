@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Sum & Difference Identities",
+  "description": "Sum & Difference Identities",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sine Sum Formula",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cosine Sum Formula",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Tangent Sum Formula",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Double-Angle Identities",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Half-Angle Identities",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Product-to-Sum",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Sum-to-Product",
+      "conceptId": "mathematics.trigonometry.chapter-07.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Reasoning & Evidence",
+  "description": "Reasoning & Evidence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Deductive Reasoning",
+      "conceptId": "philosophy.epistemology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Inductive Reasoning",
+      "conceptId": "philosophy.epistemology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Abductive Reasoning",
+      "conceptId": "philosophy.epistemology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Evidence",
+      "conceptId": "philosophy.epistemology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Inference",
+      "conceptId": "philosophy.epistemology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Justification",
+      "conceptId": "philosophy.epistemology.chapter-07.topic-06"
+    }
+  ]
+}

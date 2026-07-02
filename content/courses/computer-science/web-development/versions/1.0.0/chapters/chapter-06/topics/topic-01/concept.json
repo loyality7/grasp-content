@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-06.topic-01",
+  "name": "Component-Based Architecture",
+  "subject": "computer-science",
+  "definition": "Component-Based Architecture is a fundamental concept in computer-science.",
+  "explanation": "Learn about Component-Based Architecture and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "component-based-architecture"
+  ]
+}

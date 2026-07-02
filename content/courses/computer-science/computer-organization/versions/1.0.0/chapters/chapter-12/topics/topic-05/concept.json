@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-12.topic-05",
+  "name": "Low-Power Computing",
+  "subject": "computer-science",
+  "definition": "Low-Power Computing is a fundamental concept in computer-science.",
+  "explanation": "Learn about Low-Power Computing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "low-power-computing"
+  ]
+}

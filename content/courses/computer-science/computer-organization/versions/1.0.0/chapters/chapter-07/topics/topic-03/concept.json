@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-07.topic-03",
+  "name": "I/O Controllers",
+  "subject": "computer-science",
+  "definition": "I/O Controllers is a fundamental concept in computer-science.",
+  "explanation": "Learn about I/O Controllers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "io-controllers"
+  ]
+}

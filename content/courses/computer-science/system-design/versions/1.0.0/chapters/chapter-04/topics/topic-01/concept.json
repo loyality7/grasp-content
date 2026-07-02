@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.system-design.chapter-04.topic-01",
+  "name": "Load Balancers",
+  "subject": "computer-science",
+  "definition": "Load Balancers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Load Balancers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "load-balancers"
+  ]
+}

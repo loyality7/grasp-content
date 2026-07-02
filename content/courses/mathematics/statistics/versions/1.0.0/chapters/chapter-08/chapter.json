@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Hypothesis Testing",
+  "description": "Hypothesis Testing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Null Hypothesis",
+      "conceptId": "mathematics.statistics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Alternative Hypothesis",
+      "conceptId": "mathematics.statistics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "p-Value",
+      "conceptId": "mathematics.statistics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Significance Level",
+      "conceptId": "mathematics.statistics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Type I Error",
+      "conceptId": "mathematics.statistics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Type II Error",
+      "conceptId": "mathematics.statistics.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Statistical Power",
+      "conceptId": "mathematics.statistics.chapter-08.topic-07"
+    }
+  ]
+}

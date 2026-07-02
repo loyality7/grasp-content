@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-13.topic-12",
+  "name": "Trigger Strategies",
+  "subject": "game-theory",
+  "definition": "Trigger Strategies is a fundamental concept in game-theory.",
+  "explanation": "Learn about Trigger Strategies and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "trigger-strategies"
+  ]
+}

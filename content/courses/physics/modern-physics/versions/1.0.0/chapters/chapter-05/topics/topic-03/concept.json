@@ -1,0 +1,20 @@
+{
+  "id": "physics.modern-physics.chapter-05.topic-03",
+  "name": "Compton Scattering",
+  "subject": "physics",
+  "definition": "Compton Scattering is a fundamental concept in physics.",
+  "explanation": "Learn about Compton Scattering and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "compton-scattering"
+  ]
+}

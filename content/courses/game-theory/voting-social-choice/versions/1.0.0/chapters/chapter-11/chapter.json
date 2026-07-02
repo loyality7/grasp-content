@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Computational Social Choice",
+  "description": "Computational Social Choice",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Voting Algorithms",
+      "conceptId": "game-theory.voting-social-choice.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Preference Learning",
+      "conceptId": "game-theory.voting-social-choice.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Agent Voting",
+      "conceptId": "game-theory.voting-social-choice.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "AI Decision Making",
+      "conceptId": "game-theory.voting-social-choice.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Computational Complexity",
+      "conceptId": "game-theory.voting-social-choice.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Algorithmic Fairness",
+      "conceptId": "game-theory.voting-social-choice.chapter-11.topic-06"
+    }
+  ]
+}

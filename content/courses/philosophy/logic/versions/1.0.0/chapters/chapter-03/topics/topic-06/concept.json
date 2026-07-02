@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-03.topic-06",
+  "name": "Biconditional",
+  "subject": "philosophy",
+  "definition": "Biconditional is a fundamental concept in philosophy.",
+  "explanation": "Learn about Biconditional and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "biconditional"
+  ]
+}

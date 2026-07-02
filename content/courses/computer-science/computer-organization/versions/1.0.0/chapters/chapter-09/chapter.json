@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Performance Enhancement",
+  "description": "Performance Enhancement",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Instruction Pipelining",
+      "conceptId": "computer-science.computer-organization.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pipeline Hazards",
+      "conceptId": "computer-science.computer-organization.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Superscalar Processors",
+      "conceptId": "computer-science.computer-organization.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Branch Prediction",
+      "conceptId": "computer-science.computer-organization.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Out-of-Order Execution",
+      "conceptId": "computer-science.computer-organization.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Performance Metrics",
+      "conceptId": "computer-science.computer-organization.chapter-09.topic-06"
+    }
+  ]
+}

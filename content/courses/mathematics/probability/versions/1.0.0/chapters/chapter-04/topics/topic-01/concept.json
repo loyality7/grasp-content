@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-04.topic-01",
+  "name": "Discrete Random Variables",
+  "subject": "mathematics",
+  "definition": "Discrete Random Variables is a fundamental concept in mathematics.",
+  "explanation": "Learn about Discrete Random Variables and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "discrete-random-variables"
+  ]
+}

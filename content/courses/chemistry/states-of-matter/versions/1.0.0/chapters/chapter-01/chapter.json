@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to States of Matter",
+  "description": "Introduction to States of Matter",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "States of Matter",
+      "conceptId": "chemistry.states-of-matter.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Physical Properties",
+      "conceptId": "chemistry.states-of-matter.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Macroscopic vs Microscopic View",
+      "conceptId": "chemistry.states-of-matter.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Intermolecular Forces (Review)",
+      "conceptId": "chemistry.states-of-matter.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Kinetic Molecular Theory",
+      "conceptId": "chemistry.states-of-matter.chapter-01.topic-05"
+    }
+  ]
+}

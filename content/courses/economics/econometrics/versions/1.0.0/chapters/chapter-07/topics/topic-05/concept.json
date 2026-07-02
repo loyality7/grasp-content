@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-07.topic-05",
+  "name": "Autoregressive Models",
+  "subject": "economics",
+  "definition": "Autoregressive Models is a fundamental concept in economics.",
+  "explanation": "Learn about Autoregressive Models and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "autoregressive-models"
+  ]
+}

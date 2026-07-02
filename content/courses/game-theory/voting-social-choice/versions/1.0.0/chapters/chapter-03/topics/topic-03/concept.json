@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-03.topic-03",
+  "name": "Ranked-Choice Voting",
+  "subject": "game-theory",
+  "definition": "Ranked-Choice Voting is a fundamental concept in game-theory.",
+  "explanation": "Learn about Ranked-Choice Voting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "ranked-choice-voting"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.environmental-chemistry.chapter-11.topic-04",
+  "name": "Remote Sensing",
+  "subject": "chemistry",
+  "definition": "Remote Sensing is a fundamental concept in chemistry.",
+  "explanation": "Learn about Remote Sensing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "remote-sensing"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chapter-07",
+  "name": "Semiconductor Physics",
+  "description": "Semiconductor Physics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Intrinsic Semiconductors",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Extrinsic Semiconductors",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "N-Type Semiconductors",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "P-Type Semiconductors",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Charge Carriers",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Carrier Mobility",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Drift Current",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Diffusion Current",
+      "conceptId": "physics.solid-state-physics.chapter-07.topic-08"
+    }
+  ]
+}

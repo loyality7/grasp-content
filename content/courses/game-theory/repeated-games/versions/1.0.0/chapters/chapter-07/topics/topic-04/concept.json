@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.repeated-games.chapter-07.topic-04",
+  "name": "Generous Tit-for-Tat",
+  "subject": "game-theory",
+  "definition": "Generous Tit-for-Tat is a fundamental concept in game-theory.",
+  "explanation": "Learn about Generous Tit-for-Tat and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "generous-tit-for-tat"
+  ]
+}

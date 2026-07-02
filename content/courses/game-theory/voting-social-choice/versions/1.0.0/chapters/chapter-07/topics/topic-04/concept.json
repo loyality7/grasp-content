@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-07.topic-04",
+  "name": "Shapley-Shubik Power Index",
+  "subject": "game-theory",
+  "definition": "Shapley-Shubik Power Index is a fundamental concept in game-theory.",
+  "explanation": "Learn about Shapley-Shubik Power Index and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "shapley-shubik-power-index"
+  ]
+}

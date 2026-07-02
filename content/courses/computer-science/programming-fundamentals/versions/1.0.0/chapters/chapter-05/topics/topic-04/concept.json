@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-05.topic-04",
+  "name": "Nested Conditions",
+  "subject": "computer-science",
+  "definition": "Nested Conditions is a fundamental concept in computer-science.",
+  "explanation": "Learn about Nested Conditions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "nested-conditions"
+  ]
+}

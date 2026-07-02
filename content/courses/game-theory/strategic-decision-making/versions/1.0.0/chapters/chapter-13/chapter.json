@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Dynamic Games",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Stochastic Decision Making",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Agent Decision Systems",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Algorithmic Decision Making",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strategic AI",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Human-AI Decision Making",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 3: Simultaneous Games**",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Simultaneous-Move Games",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Payoff Matrices",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Pure Strategies",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Mixed Strategies",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Dominant Strategies",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Best Responses",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Nash Equilibrium",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Coordination Games",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Zero-Sum Games",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Competitive Strategy",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Market Competition",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Real-World Strategic Interactions",
+      "conceptId": "game-theory.strategic-decision-making.chapter-13.topic-19"
+    }
+  ]
+}

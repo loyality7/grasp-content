@@ -1,0 +1,20 @@
+{
+  "id": "physics.solid-state-physics.chapter-05.topic-04",
+  "name": "Fermi Energy",
+  "subject": "physics",
+  "definition": "Fermi Energy is a fundamental concept in physics.",
+  "explanation": "Learn about Fermi Energy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "fermi-energy"
+  ]
+}

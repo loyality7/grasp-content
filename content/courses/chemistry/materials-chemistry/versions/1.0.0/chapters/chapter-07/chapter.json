@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Magnetic Materials",
+  "description": "Magnetic Materials",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Diamagnetic Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Paramagnetic Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ferromagnetic Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ferrimagnetic Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Soft Magnets",
+      "conceptId": "chemistry.materials-chemistry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hard Magnets",
+      "conceptId": "chemistry.materials-chemistry.chapter-07.topic-06"
+    }
+  ]
+}

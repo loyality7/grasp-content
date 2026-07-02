@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-12.topic-01",
+  "name": "Foundation Models",
+  "subject": "computer-science",
+  "definition": "Foundation Models is a fundamental concept in computer-science.",
+  "explanation": "Learn about Foundation Models and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "foundation-models"
+  ]
+}

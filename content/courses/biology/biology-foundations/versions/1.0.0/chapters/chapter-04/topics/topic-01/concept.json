@@ -1,0 +1,20 @@
+{
+  "id": "biology.biology-foundations.chapter-04.topic-01",
+  "name": "Cell Theory",
+  "subject": "biology",
+  "definition": "Cell Theory is a fundamental concept in biology.",
+  "explanation": "Learn about Cell Theory and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "cell-theory"
+  ]
+}

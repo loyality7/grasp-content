@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Market Competition",
+  "description": "Market Competition",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Price Competition",
+      "conceptId": "game-theory.simultaneous-games.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Quantity Competition",
+      "conceptId": "game-theory.simultaneous-games.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Oligopoly",
+      "conceptId": "game-theory.simultaneous-games.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Strategic Pricing",
+      "conceptId": "game-theory.simultaneous-games.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Product Differentiation",
+      "conceptId": "game-theory.simultaneous-games.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Business Competition",
+      "conceptId": "game-theory.simultaneous-games.chapter-09.topic-06"
+    }
+  ]
+}

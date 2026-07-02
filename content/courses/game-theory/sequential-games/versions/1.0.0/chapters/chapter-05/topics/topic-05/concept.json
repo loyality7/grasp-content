@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-05.topic-05",
+  "name": "Strategy Consistency",
+  "subject": "game-theory",
+  "definition": "Strategy Consistency is a fundamental concept in game-theory.",
+  "explanation": "Learn about Strategy Consistency and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "strategy-consistency"
+  ]
+}

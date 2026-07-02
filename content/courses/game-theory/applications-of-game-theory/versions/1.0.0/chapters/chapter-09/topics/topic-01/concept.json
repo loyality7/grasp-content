@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.applications-of-game-theory.chapter-09.topic-01",
+  "name": "Attacker vs Defender Games",
+  "subject": "game-theory",
+  "definition": "Attacker vs Defender Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Attacker vs Defender Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "attacker-vs-defender-games"
+  ]
+}

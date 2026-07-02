@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-06.topic-01",
+  "name": "Density Functional Theory",
+  "subject": "chemistry",
+  "definition": "Density Functional Theory is a fundamental concept in chemistry.",
+  "explanation": "Learn about Density Functional Theory and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "density-functional-theory"
+  ]
+}

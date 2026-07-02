@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Identity & Access Management",
+  "description": "Identity & Access Management",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Identity Management",
+      "conceptId": "computer-science.cybersecurity.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Authentication",
+      "conceptId": "computer-science.cybersecurity.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Factor Authentication (MFA)",
+      "conceptId": "computer-science.cybersecurity.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Single Sign-On (SSO)",
+      "conceptId": "computer-science.cybersecurity.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Role-Based Access Control (RBAC)",
+      "conceptId": "computer-science.cybersecurity.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Zero Trust",
+      "conceptId": "computer-science.cybersecurity.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Rate Laws",
+  "description": "Rate Laws",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Rate Law",
+      "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rate Equation",
+      "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rate Constant",
+      "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Concentration Dependence",
+      "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Experimental Determination of Rate Laws",
+      "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-05"
+    }
+  ]
+}

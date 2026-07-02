@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.applications-of-game-theory.chapter-07.topic-04",
+  "name": "Resource Scheduling",
+  "subject": "game-theory",
+  "definition": "Resource Scheduling is a fundamental concept in game-theory.",
+  "explanation": "Learn about Resource Scheduling and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "resource-scheduling"
+  ]
+}

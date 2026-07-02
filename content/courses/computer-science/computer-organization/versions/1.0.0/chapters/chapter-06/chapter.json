@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Memory Organization",
+  "description": "Memory Organization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Memory Hierarchy",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Registers",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cache Memory",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Main Memory (RAM)",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "ROM",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Virtual Memory",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Secondary Storage",
+      "conceptId": "computer-science.computer-organization.chapter-06.topic-07"
+    }
+  ]
+}

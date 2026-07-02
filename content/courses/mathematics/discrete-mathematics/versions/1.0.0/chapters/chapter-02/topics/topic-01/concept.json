@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-02.topic-01",
+  "name": "Direct Proof",
+  "subject": "mathematics",
+  "definition": "Direct Proof is a fundamental concept in mathematics.",
+  "explanation": "Learn about Direct Proof and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "direct-proof"
+  ]
+}

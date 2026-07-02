@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-06.topic-04",
+  "name": "Disjunctive Syllogism",
+  "subject": "philosophy",
+  "definition": "Disjunctive Syllogism is a fundamental concept in philosophy.",
+  "explanation": "Learn about Disjunctive Syllogism and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "disjunctive-syllogism"
+  ]
+}

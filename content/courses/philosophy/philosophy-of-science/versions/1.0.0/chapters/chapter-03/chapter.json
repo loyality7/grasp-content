@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Scientific Explanation",
+  "description": "Scientific Explanation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Scientific Laws",
+      "conceptId": "philosophy.philosophy-of-science.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scientific Theories",
+      "conceptId": "philosophy.philosophy-of-science.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Models",
+      "conceptId": "philosophy.philosophy-of-science.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Prediction",
+      "conceptId": "philosophy.philosophy-of-science.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Explanation",
+      "conceptId": "philosophy.philosophy-of-science.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Causation",
+      "conceptId": "philosophy.philosophy-of-science.chapter-03.topic-06"
+    }
+  ]
+}

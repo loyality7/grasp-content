@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Signaling Games",
+  "description": "Signaling Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Honest Signaling",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Costly Signals",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Communication",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Signaling Equilibrium",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Information Transfer",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Evolution of Communication",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-07.topic-06"
+    }
+  ]
+}

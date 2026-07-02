@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-08.topic-04",
+  "name": "Carnot Engine",
+  "subject": "physics",
+  "definition": "Carnot Engine is a fundamental concept in physics.",
+  "explanation": "Learn about Carnot Engine and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "carnot-engine"
+  ]
+}

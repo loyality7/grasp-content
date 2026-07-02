@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-graphics.chapter-05.topic-05",
+  "name": "View Frustum",
+  "subject": "computer-science",
+  "definition": "View Frustum is a fundamental concept in computer-science.",
+  "explanation": "Learn about View Frustum and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "view-frustum"
+  ]
+}

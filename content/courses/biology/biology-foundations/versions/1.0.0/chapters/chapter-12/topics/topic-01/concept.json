@@ -1,0 +1,20 @@
+{
+  "id": "biology.biology-foundations.chapter-12.topic-01",
+  "name": "Laboratory Safety",
+  "subject": "biology",
+  "definition": "Laboratory Safety is a fundamental concept in biology.",
+  "explanation": "Learn about Laboratory Safety and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "laboratory-safety"
+  ]
+}

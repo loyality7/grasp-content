@@ -1,0 +1,32 @@
+{
+  "id": "chapter-10",
+  "name": "Combined Spectroscopic Analysis",
+  "description": "Combined Spectroscopic Analysis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multi-Technique Analysis",
+      "conceptId": "chemistry.spectroscopy.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Structure Elucidation",
+      "conceptId": "chemistry.spectroscopy.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Unknown Compound Identification",
+      "conceptId": "chemistry.spectroscopy.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Purity Determination",
+      "conceptId": "chemistry.spectroscopy.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Spectral Databases",
+      "conceptId": "chemistry.spectroscopy.chapter-10.topic-05"
+    }
+  ]
+}

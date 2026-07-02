@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-11.topic-03",
+  "name": "Instrument Calibration",
+  "subject": "chemistry",
+  "definition": "Instrument Calibration is a fundamental concept in chemistry.",
+  "explanation": "Learn about Instrument Calibration and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "instrument-calibration"
+  ]
+}

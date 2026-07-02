@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Infrared (IR) Spectroscopy",
+  "description": "Infrared (IR) Spectroscopy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Infrared Radiation",
+      "conceptId": "chemistry.spectroscopy.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Molecular Vibrations",
+      "conceptId": "chemistry.spectroscopy.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Stretching Vibrations",
+      "conceptId": "chemistry.spectroscopy.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bending Vibrations",
+      "conceptId": "chemistry.spectroscopy.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Functional Group Identification",
+      "conceptId": "chemistry.spectroscopy.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "IR Spectrum Interpretation",
+      "conceptId": "chemistry.spectroscopy.chapter-04.topic-06"
+    }
+  ]
+}

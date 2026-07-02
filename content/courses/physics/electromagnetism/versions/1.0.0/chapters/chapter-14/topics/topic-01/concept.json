@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-14.topic-01",
+  "name": "Electric Current",
+  "subject": "physics",
+  "definition": "Electric Current is a fundamental concept in physics.",
+  "explanation": "Learn about Electric Current and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "electric-current"
+  ]
+}

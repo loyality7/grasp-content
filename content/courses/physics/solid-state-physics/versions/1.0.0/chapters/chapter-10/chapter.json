@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Superconductivity",
+  "description": "Superconductivity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Superconductors",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Critical Temperature",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Meissner Effect",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Type I Superconductors",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Type II Superconductors",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "High-Temperature Superconductors",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Applications",
+      "conceptId": "physics.solid-state-physics.chapter-10.topic-07"
+    }
+  ]
+}

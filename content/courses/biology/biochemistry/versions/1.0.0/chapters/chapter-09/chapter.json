@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Lipid & Nitrogen Metabolism",
+  "description": "Lipid & Nitrogen Metabolism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fatty Acid Oxidation",
+      "conceptId": "biology.biochemistry.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fatty Acid Synthesis",
+      "conceptId": "biology.biochemistry.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ketone Bodies",
+      "conceptId": "biology.biochemistry.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cholesterol Metabolism",
+      "conceptId": "biology.biochemistry.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Amino Acid Metabolism",
+      "conceptId": "biology.biochemistry.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Urea Cycle",
+      "conceptId": "biology.biochemistry.chapter-09.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.kinematics.chapter-07.topic-02",
+  "name": "Angular Displacement",
+  "subject": "physics",
+  "definition": "Angular Displacement is a fundamental concept in physics.",
+  "explanation": "Learn about Angular Displacement and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "angular-displacement"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-12.topic-05",
+  "name": "JSON/XML Basics",
+  "subject": "computer-science",
+  "definition": "JSON/XML Basics is a fundamental concept in computer-science.",
+  "explanation": "Learn about JSON/XML Basics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "jsonxml-basics"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.industrial-chemistry.chapter-10.topic-04",
+  "name": "Laboratory Testing",
+  "subject": "chemistry",
+  "definition": "Laboratory Testing is a fundamental concept in chemistry.",
+  "explanation": "Learn about Laboratory Testing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "laboratory-testing"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Computational Logic",
+  "description": "Computational Logic",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Boolean Algebra",
+      "conceptId": "philosophy.logic.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Logic Gates",
+      "conceptId": "philosophy.logic.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Formal Languages",
+      "conceptId": "philosophy.logic.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Automated Reasoning",
+      "conceptId": "philosophy.logic.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Logic Programming",
+      "conceptId": "philosophy.logic.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Knowledge Representation",
+      "conceptId": "philosophy.logic.chapter-10.topic-06"
+    }
+  ]
+}

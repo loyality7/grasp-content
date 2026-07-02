@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-03.topic-04",
+  "name": "Constructor Overloading",
+  "subject": "computer-science",
+  "definition": "Constructor Overloading is a fundamental concept in computer-science.",
+  "explanation": "Learn about Constructor Overloading and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "constructor-overloading"
+  ]
+}

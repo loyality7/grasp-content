@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Healthcare Policy",
+      "conceptId": "economics.public-economics.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Education Policy",
+      "conceptId": "economics.public-economics.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Environmental Policy",
+      "conceptId": "economics.public-economics.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Infrastructure Planning",
+      "conceptId": "economics.public-economics.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Urban Development",
+      "conceptId": "economics.public-economics.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Climate Policy",
+      "conceptId": "economics.public-economics.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Digital Public Services",
+      "conceptId": "economics.public-economics.chapter-12.topic-07"
+    }
+  ]
+}

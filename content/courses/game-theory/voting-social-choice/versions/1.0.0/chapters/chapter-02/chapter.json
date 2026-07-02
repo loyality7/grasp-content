@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Preference Aggregation",
+  "description": "Preference Aggregation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Preference Orderings",
+      "conceptId": "game-theory.voting-social-choice.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Preference Profiles",
+      "conceptId": "game-theory.voting-social-choice.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Preference Aggregation",
+      "conceptId": "game-theory.voting-social-choice.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Social Choice Functions",
+      "conceptId": "game-theory.voting-social-choice.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Majority Preference",
+      "conceptId": "game-theory.voting-social-choice.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Collective Rationality",
+      "conceptId": "game-theory.voting-social-choice.chapter-02.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Epigenetic Inheritance",
+      "conceptId": "biology.genetics.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Evolutionary Genetics",
+      "conceptId": "biology.genetics.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Comparative Genomics",
+      "conceptId": "biology.genetics.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Functional Genomics",
+      "conceptId": "biology.genetics.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Synthetic Genomics",
+      "conceptId": "biology.genetics.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Systems Genetics",
+      "conceptId": "biology.genetics.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 5: Evolution**",
+      "conceptId": "biology.genetics.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "History of Evolutionary Thought",
+      "conceptId": "biology.genetics.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Darwin's Theory",
+      "conceptId": "biology.genetics.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Natural Selection",
+      "conceptId": "biology.genetics.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Adaptation",
+      "conceptId": "biology.genetics.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Speciation",
+      "conceptId": "biology.genetics.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Evolutionary Mechanisms",
+      "conceptId": "biology.genetics.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Fossil Record",
+      "conceptId": "biology.genetics.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Phylogenetics",
+      "conceptId": "biology.genetics.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Human Evolution",
+      "conceptId": "biology.genetics.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Evolutionary Developmental Biology",
+      "conceptId": "biology.genetics.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Origin of Life",
+      "conceptId": "biology.genetics.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Modern Evolutionary Theory",
+      "conceptId": "biology.genetics.chapter-13.topic-19"
+    }
+  ]
+}

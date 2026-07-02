@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Meaning & Purpose",
+  "description": "Meaning & Purpose",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Meaning in Life",
+      "conceptId": "psychology.positive-psychology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Purpose",
+      "conceptId": "psychology.positive-psychology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Values",
+      "conceptId": "psychology.positive-psychology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Identity",
+      "conceptId": "psychology.positive-psychology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Personal Growth",
+      "conceptId": "psychology.positive-psychology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Self-Transcendence",
+      "conceptId": "psychology.positive-psychology.chapter-08.topic-06"
+    }
+  ]
+}

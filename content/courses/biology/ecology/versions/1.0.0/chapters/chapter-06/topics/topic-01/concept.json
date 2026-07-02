@@ -1,0 +1,20 @@
+{
+  "id": "biology.ecology.chapter-06.topic-01",
+  "name": "Species Diversity",
+  "subject": "biology",
+  "definition": "Species Diversity is a fundamental concept in biology.",
+  "explanation": "Learn about Species Diversity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "species-diversity"
+  ]
+}

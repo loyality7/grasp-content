@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Computational Models",
+  "description": "Computational Models",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Agent-Based Models",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Evolutionary Simulation",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Agent Evolution",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Adaptive Systems",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Swarm Intelligence",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Evolutionary Robotics",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-12.topic-06"
+    }
+  ]
+}

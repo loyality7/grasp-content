@@ -1,0 +1,20 @@
+{
+  "id": "physics.modern-physics.chapter-07.topic-05",
+  "name": "Pauli Exclusion Principle",
+  "subject": "physics",
+  "definition": "Pauli Exclusion Principle is a fundamental concept in physics.",
+  "explanation": "Learn about Pauli Exclusion Principle and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "pauli-exclusion-principle"
+  ]
+}

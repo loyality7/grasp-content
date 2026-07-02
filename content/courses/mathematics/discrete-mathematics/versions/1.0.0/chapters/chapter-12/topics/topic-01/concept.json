@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-12.topic-01",
+  "name": "Algorithm Analysis",
+  "subject": "mathematics",
+  "definition": "Algorithm Analysis is a fundamental concept in mathematics.",
+  "explanation": "Learn about Algorithm Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "algorithm-analysis"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.differential-equations.chapter-11.topic-01",
+  "name": "Heat Equation",
+  "subject": "mathematics",
+  "definition": "Heat Equation is a fundamental concept in mathematics.",
+  "explanation": "Learn about Heat Equation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "heat-equation"
+  ]
+}

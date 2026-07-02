@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Multiple Integrals",
+  "description": "Multiple Integrals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Double Integrals",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Triple Integrals",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Iterated Integrals",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Change of Order of Integration",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Polar Coordinates",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cylindrical Coordinates",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Spherical Coordinates",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-07"
+    }
+  ]
+}

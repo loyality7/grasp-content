@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Bond Energies",
+  "description": "Bond Energies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bond Dissociation Energy",
+      "conceptId": "chemistry.thermochemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Average Bond Energy",
+      "conceptId": "chemistry.thermochemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Calculating Reaction Enthalpy",
+      "conceptId": "chemistry.thermochemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bond Strength",
+      "conceptId": "chemistry.thermochemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bond Stability",
+      "conceptId": "chemistry.thermochemistry.chapter-07.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Antigens & Antibodies",
+  "description": "Antigens & Antibodies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Antigens",
+      "conceptId": "biology.immunology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Epitopes",
+      "conceptId": "biology.immunology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Immunoglobulins (IgG, IgA, IgM, IgE, IgD)",
+      "conceptId": "biology.immunology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Antibody Structure",
+      "conceptId": "biology.immunology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Antigen-Antibody Binding",
+      "conceptId": "biology.immunology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Antibody Functions",
+      "conceptId": "biology.immunology.chapter-04.topic-06"
+    }
+  ]
+}

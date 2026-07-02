@@ -1,0 +1,20 @@
+{
+  "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-03",
+  "name": "Restoring Force",
+  "subject": "physics",
+  "definition": "Restoring Force is a fundamental concept in physics.",
+  "explanation": "Learn about Restoring Force and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "restoring-force"
+  ]
+}

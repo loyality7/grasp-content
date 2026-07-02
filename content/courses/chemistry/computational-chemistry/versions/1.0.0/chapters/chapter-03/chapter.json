@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Molecular Modeling",
+  "description": "Molecular Modeling",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Molecular Structures",
+      "conceptId": "chemistry.computational-chemistry.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Molecular Geometry",
+      "conceptId": "chemistry.computational-chemistry.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Energy Minimization",
+      "conceptId": "chemistry.computational-chemistry.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Conformational Analysis",
+      "conceptId": "chemistry.computational-chemistry.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Potential Energy Surfaces",
+      "conceptId": "chemistry.computational-chemistry.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Force Fields",
+      "conceptId": "chemistry.computational-chemistry.chapter-03.topic-06"
+    }
+  ]
+}

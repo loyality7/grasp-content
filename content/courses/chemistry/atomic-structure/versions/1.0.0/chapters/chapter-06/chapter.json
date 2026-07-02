@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Atomic Orbitals",
+  "description": "Atomic Orbitals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Orbitals",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Probability Density",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "s Orbitals",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "p Orbitals",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "d Orbitals",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "f Orbitals",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Orbital Shapes",
+      "conceptId": "chemistry.atomic-structure.chapter-06.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Aesthetics",
+  "description": "Introduction to Aesthetics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Aesthetics?",
+      "conceptId": "philosophy.aesthetics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Beauty",
+      "conceptId": "philosophy.aesthetics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Art",
+      "conceptId": "philosophy.aesthetics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Aesthetic Experience",
+      "conceptId": "philosophy.aesthetics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Taste",
+      "conceptId": "philosophy.aesthetics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Philosophy of Art",
+      "conceptId": "philosophy.aesthetics.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Social-Cognitive Perspectives",
+  "description": "Social-Cognitive Perspectives",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Albert Bandura's Theory",
+      "conceptId": "psychology.personality-psychology.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reciprocal Determinism",
+      "conceptId": "psychology.personality-psychology.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Self-Efficacy",
+      "conceptId": "psychology.personality-psychology.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Observational Learning",
+      "conceptId": "psychology.personality-psychology.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cognitive Influences on Personality",
+      "conceptId": "psychology.personality-psychology.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Situational Factors",
+      "conceptId": "psychology.personality-psychology.chapter-05.topic-06"
+    }
+  ]
+}

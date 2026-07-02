@@ -1,0 +1,408 @@
+{
+  "id": "physics-foundations",
+  "name": "Physics Foundations",
+  "description": "Physics Foundations",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Physics?",
+          "conceptId": "physics.physics-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Branches of Physics",
+          "conceptId": "physics.physics-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Scientific Method",
+          "conceptId": "physics.physics-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Physical Quantities",
+          "conceptId": "physics.physics-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Models in Physics",
+          "conceptId": "physics.physics-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Measurement & Observation",
+          "conceptId": "physics.physics-foundations.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "SI Units & Measurements",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "SI Base Units",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Derived Units",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unit Conversion",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Prefixes (Milli, Kilo, Mega...)",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dimensional Analysis",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dimensional Formula",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Dimensional Homogeneity",
+          "conceptId": "physics.physics-foundations.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Measurement & Errors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Accuracy",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Precision",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Significant Figures",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scientific Notation",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Absolute Error",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Relative Error",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Percentage Error",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Error Propagation",
+          "conceptId": "physics.physics-foundations.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Scalars & Vectors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scalars",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vectors",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vector Representation",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnitude",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Direction",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Unit Vectors",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Position Vector",
+          "conceptId": "physics.physics-foundations.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Vector Operations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vector Addition",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vector Subtraction",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Triangle Law",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Parallelogram Law",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Components of a Vector",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dot Product",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cross Product",
+          "conceptId": "physics.physics-foundations.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Coordinate Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cartesian Coordinates",
+          "conceptId": "physics.physics-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polar Coordinates",
+          "conceptId": "physics.physics-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cylindrical Coordinates (Introduction)",
+          "conceptId": "physics.physics-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spherical Coordinates (Introduction)",
+          "conceptId": "physics.physics-foundations.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Mathematical Tools",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Graphs",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Slope",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Area Under Curves",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Linear Relationships",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nonlinear Relationships",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Proportionality",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Logarithmic Graphs",
+          "conceptId": "physics.physics-foundations.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Experimental Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Experimental Design",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Variables",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Data Collection",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tables",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graph Plotting",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Interpretation",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Uncertainty Analysis",
+          "conceptId": "physics.physics-foundations.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Problem Solving",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Unit Checking",
+          "conceptId": "physics.physics-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dimensional Checking",
+          "conceptId": "physics.physics-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Estimation",
+          "conceptId": "physics.physics-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Order of Magnitude",
+          "conceptId": "physics.physics-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Approximation Techniques",
+          "conceptId": "physics.physics-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Physical Reasoning",
+          "conceptId": "physics.physics-foundations.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Introduction to Mechanics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Motion",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Position",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distance",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Displacement",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Speed",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Velocity",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Acceleration (Overview)",
+          "conceptId": "physics.physics-foundations.chapter-10.topic-07"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "physics-foundations"
+    ]
+  }
+}

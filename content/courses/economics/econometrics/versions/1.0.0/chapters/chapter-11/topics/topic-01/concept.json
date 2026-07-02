@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-11.topic-01",
+  "name": "Machine Learning in Econometrics",
+  "subject": "economics",
+  "definition": "Machine Learning in Econometrics is a fundamental concept in economics.",
+  "explanation": "Learn about Machine Learning in Econometrics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "machine-learning-in-econometrics"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06",
+  "name": "Traversal Algorithms",
+  "description": "Traversal Algorithms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Depth First Search (DFS)",
+      "conceptId": "mathematics.graph-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Breadth First Search (BFS)",
+      "conceptId": "mathematics.graph-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Topological Sorting",
+      "conceptId": "mathematics.graph-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cycle Detection",
+      "conceptId": "mathematics.graph-theory.chapter-06.topic-04"
+    }
+  ]
+}

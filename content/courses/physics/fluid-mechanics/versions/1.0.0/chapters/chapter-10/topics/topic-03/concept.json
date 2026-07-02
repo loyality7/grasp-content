@@ -1,0 +1,20 @@
+{
+  "id": "physics.fluid-mechanics.chapter-10.topic-03",
+  "name": "Ship Buoyancy",
+  "subject": "physics",
+  "definition": "Ship Buoyancy is a fundamental concept in physics.",
+  "explanation": "Learn about Ship Buoyancy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "ship-buoyancy"
+  ]
+}

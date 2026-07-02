@@ -1,0 +1,20 @@
+{
+  "id": "biology.evolution.chapter-02.topic-05",
+  "name": "Fitness",
+  "subject": "biology",
+  "definition": "Fitness is a fundamental concept in biology.",
+  "explanation": "Learn about Fitness and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "fitness"
+  ]
+}

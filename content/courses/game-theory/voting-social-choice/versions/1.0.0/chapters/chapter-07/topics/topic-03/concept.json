@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-07.topic-03",
+  "name": "Banzhaf Power Index",
+  "subject": "game-theory",
+  "definition": "Banzhaf Power Index is a fundamental concept in game-theory.",
+  "explanation": "Learn about Banzhaf Power Index and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "banzhaf-power-index"
+  ]
+}

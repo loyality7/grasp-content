@@ -1,0 +1,47 @@
+{
+  "id": "chapter-13",
+  "name": "Geometry Foundations",
+  "description": "Geometry Foundations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Angles",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Triangles",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Quadrilaterals",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Circles",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Polygons",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Perimeter",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Area",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Volume",
+      "conceptId": "mathematics.pre-algebra.chapter-13.topic-08"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-09.topic-03",
+  "name": "Chromatic Number",
+  "subject": "mathematics",
+  "definition": "Chromatic Number is a fundamental concept in mathematics.",
+  "explanation": "Learn about Chromatic Number and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "chromatic-number"
+  ]
+}

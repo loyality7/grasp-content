@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Plasma Properties",
+  "description": "Plasma Properties",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Plasma Density",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Temperature",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Degree of Ionization",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Quasi-Neutrality",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Debye Shielding",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Debye Length",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Plasma Frequency",
+      "conceptId": "physics.plasma-physics.chapter-02.topic-07"
+    }
+  ]
+}

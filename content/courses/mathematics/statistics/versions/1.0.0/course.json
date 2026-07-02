@@ -1,0 +1,568 @@
+{
+  "id": "statistics",
+  "name": "Statistics",
+  "description": "Statistics",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Statistics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Statistics?",
+          "conceptId": "mathematics.statistics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Data",
+          "conceptId": "mathematics.statistics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Population vs Sample",
+          "conceptId": "mathematics.statistics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Variables",
+          "conceptId": "mathematics.statistics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Levels of Measurement",
+          "conceptId": "mathematics.statistics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Collection",
+          "conceptId": "mathematics.statistics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sampling Methods",
+          "conceptId": "mathematics.statistics.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Experimental Design",
+          "conceptId": "mathematics.statistics.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Descriptive Statistics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Frequency Tables",
+          "conceptId": "mathematics.statistics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Histograms",
+          "conceptId": "mathematics.statistics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bar Charts",
+          "conceptId": "mathematics.statistics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pie Charts",
+          "conceptId": "mathematics.statistics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Box Plots",
+          "conceptId": "mathematics.statistics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stem-and-Leaf Plots",
+          "conceptId": "mathematics.statistics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scatter Plots",
+          "conceptId": "mathematics.statistics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Measures of Central Tendency",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mean",
+          "conceptId": "mathematics.statistics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Median",
+          "conceptId": "mathematics.statistics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mode",
+          "conceptId": "mathematics.statistics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Weighted Mean",
+          "conceptId": "mathematics.statistics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Geometric Mean",
+          "conceptId": "mathematics.statistics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Harmonic Mean",
+          "conceptId": "mathematics.statistics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Measures of Dispersion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Range",
+          "conceptId": "mathematics.statistics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Variance",
+          "conceptId": "mathematics.statistics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Standard Deviation",
+          "conceptId": "mathematics.statistics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quartiles",
+          "conceptId": "mathematics.statistics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Percentiles",
+          "conceptId": "mathematics.statistics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interquartile Range (IQR)",
+          "conceptId": "mathematics.statistics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Coefficient of Variation",
+          "conceptId": "mathematics.statistics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Probability Review",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Probability Basics",
+          "conceptId": "mathematics.statistics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Random Variables",
+          "conceptId": "mathematics.statistics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Common Distributions",
+          "conceptId": "mathematics.statistics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Expected Value",
+          "conceptId": "mathematics.statistics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Variance",
+          "conceptId": "mathematics.statistics.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Sampling Distributions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sampling Distribution",
+          "conceptId": "mathematics.statistics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Central Limit Theorem",
+          "conceptId": "mathematics.statistics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Standard Error",
+          "conceptId": "mathematics.statistics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sample Mean Distribution",
+          "conceptId": "mathematics.statistics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sample Proportion Distribution",
+          "conceptId": "mathematics.statistics.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Estimation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Point Estimation",
+          "conceptId": "mathematics.statistics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Confidence Intervals",
+          "conceptId": "mathematics.statistics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Margin of Error",
+          "conceptId": "mathematics.statistics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Confidence Levels",
+          "conceptId": "mathematics.statistics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sample Size Determination",
+          "conceptId": "mathematics.statistics.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Hypothesis Testing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Null Hypothesis",
+          "conceptId": "mathematics.statistics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Alternative Hypothesis",
+          "conceptId": "mathematics.statistics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "p-Value",
+          "conceptId": "mathematics.statistics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Significance Level",
+          "conceptId": "mathematics.statistics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Type I Error",
+          "conceptId": "mathematics.statistics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Type II Error",
+          "conceptId": "mathematics.statistics.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Statistical Power",
+          "conceptId": "mathematics.statistics.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Statistical Tests",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Z-Test",
+          "conceptId": "mathematics.statistics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "T-Test",
+          "conceptId": "mathematics.statistics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chi-Square Test",
+          "conceptId": "mathematics.statistics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "F-Test",
+          "conceptId": "mathematics.statistics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "ANOVA",
+          "conceptId": "mathematics.statistics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Non-Parametric Tests (Introduction)",
+          "conceptId": "mathematics.statistics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Correlation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Covariance",
+          "conceptId": "mathematics.statistics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pearson Correlation",
+          "conceptId": "mathematics.statistics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Spearman Rank Correlation",
+          "conceptId": "mathematics.statistics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Correlation Matrix",
+          "conceptId": "mathematics.statistics.chapter-10.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Regression Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Simple Linear Regression",
+          "conceptId": "mathematics.statistics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multiple Linear Regression",
+          "conceptId": "mathematics.statistics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Polynomial Regression",
+          "conceptId": "mathematics.statistics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Logistic Regression (Introduction)",
+          "conceptId": "mathematics.statistics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Residual Analysis",
+          "conceptId": "mathematics.statistics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Goodness of Fit",
+          "conceptId": "mathematics.statistics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Categorical Data Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Contingency Tables",
+          "conceptId": "mathematics.statistics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chi-Square Independence Test",
+          "conceptId": "mathematics.statistics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Odds Ratio",
+          "conceptId": "mathematics.statistics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Relative Risk",
+          "conceptId": "mathematics.statistics.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Time Series",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Trend",
+          "conceptId": "mathematics.statistics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Seasonality",
+          "conceptId": "mathematics.statistics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moving Average",
+          "conceptId": "mathematics.statistics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Exponential Smoothing",
+          "conceptId": "mathematics.statistics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Forecasting Basics",
+          "conceptId": "mathematics.statistics.chapter-13.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Statistical Computing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Cleaning",
+          "conceptId": "mathematics.statistics.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exploratory Data Analysis (EDA)",
+          "conceptId": "mathematics.statistics.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Visualization",
+          "conceptId": "mathematics.statistics.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Outlier Detection",
+          "conceptId": "mathematics.statistics.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Missing Data",
+          "conceptId": "mathematics.statistics.chapter-14.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Business Analytics",
+          "conceptId": "mathematics.statistics.chapter-15.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Medical Statistics",
+          "conceptId": "mathematics.statistics.chapter-15.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Science Research",
+          "conceptId": "mathematics.statistics.chapter-15.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Machine Learning",
+          "conceptId": "mathematics.statistics.chapter-15.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "A/B Testing",
+          "conceptId": "mathematics.statistics.chapter-15.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quality Control",
+          "conceptId": "mathematics.statistics.chapter-15.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Survey Analysis",
+          "conceptId": "mathematics.statistics.chapter-15.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "**Number Theory**",
+          "conceptId": "mathematics.statistics.chapter-15.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "**Graph Theory**",
+          "conceptId": "mathematics.statistics.chapter-15.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "**Real Analysis**",
+          "conceptId": "mathematics.statistics.chapter-15.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "**Abstract Algebra**",
+          "conceptId": "mathematics.statistics.chapter-15.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "**Complex Analysis**",
+          "conceptId": "mathematics.statistics.chapter-15.topic-12"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "statistics"
+    ]
+  }
+}

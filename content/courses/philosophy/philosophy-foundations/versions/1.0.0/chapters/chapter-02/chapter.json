@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "History of Philosophy",
+  "description": "History of Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ancient Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Medieval Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Modern Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Contemporary Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Eastern Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Western Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-02.topic-06"
+    }
+  ]
+}

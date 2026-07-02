@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Laboratory Plasma",
+  "description": "Laboratory Plasma",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Plasma Generation",
+      "conceptId": "physics.plasma-physics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Glow Discharge",
+      "conceptId": "physics.plasma-physics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Arc Plasma",
+      "conceptId": "physics.plasma-physics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "RF Plasma",
+      "conceptId": "physics.plasma-physics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Microwave Plasma",
+      "conceptId": "physics.plasma-physics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Plasma Diagnostics",
+      "conceptId": "physics.plasma-physics.chapter-10.topic-06"
+    }
+  ]
+}

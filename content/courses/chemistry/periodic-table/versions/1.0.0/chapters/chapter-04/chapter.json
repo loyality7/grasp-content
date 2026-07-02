@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Atomic Radius",
+  "description": "Atomic Radius",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atomic Radius",
+      "conceptId": "chemistry.periodic-table.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ionic Radius",
+      "conceptId": "chemistry.periodic-table.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Covalent Radius",
+      "conceptId": "chemistry.periodic-table.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Metallic Radius",
+      "conceptId": "chemistry.periodic-table.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trends Across a Period",
+      "conceptId": "chemistry.periodic-table.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Trends Down a Group",
+      "conceptId": "chemistry.periodic-table.chapter-04.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "International Development",
+  "description": "International Development",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Foreign Aid",
+      "conceptId": "economics.development-economics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Foreign Direct Investment (FDI)",
+      "conceptId": "economics.development-economics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "International Trade",
+      "conceptId": "economics.development-economics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Debt",
+      "conceptId": "economics.development-economics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Globalization",
+      "conceptId": "economics.development-economics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Development Finance",
+      "conceptId": "economics.development-economics.chapter-10.topic-06"
+    }
+  ]
+}

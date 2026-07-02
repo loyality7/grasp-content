@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Plasma Waves",
+  "description": "Plasma Waves",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electrostatic Waves",
+      "conceptId": "physics.plasma-physics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Electromagnetic Waves in Plasma",
+      "conceptId": "physics.plasma-physics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Langmuir Waves",
+      "conceptId": "physics.plasma-physics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ion Acoustic Waves",
+      "conceptId": "physics.plasma-physics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Alfvén Waves",
+      "conceptId": "physics.plasma-physics.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dispersion Relations",
+      "conceptId": "physics.plasma-physics.chapter-05.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.precalculus.chapter-05.topic-05",
+  "name": "Applications",
+  "subject": "mathematics",
+  "definition": "Applications is a fundamental concept in mathematics.",
+  "explanation": "Learn about Applications and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "applications"
+  ]
+}

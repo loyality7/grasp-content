@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Machine Learning for Data Science",
+  "description": "Machine Learning for Data Science",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Supervised Learning",
+      "conceptId": "computer-science.data-science.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Unsupervised Learning",
+      "conceptId": "computer-science.data-science.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Model Selection",
+      "conceptId": "computer-science.data-science.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Feature Selection",
+      "conceptId": "computer-science.data-science.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cross Validation",
+      "conceptId": "computer-science.data-science.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Model Evaluation",
+      "conceptId": "computer-science.data-science.chapter-08.topic-06"
+    }
+  ]
+}

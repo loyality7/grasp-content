@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Cognitive Psychology",
+  "description": "Introduction to Cognitive Psychology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Cognitive Psychology?",
+      "conceptId": "psychology.cognitive-psychology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Information Processing Model",
+      "conceptId": "psychology.cognitive-psychology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mental Representations",
+      "conceptId": "psychology.cognitive-psychology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cognitive Architecture",
+      "conceptId": "psychology.cognitive-psychology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "History of Cognitive Psychology",
+      "conceptId": "psychology.cognitive-psychology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "psychology.cognitive-psychology.chapter-01.topic-06"
+    }
+  ]
+}

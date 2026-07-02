@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Authority & Legitimacy",
+  "description": "Authority & Legitimacy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Political Authority",
+      "conceptId": "philosophy.political-philosophy.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Legitimacy",
+      "conceptId": "philosophy.political-philosophy.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Consent of the Governed",
+      "conceptId": "philosophy.political-philosophy.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sovereignty",
+      "conceptId": "philosophy.political-philosophy.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Civil Disobedience",
+      "conceptId": "philosophy.political-philosophy.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Revolution",
+      "conceptId": "philosophy.political-philosophy.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-13.topic-07",
+  "name": "Quantum Computing for Chemistry",
+  "subject": "chemistry",
+  "definition": "Quantum Computing for Chemistry is a fundamental concept in chemistry.",
+  "explanation": "Learn about Quantum Computing for Chemistry and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "quantum-computing-for-chemistry"
+  ]
+}

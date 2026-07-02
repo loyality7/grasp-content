@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-02.topic-05",
+  "name": "Terminal Nodes",
+  "subject": "game-theory",
+  "definition": "Terminal Nodes is a fundamental concept in game-theory.",
+  "explanation": "Learn about Terminal Nodes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "terminal-nodes"
+  ]
+}

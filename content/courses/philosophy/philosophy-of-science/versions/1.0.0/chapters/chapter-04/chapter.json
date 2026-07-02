@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Evidence & Confirmation",
+  "description": "Evidence & Confirmation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Evidence",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Confirmation",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Verification",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Falsifiability",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Induction",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Deduction",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Bayesian Reasoning",
+      "conceptId": "philosophy.philosophy-of-science.chapter-04.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.plasma-physics.chapter-07.topic-05",
+  "name": "Inertial Confinement Fusion",
+  "subject": "physics",
+  "definition": "Inertial Confinement Fusion is a fundamental concept in physics.",
+  "explanation": "Learn about Inertial Confinement Fusion and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "inertial-confinement-fusion"
+  ]
+}

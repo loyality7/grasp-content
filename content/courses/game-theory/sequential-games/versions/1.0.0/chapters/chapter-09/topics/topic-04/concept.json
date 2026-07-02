@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-09.topic-04",
+  "name": "Dynamic Pricing",
+  "subject": "game-theory",
+  "definition": "Dynamic Pricing is a fundamental concept in game-theory.",
+  "explanation": "Learn about Dynamic Pricing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "dynamic-pricing"
+  ]
+}

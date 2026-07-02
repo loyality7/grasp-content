@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.differential-equations.chapter-03.topic-02",
+  "name": "Exponential Growth & Decay",
+  "subject": "mathematics",
+  "definition": "Exponential Growth & Decay is a fundamental concept in mathematics.",
+  "explanation": "Learn about Exponential Growth & Decay and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "exponential-growth-decay"
+  ]
+}

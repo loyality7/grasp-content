@@ -1,0 +1,415 @@
+{
+  "id": "abstract-algebra",
+  "name": "Abstract Algebra",
+  "description": "Abstract Algebra",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Mathematical Foundations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sets",
+          "conceptId": "mathematics.abstract-algebra.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functions",
+          "conceptId": "mathematics.abstract-algebra.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Binary Operations",
+          "conceptId": "mathematics.abstract-algebra.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Algebraic Structures",
+          "conceptId": "mathematics.abstract-algebra.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Equivalence Relations",
+          "conceptId": "mathematics.abstract-algebra.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Partitions",
+          "conceptId": "mathematics.abstract-algebra.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Groups",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Definition of a Group",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Examples of Groups",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Finite & Infinite Groups",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Abelian Groups",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyclic Groups",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Order of an Element",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Order of a Group",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Subgroups",
+          "conceptId": "mathematics.abstract-algebra.chapter-02.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Group Homomorphisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Homomorphisms",
+          "conceptId": "mathematics.abstract-algebra.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Isomorphisms",
+          "conceptId": "mathematics.abstract-algebra.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Automorphisms",
+          "conceptId": "mathematics.abstract-algebra.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Kernels",
+          "conceptId": "mathematics.abstract-algebra.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Images",
+          "conceptId": "mathematics.abstract-algebra.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "First Isomorphism Theorem",
+          "conceptId": "mathematics.abstract-algebra.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Cosets & Lagrange's Theorem",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Left Cosets",
+          "conceptId": "mathematics.abstract-algebra.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Right Cosets",
+          "conceptId": "mathematics.abstract-algebra.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Index of a Subgroup",
+          "conceptId": "mathematics.abstract-algebra.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Lagrange's Theorem",
+          "conceptId": "mathematics.abstract-algebra.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Normal Subgroups",
+          "conceptId": "mathematics.abstract-algebra.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quotient Groups",
+          "conceptId": "mathematics.abstract-algebra.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Group Actions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Group Actions",
+          "conceptId": "mathematics.abstract-algebra.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Orbits",
+          "conceptId": "mathematics.abstract-algebra.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stabilizers",
+          "conceptId": "mathematics.abstract-algebra.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Burnside's Lemma (Introduction)",
+          "conceptId": "mathematics.abstract-algebra.chapter-05.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Rings",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Definition of a Ring",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ring Operations",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Commutative Rings",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Integral Domains",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Division Rings",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ring Homomorphisms",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ideals",
+          "conceptId": "mathematics.abstract-algebra.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Quotient Rings",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quotient Rings",
+          "conceptId": "mathematics.abstract-algebra.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ring Isomorphism Theorems",
+          "conceptId": "mathematics.abstract-algebra.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Prime Ideals",
+          "conceptId": "mathematics.abstract-algebra.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Maximal Ideals",
+          "conceptId": "mathematics.abstract-algebra.chapter-07.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Definition of a Field",
+          "conceptId": "mathematics.abstract-algebra.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Field Extensions",
+          "conceptId": "mathematics.abstract-algebra.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Finite Fields",
+          "conceptId": "mathematics.abstract-algebra.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Algebraic Extensions",
+          "conceptId": "mathematics.abstract-algebra.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Splitting Fields",
+          "conceptId": "mathematics.abstract-algebra.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Polynomial Rings",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Polynomial Rings",
+          "conceptId": "mathematics.abstract-algebra.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polynomial Division",
+          "conceptId": "mathematics.abstract-algebra.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Irreducible Polynomials",
+          "conceptId": "mathematics.abstract-algebra.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Factorization",
+          "conceptId": "mathematics.abstract-algebra.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Roots of Polynomials",
+          "conceptId": "mathematics.abstract-algebra.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Modules (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Modules",
+          "conceptId": "mathematics.abstract-algebra.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vector Spaces as Modules",
+          "conceptId": "mathematics.abstract-algebra.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Submodules",
+          "conceptId": "mathematics.abstract-algebra.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Module Homomorphisms",
+          "conceptId": "mathematics.abstract-algebra.chapter-10.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Galois Theory (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Field Automorphisms",
+          "conceptId": "mathematics.abstract-algebra.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Galois Groups",
+          "conceptId": "mathematics.abstract-algebra.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Solvability by Radicals",
+          "conceptId": "mathematics.abstract-algebra.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Classical Construction Problems",
+          "conceptId": "mathematics.abstract-algebra.chapter-11.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cryptography",
+          "conceptId": "mathematics.abstract-algebra.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Error-Correcting Codes",
+          "conceptId": "mathematics.abstract-algebra.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coding Theory",
+          "conceptId": "mathematics.abstract-algebra.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Finite State Machines",
+          "conceptId": "mathematics.abstract-algebra.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computer Algebra Systems",
+          "conceptId": "mathematics.abstract-algebra.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Symmetry in Physics",
+          "conceptId": "mathematics.abstract-algebra.chapter-12.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "abstract-algebra"
+    ]
+  }
+}

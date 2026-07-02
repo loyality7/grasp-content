@@ -1,0 +1,112 @@
+{
+  "id": "chapter-13",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Banking Systems",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Library Management Systems",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Student Management Systems",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "E-Commerce Models",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "GUI Applications",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Game Objects",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Mini OOP Project",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "*Course 4: Data Structures**",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Arrays",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Linked Lists",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Stacks",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Queues",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Deques",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Hash Tables",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Trees",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Binary Search Trees",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Heaps",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Tries",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Graphs",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Union-Find",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-20"
+    },
+    {
+      "id": "topic-21",
+      "name": "Complexity Analysis",
+      "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-21"
+    }
+  ]
+}

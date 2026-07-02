@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.philosophy-of-science.chapter-08.topic-03",
+  "name": "Statistical Inference",
+  "subject": "philosophy",
+  "definition": "Statistical Inference is a fundamental concept in philosophy.",
+  "explanation": "Learn about Statistical Inference and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "statistical-inference"
+  ]
+}

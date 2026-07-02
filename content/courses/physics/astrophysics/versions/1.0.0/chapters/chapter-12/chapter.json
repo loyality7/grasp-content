@@ -1,0 +1,62 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Space Exploration",
+      "conceptId": "physics.astrophysics.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Satellite Astronomy",
+      "conceptId": "physics.astrophysics.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Gravitational Wave Astronomy",
+      "conceptId": "physics.astrophysics.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Multi-Messenger Astronomy",
+      "conceptId": "physics.astrophysics.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Space Missions",
+      "conceptId": "physics.astrophysics.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Astrobiology (Introduction)",
+      "conceptId": "physics.astrophysics.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "How did the universe begin?",
+      "conceptId": "physics.astrophysics.chapter-12.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "What happened during the Big Bang?",
+      "conceptId": "physics.astrophysics.chapter-12.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Why is the universe expanding?",
+      "conceptId": "physics.astrophysics.chapter-12.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "What are dark matter and dark energy?",
+      "conceptId": "physics.astrophysics.chapter-12.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "How might the universe end?",
+      "conceptId": "physics.astrophysics.chapter-12.topic-11"
+    }
+  ]
+}

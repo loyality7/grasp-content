@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Expert Systems",
+  "description": "Expert Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Expert Systems",
+      "conceptId": "computer-science.artificial-intelligence.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rule Engines",
+      "conceptId": "computer-science.artificial-intelligence.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inference Engines",
+      "conceptId": "computer-science.artificial-intelligence.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Knowledge Engineering",
+      "conceptId": "computer-science.artificial-intelligence.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Medical Expert Systems",
+      "conceptId": "computer-science.artificial-intelligence.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Industrial Applications",
+      "conceptId": "computer-science.artificial-intelligence.chapter-08.topic-06"
+    }
+  ]
+}

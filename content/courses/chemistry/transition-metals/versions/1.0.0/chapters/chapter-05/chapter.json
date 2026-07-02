@@ -1,0 +1,32 @@
+{
+  "id": "chapter-05",
+  "name": "Colored Compounds",
+  "description": "Colored Compounds",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Origin of Color",
+      "conceptId": "chemistry.transition-metals.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "d-d Transitions",
+      "conceptId": "chemistry.transition-metals.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Charge Transfer Transitions",
+      "conceptId": "chemistry.transition-metals.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Factors Affecting Color",
+      "conceptId": "chemistry.transition-metals.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Spectrochemical Series (Introduction)",
+      "conceptId": "chemistry.transition-metals.chapter-05.topic-05"
+    }
+  ]
+}

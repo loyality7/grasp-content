@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-02.topic-02",
+  "name": "Common Value Auctions",
+  "subject": "game-theory",
+  "definition": "Common Value Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Common Value Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "common-value-auctions"
+  ]
+}

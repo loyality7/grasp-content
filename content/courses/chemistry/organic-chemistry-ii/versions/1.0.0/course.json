@@ -1,0 +1,526 @@
+{
+  "id": "organic-chemistry-ii",
+  "name": "Organic Chemistry II",
+  "description": "Organic Chemistry II",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Alcohols",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Classification of Alcohols",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Physical Properties",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Preparation of Alcohols",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Reactions",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxidation of Alcohols",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dehydration",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Phenols",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure of Phenols",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Acidity of Phenols",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrophilic Substitution",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Oxidation Reactions",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Industrial Uses",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Ethers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure of Ethers",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Physical Properties",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Williamson Ether Synthesis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cleavage Reactions",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyclic Ethers",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Aldehydes & Ketones",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Carbonyl Group",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nucleophilic Addition",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Oxidation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reduction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Aldol Condensation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cannizzaro Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Carboxylic Acids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Acidity",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Preparation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Esterification",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reduction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decarboxylation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Salts of Carboxylic Acids",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Carboxylic Acid Derivatives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acid Chlorides",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Acid Anhydrides",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Esters",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Amides",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydrolysis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nucleophilic Acyl Substitution",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Amines",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Classification",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Basicity",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Preparation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Alkylation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Acylation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Diazotization",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Aromatic Amines",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Heterocyclic Compounds",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pyridine",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pyrrole",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Furan",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Thiophene",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Imidazole",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Indole",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Biological Importance",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Named Organic Reactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Grignard Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Friedel-Crafts Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aldol Condensation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cannizzaro Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Claisen Condensation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Diels-Alder Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Wittig Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Sandmeyer Reaction",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Organic Synthesis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Retrosynthetic Analysis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Protecting Groups",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Functional Group Interconversion",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multistep Synthesis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Selectivity",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Yield Optimization",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "UV-Visible Spectroscopy",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Infrared (IR) Spectroscopy",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mass Spectrometry",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Proton NMR",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon-13 NMR",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Structure Elucidation",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Drug Synthesis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polymer Chemistry",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Agrochemicals",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dyes & Pigments",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fragrances",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Petrochemicals",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Organic Electronics",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Asymmetric Synthesis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Organocatalysis",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Green Organic Chemistry",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Medicinal Chemistry (Introduction)",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computational Organic Chemistry",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Organic Chemistry I",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Organic Chemistry II",
+          "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-07"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "organic-chemistry-ii"
+    ]
+  }
+}

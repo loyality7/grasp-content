@@ -1,0 +1,20 @@
+{
+  "id": "physics.gravitation.chapter-09.topic-01",
+  "name": "Center of Mass",
+  "subject": "physics",
+  "definition": "Center of Mass is a fundamental concept in physics.",
+  "explanation": "Learn about Center of Mass and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "center-of-mass"
+  ]
+}

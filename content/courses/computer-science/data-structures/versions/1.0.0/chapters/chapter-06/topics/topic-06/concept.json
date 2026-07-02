@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-06.topic-06",
+  "name": "Load Factor",
+  "subject": "computer-science",
+  "definition": "Load Factor is a fundamental concept in computer-science.",
+  "explanation": "Learn about Load Factor and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "load-factor"
+  ]
+}

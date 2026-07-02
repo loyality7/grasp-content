@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-13.topic-05",
+  "name": "Education",
+  "subject": "computer-science",
+  "definition": "Education is a fundamental concept in computer-science.",
+  "explanation": "Learn about Education and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "education"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.magnetism.chapter-10.topic-06",
+  "name": "Lenz's Law",
+  "subject": "physics",
+  "definition": "Lenz's Law is a fundamental concept in physics.",
+  "explanation": "Learn about Lenz's Law and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "lenzs-law"
+  ]
+}

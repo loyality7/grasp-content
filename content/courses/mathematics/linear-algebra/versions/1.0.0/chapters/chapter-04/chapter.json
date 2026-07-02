@@ -1,0 +1,32 @@
+{
+  "id": "chapter-04",
+  "name": "Matrix Inverse",
+  "description": "Matrix Inverse",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Invertible Matrices",
+      "conceptId": "mathematics.linear-algebra.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Finding Matrix Inverses",
+      "conceptId": "mathematics.linear-algebra.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Adjoint Method",
+      "conceptId": "mathematics.linear-algebra.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Row Reduction Method",
+      "conceptId": "mathematics.linear-algebra.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications",
+      "conceptId": "mathematics.linear-algebra.chapter-04.topic-05"
+    }
+  ]
+}

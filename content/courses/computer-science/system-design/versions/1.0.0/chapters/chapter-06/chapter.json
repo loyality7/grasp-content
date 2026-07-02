@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Databases at Scale",
+  "description": "Databases at Scale",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Database Replication",
+      "conceptId": "computer-science.system-design.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sharding",
+      "conceptId": "computer-science.system-design.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Partitioning",
+      "conceptId": "computer-science.system-design.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Read Replicas",
+      "conceptId": "computer-science.system-design.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Distributed Transactions",
+      "conceptId": "computer-science.system-design.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "SQL vs NoSQL in System Design",
+      "conceptId": "computer-science.system-design.chapter-06.topic-06"
+    }
+  ]
+}

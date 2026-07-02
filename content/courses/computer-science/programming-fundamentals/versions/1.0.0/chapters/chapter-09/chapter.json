@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Basic Algorithms",
+  "description": "Basic Algorithms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Linear Search",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Binary Search (Concept)",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Counting",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Maximum & Minimum",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Swapping",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sorting (Introduction)",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Algorithm Efficiency (Introduction)",
+      "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-07"
+    }
+  ]
+}

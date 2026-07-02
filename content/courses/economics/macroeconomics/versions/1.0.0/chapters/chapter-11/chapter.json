@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Economic Crises",
+  "description": "Economic Crises",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Financial Crises",
+      "conceptId": "economics.macroeconomics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Banking Crises",
+      "conceptId": "economics.macroeconomics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Currency Crises",
+      "conceptId": "economics.macroeconomics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sovereign Debt Crises",
+      "conceptId": "economics.macroeconomics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Recessions",
+      "conceptId": "economics.macroeconomics.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Policy Responses",
+      "conceptId": "economics.macroeconomics.chapter-11.topic-06"
+    }
+  ]
+}

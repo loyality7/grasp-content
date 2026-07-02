@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-06.topic-02",
+  "name": "Breadth First Search (BFS)",
+  "subject": "mathematics",
+  "definition": "Breadth First Search (BFS) is a fundamental concept in mathematics.",
+  "explanation": "Learn about Breadth First Search (BFS) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "breadth-first-search-bfs"
+  ]
+}

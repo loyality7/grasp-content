@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Gene Editing",
+  "description": "Gene Editing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "CRISPR-Cas9",
+      "conceptId": "biology.biotechnology.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Guide RNA",
+      "conceptId": "biology.biotechnology.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Genome Editing",
+      "conceptId": "biology.biotechnology.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Base Editing",
+      "conceptId": "biology.biotechnology.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Prime Editing",
+      "conceptId": "biology.biotechnology.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Gene Therapy",
+      "conceptId": "biology.biotechnology.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Ethical Considerations",
+      "conceptId": "biology.biotechnology.chapter-05.topic-07"
+    }
+  ]
+}

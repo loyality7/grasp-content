@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Nature of Light",
+  "description": "Nature of Light",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Light?",
+      "conceptId": "physics.optics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Wave Theory of Light",
+      "conceptId": "physics.optics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Particle Theory of Light",
+      "conceptId": "physics.optics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Electromagnetic Nature of Light",
+      "conceptId": "physics.optics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Speed of Light",
+      "conceptId": "physics.optics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electromagnetic Spectrum",
+      "conceptId": "physics.optics.chapter-01.topic-06"
+    }
+  ]
+}

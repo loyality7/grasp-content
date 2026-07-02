@@ -1,0 +1,82 @@
+{
+  "id": "chapter-12",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Transition State Theory",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Diffusion-Controlled Reactions",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Photochemical Kinetics",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Oscillating Reactions",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Computational Reaction Dynamics",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Reaction Network Modeling",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Hydrogen",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Alkali Metals",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Alkaline Earth Metals",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Boron Group",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Carbon Group",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Nitrogen Group",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Oxygen Group",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Halogens",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Noble Gases",
+      "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-15"
+    }
+  ]
+}

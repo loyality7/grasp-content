@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-03.topic-03",
+  "name": "Mutant Strategies",
+  "subject": "game-theory",
+  "definition": "Mutant Strategies is a fundamental concept in game-theory.",
+  "explanation": "Learn about Mutant Strategies and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "mutant-strategies"
+  ]
+}

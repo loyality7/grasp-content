@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Abstraction",
+  "description": "Abstraction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Abstract Classes",
+      "conceptId": "computer-science.object-oriented-programming.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Abstract Methods",
+      "conceptId": "computer-science.object-oriented-programming.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Interfaces",
+      "conceptId": "computer-science.object-oriented-programming.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interface Implementation",
+      "conceptId": "computer-science.object-oriented-programming.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Multiple Interfaces",
+      "conceptId": "computer-science.object-oriented-programming.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "API Design",
+      "conceptId": "computer-science.object-oriented-programming.chapter-07.topic-06"
+    }
+  ]
+}

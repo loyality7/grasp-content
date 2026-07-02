@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Radiation Detection",
+  "description": "Radiation Detection",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Geiger-Müller Counter",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scintillation Detector",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cloud Chamber",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bubble Chamber",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Semiconductor Detectors",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dosimetry",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-10.topic-06"
+    }
+  ]
+}

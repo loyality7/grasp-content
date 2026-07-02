@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-10.topic-04",
+  "name": "Rabin-Karp",
+  "subject": "computer-science",
+  "definition": "Rabin-Karp is a fundamental concept in computer-science.",
+  "explanation": "Learn about Rabin-Karp and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "rabin-karp"
+  ]
+}

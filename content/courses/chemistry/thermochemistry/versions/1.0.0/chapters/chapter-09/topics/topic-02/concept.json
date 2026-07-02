@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.thermochemistry.chapter-09.topic-02",
+  "name": "Gibbs Equation",
+  "subject": "chemistry",
+  "definition": "Gibbs Equation is a fundamental concept in chemistry.",
+  "explanation": "Learn about Gibbs Equation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "gibbs-equation"
+  ]
+}

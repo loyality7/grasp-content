@@ -1,0 +1,465 @@
+{
+  "id": "periodic-table",
+  "name": "Periodic Table",
+  "description": "Periodic Table",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Development of the Periodic Table",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "History of the Periodic Table",
+          "conceptId": "chemistry.periodic-table.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dobereiner's Triads",
+          "conceptId": "chemistry.periodic-table.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Newlands' Law of Octaves",
+          "conceptId": "chemistry.periodic-table.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mendeleev's Periodic Table",
+          "conceptId": "chemistry.periodic-table.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Moseley's Atomic Number",
+          "conceptId": "chemistry.periodic-table.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Modern Periodic Law",
+          "conceptId": "chemistry.periodic-table.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Organization of the Periodic Table",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Periods",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Groups",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Blocks (s, p, d, f)",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metals",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nonmetals",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Metalloids",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Representative Elements",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Transition Elements",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Inner Transition Elements",
+          "conceptId": "chemistry.periodic-table.chapter-02.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Electronic Configuration & the Periodic Table",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electron Configuration Review",
+          "conceptId": "chemistry.periodic-table.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Valence Electrons",
+          "conceptId": "chemistry.periodic-table.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Valence Shell",
+          "conceptId": "chemistry.periodic-table.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Block Classification",
+          "conceptId": "chemistry.periodic-table.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Periodicity from Electron Configuration",
+          "conceptId": "chemistry.periodic-table.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Atomic Radius",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Radius",
+          "conceptId": "chemistry.periodic-table.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ionic Radius",
+          "conceptId": "chemistry.periodic-table.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Covalent Radius",
+          "conceptId": "chemistry.periodic-table.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metallic Radius",
+          "conceptId": "chemistry.periodic-table.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trends Across a Period",
+          "conceptId": "chemistry.periodic-table.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trends Down a Group",
+          "conceptId": "chemistry.periodic-table.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Ionization Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "First Ionization Energy",
+          "conceptId": "chemistry.periodic-table.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Successive Ionization Energies",
+          "conceptId": "chemistry.periodic-table.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Factors Affecting Ionization Energy",
+          "conceptId": "chemistry.periodic-table.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Periodic Trends",
+          "conceptId": "chemistry.periodic-table.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "conceptId": "chemistry.periodic-table.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Electron Affinity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electron Affinity",
+          "conceptId": "chemistry.periodic-table.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Factors Affecting Electron Affinity",
+          "conceptId": "chemistry.periodic-table.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Periodic Trends",
+          "conceptId": "chemistry.periodic-table.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Exceptions",
+          "conceptId": "chemistry.periodic-table.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Electronegativity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electronegativity",
+          "conceptId": "chemistry.periodic-table.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pauling Scale",
+          "conceptId": "chemistry.periodic-table.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Factors Affecting Electronegativity",
+          "conceptId": "chemistry.periodic-table.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Periodic Trends",
+          "conceptId": "chemistry.periodic-table.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bond Prediction",
+          "conceptId": "chemistry.periodic-table.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Metallic & Nonmetallic Character",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metallic Character",
+          "conceptId": "chemistry.periodic-table.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nonmetallic Character",
+          "conceptId": "chemistry.periodic-table.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reactivity of Metals",
+          "conceptId": "chemistry.periodic-table.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reactivity of Nonmetals",
+          "conceptId": "chemistry.periodic-table.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reducing Ability",
+          "conceptId": "chemistry.periodic-table.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Oxidizing Ability",
+          "conceptId": "chemistry.periodic-table.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Chemical Families",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Alkali Metals",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Alkaline Earth Metals",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Boron Group",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carbon Group",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nitrogen Group",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Oxygen Group",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Halogens",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Noble Gases",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Transition Metals",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Lanthanides",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Actinides",
+          "conceptId": "chemistry.periodic-table.chapter-09.topic-11"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Periodic Trends in Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Volume",
+          "conceptId": "chemistry.periodic-table.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Atomic Density",
+          "conceptId": "chemistry.periodic-table.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Melting Point Trends",
+          "conceptId": "chemistry.periodic-table.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Boiling Point Trends",
+          "conceptId": "chemistry.periodic-table.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxidation States",
+          "conceptId": "chemistry.periodic-table.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reactivity Trends",
+          "conceptId": "chemistry.periodic-table.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Predicting Chemical Properties",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Predicting Bond Types",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Predicting Reactivity",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Material Selection",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Chemistry",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Biological Importance of Elements",
+          "conceptId": "chemistry.periodic-table.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Periodic Anomalies",
+          "conceptId": "chemistry.periodic-table.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Relativistic Effects",
+          "conceptId": "chemistry.periodic-table.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Superheavy Elements",
+          "conceptId": "chemistry.periodic-table.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Synthetic Elements",
+          "conceptId": "chemistry.periodic-table.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Future Periodic Table Research",
+          "conceptId": "chemistry.periodic-table.chapter-12.topic-05"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "periodic-table"
+    ]
+  }
+}

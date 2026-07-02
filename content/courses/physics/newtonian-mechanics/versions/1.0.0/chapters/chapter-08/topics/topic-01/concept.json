@@ -1,0 +1,20 @@
+{
+  "id": "physics.newtonian-mechanics.chapter-08.topic-01",
+  "name": "Centripetal Force",
+  "subject": "physics",
+  "definition": "Centripetal Force is a fundamental concept in physics.",
+  "explanation": "Learn about Centripetal Force and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "centripetal-force"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Software Engineering",
+  "description": "Introduction to Software Engineering",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Software Engineering?",
+      "conceptId": "computer-science.software-engineering.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Software Development Life Cycle (SDLC)",
+      "conceptId": "computer-science.software-engineering.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Software Process Models",
+      "conceptId": "computer-science.software-engineering.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Software Quality",
+      "conceptId": "computer-science.software-engineering.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Software Engineering Principles",
+      "conceptId": "computer-science.software-engineering.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Roles in Software Development",
+      "conceptId": "computer-science.software-engineering.chapter-01.topic-06"
+    }
+  ]
+}

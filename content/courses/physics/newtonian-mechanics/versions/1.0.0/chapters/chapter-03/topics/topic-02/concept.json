@@ -1,0 +1,20 @@
+{
+  "id": "physics.newtonian-mechanics.chapter-03.topic-02",
+  "name": "Net Force",
+  "subject": "physics",
+  "definition": "Net Force is a fundamental concept in physics.",
+  "explanation": "Learn about Net Force and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "net-force"
+  ]
+}

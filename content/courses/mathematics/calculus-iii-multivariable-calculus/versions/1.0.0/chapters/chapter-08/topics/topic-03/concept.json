@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-03",
+  "name": "Iterated Integrals",
+  "subject": "mathematics",
+  "definition": "Iterated Integrals is a fundamental concept in mathematics.",
+  "explanation": "Learn about Iterated Integrals and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "iterated-integrals"
+  ]
+}

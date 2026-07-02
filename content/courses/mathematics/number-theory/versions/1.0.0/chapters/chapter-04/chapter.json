@@ -1,0 +1,22 @@
+{
+  "id": "chapter-04",
+  "name": "Linear Congruences",
+  "description": "Linear Congruences",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Solving Linear Congruences",
+      "conceptId": "mathematics.number-theory.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chinese Remainder Theorem",
+      "conceptId": "mathematics.number-theory.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Applications",
+      "conceptId": "mathematics.number-theory.chapter-04.topic-03"
+    }
+  ]
+}

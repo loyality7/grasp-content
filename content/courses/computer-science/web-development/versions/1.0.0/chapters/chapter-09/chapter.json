@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "REST APIs",
+  "description": "REST APIs",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "API Design",
+      "conceptId": "computer-science.web-development.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "REST Principles",
+      "conceptId": "computer-science.web-development.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "HTTP Methods",
+      "conceptId": "computer-science.web-development.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "JSON",
+      "conceptId": "computer-science.web-development.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "API Authentication",
+      "conceptId": "computer-science.web-development.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "API Documentation",
+      "conceptId": "computer-science.web-development.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "API Testing",
+      "conceptId": "computer-science.web-development.chapter-09.topic-07"
+    }
+  ]
+}

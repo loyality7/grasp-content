@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-04.topic-04",
+  "name": "Probability Density Function (PDF)",
+  "subject": "mathematics",
+  "definition": "Probability Density Function (PDF) is a fundamental concept in mathematics.",
+  "explanation": "Learn about Probability Density Function (PDF) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "probability-density-function-pdf"
+  ]
+}

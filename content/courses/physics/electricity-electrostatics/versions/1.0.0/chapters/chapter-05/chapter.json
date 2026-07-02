@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Gauss's Law",
+  "description": "Gauss's Law",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Gauss's Law",
+      "conceptId": "physics.electricity-electrostatics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Symmetry",
+      "conceptId": "physics.electricity-electrostatics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Spherical Charge Distribution",
+      "conceptId": "physics.electricity-electrostatics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cylindrical Charge Distribution",
+      "conceptId": "physics.electricity-electrostatics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Infinite Plane Sheet",
+      "conceptId": "physics.electricity-electrostatics.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "physics.electricity-electrostatics.chapter-05.topic-06"
+    }
+  ]
+}

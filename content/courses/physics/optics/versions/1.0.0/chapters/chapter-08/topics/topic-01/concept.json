@@ -1,0 +1,20 @@
+{
+  "id": "physics.optics.chapter-08.topic-01",
+  "name": "Single Slit Diffraction",
+  "subject": "physics",
+  "definition": "Single Slit Diffraction is a fundamental concept in physics.",
+  "explanation": "Learn about Single Slit Diffraction and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "single-slit-diffraction"
+  ]
+}

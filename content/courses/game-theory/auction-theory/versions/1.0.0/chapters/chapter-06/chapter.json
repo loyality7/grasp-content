@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Bidder Strategies",
+  "description": "Bidder Strategies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Optimal Bidding",
+      "conceptId": "game-theory.auction-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Risk Aversion",
+      "conceptId": "game-theory.auction-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Information Advantage",
+      "conceptId": "game-theory.auction-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Strategic Signaling",
+      "conceptId": "game-theory.auction-theory.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Collusion",
+      "conceptId": "game-theory.auction-theory.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Entry Decisions",
+      "conceptId": "game-theory.auction-theory.chapter-06.topic-06"
+    }
+  ]
+}

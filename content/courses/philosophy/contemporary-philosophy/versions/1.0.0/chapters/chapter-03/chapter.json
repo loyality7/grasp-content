@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Phenomenology & Existentialism",
+  "description": "Phenomenology & Existentialism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Phenomenology",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Intentionality",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Existentialism",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Freedom",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Authenticity",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Meaning of Life",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-06"
+    }
+  ]
+}

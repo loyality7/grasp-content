@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Characteristic Functions",
+  "description": "Characteristic Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Characteristic Function",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Coalition Value",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Transferable Utility (TU)",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Non-Transferable Utility (NTU)",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Coalition Worth",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cooperative Game Representation",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-03.topic-04",
+  "name": "Hidden Actions",
+  "subject": "game-theory",
+  "definition": "Hidden Actions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Hidden Actions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "hidden-actions"
+  ]
+}

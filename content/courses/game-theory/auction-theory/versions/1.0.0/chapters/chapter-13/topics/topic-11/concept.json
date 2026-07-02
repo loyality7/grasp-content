@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-13.topic-11",
+  "name": "Arrow's Impossibility Theorem",
+  "subject": "game-theory",
+  "definition": "Arrow's Impossibility Theorem is a fundamental concept in game-theory.",
+  "explanation": "Learn about Arrow's Impossibility Theorem and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "arrows-impossibility-theorem"
+  ]
+}

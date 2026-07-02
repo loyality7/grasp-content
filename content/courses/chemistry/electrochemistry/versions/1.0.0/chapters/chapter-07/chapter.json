@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Electrolysis",
+  "description": "Electrolysis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electrolytic Cells",
+      "conceptId": "chemistry.electrochemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Electrolysis Principles",
+      "conceptId": "chemistry.electrochemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Faraday's Laws of Electrolysis",
+      "conceptId": "chemistry.electrochemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Electrolysis of Molten Salts",
+      "conceptId": "chemistry.electrochemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Electrolysis of Aqueous Solutions",
+      "conceptId": "chemistry.electrochemistry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Industrial Electrolysis",
+      "conceptId": "chemistry.electrochemistry.chapter-07.topic-06"
+    }
+  ]
+}

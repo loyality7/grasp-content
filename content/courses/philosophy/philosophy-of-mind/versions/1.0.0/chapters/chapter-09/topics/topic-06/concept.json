@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.philosophy-of-mind.chapter-09.topic-06",
+  "name": "Turing Test",
+  "subject": "philosophy",
+  "definition": "Turing Test is a fundamental concept in philosophy.",
+  "explanation": "Learn about Turing Test and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "turing-test"
+  ]
+}

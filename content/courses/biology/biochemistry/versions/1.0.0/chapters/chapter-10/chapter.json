@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Photosynthesis & Plant Biochemistry",
+  "description": "Photosynthesis & Plant Biochemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Photosynthesis",
+      "conceptId": "biology.biochemistry.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Light Reactions",
+      "conceptId": "biology.biochemistry.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Calvin Cycle",
+      "conceptId": "biology.biochemistry.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Chlorophyll",
+      "conceptId": "biology.biochemistry.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Carbon Fixation",
+      "conceptId": "biology.biochemistry.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Plant Metabolism",
+      "conceptId": "biology.biochemistry.chapter-10.topic-06"
+    }
+  ]
+}

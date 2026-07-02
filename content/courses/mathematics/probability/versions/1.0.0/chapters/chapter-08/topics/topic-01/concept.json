@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-08.topic-01",
+  "name": "Joint Distributions",
+  "subject": "mathematics",
+  "definition": "Joint Distributions is a fundamental concept in mathematics.",
+  "explanation": "Learn about Joint Distributions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "joint-distributions"
+  ]
+}

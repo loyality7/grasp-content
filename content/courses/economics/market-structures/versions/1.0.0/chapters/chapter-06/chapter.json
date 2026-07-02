@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Strategic Behavior",
+  "description": "Strategic Behavior",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Game Theory",
+      "conceptId": "economics.market-structures.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Nash Equilibrium",
+      "conceptId": "economics.market-structures.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Prisoner's Dilemma",
+      "conceptId": "economics.market-structures.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Repeated Games",
+      "conceptId": "economics.market-structures.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Entry Deterrence",
+      "conceptId": "economics.market-structures.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Competitive Strategy",
+      "conceptId": "economics.market-structures.chapter-06.topic-06"
+    }
+  ]
+}

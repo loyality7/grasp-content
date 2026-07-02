@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-13.topic-18",
+  "name": "GPU Programming",
+  "subject": "computer-science",
+  "definition": "GPU Programming is a fundamental concept in computer-science.",
+  "explanation": "Learn about GPU Programming and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "gpu-programming"
+  ]
+}

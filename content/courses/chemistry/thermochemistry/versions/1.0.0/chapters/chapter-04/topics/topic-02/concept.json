@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.thermochemistry.chapter-04.topic-02",
+  "name": "Heat Capacity",
+  "subject": "chemistry",
+  "definition": "Heat Capacity is a fundamental concept in chemistry.",
+  "explanation": "Learn about Heat Capacity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "heat-capacity"
+  ]
+}

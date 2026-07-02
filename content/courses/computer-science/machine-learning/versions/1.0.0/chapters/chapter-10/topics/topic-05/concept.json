@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-10.topic-05",
+  "name": "Edge Deployment",
+  "subject": "computer-science",
+  "definition": "Edge Deployment is a fundamental concept in computer-science.",
+  "explanation": "Learn about Edge Deployment and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "edge-deployment"
+  ]
+}

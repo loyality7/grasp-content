@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-10.topic-04",
+  "name": "Mutation",
+  "subject": "game-theory",
+  "definition": "Mutation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Mutation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "mutation"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "States of Matter",
+  "description": "States of Matter",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Solids",
+      "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Liquids",
+      "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Gases",
+      "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Plasma",
+      "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bose-Einstein Condensate (Introduction)",
+      "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Phase Changes",
+      "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-06"
+    }
+  ]
+}

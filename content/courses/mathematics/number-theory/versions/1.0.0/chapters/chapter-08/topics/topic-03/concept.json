@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-08.topic-03",
+  "name": "Jacobi Symbol",
+  "subject": "mathematics",
+  "definition": "Jacobi Symbol is a fundamental concept in mathematics.",
+  "explanation": "Learn about Jacobi Symbol and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "jacobi-symbol"
+  ]
+}

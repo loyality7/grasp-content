@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-19.topic-04",
+  "name": "RC Time Constant",
+  "subject": "physics",
+  "definition": "RC Time Constant is a fundamental concept in physics.",
+  "explanation": "Learn about RC Time Constant and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "rc-time-constant"
+  ]
+}

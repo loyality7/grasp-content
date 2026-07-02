@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-02.topic-02",
+  "name": "Vector Mathematics",
+  "subject": "chemistry",
+  "definition": "Vector Mathematics is a fundamental concept in chemistry.",
+  "explanation": "Learn about Vector Mathematics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "vector-mathematics"
+  ]
+}

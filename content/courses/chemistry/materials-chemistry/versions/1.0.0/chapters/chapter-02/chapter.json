@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Crystal Structure",
+  "description": "Crystal Structure",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Crystal Lattices",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Unit Cells",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Crystal Systems",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bravais Lattices",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Crystal Defects",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Grain Boundaries",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Amorphous Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-02.topic-07"
+    }
+  ]
+}

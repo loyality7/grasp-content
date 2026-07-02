@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-02.topic-05",
+  "name": "Finite Automata",
+  "subject": "computer-science",
+  "definition": "Finite Automata is a fundamental concept in computer-science.",
+  "explanation": "Learn about Finite Automata and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "finite-automata"
+  ]
+}

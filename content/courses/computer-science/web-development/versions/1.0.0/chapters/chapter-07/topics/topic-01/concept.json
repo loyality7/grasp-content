@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-07.topic-01",
+  "name": "Server-Side Programming",
+  "subject": "computer-science",
+  "definition": "Server-Side Programming is a fundamental concept in computer-science.",
+  "explanation": "Learn about Server-Side Programming and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "server-side-programming"
+  ]
+}

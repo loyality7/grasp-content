@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-03.topic-05",
+  "name": "k-Nearest Neighbors (k-NN)",
+  "subject": "computer-science",
+  "definition": "k-Nearest Neighbors (k-NN) is a fundamental concept in computer-science.",
+  "explanation": "Learn about k-Nearest Neighbors (k-NN) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "k-nearest-neighbors-k-nn"
+  ]
+}

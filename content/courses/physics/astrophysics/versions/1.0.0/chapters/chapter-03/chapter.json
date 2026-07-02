@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Stellar Structure",
+  "description": "Stellar Structure",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Formation of Stars",
+      "conceptId": "physics.astrophysics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hydrostatic Equilibrium",
+      "conceptId": "physics.astrophysics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Internal Structure",
+      "conceptId": "physics.astrophysics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Energy Transport",
+      "conceptId": "physics.astrophysics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Stellar Atmospheres",
+      "conceptId": "physics.astrophysics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hertzsprung–Russell Diagram",
+      "conceptId": "physics.astrophysics.chapter-03.topic-06"
+    }
+  ]
+}

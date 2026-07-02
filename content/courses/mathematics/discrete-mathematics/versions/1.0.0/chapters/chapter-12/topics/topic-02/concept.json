@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-12.topic-02",
+  "name": "Big O Notation",
+  "subject": "mathematics",
+  "definition": "Big O Notation is a fundamental concept in mathematics.",
+  "explanation": "Learn about Big O Notation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "big-o-notation"
+  ]
+}

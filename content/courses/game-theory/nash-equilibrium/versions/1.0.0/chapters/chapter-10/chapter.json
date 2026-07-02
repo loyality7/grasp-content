@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Equilibrium in Computer Science & AI",
+  "description": "Equilibrium in Computer Science & AI",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multi-Agent Systems",
+      "conceptId": "game-theory.nash-equilibrium.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reinforcement Learning",
+      "conceptId": "game-theory.nash-equilibrium.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Algorithmic Game Theory",
+      "conceptId": "game-theory.nash-equilibrium.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Network Routing",
+      "conceptId": "game-theory.nash-equilibrium.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Distributed Systems",
+      "conceptId": "game-theory.nash-equilibrium.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Strategy",
+      "conceptId": "game-theory.nash-equilibrium.chapter-10.topic-06"
+    }
+  ]
+}

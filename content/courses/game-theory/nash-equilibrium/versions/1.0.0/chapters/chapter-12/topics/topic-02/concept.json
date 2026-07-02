@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-12.topic-02",
+  "name": "Complexity",
+  "subject": "game-theory",
+  "definition": "Complexity is a fundamental concept in game-theory.",
+  "explanation": "Learn about Complexity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "complexity"
+  ]
+}

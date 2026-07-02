@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-03.topic-04",
+  "name": "Multiplexers",
+  "subject": "computer-science",
+  "definition": "Multiplexers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Multiplexers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "multiplexers"
+  ]
+}

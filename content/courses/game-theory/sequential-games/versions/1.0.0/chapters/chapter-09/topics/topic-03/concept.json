@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-09.topic-03",
+  "name": "Stackelberg Competition",
+  "subject": "game-theory",
+  "definition": "Stackelberg Competition is a fundamental concept in game-theory.",
+  "explanation": "Learn about Stackelberg Competition and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "stackelberg-competition"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Game Theory",
+  "description": "Game Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Strategic Interaction",
+      "conceptId": "economics.microeconomics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dominant Strategies",
+      "conceptId": "economics.microeconomics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Nash Equilibrium",
+      "conceptId": "economics.microeconomics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Prisoner's Dilemma",
+      "conceptId": "economics.microeconomics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Repeated Games",
+      "conceptId": "economics.microeconomics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Business Applications",
+      "conceptId": "economics.microeconomics.chapter-09.topic-06"
+    }
+  ]
+}

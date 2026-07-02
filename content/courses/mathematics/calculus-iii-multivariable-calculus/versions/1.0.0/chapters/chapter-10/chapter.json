@@ -1,0 +1,27 @@
+{
+  "id": "chapter-10",
+  "name": "Vector Fields",
+  "description": "Vector Fields",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Vector Fields",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gradient Fields",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conservative Fields",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Potential Functions",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-04"
+    }
+  ]
+}

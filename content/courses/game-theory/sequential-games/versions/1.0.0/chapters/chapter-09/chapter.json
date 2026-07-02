@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Dynamic Competition",
+  "description": "Dynamic Competition",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "First-Mover Advantage",
+      "conceptId": "game-theory.sequential-games.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Second-Mover Advantage",
+      "conceptId": "game-theory.sequential-games.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Stackelberg Competition",
+      "conceptId": "game-theory.sequential-games.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dynamic Pricing",
+      "conceptId": "game-theory.sequential-games.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Market Entry",
+      "conceptId": "game-theory.sequential-games.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Competitive Timing",
+      "conceptId": "game-theory.sequential-games.chapter-09.topic-06"
+    }
+  ]
+}

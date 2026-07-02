@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-09.topic-02",
+  "name": "Oligopoly",
+  "subject": "game-theory",
+  "definition": "Oligopoly is a fundamental concept in game-theory.",
+  "explanation": "Learn about Oligopoly and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "oligopoly"
+  ]
+}

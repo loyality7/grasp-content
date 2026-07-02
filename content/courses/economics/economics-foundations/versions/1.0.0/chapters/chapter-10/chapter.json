@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Government & Public Policy",
+  "description": "Government & Public Policy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Taxes",
+      "conceptId": "economics.economics-foundations.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Government Spending",
+      "conceptId": "economics.economics-foundations.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Budget Deficit",
+      "conceptId": "economics.economics-foundations.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Public Debt",
+      "conceptId": "economics.economics-foundations.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fiscal Policy",
+      "conceptId": "economics.economics-foundations.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Regulation",
+      "conceptId": "economics.economics-foundations.chapter-10.topic-06"
+    }
+  ]
+}

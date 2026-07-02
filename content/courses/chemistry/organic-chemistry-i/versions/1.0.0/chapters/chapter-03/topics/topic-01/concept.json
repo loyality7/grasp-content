@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.organic-chemistry-i.chapter-03.topic-01",
+  "name": "Functional Groups",
+  "subject": "chemistry",
+  "definition": "Functional Groups is a fundamental concept in chemistry.",
+  "explanation": "Learn about Functional Groups and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "functional-groups"
+  ]
+}

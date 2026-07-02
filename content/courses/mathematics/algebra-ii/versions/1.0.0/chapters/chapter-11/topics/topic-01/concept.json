@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-ii.chapter-11.topic-01",
+  "name": "Matrix Basics",
+  "subject": "mathematics",
+  "definition": "Matrix Basics is a fundamental concept in mathematics.",
+  "explanation": "Learn about Matrix Basics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "matrix-basics"
+  ]
+}

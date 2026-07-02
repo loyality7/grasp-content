@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nuclear-chemistry.chapter-04.topic-05",
+  "name": "Q-Value",
+  "subject": "chemistry",
+  "definition": "Q-Value is a fundamental concept in chemistry.",
+  "explanation": "Learn about Q-Value and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "q-value"
+  ]
+}

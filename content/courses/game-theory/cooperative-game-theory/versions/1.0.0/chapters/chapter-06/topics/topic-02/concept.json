@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-06.topic-02",
+  "name": "Nash Bargaining Solution",
+  "subject": "game-theory",
+  "definition": "Nash Bargaining Solution is a fundamental concept in game-theory.",
+  "explanation": "Learn about Nash Bargaining Solution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "nash-bargaining-solution"
+  ]
+}

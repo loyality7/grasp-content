@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Politics & Voting",
+  "description": "Politics & Voting",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Elections",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Coalition Governments",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Legislative Bargaining",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Public Choice",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Voting Systems",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Policy Design",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-06"
+    }
+  ]
+}

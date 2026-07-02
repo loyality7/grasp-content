@@ -1,0 +1,32 @@
+{
+  "id": "chapter-04",
+  "name": "Elementary Complex Functions",
+  "description": "Elementary Complex Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Exponential Function",
+      "conceptId": "mathematics.complex-analysis.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Logarithmic Function",
+      "conceptId": "mathematics.complex-analysis.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Trigonometric Functions",
+      "conceptId": "mathematics.complex-analysis.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hyperbolic Functions",
+      "conceptId": "mathematics.complex-analysis.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Inverse Functions",
+      "conceptId": "mathematics.complex-analysis.chapter-04.topic-05"
+    }
+  ]
+}

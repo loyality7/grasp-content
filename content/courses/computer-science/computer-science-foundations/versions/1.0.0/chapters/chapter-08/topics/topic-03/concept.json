@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-08.topic-03",
+  "name": "Databases (Introduction)",
+  "subject": "computer-science",
+  "definition": "Databases (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Databases (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "databases-introduction"
+  ]
+}

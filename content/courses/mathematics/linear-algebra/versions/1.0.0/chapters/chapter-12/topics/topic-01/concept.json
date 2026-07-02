@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-12.topic-01",
+  "name": "Symmetric Matrices",
+  "subject": "mathematics",
+  "definition": "Symmetric Matrices is a fundamental concept in mathematics.",
+  "explanation": "Learn about Symmetric Matrices and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "symmetric-matrices"
+  ]
+}

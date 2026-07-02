@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-11.topic-05",
+  "name": "Design for Maintainability",
+  "subject": "computer-science",
+  "definition": "Design for Maintainability is a fundamental concept in computer-science.",
+  "explanation": "Learn about Design for Maintainability and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "design-for-maintainability"
+  ]
+}

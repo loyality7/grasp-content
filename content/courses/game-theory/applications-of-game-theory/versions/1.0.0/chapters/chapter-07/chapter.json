@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Computer Science",
+  "description": "Computer Science",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Network Routing",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Distributed Systems",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Blockchain Consensus",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Resource Scheduling",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cloud Computing",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Algorithmic Mechanism Design",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-04.topic-03",
+  "name": "Operators",
+  "subject": "computer-science",
+  "definition": "Operators is a fundamental concept in computer-science.",
+  "explanation": "Learn about Operators and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "operators"
+  ]
+}

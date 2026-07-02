@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-06.topic-05",
+  "name": "Proton NMR (¹H NMR)",
+  "subject": "chemistry",
+  "definition": "Proton NMR (¹H NMR) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Proton NMR (¹H NMR) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "proton-nmr-h-nmr"
+  ]
+}

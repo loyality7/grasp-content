@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07",
+  "name": "Escape Velocity",
+  "description": "Escape Velocity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Escape Velocity",
+      "conceptId": "physics.gravitation.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Escape Trajectory",
+      "conceptId": "physics.gravitation.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Energy Required to Escape",
+      "conceptId": "physics.gravitation.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Planetary Escape",
+      "conceptId": "physics.gravitation.chapter-07.topic-04"
+    }
+  ]
+}

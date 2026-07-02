@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Antimicrobial Therapy",
+  "description": "Antimicrobial Therapy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Antibiotics",
+      "conceptId": "biology.microbiology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Antiviral Drugs",
+      "conceptId": "biology.microbiology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Antifungal Drugs",
+      "conceptId": "biology.microbiology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Antiparasitic Drugs",
+      "conceptId": "biology.microbiology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Drug Resistance",
+      "conceptId": "biology.microbiology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Antibiotic Stewardship",
+      "conceptId": "biology.microbiology.chapter-10.topic-06"
+    }
+  ]
+}

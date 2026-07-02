@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Artificial Intelligence & Mind",
+  "description": "Artificial Intelligence & Mind",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Artificial Intelligence",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Machine Intelligence",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Strong AI",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Weak AI",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Chinese Room Argument",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Turing Test",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-06"
+    }
+  ]
+}

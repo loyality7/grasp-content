@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Hess's Law",
+  "description": "Hess's Law",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Hess's Law",
+      "conceptId": "chemistry.thermochemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Enthalpy Cycles",
+      "conceptId": "chemistry.thermochemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Born-Haber Cycle",
+      "conceptId": "chemistry.thermochemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "chemistry.thermochemistry.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Indirect Enthalpy Calculations",
+      "conceptId": "chemistry.thermochemistry.chapter-06.topic-05"
+    }
+  ]
+}

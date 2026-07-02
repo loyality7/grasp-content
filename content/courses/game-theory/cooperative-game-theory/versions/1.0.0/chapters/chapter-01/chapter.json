@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Cooperative Game Theory",
+  "description": "Introduction to Cooperative Game Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Cooperative Game Theory?",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cooperation vs Competition",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Coalitions",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Collective Decision Making",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Shared Objectives",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-06"
+    }
+  ]
+}

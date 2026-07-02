@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-03.topic-04",
+  "name": "Virtual Private Networks (VPNs)",
+  "subject": "computer-science",
+  "definition": "Virtual Private Networks (VPNs) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Virtual Private Networks (VPNs) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "virtual-private-networks-vpns"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-06.topic-01",
+  "name": "Integral Test",
+  "subject": "mathematics",
+  "definition": "Integral Test is a fundamental concept in mathematics.",
+  "explanation": "Learn about Integral Test and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "integral-test"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Amino Acids",
+  "description": "Amino Acids",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Structure of Amino Acids",
+      "conceptId": "chemistry.biomolecules.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Classification",
+      "conceptId": "chemistry.biomolecules.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Essential Amino Acids",
+      "conceptId": "chemistry.biomolecules.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Non-Essential Amino Acids",
+      "conceptId": "chemistry.biomolecules.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Zwitterions",
+      "conceptId": "chemistry.biomolecules.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Isoelectric Point",
+      "conceptId": "chemistry.biomolecules.chapter-04.topic-06"
+    }
+  ]
+}

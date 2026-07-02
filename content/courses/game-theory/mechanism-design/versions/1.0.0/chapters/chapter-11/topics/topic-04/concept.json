@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-11.topic-04",
+  "name": "Resource Coordination",
+  "subject": "game-theory",
+  "definition": "Resource Coordination is a fundamental concept in game-theory.",
+  "explanation": "Learn about Resource Coordination and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "resource-coordination"
+  ]
+}

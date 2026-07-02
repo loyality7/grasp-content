@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-13.topic-03",
+  "name": "Robust Mechanism Design",
+  "subject": "game-theory",
+  "definition": "Robust Mechanism Design is a fundamental concept in game-theory.",
+  "explanation": "Learn about Robust Mechanism Design and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "robust-mechanism-design"
+  ]
+}

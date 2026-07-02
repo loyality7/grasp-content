@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Notifications & Background Tasks",
+  "description": "Notifications & Background Tasks",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Push Notifications",
+      "conceptId": "computer-science.mobile-development.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Local Notifications",
+      "conceptId": "computer-science.mobile-development.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Background Services",
+      "conceptId": "computer-science.mobile-development.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Scheduling Tasks",
+      "conceptId": "computer-science.mobile-development.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "App Lifecycle Management",
+      "conceptId": "computer-science.mobile-development.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Battery Optimization",
+      "conceptId": "computer-science.mobile-development.chapter-08.topic-06"
+    }
+  ]
+}

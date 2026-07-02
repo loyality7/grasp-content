@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Advanced Trigonometric Functions",
+  "description": "Advanced Trigonometric Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Unit Circle Review",
+      "conceptId": "mathematics.precalculus.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Trigonometric Graphs",
+      "conceptId": "mathematics.precalculus.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inverse Trigonometric Functions",
+      "conceptId": "mathematics.precalculus.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Trigonometric Identities",
+      "conceptId": "mathematics.precalculus.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trigonometric Equations",
+      "conceptId": "mathematics.precalculus.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "mathematics.precalculus.chapter-07.topic-06"
+    }
+  ]
+}

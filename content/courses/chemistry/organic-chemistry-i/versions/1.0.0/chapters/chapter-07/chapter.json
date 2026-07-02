@@ -1,0 +1,47 @@
+{
+  "id": "chapter-07",
+  "name": "Organic Reaction Mechanisms",
+  "description": "Organic Reaction Mechanisms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Homolytic Cleavage",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Heterolytic Cleavage",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Free Radicals",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Carbocations",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Carbanions",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electrophiles",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Nucleophiles",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Curved Arrow Notation",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-07.topic-08"
+    }
+  ]
+}

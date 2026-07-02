@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Multi-Body Gravitation",
+  "description": "Multi-Body Gravitation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Center of Mass",
+      "conceptId": "physics.gravitation.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Earth-Moon System",
+      "conceptId": "physics.gravitation.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Tidal Forces",
+      "conceptId": "physics.gravitation.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Lagrange Points (Introduction)",
+      "conceptId": "physics.gravitation.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Binary Systems",
+      "conceptId": "physics.gravitation.chapter-09.topic-05"
+    }
+  ]
+}

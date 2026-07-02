@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nuclear-chemistry.chapter-01.topic-02",
+  "name": "Atomic Nucleus",
+  "subject": "chemistry",
+  "definition": "Atomic Nucleus is a fundamental concept in chemistry.",
+  "explanation": "Learn about Atomic Nucleus and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "atomic-nucleus"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Financial Markets",
+  "description": "Financial Markets",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Money Markets",
+      "conceptId": "economics.monetary-economics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Capital Markets",
+      "conceptId": "economics.monetary-economics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Equity Markets",
+      "conceptId": "economics.monetary-economics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bond Markets",
+      "conceptId": "economics.monetary-economics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Foreign Exchange Markets",
+      "conceptId": "economics.monetary-economics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Financial Instruments",
+      "conceptId": "economics.monetary-economics.chapter-07.topic-06"
+    }
+  ]
+}

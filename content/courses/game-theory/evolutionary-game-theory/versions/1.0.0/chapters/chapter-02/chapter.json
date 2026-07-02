@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Fitness & Natural Selection",
+  "description": "Fitness & Natural Selection",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Biological Fitness",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reproductive Success",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Natural Selection",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Adaptation",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Selection Pressure",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Population Dynamics",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-02.topic-06"
+    }
+  ]
+}

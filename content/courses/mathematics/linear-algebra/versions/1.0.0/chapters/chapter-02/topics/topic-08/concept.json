@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-02.topic-08",
+  "name": "Identity Matrix",
+  "subject": "mathematics",
+  "definition": "Identity Matrix is a fundamental concept in mathematics.",
+  "explanation": "Learn about Identity Matrix and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "identity-matrix"
+  ]
+}

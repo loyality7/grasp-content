@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-13.topic-12",
+  "name": "Inheritance",
+  "subject": "computer-science",
+  "definition": "Inheritance is a fundamental concept in computer-science.",
+  "explanation": "Learn about Inheritance and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "inheritance"
+  ]
+}

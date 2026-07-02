@@ -1,0 +1,47 @@
+{
+  "id": "chapter-05",
+  "name": "Sensation & Perception",
+  "description": "Sensation & Perception",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sensation",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Perception",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vision",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hearing",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Touch",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Taste",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Smell",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Perceptual Organization",
+      "conceptId": "psychology.psychology-foundations.chapter-05.topic-08"
+    }
+  ]
+}

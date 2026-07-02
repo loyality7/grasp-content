@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.simultaneous-games.chapter-02.topic-01",
+  "name": "Payoff Matrix",
+  "subject": "game-theory",
+  "definition": "Payoff Matrix is a fundamental concept in game-theory.",
+  "explanation": "Learn about Payoff Matrix and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "payoff-matrix"
+  ]
+}

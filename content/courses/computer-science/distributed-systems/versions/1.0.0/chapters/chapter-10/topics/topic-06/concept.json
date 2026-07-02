@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-10.topic-06",
+  "name": "Distributed Analytics",
+  "subject": "computer-science",
+  "definition": "Distributed Analytics is a fundamental concept in computer-science.",
+  "explanation": "Learn about Distributed Analytics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "distributed-analytics"
+  ]
+}

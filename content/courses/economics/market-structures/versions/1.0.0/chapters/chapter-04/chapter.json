@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Monopolistic Competition",
+  "description": "Monopolistic Competition",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Product Differentiation",
+      "conceptId": "economics.market-structures.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Brand Competition",
+      "conceptId": "economics.market-structures.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Short-Run Equilibrium",
+      "conceptId": "economics.market-structures.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Long-Run Equilibrium",
+      "conceptId": "economics.market-structures.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Advertising",
+      "conceptId": "economics.market-structures.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Non-Price Competition",
+      "conceptId": "economics.market-structures.chapter-04.topic-06"
+    }
+  ]
+}

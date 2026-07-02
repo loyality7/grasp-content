@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Taxation",
+  "description": "Taxation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Principles of Taxation",
+      "conceptId": "economics.public-economics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Direct Taxes",
+      "conceptId": "economics.public-economics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Indirect Taxes",
+      "conceptId": "economics.public-economics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Progressive Taxation",
+      "conceptId": "economics.public-economics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Regressive Taxation",
+      "conceptId": "economics.public-economics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Tax Incidence",
+      "conceptId": "economics.public-economics.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Tax Efficiency",
+      "conceptId": "economics.public-economics.chapter-04.topic-07"
+    }
+  ]
+}

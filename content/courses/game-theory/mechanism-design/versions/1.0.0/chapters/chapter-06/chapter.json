@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Matching Markets",
+  "description": "Matching Markets",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Stable Matching",
+      "conceptId": "game-theory.mechanism-design.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Matching Algorithms",
+      "conceptId": "game-theory.mechanism-design.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Deferred Acceptance Algorithm",
+      "conceptId": "game-theory.mechanism-design.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "School Choice",
+      "conceptId": "game-theory.mechanism-design.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Medical Residency Matching",
+      "conceptId": "game-theory.mechanism-design.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Marketplace Design",
+      "conceptId": "game-theory.mechanism-design.chapter-06.topic-06"
+    }
+  ]
+}

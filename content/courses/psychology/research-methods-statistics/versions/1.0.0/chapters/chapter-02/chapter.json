@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Research Design",
+  "description": "Research Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Experimental Research",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Quasi-Experimental Research",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Correlational Research",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Descriptive Research",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Longitudinal Studies",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cross-Sectional Studies",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Mixed Methods Research",
+      "conceptId": "psychology.research-methods-statistics.chapter-02.topic-07"
+    }
+  ]
+}

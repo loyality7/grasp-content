@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-09.topic-02",
+  "name": "Differential Scanning Calorimetry (DSC)",
+  "subject": "chemistry",
+  "definition": "Differential Scanning Calorimetry (DSC) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Differential Scanning Calorimetry (DSC) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "differential-scanning-calorimetry-dsc"
+  ]
+}

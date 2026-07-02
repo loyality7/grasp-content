@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Optical Materials",
+  "description": "Optical Materials",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Optical Glass",
+      "conceptId": "chemistry.materials-chemistry.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Optical Fibers",
+      "conceptId": "chemistry.materials-chemistry.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Photonic Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Luminescent Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Laser Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Transparent Conductors",
+      "conceptId": "chemistry.materials-chemistry.chapter-08.topic-06"
+    }
+  ]
+}

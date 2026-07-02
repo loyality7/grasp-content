@@ -1,0 +1,27 @@
+{
+  "id": "chapter-04",
+  "name": "Reaction Quotient",
+  "description": "Reaction Quotient",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Reaction Quotient (Q)",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Comparing Q and K",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Predicting Reaction Direction",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equilibrium Calculations",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-04.topic-04"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": "behavioral-economics",
+  "name": "Behavioral Economics",
+  "description": "Behavioral Economics",
+  "version": "1.0.0",
+  "domain": "economics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Behavioral Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Behavioral Economics?",
+          "conceptId": "economics.behavioral-economics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rational Choice Theory",
+          "conceptId": "economics.behavioral-economics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bounded Rationality",
+          "conceptId": "economics.behavioral-economics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavioral Decision Making",
+          "conceptId": "economics.behavioral-economics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "History of Behavioral Economics",
+          "conceptId": "economics.behavioral-economics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "economics.behavioral-economics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Cognitive Biases",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Confirmation Bias",
+          "conceptId": "economics.behavioral-economics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Anchoring Bias",
+          "conceptId": "economics.behavioral-economics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Availability Heuristic",
+          "conceptId": "economics.behavioral-economics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Representativeness Heuristic",
+          "conceptId": "economics.behavioral-economics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Overconfidence Bias",
+          "conceptId": "economics.behavioral-economics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hindsight Bias",
+          "conceptId": "economics.behavioral-economics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Heuristics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mental Shortcuts",
+          "conceptId": "economics.behavioral-economics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fast & Slow Thinking",
+          "conceptId": "economics.behavioral-economics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rule of Thumb Decisions",
+          "conceptId": "economics.behavioral-economics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Satisficing",
+          "conceptId": "economics.behavioral-economics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decision Making Under Uncertainty",
+          "conceptId": "economics.behavioral-economics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Everyday Applications",
+          "conceptId": "economics.behavioral-economics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Prospect Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Prospect Theory",
+          "conceptId": "economics.behavioral-economics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reference Points",
+          "conceptId": "economics.behavioral-economics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Loss Aversion",
+          "conceptId": "economics.behavioral-economics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Diminishing Sensitivity",
+          "conceptId": "economics.behavioral-economics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Probability Weighting",
+          "conceptId": "economics.behavioral-economics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Framing Effects",
+          "conceptId": "economics.behavioral-economics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Risk & Uncertainty",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Risk Preferences",
+          "conceptId": "economics.behavioral-economics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Risk Aversion",
+          "conceptId": "economics.behavioral-economics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Risk Neutrality",
+          "conceptId": "economics.behavioral-economics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Risk Seeking",
+          "conceptId": "economics.behavioral-economics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Expected Utility",
+          "conceptId": "economics.behavioral-economics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Insurance Decisions",
+          "conceptId": "economics.behavioral-economics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Time Preferences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Present Bias",
+          "conceptId": "economics.behavioral-economics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hyperbolic Discounting",
+          "conceptId": "economics.behavioral-economics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Delayed Gratification",
+          "conceptId": "economics.behavioral-economics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Self-Control",
+          "conceptId": "economics.behavioral-economics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Saving Decisions",
+          "conceptId": "economics.behavioral-economics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Long-Term Planning",
+          "conceptId": "economics.behavioral-economics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Social Preferences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fairness",
+          "conceptId": "economics.behavioral-economics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reciprocity",
+          "conceptId": "economics.behavioral-economics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Altruism",
+          "conceptId": "economics.behavioral-economics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cooperation",
+          "conceptId": "economics.behavioral-economics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trust",
+          "conceptId": "economics.behavioral-economics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Social Norms",
+          "conceptId": "economics.behavioral-economics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Nudging",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Choice Architecture",
+          "conceptId": "economics.behavioral-economics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Default Options",
+          "conceptId": "economics.behavioral-economics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Incentives",
+          "conceptId": "economics.behavioral-economics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavioral Interventions",
+          "conceptId": "economics.behavioral-economics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Public Policy Nudges",
+          "conceptId": "economics.behavioral-economics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ethical Considerations",
+          "conceptId": "economics.behavioral-economics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Consumer Behavior",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Purchasing Decisions",
+          "conceptId": "economics.behavioral-economics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brand Loyalty",
+          "conceptId": "economics.behavioral-economics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pricing Psychology",
+          "conceptId": "economics.behavioral-economics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Marketing Influence",
+          "conceptId": "economics.behavioral-economics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Online Consumer Behavior",
+          "conceptId": "economics.behavioral-economics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Digital Platforms",
+          "conceptId": "economics.behavioral-economics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Behavioral Finance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Investor Psychology",
+          "conceptId": "economics.behavioral-economics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Herd Behavior",
+          "conceptId": "economics.behavioral-economics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Market Bubbles",
+          "conceptId": "economics.behavioral-economics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Loss Aversion in Investing",
+          "conceptId": "economics.behavioral-economics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Overreaction",
+          "conceptId": "economics.behavioral-economics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Financial Decision Making",
+          "conceptId": "economics.behavioral-economics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Experimental Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Economic Experiments",
+          "conceptId": "economics.behavioral-economics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Laboratory Experiments",
+          "conceptId": "economics.behavioral-economics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Field Experiments",
+          "conceptId": "economics.behavioral-economics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Randomized Controlled Trials (RCTs)",
+          "conceptId": "economics.behavioral-economics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Behavioral Data",
+          "conceptId": "economics.behavioral-economics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evidence-Based Policy",
+          "conceptId": "economics.behavioral-economics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Public Policy",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Healthcare",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Education",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Personal Finance",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Business Strategy",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Product Design",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Artificial Intelligence & Human Behavior",
+          "conceptId": "economics.behavioral-economics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neuroeconomics",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Behavioral Game Theory",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Digital Nudging",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavioral Public Economics",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Behavioral Development Economics",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Behavioral Science",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 12: Econometrics**",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Statistical Foundations",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Probability",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Sampling",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Regression Analysis",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Ordinary Least Squares (OLS)",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Multiple Regression",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Hypothesis Testing",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Time Series Analysis",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Panel Data",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Causal Inference",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Forecasting",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Machine Learning for Econometrics",
+          "conceptId": "economics.behavioral-economics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "economics",
+      "behavioral-economics"
+    ]
+  }
+}

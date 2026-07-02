@@ -1,0 +1,20 @@
+{
+  "id": "physics.solid-state-physics.chapter-05.topic-05",
+  "name": "Fermi Surface",
+  "subject": "physics",
+  "definition": "Fermi Surface is a fundamental concept in physics.",
+  "explanation": "Learn about Fermi Surface and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "fermi-surface"
+  ]
+}

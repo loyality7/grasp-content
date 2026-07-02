@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Computational Methods",
+  "description": "Computational Methods",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Computing Nash Equilibria",
+      "conceptId": "game-theory.nash-equilibrium.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Complexity",
+      "conceptId": "game-theory.nash-equilibrium.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Numerical Algorithms",
+      "conceptId": "game-theory.nash-equilibrium.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Simulation",
+      "conceptId": "game-theory.nash-equilibrium.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Software Tools",
+      "conceptId": "game-theory.nash-equilibrium.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Large Strategic Games",
+      "conceptId": "game-theory.nash-equilibrium.chapter-12.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-11",
+  "name": "Factor Markets",
+  "description": "Factor Markets",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Labor Markets",
+      "conceptId": "economics.microeconomics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Capital Markets",
+      "conceptId": "economics.microeconomics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Land",
+      "conceptId": "economics.microeconomics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Wages",
+      "conceptId": "economics.microeconomics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rent",
+      "conceptId": "economics.microeconomics.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Interest",
+      "conceptId": "economics.microeconomics.chapter-11.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Profit",
+      "conceptId": "economics.microeconomics.chapter-11.topic-07"
+    }
+  ]
+}

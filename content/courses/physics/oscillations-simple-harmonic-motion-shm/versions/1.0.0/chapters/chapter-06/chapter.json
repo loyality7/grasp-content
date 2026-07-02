@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Damped Oscillations",
+  "description": "Damped Oscillations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Damping",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Underdamped Motion",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Critically Damped Motion",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Overdamped Motion",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Damping Coefficient",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-05"
+    }
+  ]
+}

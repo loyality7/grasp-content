@@ -1,0 +1,556 @@
+{
+  "id": "sequential-games",
+  "name": "Sequential Games",
+  "description": "Sequential Games",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Sequential Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What are Sequential Games?",
+          "conceptId": "game-theory.sequential-games.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dynamic Strategic Interaction",
+          "conceptId": "game-theory.sequential-games.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Timing of Decisions",
+          "conceptId": "game-theory.sequential-games.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sequential vs Simultaneous Games",
+          "conceptId": "game-theory.sequential-games.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strategic Planning",
+          "conceptId": "game-theory.sequential-games.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "game-theory.sequential-games.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Extensive-Form Representation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Extensive Form Games",
+          "conceptId": "game-theory.sequential-games.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Game Trees",
+          "conceptId": "game-theory.sequential-games.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Decision Nodes",
+          "conceptId": "game-theory.sequential-games.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Branches",
+          "conceptId": "game-theory.sequential-games.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Terminal Nodes",
+          "conceptId": "game-theory.sequential-games.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Paths Through a Game",
+          "conceptId": "game-theory.sequential-games.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Information Sets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Perfect Information",
+          "conceptId": "game-theory.sequential-games.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Imperfect Information",
+          "conceptId": "game-theory.sequential-games.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Information Sets",
+          "conceptId": "game-theory.sequential-games.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hidden Actions",
+          "conceptId": "game-theory.sequential-games.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hidden Information",
+          "conceptId": "game-theory.sequential-games.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sequential Knowledge",
+          "conceptId": "game-theory.sequential-games.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Backward Induction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Backward Induction",
+          "conceptId": "game-theory.sequential-games.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Solving Game Trees",
+          "conceptId": "game-theory.sequential-games.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rational Future Decisions",
+          "conceptId": "game-theory.sequential-games.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Optimal Strategies",
+          "conceptId": "game-theory.sequential-games.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dynamic Optimization",
+          "conceptId": "game-theory.sequential-games.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sequential Rationality",
+          "conceptId": "game-theory.sequential-games.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Subgame Perfect Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Subgames",
+          "conceptId": "game-theory.sequential-games.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Subgame Perfect Equilibrium (SPE)",
+          "conceptId": "game-theory.sequential-games.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sequential Equilibrium",
+          "conceptId": "game-theory.sequential-games.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equilibrium Refinement",
+          "conceptId": "game-theory.sequential-games.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strategy Consistency",
+          "conceptId": "game-theory.sequential-games.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dynamic Stability",
+          "conceptId": "game-theory.sequential-games.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Commitment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Strategic Commitment",
+          "conceptId": "game-theory.sequential-games.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Commitment Devices",
+          "conceptId": "game-theory.sequential-games.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Irreversible Decisions",
+          "conceptId": "game-theory.sequential-games.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Credibility",
+          "conceptId": "game-theory.sequential-games.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "First-Mover Commitment",
+          "conceptId": "game-theory.sequential-games.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Long-Term Strategy",
+          "conceptId": "game-theory.sequential-games.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Credible Threats & Promises",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Credible Threats",
+          "conceptId": "game-theory.sequential-games.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Non-Credible Threats",
+          "conceptId": "game-theory.sequential-games.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Credible Promises",
+          "conceptId": "game-theory.sequential-games.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deterrence",
+          "conceptId": "game-theory.sequential-games.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reputation",
+          "conceptId": "game-theory.sequential-games.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Signaling",
+          "conceptId": "game-theory.sequential-games.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Bargaining Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bargaining",
+          "conceptId": "game-theory.sequential-games.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Negotiation",
+          "conceptId": "game-theory.sequential-games.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Offers & Counteroffers",
+          "conceptId": "game-theory.sequential-games.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ultimatum Game",
+          "conceptId": "game-theory.sequential-games.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Alternating Offers",
+          "conceptId": "game-theory.sequential-games.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Agreement Strategies",
+          "conceptId": "game-theory.sequential-games.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Dynamic Competition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "First-Mover Advantage",
+          "conceptId": "game-theory.sequential-games.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Second-Mover Advantage",
+          "conceptId": "game-theory.sequential-games.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stackelberg Competition",
+          "conceptId": "game-theory.sequential-games.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dynamic Pricing",
+          "conceptId": "game-theory.sequential-games.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Market Entry",
+          "conceptId": "game-theory.sequential-games.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Competitive Timing",
+          "conceptId": "game-theory.sequential-games.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Sequential Decision Models",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Investment Decisions",
+          "conceptId": "game-theory.sequential-games.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Product Launches",
+          "conceptId": "game-theory.sequential-games.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Military Strategy",
+          "conceptId": "game-theory.sequential-games.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Political Campaigns",
+          "conceptId": "game-theory.sequential-games.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Litigation",
+          "conceptId": "game-theory.sequential-games.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Planning",
+          "conceptId": "game-theory.sequential-games.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Business Negotiation",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Supply Chains",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Diplomacy",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Auctions",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Robotics",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Multi-Agent AI",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cybersecurity",
+          "conceptId": "game-theory.sequential-games.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Computational Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tree Search Algorithms",
+          "conceptId": "game-theory.sequential-games.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Minimax Algorithm",
+          "conceptId": "game-theory.sequential-games.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Alpha-Beta Pruning",
+          "conceptId": "game-theory.sequential-games.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dynamic Programming",
+          "conceptId": "game-theory.sequential-games.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sequential Planning",
+          "conceptId": "game-theory.sequential-games.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Game Simulation",
+          "conceptId": "game-theory.sequential-games.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Extensive Games with Imperfect Information",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sequential Learning",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dynamic Mechanism Design",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stochastic Games",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Multi-Stage Games",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Sequential Decision Systems",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 5: Nash Equilibrium**",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Best Response Functions",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Nash Equilibrium",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Existence of Equilibria",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Multiple Equilibria",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Mixed Strategy Nash Equilibrium",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Equilibrium Stability",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Equilibrium Refinements",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Correlated Equilibrium",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Applications in Economics",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Applications in AI",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Applications in Politics",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Computational Equilibrium",
+          "conceptId": "game-theory.sequential-games.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "sequential-games"
+    ]
+  }
+}

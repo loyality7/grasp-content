@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Money Supply",
+  "description": "Money Supply",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Money Supply",
+      "conceptId": "economics.monetary-economics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Monetary Aggregates (M0, M1, M2, M3)",
+      "conceptId": "economics.monetary-economics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Money Creation",
+      "conceptId": "economics.monetary-economics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fractional Reserve Banking",
+      "conceptId": "economics.monetary-economics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Money Multiplier",
+      "conceptId": "economics.monetary-economics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Liquidity",
+      "conceptId": "economics.monetary-economics.chapter-02.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Anxiety Disorders",
+  "description": "Anxiety Disorders",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Generalized Anxiety Disorder",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Panic Disorder",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Phobias",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Social Anxiety Disorder",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Separation Anxiety",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Anxiety Assessment",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Treatment Approaches",
+      "conceptId": "psychology.abnormal-psychology.chapter-03.topic-07"
+    }
+  ]
+}

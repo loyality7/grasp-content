@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Multi-Electron Atoms",
+  "description": "Multi-Electron Atoms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electron Shielding",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Effective Nuclear Charge",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Atomic Size",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ionization Energy",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Electron Affinity",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Periodic Trends",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-04.topic-06"
+    }
+  ]
+}

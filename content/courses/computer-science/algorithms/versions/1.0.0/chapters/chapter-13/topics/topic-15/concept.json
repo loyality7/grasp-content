@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-13.topic-15",
+  "name": "CPU Architecture",
+  "subject": "computer-science",
+  "definition": "CPU Architecture is a fundamental concept in computer-science.",
+  "explanation": "Learn about CPU Architecture and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "cpu-architecture"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Analytical Chemistry",
+  "description": "Introduction to Analytical Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Analytical Chemistry?",
+      "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Types of Analysis",
+      "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Qualitative Analysis",
+      "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Quantitative Analysis",
+      "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Analytical Workflow",
+      "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Accuracy & Precision",
+      "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-06"
+    }
+  ]
+}

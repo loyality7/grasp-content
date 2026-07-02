@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.acids-bases.chapter-04.topic-01",
+  "name": "pH Scale",
+  "subject": "chemistry",
+  "definition": "pH Scale is a fundamental concept in chemistry.",
+  "explanation": "Learn about pH Scale and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "ph-scale"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-13.topic-11",
+  "name": "Network Security",
+  "subject": "computer-science",
+  "definition": "Network Security is a fundamental concept in computer-science.",
+  "explanation": "Learn about Network Security and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "network-security"
+  ]
+}

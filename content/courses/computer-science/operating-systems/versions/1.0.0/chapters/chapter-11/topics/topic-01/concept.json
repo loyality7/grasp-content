@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-11.topic-01",
+  "name": "Virtual Machines",
+  "subject": "computer-science",
+  "definition": "Virtual Machines is a fundamental concept in computer-science.",
+  "explanation": "Learn about Virtual Machines and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "virtual-machines"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Personality Disorders",
+  "description": "Personality Disorders",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Personality Disorders",
+      "conceptId": "psychology.personality-psychology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cluster A Disorders",
+      "conceptId": "psychology.personality-psychology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cluster B Disorders",
+      "conceptId": "psychology.personality-psychology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cluster C Disorders",
+      "conceptId": "psychology.personality-psychology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Diagnosis",
+      "conceptId": "psychology.personality-psychology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Treatment Approaches",
+      "conceptId": "psychology.personality-psychology.chapter-09.topic-06"
+    }
+  ]
+}

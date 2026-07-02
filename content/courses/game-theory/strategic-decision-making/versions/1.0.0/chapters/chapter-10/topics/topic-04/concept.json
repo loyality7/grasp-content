@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.strategic-decision-making.chapter-10.topic-04",
+  "name": "Incomplete Information",
+  "subject": "game-theory",
+  "definition": "Incomplete Information is a fundamental concept in game-theory.",
+  "explanation": "Learn about Incomplete Information and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "incomplete-information"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-09.topic-01",
+  "name": "Market Competition",
+  "subject": "game-theory",
+  "definition": "Market Competition is a fundamental concept in game-theory.",
+  "explanation": "Learn about Market Competition and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "market-competition"
+  ]
+}

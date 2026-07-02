@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-10.topic-06",
+  "name": "Malware Analysis (Introduction)",
+  "subject": "computer-science",
+  "definition": "Malware Analysis (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Malware Analysis (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "malware-analysis-introduction"
+  ]
+}

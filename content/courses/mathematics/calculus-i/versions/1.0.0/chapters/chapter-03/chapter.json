@@ -1,0 +1,47 @@
+{
+  "id": "chapter-03",
+  "name": "Differentiation Rules",
+  "description": "Differentiation Rules",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Constant Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Power Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Constant Multiple Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sum Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Difference Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Product Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Quotient Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Chain Rule",
+      "conceptId": "mathematics.calculus-i.chapter-03.topic-08"
+    }
+  ]
+}

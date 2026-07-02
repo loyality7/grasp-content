@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Rational Expressions & Equations",
+  "description": "Rational Expressions & Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Simplifying Rational Expressions",
+      "conceptId": "mathematics.algebra-ii.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rational Equations",
+      "conceptId": "mathematics.algebra-ii.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rational Functions",
+      "conceptId": "mathematics.algebra-ii.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Vertical Asymptotes",
+      "conceptId": "mathematics.algebra-ii.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Horizontal Asymptotes",
+      "conceptId": "mathematics.algebra-ii.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Holes in Graphs",
+      "conceptId": "mathematics.algebra-ii.chapter-04.topic-06"
+    }
+  ]
+}

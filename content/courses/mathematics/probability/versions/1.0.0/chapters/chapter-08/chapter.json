@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Joint Probability",
+  "description": "Joint Probability",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Joint Distributions",
+      "conceptId": "mathematics.probability.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Marginal Distributions",
+      "conceptId": "mathematics.probability.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conditional Distributions",
+      "conceptId": "mathematics.probability.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Covariance",
+      "conceptId": "mathematics.probability.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Correlation",
+      "conceptId": "mathematics.probability.chapter-08.topic-05"
+    }
+  ]
+}

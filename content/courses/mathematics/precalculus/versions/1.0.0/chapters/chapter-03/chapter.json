@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Polynomial Functions",
+  "description": "Polynomial Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Polynomial Review",
+      "conceptId": "mathematics.precalculus.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "End Behavior",
+      "conceptId": "mathematics.precalculus.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Turning Points",
+      "conceptId": "mathematics.precalculus.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Polynomial Graphs",
+      "conceptId": "mathematics.precalculus.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Zeros",
+      "conceptId": "mathematics.precalculus.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Multiplicity",
+      "conceptId": "mathematics.precalculus.chapter-03.topic-06"
+    }
+  ]
+}

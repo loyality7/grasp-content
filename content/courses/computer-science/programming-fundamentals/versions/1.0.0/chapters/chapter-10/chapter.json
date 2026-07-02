@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Debugging & Testing",
+  "description": "Debugging & Testing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Syntax Errors",
+      "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Runtime Errors",
+      "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Logical Errors",
+      "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Debugging Techniques",
+      "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Assertions",
+      "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Basic Unit Testing",
+      "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-06"
+    }
+  ]
+}

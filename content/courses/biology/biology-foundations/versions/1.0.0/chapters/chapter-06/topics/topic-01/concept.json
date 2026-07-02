@@ -1,0 +1,20 @@
+{
+  "id": "biology.biology-foundations.chapter-06.topic-01",
+  "name": "Taxonomy",
+  "subject": "biology",
+  "definition": "Taxonomy is a fundamental concept in biology.",
+  "explanation": "Learn about Taxonomy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "taxonomy"
+  ]
+}

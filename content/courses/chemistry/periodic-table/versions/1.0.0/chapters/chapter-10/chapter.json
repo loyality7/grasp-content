@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Periodic Trends in Properties",
+  "description": "Periodic Trends in Properties",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atomic Volume",
+      "conceptId": "chemistry.periodic-table.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Atomic Density",
+      "conceptId": "chemistry.periodic-table.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Melting Point Trends",
+      "conceptId": "chemistry.periodic-table.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Boiling Point Trends",
+      "conceptId": "chemistry.periodic-table.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Oxidation States",
+      "conceptId": "chemistry.periodic-table.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Reactivity Trends",
+      "conceptId": "chemistry.periodic-table.chapter-10.topic-06"
+    }
+  ]
+}

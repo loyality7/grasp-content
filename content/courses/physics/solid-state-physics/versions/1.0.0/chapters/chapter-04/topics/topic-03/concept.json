@@ -1,0 +1,20 @@
+{
+  "id": "physics.solid-state-physics.chapter-04.topic-03",
+  "name": "X-Ray Diffraction",
+  "subject": "physics",
+  "definition": "X-Ray Diffraction is a fundamental concept in physics.",
+  "explanation": "Learn about X-Ray Diffraction and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "x-ray-diffraction"
+  ]
+}

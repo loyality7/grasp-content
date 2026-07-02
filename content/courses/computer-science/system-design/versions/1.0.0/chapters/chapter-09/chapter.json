@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "APIs & Communication",
+  "description": "APIs & Communication",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "REST APIs",
+      "conceptId": "computer-science.system-design.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "GraphQL (Introduction)",
+      "conceptId": "computer-science.system-design.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "gRPC (Introduction)",
+      "conceptId": "computer-science.system-design.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "API Gateways",
+      "conceptId": "computer-science.system-design.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Service Discovery",
+      "conceptId": "computer-science.system-design.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "API Versioning",
+      "conceptId": "computer-science.system-design.chapter-09.topic-06"
+    }
+  ]
+}

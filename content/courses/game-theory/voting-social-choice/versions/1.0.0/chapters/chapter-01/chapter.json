@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Social Choice",
+  "description": "Introduction to Social Choice",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Social Choice?",
+      "conceptId": "game-theory.voting-social-choice.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Individual Preferences",
+      "conceptId": "game-theory.voting-social-choice.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Collective Decisions",
+      "conceptId": "game-theory.voting-social-choice.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Voting",
+      "conceptId": "game-theory.voting-social-choice.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Social Welfare",
+      "conceptId": "game-theory.voting-social-choice.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fairness in Decision Making",
+      "conceptId": "game-theory.voting-social-choice.chapter-01.topic-06"
+    }
+  ]
+}

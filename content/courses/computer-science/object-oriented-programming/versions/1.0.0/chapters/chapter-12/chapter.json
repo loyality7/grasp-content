@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "File Handling & Serialization",
+  "description": "File Handling & Serialization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "File Reading",
+      "conceptId": "computer-science.object-oriented-programming.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "File Writing",
+      "conceptId": "computer-science.object-oriented-programming.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Object Serialization",
+      "conceptId": "computer-science.object-oriented-programming.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Object Deserialization",
+      "conceptId": "computer-science.object-oriented-programming.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "JSON/XML Basics",
+      "conceptId": "computer-science.object-oriented-programming.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Persistent Objects",
+      "conceptId": "computer-science.object-oriented-programming.chapter-12.topic-06"
+    }
+  ]
+}

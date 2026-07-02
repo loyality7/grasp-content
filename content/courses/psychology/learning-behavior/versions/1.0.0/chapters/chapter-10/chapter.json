@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Applied Behavior Analysis",
+  "description": "Applied Behavior Analysis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Applied Behavior Analysis (ABA)",
+      "conceptId": "psychology.learning-behavior.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Functional Behavior Assessment",
+      "conceptId": "psychology.learning-behavior.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Token Economies",
+      "conceptId": "psychology.learning-behavior.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Behavior Intervention Plans",
+      "conceptId": "psychology.learning-behavior.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Skill Acquisition",
+      "conceptId": "psychology.learning-behavior.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Behavioral Measurement",
+      "conceptId": "psychology.learning-behavior.chapter-10.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Meaning",
+  "description": "Meaning",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Meaning",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sense",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Reference",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Concepts",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Definitions",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ambiguity",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Vagueness",
+      "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-07"
+    }
+  ]
+}

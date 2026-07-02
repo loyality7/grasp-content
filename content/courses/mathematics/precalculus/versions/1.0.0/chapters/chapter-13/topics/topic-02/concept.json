@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.precalculus.chapter-13.topic-02",
+  "name": "One-Sided Limits",
+  "subject": "mathematics",
+  "definition": "One-Sided Limits is a fundamental concept in mathematics.",
+  "explanation": "Learn about One-Sided Limits and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "one-sided-limits"
+  ]
+}

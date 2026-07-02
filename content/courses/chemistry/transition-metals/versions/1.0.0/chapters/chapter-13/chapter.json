@@ -1,0 +1,97 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Crystal Field Theory (Introduction)",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ligand Field Theory (Introduction)",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Organometallic Compounds (Introduction)",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Transition Metal Nanomaterials",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sustainable Metallurgy",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "*Course 13: Coordination Chemistry**",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Coordination Compounds",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Ligands",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Coordination Number",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Nomenclature",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Isomerism",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Crystal Field Theory",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Ligand Field Theory",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Chelation",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Stability Constants",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Organometallic Chemistry",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Bioinorganic Complexes",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Industrial & Medical Applications",
+      "conceptId": "chemistry.transition-metals.chapter-13.topic-18"
+    }
+  ]
+}

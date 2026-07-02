@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.chemical-kinetics.chapter-02.topic-03",
+  "name": "Rate Constant",
+  "subject": "chemistry",
+  "definition": "Rate Constant is a fundamental concept in chemistry.",
+  "explanation": "Learn about Rate Constant and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "rate-constant"
+  ]
+}

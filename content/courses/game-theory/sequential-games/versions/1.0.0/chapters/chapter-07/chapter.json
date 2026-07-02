@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Credible Threats & Promises",
+  "description": "Credible Threats & Promises",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Credible Threats",
+      "conceptId": "game-theory.sequential-games.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Non-Credible Threats",
+      "conceptId": "game-theory.sequential-games.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Credible Promises",
+      "conceptId": "game-theory.sequential-games.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Deterrence",
+      "conceptId": "game-theory.sequential-games.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Reputation",
+      "conceptId": "game-theory.sequential-games.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Signaling",
+      "conceptId": "game-theory.sequential-games.chapter-07.topic-06"
+    }
+  ]
+}

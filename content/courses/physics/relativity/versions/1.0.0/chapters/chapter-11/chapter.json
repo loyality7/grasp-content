@@ -1,0 +1,27 @@
+{
+  "id": "chapter-11",
+  "name": "Cosmological Relativity",
+  "description": "Cosmological Relativity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Expanding Universe",
+      "conceptId": "physics.relativity.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Friedmann Models (Introduction)",
+      "conceptId": "physics.relativity.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cosmological Constant",
+      "conceptId": "physics.relativity.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dark Energy (Overview)",
+      "conceptId": "physics.relativity.chapter-11.topic-04"
+    }
+  ]
+}

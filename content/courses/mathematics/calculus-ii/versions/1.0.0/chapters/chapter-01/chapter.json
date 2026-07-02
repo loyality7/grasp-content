@@ -1,0 +1,47 @@
+{
+  "id": "chapter-01",
+  "name": "Integration Techniques",
+  "description": "Integration Techniques",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Review of Basic Integration",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Integration by Substitution",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Integration by Parts",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Trigonometric Integrals",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trigonometric Substitution",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Partial Fraction Decomposition",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Reduction Formulas",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Improper Integrals",
+      "conceptId": "mathematics.calculus-ii.chapter-01.topic-08"
+    }
+  ]
+}

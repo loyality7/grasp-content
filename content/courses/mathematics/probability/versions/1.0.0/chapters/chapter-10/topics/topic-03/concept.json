@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-10.topic-03",
+  "name": "Poisson Process",
+  "subject": "mathematics",
+  "definition": "Poisson Process is a fundamental concept in mathematics.",
+  "explanation": "Learn about Poisson Process and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "poisson-process"
+  ]
+}

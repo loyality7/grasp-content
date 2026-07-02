@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-13.topic-12",
+  "name": "Application Security",
+  "subject": "computer-science",
+  "definition": "Application Security is a fundamental concept in computer-science.",
+  "explanation": "Learn about Application Security and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "application-security"
+  ]
+}

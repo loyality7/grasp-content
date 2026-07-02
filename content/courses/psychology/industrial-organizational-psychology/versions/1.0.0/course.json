@@ -1,0 +1,566 @@
+{
+  "id": "industrial-organizational-psychology",
+  "name": "Industrial & Organizational Psychology",
+  "description": "Industrial & Organizational Psychology",
+  "version": "1.0.0",
+  "domain": "psychology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Industrial & Organizational Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Industrial & Organizational Psychology?",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of I/O Psychology",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Areas of Practice",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Workplace Behavior",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Organizational Effectiveness",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Recruitment & Selection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Job Analysis",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Recruitment",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Employee Selection",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interviews",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Aptitude & Personality Testing",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hiring Decisions",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Onboarding",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Training & Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Employee Training",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Learning in Organizations",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Leadership Development",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Career Development",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coaching",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mentoring",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Performance Improvement",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Motivation at Work",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Motivation Theories",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Goal Setting",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Expectancy Theory",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equity Theory",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self-Determination Theory",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Employee Engagement",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Leadership",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Leadership Theories",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Leadership Styles",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transformational Leadership",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Transactional Leadership",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decision Making",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ethical Leadership",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Team Dynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Team Formation",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Group Decision Making",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Collaboration",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conflict Resolution",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Communication",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "High-Performance Teams",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Organizational Culture",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Organizational Culture",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Organizational Climate",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Values",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Diversity & Inclusion",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Organizational Identity",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cultural Change",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Performance Management",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Performance Appraisal",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Performance Metrics",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Feedback",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Goal Management",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Compensation",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Recognition Systems",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Workplace Well-Being",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Job Satisfaction",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Work-Life Balance",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Occupational Stress",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Burnout",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Employee Assistance Programs",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Psychological Safety",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Organizational Change",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Change Management",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Organizational Development",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Innovation",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resistance to Change",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Transformation",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Change Leadership",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Human Factors & Ergonomics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Human Factors",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ergonomics",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Workplace Design",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human-Computer Interaction",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Safety",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Usability",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Human Resources",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Consulting",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Healthcare Organizations",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Education",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Technology Companies",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Government Organizations",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Remote Work",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "People Analytics",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Organizational Networks",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "AI in Human Resources",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Future of Work",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hybrid Workplaces",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Organizational Resilience",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 11: Research Methods & Statistics**",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Scientific Method",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Research Design",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Variables",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Sampling",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Measurement",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Experimental Methods",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Descriptive Statistics",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Inferential Statistics",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Hypothesis Testing",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Correlation",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Regression",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Ethics in Psychological Research",
+          "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "psychology",
+      "industrial-organizational-psychology"
+    ]
+  }
+}

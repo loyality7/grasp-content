@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Cell & Tissue Engineering",
+  "description": "Cell & Tissue Engineering",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cell Culture",
+      "conceptId": "biology.biotechnology.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Stem Cells",
+      "conceptId": "biology.biotechnology.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Induced Pluripotent Stem Cells (iPSCs)",
+      "conceptId": "biology.biotechnology.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Tissue Engineering",
+      "conceptId": "biology.biotechnology.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Organoids",
+      "conceptId": "biology.biotechnology.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Regenerative Medicine",
+      "conceptId": "biology.biotechnology.chapter-06.topic-06"
+    }
+  ]
+}

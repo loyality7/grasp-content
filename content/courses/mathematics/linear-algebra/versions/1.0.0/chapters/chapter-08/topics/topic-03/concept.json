@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-08.topic-03",
+  "name": "Characteristic Polynomial",
+  "subject": "mathematics",
+  "definition": "Characteristic Polynomial is a fundamental concept in mathematics.",
+  "explanation": "Learn about Characteristic Polynomial and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "characteristic-polynomial"
+  ]
+}

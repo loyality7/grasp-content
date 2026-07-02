@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Modern Physics",
+  "description": "Introduction to Modern Physics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Classical vs Modern Physics",
+      "conceptId": "physics.modern-physics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scientific Revolutions",
+      "conceptId": "physics.modern-physics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Limits of Classical Physics",
+      "conceptId": "physics.modern-physics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Relativity",
+      "conceptId": "physics.modern-physics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Quantum Theory",
+      "conceptId": "physics.modern-physics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Experimental Foundations",
+      "conceptId": "physics.modern-physics.chapter-01.topic-06"
+    }
+  ]
+}

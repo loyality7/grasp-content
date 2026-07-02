@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-01.topic-04",
+  "name": "Distributed System Models",
+  "subject": "computer-science",
+  "definition": "Distributed System Models is a fundamental concept in computer-science.",
+  "explanation": "Learn about Distributed System Models and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "distributed-system-models"
+  ]
+}

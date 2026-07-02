@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-03.topic-06",
+  "name": "Verification Techniques",
+  "subject": "game-theory",
+  "definition": "Verification Techniques is a fundamental concept in game-theory.",
+  "explanation": "Learn about Verification Techniques and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "verification-techniques"
+  ]
+}

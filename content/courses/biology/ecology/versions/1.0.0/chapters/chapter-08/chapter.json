@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Conservation Biology",
+  "description": "Conservation Biology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Conservation Principles",
+      "conceptId": "biology.ecology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Habitat Fragmentation",
+      "conceptId": "biology.ecology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Wildlife Conservation",
+      "conceptId": "biology.ecology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Protected Areas",
+      "conceptId": "biology.ecology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ecosystem Restoration",
+      "conceptId": "biology.ecology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sustainable Resource Management",
+      "conceptId": "biology.ecology.chapter-08.topic-06"
+    }
+  ]
+}

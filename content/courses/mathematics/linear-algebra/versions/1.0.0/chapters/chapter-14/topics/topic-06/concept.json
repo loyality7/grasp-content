@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-14.topic-06",
+  "name": "Control Systems",
+  "subject": "mathematics",
+  "definition": "Control Systems is a fundamental concept in mathematics.",
+  "explanation": "Learn about Control Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "control-systems"
+  ]
+}

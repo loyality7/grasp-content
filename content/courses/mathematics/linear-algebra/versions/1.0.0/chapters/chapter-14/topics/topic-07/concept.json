@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-14.topic-07",
+  "name": "Network Analysis",
+  "subject": "mathematics",
+  "definition": "Network Analysis is a fundamental concept in mathematics.",
+  "explanation": "Learn about Network Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "network-analysis"
+  ]
+}

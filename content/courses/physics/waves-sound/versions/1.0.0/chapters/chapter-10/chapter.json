@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sonar",
+      "conceptId": "physics.waves-sound.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ultrasound Imaging",
+      "conceptId": "physics.waves-sound.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Noise Control",
+      "conceptId": "physics.waves-sound.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Architectural Acoustics",
+      "conceptId": "physics.waves-sound.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Earthquake Waves",
+      "conceptId": "physics.waves-sound.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ocean Waves",
+      "conceptId": "physics.waves-sound.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Communication Systems",
+      "conceptId": "physics.waves-sound.chapter-10.topic-07"
+    }
+  ]
+}

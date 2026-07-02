@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Tries",
+  "description": "Tries",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Trie Structure",
+      "conceptId": "computer-science.data-structures.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Prefix Trees",
+      "conceptId": "computer-science.data-structures.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Insert & Search",
+      "conceptId": "computer-science.data-structures.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Auto-Complete",
+      "conceptId": "computer-science.data-structures.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Dictionary Applications",
+      "conceptId": "computer-science.data-structures.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "String Matching",
+      "conceptId": "computer-science.data-structures.chapter-09.topic-06"
+    }
+  ]
+}

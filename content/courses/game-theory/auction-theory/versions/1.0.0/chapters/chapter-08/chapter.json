@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Multi-Item Auctions",
+  "description": "Multi-Item Auctions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multi-Unit Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Combinatorial Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Package Bidding",
+      "conceptId": "game-theory.auction-theory.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Winner Determination",
+      "conceptId": "game-theory.auction-theory.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Resource Allocation",
+      "conceptId": "game-theory.auction-theory.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Computational Challenges",
+      "conceptId": "game-theory.auction-theory.chapter-08.topic-06"
+    }
+  ]
+}

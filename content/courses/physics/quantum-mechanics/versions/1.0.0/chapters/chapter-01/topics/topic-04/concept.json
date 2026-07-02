@@ -1,0 +1,20 @@
+{
+  "id": "physics.quantum-mechanics.chapter-01.topic-04",
+  "name": "Quantum States",
+  "subject": "physics",
+  "definition": "Quantum States is a fundamental concept in physics.",
+  "explanation": "Learn about Quantum States and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "quantum-states"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Scalability",
+  "description": "Scalability",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Vertical Scaling",
+      "conceptId": "computer-science.system-design.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Horizontal Scaling",
+      "conceptId": "computer-science.system-design.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Stateless Services",
+      "conceptId": "computer-science.system-design.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Stateful Services",
+      "conceptId": "computer-science.system-design.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Auto Scaling",
+      "conceptId": "computer-science.system-design.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Capacity Planning",
+      "conceptId": "computer-science.system-design.chapter-03.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Law of Mass Action",
+  "description": "Law of Mass Action",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Law of Mass Action",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Active Mass",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Equilibrium Expression",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Homogeneous Equilibrium",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Heterogeneous Equilibrium",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-02.topic-05"
+    }
+  ]
+}

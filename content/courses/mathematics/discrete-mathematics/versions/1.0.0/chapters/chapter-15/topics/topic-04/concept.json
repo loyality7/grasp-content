@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-15.topic-04",
+  "name": "Compiler Design",
+  "subject": "mathematics",
+  "definition": "Compiler Design is a fundamental concept in mathematics.",
+  "explanation": "Learn about Compiler Design and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "compiler-design"
+  ]
+}

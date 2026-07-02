@@ -1,0 +1,656 @@
+{
+  "id": "main-group-chemistry",
+  "name": "Main Group Chemistry",
+  "description": "Main Group Chemistry",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Hydrogen",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Position of Hydrogen",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Isotopes of Hydrogen",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Physical Properties",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Properties",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydrogen Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Production",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "conceptId": "chemistry.main-group-chemistry.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Alkali Metals (Group 1)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Group Trends",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electronic Configuration",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Physical Properties",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Reactivity",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hydroxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Halides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Important Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Industrial Uses",
+          "conceptId": "chemistry.main-group-chemistry.chapter-02.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Alkaline Earth Metals (Group 2)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Group Trends",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Physical Properties",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chemical Properties",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Oxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydroxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Carbonates",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sulfates",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Boron Group (Group 13)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electronic Configuration",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Boron",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aluminum",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gallium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Indium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thallium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Oxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Halides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Industrial Uses",
+          "conceptId": "chemistry.main-group-chemistry.chapter-04.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Carbon Group (Group 14)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Carbon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Silicon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Germanium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tin",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Lead",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Allotropes of Carbon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Silicates",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Semiconductors",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.main-group-chemistry.chapter-05.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Nitrogen Group (Group 15)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nitrogen",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Phosphorus",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Arsenic",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Antimony",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bismuth",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Oxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hydrides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Fertilizers",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Industrial Processes",
+          "conceptId": "chemistry.main-group-chemistry.chapter-06.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Oxygen Group (Group 16)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Oxygen",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sulfur",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Selenium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tellurium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polonium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Oxides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sulfuric Acid",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Ozone",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Industrial Importance",
+          "conceptId": "chemistry.main-group-chemistry.chapter-07.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Halogens (Group 17)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fluorine",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chlorine",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bromine",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Iodine",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Astatine",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Halides",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Interhalogen Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Bleaching Agents",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Water Treatment",
+          "conceptId": "chemistry.main-group-chemistry.chapter-08.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Noble Gases (Group 18)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Helium",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Neon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Argon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Krypton",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Xenon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Radon",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Noble Gas Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Cryogenics",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Lighting Applications",
+          "conceptId": "chemistry.main-group-chemistry.chapter-09.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Periodic Trends in Main Group Elements",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Size",
+          "conceptId": "chemistry.main-group-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ionization Energy",
+          "conceptId": "chemistry.main-group-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electronegativity",
+          "conceptId": "chemistry.main-group-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metallic Character",
+          "conceptId": "chemistry.main-group-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxidation States",
+          "conceptId": "chemistry.main-group-chemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reactivity Trends",
+          "conceptId": "chemistry.main-group-chemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Industrial Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Haber Process",
+          "conceptId": "chemistry.main-group-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Contact Process",
+          "conceptId": "chemistry.main-group-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chlor-Alkali Process",
+          "conceptId": "chemistry.main-group-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Aluminum Extraction",
+          "conceptId": "chemistry.main-group-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Silicon Production",
+          "conceptId": "chemistry.main-group-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fertilizer Industry",
+          "conceptId": "chemistry.main-group-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Environmental Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acid Rain",
+          "conceptId": "chemistry.main-group-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ozone Layer",
+          "conceptId": "chemistry.main-group-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Greenhouse Gases",
+          "conceptId": "chemistry.main-group-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nitrogen Cycle",
+          "conceptId": "chemistry.main-group-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sulfur Cycle",
+          "conceptId": "chemistry.main-group-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Water Purification",
+          "conceptId": "chemistry.main-group-chemistry.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electron Deficient Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hypervalent Molecules",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cluster Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Organometallic Main Group Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Green Chemistry of Main Group Elements",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "*Course 12: Transition Metals**",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "d-Block Elements",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Electronic Configurations",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Variable Oxidation States",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Coordination Behavior",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Magnetic Properties",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Colored Compounds",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Catalysis",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Extraction & Metallurgy",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Bioinorganic Chemistry",
+          "conceptId": "chemistry.main-group-chemistry.chapter-13.topic-16"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "main-group-chemistry"
+    ]
+  }
+}

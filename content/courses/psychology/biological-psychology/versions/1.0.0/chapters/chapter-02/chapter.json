@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Neurons & Neural Communication",
+  "description": "Neurons & Neural Communication",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Neurons",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Glial Cells",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Resting Membrane Potential",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Action Potential",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Synaptic Transmission",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Neurotransmitters",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Neural Networks",
+      "conceptId": "psychology.biological-psychology.chapter-02.topic-07"
+    }
+  ]
+}

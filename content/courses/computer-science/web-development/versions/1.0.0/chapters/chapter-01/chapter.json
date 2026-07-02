@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Web Development",
+  "description": "Introduction to Web Development",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "How the Web Works",
+      "conceptId": "computer-science.web-development.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Client-Server Architecture",
+      "conceptId": "computer-science.web-development.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Browsers",
+      "conceptId": "computer-science.web-development.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Web Servers",
+      "conceptId": "computer-science.web-development.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "HTTP & HTTPS",
+      "conceptId": "computer-science.web-development.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "URLs",
+      "conceptId": "computer-science.web-development.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Domain Names",
+      "conceptId": "computer-science.web-development.chapter-01.topic-07"
+    }
+  ]
+}

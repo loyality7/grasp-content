@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Rules of Inference",
+  "description": "Rules of Inference",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Modus Ponens",
+      "conceptId": "philosophy.logic.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Modus Tollens",
+      "conceptId": "philosophy.logic.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Hypothetical Syllogism",
+      "conceptId": "philosophy.logic.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Disjunctive Syllogism",
+      "conceptId": "philosophy.logic.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Resolution",
+      "conceptId": "philosophy.logic.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Natural Deduction",
+      "conceptId": "philosophy.logic.chapter-06.topic-06"
+    }
+  ]
+}

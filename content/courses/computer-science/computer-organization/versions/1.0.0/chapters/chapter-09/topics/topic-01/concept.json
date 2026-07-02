@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-09.topic-01",
+  "name": "Instruction Pipelining",
+  "subject": "computer-science",
+  "definition": "Instruction Pipelining is a fundamental concept in computer-science.",
+  "explanation": "Learn about Instruction Pipelining and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "instruction-pipelining"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Logic & Language",
+  "description": "Logic & Language",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Logical Form",
+      "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Formal Languages",
+      "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Natural Languages",
+      "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Quantification",
+      "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Identity",
+      "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Logical Analysis",
+      "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-06"
+    }
+  ]
+}

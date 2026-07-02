@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nuclear-chemistry.chapter-07.topic-04",
+  "name": "Cloud Chamber",
+  "subject": "chemistry",
+  "definition": "Cloud Chamber is a fundamental concept in chemistry.",
+  "explanation": "Learn about Cloud Chamber and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "cloud-chamber"
+  ]
+}

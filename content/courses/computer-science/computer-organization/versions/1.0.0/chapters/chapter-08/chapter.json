@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Data Representation",
+  "description": "Data Representation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Signed & Unsigned Numbers",
+      "conceptId": "computer-science.computer-organization.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Two's Complement",
+      "conceptId": "computer-science.computer-organization.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Floating-Point Representation",
+      "conceptId": "computer-science.computer-organization.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "IEEE 754 Standard",
+      "conceptId": "computer-science.computer-organization.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Character Encoding",
+      "conceptId": "computer-science.computer-organization.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bit Manipulation",
+      "conceptId": "computer-science.computer-organization.chapter-08.topic-06"
+    }
+  ]
+}

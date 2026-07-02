@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-07.topic-02",
+  "name": "Cost Sharing",
+  "subject": "game-theory",
+  "definition": "Cost Sharing is a fundamental concept in game-theory.",
+  "explanation": "Learn about Cost Sharing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "cost-sharing"
+  ]
+}

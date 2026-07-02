@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Human Genetics",
+  "description": "Human Genetics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Human Karyotype",
+      "conceptId": "biology.genetics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pedigree Analysis",
+      "conceptId": "biology.genetics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Blood Groups",
+      "conceptId": "biology.genetics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rh Factor",
+      "conceptId": "biology.genetics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Twin Studies",
+      "conceptId": "biology.genetics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Human Genetic Variation",
+      "conceptId": "biology.genetics.chapter-06.topic-06"
+    }
+  ]
+}

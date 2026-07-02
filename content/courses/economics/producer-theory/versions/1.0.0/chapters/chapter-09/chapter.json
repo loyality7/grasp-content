@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Economies of Scale",
+  "description": "Economies of Scale",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Internal Economies of Scale",
+      "conceptId": "economics.producer-theory.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "External Economies of Scale",
+      "conceptId": "economics.producer-theory.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Diseconomies of Scale",
+      "conceptId": "economics.producer-theory.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Minimum Efficient Scale",
+      "conceptId": "economics.producer-theory.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Learning Curve",
+      "conceptId": "economics.producer-theory.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Scope Economies",
+      "conceptId": "economics.producer-theory.chapter-09.topic-06"
+    }
+  ]
+}

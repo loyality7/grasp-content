@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Nudging",
+  "description": "Nudging",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Choice Architecture",
+      "conceptId": "economics.behavioral-economics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Default Options",
+      "conceptId": "economics.behavioral-economics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Incentives",
+      "conceptId": "economics.behavioral-economics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Behavioral Interventions",
+      "conceptId": "economics.behavioral-economics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Public Policy Nudges",
+      "conceptId": "economics.behavioral-economics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ethical Considerations",
+      "conceptId": "economics.behavioral-economics.chapter-08.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.periodic-table.chapter-02.topic-02",
+  "name": "Groups",
+  "subject": "chemistry",
+  "definition": "Groups is a fundamental concept in chemistry.",
+  "explanation": "Learn about Groups and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "groups"
+  ]
+}

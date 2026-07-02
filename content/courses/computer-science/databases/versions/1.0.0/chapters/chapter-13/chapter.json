@@ -1,0 +1,112 @@
+{
+  "id": "chapter-13",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "E-Commerce Databases",
+      "conceptId": "computer-science.databases.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Banking Systems",
+      "conceptId": "computer-science.databases.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Social Media Platforms",
+      "conceptId": "computer-science.databases.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Healthcare Systems",
+      "conceptId": "computer-science.databases.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Enterprise Resource Planning (ERP)",
+      "conceptId": "computer-science.databases.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cloud Databases",
+      "conceptId": "computer-science.databases.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Database Administration",
+      "conceptId": "computer-science.databases.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "*Course 10: Software Engineering**",
+      "conceptId": "computer-science.databases.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Software Development Life Cycle (SDLC)",
+      "conceptId": "computer-science.databases.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Requirements Engineering",
+      "conceptId": "computer-science.databases.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Software Design",
+      "conceptId": "computer-science.databases.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Design Patterns",
+      "conceptId": "computer-science.databases.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "UML",
+      "conceptId": "computer-science.databases.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Version Control (Git)",
+      "conceptId": "computer-science.databases.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Testing",
+      "conceptId": "computer-science.databases.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Debugging",
+      "conceptId": "computer-science.databases.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Refactoring",
+      "conceptId": "computer-science.databases.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Agile & Scrum",
+      "conceptId": "computer-science.databases.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "DevOps Basics",
+      "conceptId": "computer-science.databases.chapter-13.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Software Architecture",
+      "conceptId": "computer-science.databases.chapter-13.topic-20"
+    },
+    {
+      "id": "topic-21",
+      "name": "Software Maintenance",
+      "conceptId": "computer-science.databases.chapter-13.topic-21"
+    }
+  ]
+}

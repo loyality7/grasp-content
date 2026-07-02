@@ -1,0 +1,20 @@
+{
+  "id": "physics.modern-physics.chapter-04.topic-04",
+  "name": "Wave Functions",
+  "subject": "physics",
+  "definition": "Wave Functions is a fundamental concept in physics.",
+  "explanation": "Learn about Wave Functions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "wave-functions"
+  ]
+}

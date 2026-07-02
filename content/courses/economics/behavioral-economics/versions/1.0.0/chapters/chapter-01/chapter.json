@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Behavioral Economics",
+  "description": "Introduction to Behavioral Economics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Behavioral Economics?",
+      "conceptId": "economics.behavioral-economics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rational Choice Theory",
+      "conceptId": "economics.behavioral-economics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Bounded Rationality",
+      "conceptId": "economics.behavioral-economics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Behavioral Decision Making",
+      "conceptId": "economics.behavioral-economics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "History of Behavioral Economics",
+      "conceptId": "economics.behavioral-economics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "economics.behavioral-economics.chapter-01.topic-06"
+    }
+  ]
+}

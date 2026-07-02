@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Applied Ethics",
+  "description": "Applied Ethics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Professional Ethics",
+      "conceptId": "philosophy.ethics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Medical Ethics",
+      "conceptId": "philosophy.ethics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Legal Ethics",
+      "conceptId": "philosophy.ethics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Engineering Ethics",
+      "conceptId": "philosophy.ethics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Journalism Ethics",
+      "conceptId": "philosophy.ethics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Research Ethics",
+      "conceptId": "philosophy.ethics.chapter-07.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "biology.microbiology.chapter-10.topic-01",
+  "name": "Antibiotics",
+  "subject": "biology",
+  "definition": "Antibiotics is a fundamental concept in biology.",
+  "explanation": "Learn about Antibiotics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "antibiotics"
+  ]
+}

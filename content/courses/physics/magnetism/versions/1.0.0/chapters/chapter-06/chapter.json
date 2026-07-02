@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Magnetization",
+  "description": "Magnetization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Magnetization",
+      "conceptId": "physics.magnetism.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Magnetic Intensity",
+      "conceptId": "physics.magnetism.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Magnetic Permeability",
+      "conceptId": "physics.magnetism.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Magnetic Susceptibility",
+      "conceptId": "physics.magnetism.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "B-H Curve",
+      "conceptId": "physics.magnetism.chapter-06.topic-05"
+    }
+  ]
+}

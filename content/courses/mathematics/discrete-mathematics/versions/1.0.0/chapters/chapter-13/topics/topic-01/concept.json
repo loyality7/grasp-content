@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-13.topic-01",
+  "name": "Divisibility",
+  "subject": "mathematics",
+  "definition": "Divisibility is a fundamental concept in mathematics.",
+  "explanation": "Learn about Divisibility and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "divisibility"
+  ]
+}

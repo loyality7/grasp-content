@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-09.topic-02",
+  "name": "Second-Mover Advantage",
+  "subject": "game-theory",
+  "definition": "Second-Mover Advantage is a fundamental concept in game-theory.",
+  "explanation": "Learn about Second-Mover Advantage and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "second-mover-advantage"
+  ]
+}

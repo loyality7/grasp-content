@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Intelligence",
+  "description": "Intelligence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Theories of Intelligence",
+      "conceptId": "psychology.cognitive-psychology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "General Intelligence",
+      "conceptId": "psychology.cognitive-psychology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multiple Intelligences",
+      "conceptId": "psychology.cognitive-psychology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Emotional Intelligence",
+      "conceptId": "psychology.cognitive-psychology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Intelligence Testing",
+      "conceptId": "psychology.cognitive-psychology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cognitive Abilities",
+      "conceptId": "psychology.cognitive-psychology.chapter-10.topic-06"
+    }
+  ]
+}

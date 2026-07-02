@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.states-of-matter.chapter-13.topic-13",
+  "name": "Gibbs Free Energy",
+  "subject": "chemistry",
+  "definition": "Gibbs Free Energy is a fundamental concept in chemistry.",
+  "explanation": "Learn about Gibbs Free Energy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "gibbs-free-energy"
+  ]
+}

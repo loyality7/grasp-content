@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Cosets & Lagrange's Theorem",
+  "description": "Cosets & Lagrange's Theorem",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Left Cosets",
+      "conceptId": "mathematics.abstract-algebra.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Right Cosets",
+      "conceptId": "mathematics.abstract-algebra.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Index of a Subgroup",
+      "conceptId": "mathematics.abstract-algebra.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Lagrange's Theorem",
+      "conceptId": "mathematics.abstract-algebra.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Normal Subgroups",
+      "conceptId": "mathematics.abstract-algebra.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Quotient Groups",
+      "conceptId": "mathematics.abstract-algebra.chapter-04.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Compiler Design",
+  "description": "Introduction to Compiler Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is a Compiler?",
+      "conceptId": "computer-science.compiler-design.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Compiler vs Interpreter",
+      "conceptId": "computer-science.compiler-design.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Language Translation",
+      "conceptId": "computer-science.compiler-design.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Compiler Phases",
+      "conceptId": "computer-science.compiler-design.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bootstrapping",
+      "conceptId": "computer-science.compiler-design.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Compiler Architecture",
+      "conceptId": "computer-science.compiler-design.chapter-01.topic-06"
+    }
+  ]
+}

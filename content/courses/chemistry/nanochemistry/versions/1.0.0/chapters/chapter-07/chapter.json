@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Surface Chemistry",
+  "description": "Surface Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Surface Area",
+      "conceptId": "chemistry.nanochemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Surface Energy",
+      "conceptId": "chemistry.nanochemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Surface Functionalization",
+      "conceptId": "chemistry.nanochemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Surface Modification",
+      "conceptId": "chemistry.nanochemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Colloidal Stability",
+      "conceptId": "chemistry.nanochemistry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Nanoparticle Interactions",
+      "conceptId": "chemistry.nanochemistry.chapter-07.topic-06"
+    }
+  ]
+}

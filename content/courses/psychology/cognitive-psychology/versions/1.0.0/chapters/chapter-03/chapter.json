@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Perception",
+  "description": "Perception",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Visual Perception",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Auditory Perception",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Pattern Recognition",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Object Recognition",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Depth Perception",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Perceptual Constancies",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Visual Illusions",
+      "conceptId": "psychology.cognitive-psychology.chapter-03.topic-07"
+    }
+  ]
+}

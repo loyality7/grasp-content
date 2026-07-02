@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07",
+  "name": "Square Roots",
+  "description": "Square Roots",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Perfect Squares",
+      "conceptId": "mathematics.pre-algebra.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Square Roots",
+      "conceptId": "mathematics.pre-algebra.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cube Roots",
+      "conceptId": "mathematics.pre-algebra.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Estimation of Roots",
+      "conceptId": "mathematics.pre-algebra.chapter-07.topic-04"
+    }
+  ]
+}

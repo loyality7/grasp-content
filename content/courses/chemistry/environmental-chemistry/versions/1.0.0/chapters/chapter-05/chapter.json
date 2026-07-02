@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Water Chemistry",
+  "description": "Water Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Water Quality",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Water Hardness",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Dissolved Oxygen",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "pH of Water",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Salinity",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Water Pollutants",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Eutrophication",
+      "conceptId": "chemistry.environmental-chemistry.chapter-05.topic-07"
+    }
+  ]
+}

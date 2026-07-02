@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Polymers as Materials",
+  "description": "Polymers as Materials",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Thermoplastics",
+      "conceptId": "chemistry.materials-chemistry.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Thermosets",
+      "conceptId": "chemistry.materials-chemistry.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Elastomers",
+      "conceptId": "chemistry.materials-chemistry.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Polymer Composites",
+      "conceptId": "chemistry.materials-chemistry.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Engineering Plastics",
+      "conceptId": "chemistry.materials-chemistry.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Polymer Blends",
+      "conceptId": "chemistry.materials-chemistry.chapter-05.topic-06"
+    }
+  ]
+}

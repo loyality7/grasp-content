@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Political Ideologies",
+  "description": "Political Ideologies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Liberalism",
+      "conceptId": "philosophy.political-philosophy.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Conservatism",
+      "conceptId": "philosophy.political-philosophy.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Socialism",
+      "conceptId": "philosophy.political-philosophy.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Libertarianism",
+      "conceptId": "philosophy.political-philosophy.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nationalism",
+      "conceptId": "philosophy.political-philosophy.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Anarchism",
+      "conceptId": "philosophy.political-philosophy.chapter-08.topic-06"
+    }
+  ]
+}

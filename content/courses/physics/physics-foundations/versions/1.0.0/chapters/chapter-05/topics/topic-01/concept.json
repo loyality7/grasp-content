@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-05.topic-01",
+  "name": "Vector Addition",
+  "subject": "physics",
+  "definition": "Vector Addition is a fundamental concept in physics.",
+  "explanation": "Learn about Vector Addition and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "vector-addition"
+  ]
+}

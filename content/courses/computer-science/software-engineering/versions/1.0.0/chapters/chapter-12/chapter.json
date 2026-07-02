@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Software Maintenance",
+  "description": "Software Maintenance",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bug Fixing",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Feature Development",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Legacy Systems",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Technical Debt",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Performance Optimization",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Software Evolution",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Documentation Maintenance",
+      "conceptId": "computer-science.software-engineering.chapter-12.topic-07"
+    }
+  ]
+}

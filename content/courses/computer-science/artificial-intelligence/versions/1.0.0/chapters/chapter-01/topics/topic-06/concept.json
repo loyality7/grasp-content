@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-01.topic-06",
+  "name": "AI Workflow",
+  "subject": "computer-science",
+  "definition": "AI Workflow is a fundamental concept in computer-science.",
+  "explanation": "Learn about AI Workflow and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "ai-workflow"
+  ]
+}

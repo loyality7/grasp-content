@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Distributed Databases",
+  "description": "Distributed Databases",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Database Replication",
+      "conceptId": "computer-science.databases.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sharding",
+      "conceptId": "computer-science.databases.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Distributed Transactions",
+      "conceptId": "computer-science.databases.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Consistency Models",
+      "conceptId": "computer-science.databases.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fault Tolerance",
+      "conceptId": "computer-science.databases.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "High Availability",
+      "conceptId": "computer-science.databases.chapter-10.topic-06"
+    }
+  ]
+}

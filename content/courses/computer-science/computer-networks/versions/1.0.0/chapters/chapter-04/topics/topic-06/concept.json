@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-networks.chapter-04.topic-06",
+  "name": "Switches",
+  "subject": "computer-science",
+  "definition": "Switches is a fundamental concept in computer-science.",
+  "explanation": "Learn about Switches and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "switches"
+  ]
+}

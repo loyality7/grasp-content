@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-06.topic-05",
+  "name": "Upcasting",
+  "subject": "computer-science",
+  "definition": "Upcasting is a fundamental concept in computer-science.",
+  "explanation": "Learn about Upcasting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "upcasting"
+  ]
+}

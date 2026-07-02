@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-13.topic-02",
+  "name": "Numerical Stability",
+  "subject": "mathematics",
+  "definition": "Numerical Stability is a fundamental concept in mathematics.",
+  "explanation": "Learn about Numerical Stability and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "numerical-stability"
+  ]
+}

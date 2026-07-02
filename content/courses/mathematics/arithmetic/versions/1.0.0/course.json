@@ -1,0 +1,17 @@
+{
+  "id": "arithmetic",
+  "name": "Arithmetic",
+  "description": "Arithmetic",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 0,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "arithmetic"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-13.topic-13",
+  "name": "Identity & Access Management",
+  "subject": "computer-science",
+  "definition": "Identity & Access Management is a fundamental concept in computer-science.",
+  "explanation": "Learn about Identity & Access Management and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "identity-access-management"
+  ]
+}

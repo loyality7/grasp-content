@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Culture & Personality",
+  "description": "Culture & Personality",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cross-Cultural Personality",
+      "conceptId": "psychology.personality-psychology.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Individualism",
+      "conceptId": "psychology.personality-psychology.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Collectivism",
+      "conceptId": "psychology.personality-psychology.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cultural Values",
+      "conceptId": "psychology.personality-psychology.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Identity",
+      "conceptId": "psychology.personality-psychology.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Diversity",
+      "conceptId": "psychology.personality-psychology.chapter-11.topic-06"
+    }
+  ]
+}

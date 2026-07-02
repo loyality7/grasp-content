@@ -1,0 +1,20 @@
+{
+  "id": "biology.biotechnology.chapter-04.topic-02",
+  "name": "Next-Generation Sequencing (NGS)",
+  "subject": "biology",
+  "definition": "Next-Generation Sequencing (NGS) is a fundamental concept in biology.",
+  "explanation": "Learn about Next-Generation Sequencing (NGS) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "next-generation-sequencing-ngs"
+  ]
+}

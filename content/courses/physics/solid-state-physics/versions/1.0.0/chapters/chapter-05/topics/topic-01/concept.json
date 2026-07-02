@@ -1,0 +1,20 @@
+{
+  "id": "physics.solid-state-physics.chapter-05.topic-01",
+  "name": "Free Electron Model",
+  "subject": "physics",
+  "definition": "Free Electron Model is a fundamental concept in physics.",
+  "explanation": "Learn about Free Electron Model and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "free-electron-model"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-09.topic-06",
+  "name": "Domain Names",
+  "subject": "computer-science",
+  "definition": "Domain Names is a fundamental concept in computer-science.",
+  "explanation": "Learn about Domain Names and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "domain-names"
+  ]
+}

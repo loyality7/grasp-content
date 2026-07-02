@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.applications-of-game-theory.chapter-09.topic-03",
+  "name": "Security Investment",
+  "subject": "game-theory",
+  "definition": "Security Investment is a fundamental concept in game-theory.",
+  "explanation": "Learn about Security Investment and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "security-investment"
+  ]
+}

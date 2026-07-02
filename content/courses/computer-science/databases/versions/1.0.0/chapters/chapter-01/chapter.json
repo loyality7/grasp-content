@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Databases",
+  "description": "Introduction to Databases",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is a Database?",
+      "conceptId": "computer-science.databases.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Database Management Systems (DBMS)",
+      "conceptId": "computer-science.databases.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Types of Databases",
+      "conceptId": "computer-science.databases.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Database Architecture",
+      "conceptId": "computer-science.databases.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Data Models",
+      "conceptId": "computer-science.databases.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Database Applications",
+      "conceptId": "computer-science.databases.chapter-01.topic-06"
+    }
+  ]
+}

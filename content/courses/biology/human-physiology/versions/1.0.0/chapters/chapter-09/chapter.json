@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Reproductive Physiology",
+  "description": "Reproductive Physiology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Male Reproductive Function",
+      "conceptId": "biology.human-physiology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Female Reproductive Function",
+      "conceptId": "biology.human-physiology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Gametogenesis",
+      "conceptId": "biology.human-physiology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Menstrual Cycle",
+      "conceptId": "biology.human-physiology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fertilization",
+      "conceptId": "biology.human-physiology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Pregnancy",
+      "conceptId": "biology.human-physiology.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Lactation",
+      "conceptId": "biology.human-physiology.chapter-09.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-13.topic-04",
+  "name": "Evolutionary Machine Learning",
+  "subject": "game-theory",
+  "definition": "Evolutionary Machine Learning is a fundamental concept in game-theory.",
+  "explanation": "Learn about Evolutionary Machine Learning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "evolutionary-machine-learning"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-07.topic-04",
+  "name": "Page Replacement Algorithms",
+  "subject": "computer-science",
+  "definition": "Page Replacement Algorithms is a fundamental concept in computer-science.",
+  "explanation": "Learn about Page Replacement Algorithms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "page-replacement-algorithms"
+  ]
+}

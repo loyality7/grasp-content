@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Personality Assessment",
+  "description": "Personality Assessment",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Personality Tests",
+      "conceptId": "psychology.personality-psychology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Self-Report Inventories",
+      "conceptId": "psychology.personality-psychology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Projective Tests",
+      "conceptId": "psychology.personality-psychology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Behavioral Assessment",
+      "conceptId": "psychology.personality-psychology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Reliability",
+      "conceptId": "psychology.personality-psychology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Validity",
+      "conceptId": "psychology.personality-psychology.chapter-08.topic-06"
+    }
+  ]
+}

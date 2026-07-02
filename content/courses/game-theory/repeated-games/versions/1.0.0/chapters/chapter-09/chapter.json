@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Strategic Relationships",
+  "description": "Strategic Relationships",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Business Competition",
+      "conceptId": "game-theory.repeated-games.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Long-Term Contracts",
+      "conceptId": "game-theory.repeated-games.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Supply Chains",
+      "conceptId": "game-theory.repeated-games.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Employer-Employee Relationships",
+      "conceptId": "game-theory.repeated-games.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "International Diplomacy",
+      "conceptId": "game-theory.repeated-games.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Alliances",
+      "conceptId": "game-theory.repeated-games.chapter-09.topic-06"
+    }
+  ]
+}

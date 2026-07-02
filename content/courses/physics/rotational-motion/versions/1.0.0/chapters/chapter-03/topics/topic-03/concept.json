@@ -1,0 +1,20 @@
+{
+  "id": "physics.rotational-motion.chapter-03.topic-03",
+  "name": "Moment Arm",
+  "subject": "physics",
+  "definition": "Moment Arm is a fundamental concept in physics.",
+  "explanation": "Learn about Moment Arm and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "moment-arm"
+  ]
+}

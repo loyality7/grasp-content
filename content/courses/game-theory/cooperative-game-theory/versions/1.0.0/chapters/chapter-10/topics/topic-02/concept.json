@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-10.topic-02",
+  "name": "Communication Graphs",
+  "subject": "game-theory",
+  "definition": "Communication Graphs is a fundamental concept in game-theory.",
+  "explanation": "Learn about Communication Graphs and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "communication-graphs"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Production Optimization",
+      "conceptId": "economics.producer-theory.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Operations Research",
+      "conceptId": "economics.producer-theory.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Production Under Uncertainty",
+      "conceptId": "economics.producer-theory.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Automation",
+      "conceptId": "economics.producer-theory.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Artificial Intelligence in Production",
+      "conceptId": "economics.producer-theory.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Manufacturing",
+      "conceptId": "economics.producer-theory.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 6: Market Structures**",
+      "conceptId": "economics.producer-theory.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Perfect Competition",
+      "conceptId": "economics.producer-theory.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Monopoly",
+      "conceptId": "economics.producer-theory.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Monopolistic Competition",
+      "conceptId": "economics.producer-theory.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Oligopoly",
+      "conceptId": "economics.producer-theory.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Price Discrimination",
+      "conceptId": "economics.producer-theory.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Cartels",
+      "conceptId": "economics.producer-theory.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Game Theory in Markets",
+      "conceptId": "economics.producer-theory.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Antitrust Policy",
+      "conceptId": "economics.producer-theory.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Market Regulation",
+      "conceptId": "economics.producer-theory.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Digital Platform Markets",
+      "conceptId": "economics.producer-theory.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Network Effects",
+      "conceptId": "economics.producer-theory.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Competition Policy",
+      "conceptId": "economics.producer-theory.chapter-13.topic-19"
+    }
+  ]
+}

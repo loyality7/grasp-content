@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Consensus",
+  "description": "Consensus",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Consensus Problem",
+      "conceptId": "computer-science.distributed-systems.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Paxos (Concept)",
+      "conceptId": "computer-science.distributed-systems.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Raft",
+      "conceptId": "computer-science.distributed-systems.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Leader Election",
+      "conceptId": "computer-science.distributed-systems.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Distributed Coordination",
+      "conceptId": "computer-science.distributed-systems.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Consensus Applications",
+      "conceptId": "computer-science.distributed-systems.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Organizational Culture",
+  "description": "Organizational Culture",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Organizational Culture",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Organizational Climate",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Values",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Diversity & Inclusion",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Organizational Identity",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cultural Change",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-07.topic-06"
+    }
+  ]
+}

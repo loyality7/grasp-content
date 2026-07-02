@@ -1,0 +1,20 @@
+{
+  "id": "economics.market-structures.chapter-06.topic-02",
+  "name": "Nash Equilibrium",
+  "subject": "economics",
+  "definition": "Nash Equilibrium is a fundamental concept in economics.",
+  "explanation": "Learn about Nash Equilibrium and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "nash-equilibrium"
+  ]
+}

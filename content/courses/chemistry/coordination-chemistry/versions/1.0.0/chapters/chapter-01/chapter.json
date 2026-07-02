@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Coordination Chemistry",
+  "description": "Introduction to Coordination Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Coordination Compounds",
+      "conceptId": "chemistry.coordination-chemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Central Metal Atom/Ion",
+      "conceptId": "chemistry.coordination-chemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Coordination Sphere",
+      "conceptId": "chemistry.coordination-chemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Werner's Theory",
+      "conceptId": "chemistry.coordination-chemistry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Importance of Coordination Chemistry",
+      "conceptId": "chemistry.coordination-chemistry.chapter-01.topic-06"
+    }
+  ]
+}

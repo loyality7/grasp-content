@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Emotion & Cognition",
+  "description": "Emotion & Cognition",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Emotions",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rationality",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Emotional Intelligence",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Motivation",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cognitive Architecture",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Embodied Cognition",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-06"
+    }
+  ]
+}

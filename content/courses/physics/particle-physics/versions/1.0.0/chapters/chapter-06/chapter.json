@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Hadrons",
+  "description": "Hadrons",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Baryons",
+      "conceptId": "physics.particle-physics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mesons",
+      "conceptId": "physics.particle-physics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Proton",
+      "conceptId": "physics.particle-physics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Neutron",
+      "conceptId": "physics.particle-physics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Exotic Hadrons",
+      "conceptId": "physics.particle-physics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hadron Classification",
+      "conceptId": "physics.particle-physics.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Institutions & Governance",
+  "description": "Institutions & Governance",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Economic Institutions",
+      "conceptId": "economics.development-economics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Property Rights",
+      "conceptId": "economics.development-economics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rule of Law",
+      "conceptId": "economics.development-economics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Corruption",
+      "conceptId": "economics.development-economics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Governance",
+      "conceptId": "economics.development-economics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Public Administration",
+      "conceptId": "economics.development-economics.chapter-09.topic-06"
+    }
+  ]
+}

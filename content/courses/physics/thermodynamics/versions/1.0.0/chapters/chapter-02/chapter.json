@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Thermal Expansion",
+  "description": "Thermal Expansion",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Linear Expansion",
+      "conceptId": "physics.thermodynamics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Area Expansion",
+      "conceptId": "physics.thermodynamics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Volume Expansion",
+      "conceptId": "physics.thermodynamics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Coefficient of Expansion",
+      "conceptId": "physics.thermodynamics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications",
+      "conceptId": "physics.thermodynamics.chapter-02.topic-05"
+    }
+  ]
+}

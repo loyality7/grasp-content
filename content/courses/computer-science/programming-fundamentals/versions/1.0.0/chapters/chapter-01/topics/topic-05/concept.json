@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-01.topic-05",
+  "name": "Compilation vs Interpretation",
+  "subject": "computer-science",
+  "definition": "Compilation vs Interpretation is a fundamental concept in computer-science.",
+  "explanation": "Learn about Compilation vs Interpretation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "compilation-vs-interpretation"
+  ]
+}

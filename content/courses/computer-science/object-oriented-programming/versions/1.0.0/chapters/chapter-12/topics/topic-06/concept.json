@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-12.topic-06",
+  "name": "Persistent Objects",
+  "subject": "computer-science",
+  "definition": "Persistent Objects is a fundamental concept in computer-science.",
+  "explanation": "Learn about Persistent Objects and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "persistent-objects"
+  ]
+}

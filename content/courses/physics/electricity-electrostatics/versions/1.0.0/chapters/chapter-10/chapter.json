@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Capacitive Sensors",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Touchscreens",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electrostatic Precipitators",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Photocopiers",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Lightning",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Particle Accelerators (Introduction)",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Electrostatic Shielding",
+      "conceptId": "physics.electricity-electrostatics.chapter-10.topic-07"
+    }
+  ]
+}

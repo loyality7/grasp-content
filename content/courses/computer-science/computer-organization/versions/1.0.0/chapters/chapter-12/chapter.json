@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Modern Processor Design",
+  "description": "Modern Processor Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "GPUs",
+      "conceptId": "computer-science.computer-organization.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "ARM Architecture",
+      "conceptId": "computer-science.computer-organization.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "x86 Architecture",
+      "conceptId": "computer-science.computer-organization.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Embedded Processors",
+      "conceptId": "computer-science.computer-organization.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Low-Power Computing",
+      "conceptId": "computer-science.computer-organization.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hardware Security Features",
+      "conceptId": "computer-science.computer-organization.chapter-12.topic-06"
+    }
+  ]
+}

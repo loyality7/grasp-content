@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-09.topic-01",
+  "name": "Committee Voting",
+  "subject": "game-theory",
+  "definition": "Committee Voting is a fundamental concept in game-theory.",
+  "explanation": "Learn about Committee Voting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "committee-voting"
+  ]
+}

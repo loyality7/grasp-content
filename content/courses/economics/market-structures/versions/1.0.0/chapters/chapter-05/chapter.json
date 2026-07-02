@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Oligopoly",
+  "description": "Oligopoly",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Characteristics",
+      "conceptId": "economics.market-structures.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Strategic Interdependence",
+      "conceptId": "economics.market-structures.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Price Leadership",
+      "conceptId": "economics.market-structures.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Kinked Demand Curve",
+      "conceptId": "economics.market-structures.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Collusion",
+      "conceptId": "economics.market-structures.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cartels",
+      "conceptId": "economics.market-structures.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Market Concentration",
+      "conceptId": "economics.market-structures.chapter-05.topic-07"
+    }
+  ]
+}

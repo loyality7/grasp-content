@@ -1,0 +1,20 @@
+{
+  "id": "physics.astrophysics.chapter-02.topic-07",
+  "name": "Adaptive Optics",
+  "subject": "physics",
+  "definition": "Adaptive Optics is a fundamental concept in physics.",
+  "explanation": "Learn about Adaptive Optics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "adaptive-optics"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Moral Decision Making",
+  "description": "Moral Decision Making",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Moral Dilemmas",
+      "conceptId": "philosophy.ethics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ethical Frameworks",
+      "conceptId": "philosophy.ethics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conflicting Duties",
+      "conceptId": "philosophy.ethics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ethical Judgment",
+      "conceptId": "philosophy.ethics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Case Analysis",
+      "conceptId": "philosophy.ethics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Practical Reasoning",
+      "conceptId": "philosophy.ethics.chapter-06.topic-06"
+    }
+  ]
+}

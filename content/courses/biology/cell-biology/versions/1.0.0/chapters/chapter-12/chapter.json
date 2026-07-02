@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cancer Biology",
+      "conceptId": "biology.cell-biology.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Regenerative Medicine",
+      "conceptId": "biology.cell-biology.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Stem Cell Therapy",
+      "conceptId": "biology.cell-biology.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Tissue Engineering",
+      "conceptId": "biology.cell-biology.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Gene Therapy",
+      "conceptId": "biology.cell-biology.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cell-Based Diagnostics",
+      "conceptId": "biology.cell-biology.chapter-12.topic-06"
+    }
+  ]
+}

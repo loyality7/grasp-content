@@ -1,0 +1,32 @@
+{
+  "id": "chapter-04",
+  "name": "Population Evolution",
+  "description": "Population Evolution",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Population Genetics",
+      "conceptId": "biology.evolution.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hardy-Weinberg Principle",
+      "conceptId": "biology.evolution.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Allele Frequencies",
+      "conceptId": "biology.evolution.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Selection Pressure",
+      "conceptId": "biology.evolution.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Evolution in Populations",
+      "conceptId": "biology.evolution.chapter-04.topic-05"
+    }
+  ]
+}

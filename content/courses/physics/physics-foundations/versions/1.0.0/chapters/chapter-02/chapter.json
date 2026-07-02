@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "SI Units & Measurements",
+  "description": "SI Units & Measurements",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "SI Base Units",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Derived Units",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Unit Conversion",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Prefixes (Milli, Kilo, Mega...)",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Dimensional Analysis",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dimensional Formula",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Dimensional Homogeneity",
+      "conceptId": "physics.physics-foundations.chapter-02.topic-07"
+    }
+  ]
+}

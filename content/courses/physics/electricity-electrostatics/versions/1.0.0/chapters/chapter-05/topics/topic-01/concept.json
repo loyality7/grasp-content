@@ -1,0 +1,20 @@
+{
+  "id": "physics.electricity-electrostatics.chapter-05.topic-01",
+  "name": "Gauss's Law",
+  "subject": "physics",
+  "definition": "Gauss's Law is a fundamental concept in physics.",
+  "explanation": "Learn about Gauss's Law and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "gausss-law"
+  ]
+}

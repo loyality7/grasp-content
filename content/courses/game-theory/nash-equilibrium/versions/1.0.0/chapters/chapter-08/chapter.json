@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Correlated Equilibrium",
+  "description": "Correlated Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Correlated Strategies",
+      "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mediators",
+      "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Coordination Signals",
+      "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Correlated Equilibrium",
+      "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Comparison with Nash Equilibrium",
+      "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Practical Examples",
+      "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-06"
+    }
+  ]
+}

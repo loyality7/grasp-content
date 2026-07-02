@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Elementary Particles",
+  "description": "Elementary Particles",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Quarks",
+      "conceptId": "physics.particle-physics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Leptons",
+      "conceptId": "physics.particle-physics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Generations of Particles",
+      "conceptId": "physics.particle-physics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Particle Properties",
+      "conceptId": "physics.particle-physics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Antiparticles",
+      "conceptId": "physics.particle-physics.chapter-02.topic-05"
+    }
+  ]
+}

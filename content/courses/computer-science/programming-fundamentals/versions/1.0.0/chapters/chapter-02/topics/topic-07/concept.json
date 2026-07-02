@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-02.topic-07",
+  "name": "Variable Scope (Introduction)",
+  "subject": "computer-science",
+  "definition": "Variable Scope (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Variable Scope (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "variable-scope-introduction"
+  ]
+}

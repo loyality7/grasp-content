@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-11.topic-01",
+  "name": "Simple Linear Regression",
+  "subject": "mathematics",
+  "definition": "Simple Linear Regression is a fundamental concept in mathematics.",
+  "explanation": "Learn about Simple Linear Regression and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "simple-linear-regression"
+  ]
+}

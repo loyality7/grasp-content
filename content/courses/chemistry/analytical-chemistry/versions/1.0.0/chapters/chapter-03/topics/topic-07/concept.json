@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-03.topic-07",
+  "name": "Standard Deviation",
+  "subject": "chemistry",
+  "definition": "Standard Deviation is a fundamental concept in chemistry.",
+  "explanation": "Learn about Standard Deviation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "standard-deviation"
+  ]
+}

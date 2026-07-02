@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-06.topic-06",
+  "name": "Poisson Distribution",
+  "subject": "mathematics",
+  "definition": "Poisson Distribution is a fundamental concept in mathematics.",
+  "explanation": "Learn about Poisson Distribution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "poisson-distribution"
+  ]
+}

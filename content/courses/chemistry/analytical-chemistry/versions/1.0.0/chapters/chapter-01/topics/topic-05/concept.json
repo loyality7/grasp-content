@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-01.topic-05",
+  "name": "Analytical Workflow",
+  "subject": "chemistry",
+  "definition": "Analytical Workflow is a fundamental concept in chemistry.",
+  "explanation": "Learn about Analytical Workflow and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "analytical-workflow"
+  ]
+}

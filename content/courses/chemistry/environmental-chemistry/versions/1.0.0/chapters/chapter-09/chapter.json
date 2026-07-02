@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Environmental Toxicology",
+  "description": "Environmental Toxicology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Toxic Chemicals",
+      "conceptId": "chemistry.environmental-chemistry.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Heavy Metal Toxicity",
+      "conceptId": "chemistry.environmental-chemistry.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Persistent Organic Pollutants (POPs)",
+      "conceptId": "chemistry.environmental-chemistry.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bioaccumulation",
+      "conceptId": "chemistry.environmental-chemistry.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Biomagnification",
+      "conceptId": "chemistry.environmental-chemistry.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Risk Assessment",
+      "conceptId": "chemistry.environmental-chemistry.chapter-09.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.abstract-algebra.chapter-10.topic-04",
+  "name": "Module Homomorphisms",
+  "subject": "mathematics",
+  "definition": "Module Homomorphisms is a fundamental concept in mathematics.",
+  "explanation": "Learn about Module Homomorphisms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "module-homomorphisms"
+  ]
+}

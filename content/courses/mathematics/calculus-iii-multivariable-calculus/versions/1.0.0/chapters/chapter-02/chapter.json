@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Vectors",
+  "description": "Vectors",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Vectors in 2D & 3D",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Magnitude",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Unit Vectors",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dot Product",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cross Product",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Scalar Triple Product",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Vector Projections",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-07"
+    }
+  ]
+}

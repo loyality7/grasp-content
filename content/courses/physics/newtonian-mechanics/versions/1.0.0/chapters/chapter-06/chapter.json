@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Friction",
+  "description": "Friction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Static Friction",
+      "conceptId": "physics.newtonian-mechanics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Kinetic Friction",
+      "conceptId": "physics.newtonian-mechanics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Coefficient of Friction",
+      "conceptId": "physics.newtonian-mechanics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Limiting Friction",
+      "conceptId": "physics.newtonian-mechanics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Inclined Plane Problems",
+      "conceptId": "physics.newtonian-mechanics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Rolling Friction (Introduction)",
+      "conceptId": "physics.newtonian-mechanics.chapter-06.topic-06"
+    }
+  ]
+}

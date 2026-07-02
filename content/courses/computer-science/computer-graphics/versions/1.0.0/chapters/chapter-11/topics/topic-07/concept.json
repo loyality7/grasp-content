@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-graphics.chapter-11.topic-07",
+  "name": "High Dynamic Range (HDR)",
+  "subject": "computer-science",
+  "definition": "High Dynamic Range (HDR) is a fundamental concept in computer-science.",
+  "explanation": "Learn about High Dynamic Range (HDR) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "high-dynamic-range-hdr"
+  ]
+}

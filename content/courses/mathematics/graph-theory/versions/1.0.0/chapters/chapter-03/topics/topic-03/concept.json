@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-03.topic-03",
+  "name": "Out-Degree",
+  "subject": "mathematics",
+  "definition": "Out-Degree is a fundamental concept in mathematics.",
+  "explanation": "Learn about Out-Degree and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "out-degree"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-09.topic-03",
+  "name": "Difference-in-Differences",
+  "subject": "economics",
+  "definition": "Difference-in-Differences is a fundamental concept in economics.",
+  "explanation": "Learn about Difference-in-Differences and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "difference-in-differences"
+  ]
+}

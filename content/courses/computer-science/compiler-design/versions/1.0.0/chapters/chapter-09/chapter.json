@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Language Features",
+  "description": "Language Features",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Functions",
+      "conceptId": "computer-science.compiler-design.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Closures",
+      "conceptId": "computer-science.compiler-design.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Objects",
+      "conceptId": "computer-science.compiler-design.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Generics",
+      "conceptId": "computer-science.compiler-design.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Modules",
+      "conceptId": "computer-science.compiler-design.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Exception Handling Implementation",
+      "conceptId": "computer-science.compiler-design.chapter-09.topic-06"
+    }
+  ]
+}

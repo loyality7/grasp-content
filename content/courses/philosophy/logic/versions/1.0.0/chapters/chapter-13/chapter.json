@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Set Theory (Introduction)",
+      "conceptId": "philosophy.logic.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Model Theory",
+      "conceptId": "philosophy.logic.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Proof Theory",
+      "conceptId": "philosophy.logic.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fuzzy Logic",
+      "conceptId": "philosophy.logic.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Non-Classical Logic",
+      "conceptId": "philosophy.logic.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Formal Reasoning",
+      "conceptId": "philosophy.logic.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 3: Epistemology**",
+      "conceptId": "philosophy.logic.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Knowledge",
+      "conceptId": "philosophy.logic.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Belief",
+      "conceptId": "philosophy.logic.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Truth",
+      "conceptId": "philosophy.logic.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Justification",
+      "conceptId": "philosophy.logic.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Skepticism",
+      "conceptId": "philosophy.logic.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Rationalism",
+      "conceptId": "philosophy.logic.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Empiricism",
+      "conceptId": "philosophy.logic.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Perception",
+      "conceptId": "philosophy.logic.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Testimony",
+      "conceptId": "philosophy.logic.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Memory",
+      "conceptId": "philosophy.logic.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Scientific Knowledge",
+      "conceptId": "philosophy.logic.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Contemporary Epistemology",
+      "conceptId": "philosophy.logic.chapter-13.topic-19"
+    }
+  ]
+}

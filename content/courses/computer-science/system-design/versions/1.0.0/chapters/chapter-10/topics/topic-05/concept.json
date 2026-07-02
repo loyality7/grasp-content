@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.system-design.chapter-10.topic-05",
+  "name": "Disaster Recovery",
+  "subject": "computer-science",
+  "definition": "Disaster Recovery is a fundamental concept in computer-science.",
+  "explanation": "Learn about Disaster Recovery and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "disaster-recovery"
+  ]
+}

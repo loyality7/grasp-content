@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Committee Decisions",
+  "description": "Committee Decisions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Committee Voting",
+      "conceptId": "game-theory.voting-social-choice.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Multi-Winner Elections",
+      "conceptId": "game-theory.voting-social-choice.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Consensus Building",
+      "conceptId": "game-theory.voting-social-choice.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Jury Decisions",
+      "conceptId": "game-theory.voting-social-choice.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Group Decision Making",
+      "conceptId": "game-theory.voting-social-choice.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Deliberation",
+      "conceptId": "game-theory.voting-social-choice.chapter-09.topic-06"
+    }
+  ]
+}

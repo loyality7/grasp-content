@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-01.topic-01",
+  "name": "What is Machine Learning?",
+  "subject": "computer-science",
+  "definition": "What is Machine Learning? is a fundamental concept in computer-science.",
+  "explanation": "Learn about What is Machine Learning? and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "what-is-machine-learning"
+  ]
+}

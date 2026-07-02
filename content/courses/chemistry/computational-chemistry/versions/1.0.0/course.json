@@ -1,0 +1,511 @@
+{
+  "id": "computational-chemistry",
+  "name": "Computational Chemistry",
+  "description": "Computational Chemistry",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Computational Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Computational Chemistry?",
+          "conceptId": "chemistry.computational-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Computational Chemistry",
+          "conceptId": "chemistry.computational-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chemical Modeling",
+          "conceptId": "chemistry.computational-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Workflow",
+          "conceptId": "chemistry.computational-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "conceptId": "chemistry.computational-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Limitations",
+          "conceptId": "chemistry.computational-chemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Mathematical Foundations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coordinate Systems",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vector Mathematics",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Matrix Algebra",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Numerical Methods",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Optimization",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Error Analysis",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Computing",
+          "conceptId": "chemistry.computational-chemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Molecular Modeling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Structures",
+          "conceptId": "chemistry.computational-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Molecular Geometry",
+          "conceptId": "chemistry.computational-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Energy Minimization",
+          "conceptId": "chemistry.computational-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conformational Analysis",
+          "conceptId": "chemistry.computational-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Potential Energy Surfaces",
+          "conceptId": "chemistry.computational-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Force Fields",
+          "conceptId": "chemistry.computational-chemistry.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Molecular Mechanics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Mechanics",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bond Stretching",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Angle Bending",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Torsional Interactions",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Non-Bonded Interactions",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Force Field Families",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Geometry Optimization",
+          "conceptId": "chemistry.computational-chemistry.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Quantum Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Schrödinger Equation",
+          "conceptId": "chemistry.computational-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wave Functions",
+          "conceptId": "chemistry.computational-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hartree-Fock Theory",
+          "conceptId": "chemistry.computational-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Basis Sets",
+          "conceptId": "chemistry.computational-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Post-Hartree-Fock Methods",
+          "conceptId": "chemistry.computational-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electronic Structure Calculations",
+          "conceptId": "chemistry.computational-chemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Density Functional Theory (DFT)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Density Functional Theory",
+          "conceptId": "chemistry.computational-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electron Density",
+          "conceptId": "chemistry.computational-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Exchange-Correlation Functionals",
+          "conceptId": "chemistry.computational-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Geometry Optimization",
+          "conceptId": "chemistry.computational-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Calculations",
+          "conceptId": "chemistry.computational-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "chemistry.computational-chemistry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Molecular Dynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Dynamics Simulation",
+          "conceptId": "chemistry.computational-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Time Integration",
+          "conceptId": "chemistry.computational-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Temperature Control",
+          "conceptId": "chemistry.computational-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pressure Control",
+          "conceptId": "chemistry.computational-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Periodic Boundary Conditions",
+          "conceptId": "chemistry.computational-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trajectory Analysis",
+          "conceptId": "chemistry.computational-chemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Monte Carlo Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Random Sampling",
+          "conceptId": "chemistry.computational-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Monte Carlo Simulation",
+          "conceptId": "chemistry.computational-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Statistical Mechanics",
+          "conceptId": "chemistry.computational-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equilibrium Sampling",
+          "conceptId": "chemistry.computational-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Free Energy Calculations",
+          "conceptId": "chemistry.computational-chemistry.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Computational Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "IR Spectrum Prediction",
+          "conceptId": "chemistry.computational-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Raman Spectrum Prediction",
+          "conceptId": "chemistry.computational-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "UV-Visible Spectrum Prediction",
+          "conceptId": "chemistry.computational-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "NMR Prediction",
+          "conceptId": "chemistry.computational-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Vibrational Analysis",
+          "conceptId": "chemistry.computational-chemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Spectral Assignment",
+          "conceptId": "chemistry.computational-chemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Drug Discovery & Biomolecular Modeling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Docking",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Protein Structure Prediction",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ligand Design",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "QSAR",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Virtual Screening",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pharmacophore Modeling",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Molecular Design",
+          "conceptId": "chemistry.computational-chemistry.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Materials & Nanomaterial Simulation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Crystal Modeling",
+          "conceptId": "chemistry.computational-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Surface Chemistry",
+          "conceptId": "chemistry.computational-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nanomaterial Simulation",
+          "conceptId": "chemistry.computational-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Battery Materials",
+          "conceptId": "chemistry.computational-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Catalysts",
+          "conceptId": "chemistry.computational-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Semiconductor Modeling",
+          "conceptId": "chemistry.computational-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "High-Performance Computing & AI",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Parallel Computing",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "GPU Computing",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cloud Computing",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "AI in Chemistry",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Machine Learning Models",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Automated Molecular Design",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Generative Chemistry",
+          "conceptId": "chemistry.computational-chemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications & Future Directions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Drug Discovery",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Engineering",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environmental Chemistry",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Materials Science",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Storage",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Catalysis",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Quantum Computing for Chemistry",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Autonomous Laboratories",
+          "conceptId": "chemistry.computational-chemistry.chapter-13.topic-08"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "computational-chemistry"
+    ]
+  }
+}

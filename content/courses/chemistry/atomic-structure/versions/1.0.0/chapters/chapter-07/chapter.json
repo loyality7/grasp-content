@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Quantum Numbers",
+  "description": "Quantum Numbers",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Principal Quantum Number (n)",
+      "conceptId": "chemistry.atomic-structure.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Azimuthal Quantum Number (l)",
+      "conceptId": "chemistry.atomic-structure.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Magnetic Quantum Number (mₗ)",
+      "conceptId": "chemistry.atomic-structure.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Spin Quantum Number (mₛ)",
+      "conceptId": "chemistry.atomic-structure.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Allowed Quantum States",
+      "conceptId": "chemistry.atomic-structure.chapter-07.topic-05"
+    }
+  ]
+}

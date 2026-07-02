@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Organic Synthesis",
+  "description": "Organic Synthesis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Retrosynthetic Analysis",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Protecting Groups",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Functional Group Interconversion",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Multistep Synthesis",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Selectivity",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Yield Optimization",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-10.topic-06"
+    }
+  ]
+}

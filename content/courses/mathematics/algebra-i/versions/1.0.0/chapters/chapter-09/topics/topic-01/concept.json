@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-i.chapter-09.topic-01",
+  "name": "Greatest Common Factor",
+  "subject": "mathematics",
+  "definition": "Greatest Common Factor is a fundamental concept in mathematics.",
+  "explanation": "Learn about Greatest Common Factor and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "greatest-common-factor"
+  ]
+}

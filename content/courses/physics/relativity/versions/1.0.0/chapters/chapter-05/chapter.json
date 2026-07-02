@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Spacetime Geometry",
+  "description": "Spacetime Geometry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Minkowski Space",
+      "conceptId": "physics.relativity.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Worldlines",
+      "conceptId": "physics.relativity.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Light Cones",
+      "conceptId": "physics.relativity.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Proper Interval",
+      "conceptId": "physics.relativity.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Causality",
+      "conceptId": "physics.relativity.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Spacetime Diagrams",
+      "conceptId": "physics.relativity.chapter-05.topic-06"
+    }
+  ]
+}

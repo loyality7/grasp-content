@@ -1,0 +1,27 @@
+{
+  "id": "chapter-02",
+  "name": "Oxidation Numbers",
+  "description": "Oxidation Numbers",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Oxidation Number",
+      "conceptId": "chemistry.electrochemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rules for Assigning Oxidation Numbers",
+      "conceptId": "chemistry.electrochemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Identifying Oxidation & Reduction",
+      "conceptId": "chemistry.electrochemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Balancing Redox Reactions",
+      "conceptId": "chemistry.electrochemistry.chapter-02.topic-04"
+    }
+  ]
+}

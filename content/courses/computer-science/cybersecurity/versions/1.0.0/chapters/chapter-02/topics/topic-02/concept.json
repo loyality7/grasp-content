@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-02.topic-02",
+  "name": "Symmetric Encryption",
+  "subject": "computer-science",
+  "definition": "Symmetric Encryption is a fundamental concept in computer-science.",
+  "explanation": "Learn about Symmetric Encryption and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "symmetric-encryption"
+  ]
+}

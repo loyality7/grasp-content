@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-02.topic-02",
+  "name": "Remote Method Invocation (RMI)",
+  "subject": "computer-science",
+  "definition": "Remote Method Invocation (RMI) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Remote Method Invocation (RMI) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "remote-method-invocation-rmi"
+  ]
+}

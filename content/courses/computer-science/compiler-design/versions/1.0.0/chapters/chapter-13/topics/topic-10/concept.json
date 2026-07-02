@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-13.topic-10",
+  "name": "2D Graphics",
+  "subject": "computer-science",
+  "definition": "2D Graphics is a fundamental concept in computer-science.",
+  "explanation": "Learn about 2D Graphics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "2d-graphics"
+  ]
+}

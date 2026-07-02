@@ -1,0 +1,27 @@
+{
+  "id": "chapter-09",
+  "name": "Power Series Solutions",
+  "description": "Power Series Solutions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Power Series Method",
+      "conceptId": "mathematics.differential-equations.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Frobenius Method",
+      "conceptId": "mathematics.differential-equations.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ordinary Points",
+      "conceptId": "mathematics.differential-equations.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Singular Points",
+      "conceptId": "mathematics.differential-equations.chapter-09.topic-04"
+    }
+  ]
+}

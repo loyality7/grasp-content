@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Graphs",
+  "description": "Graphs",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Graph Terminology",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Directed Graphs",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Undirected Graphs",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Weighted Graphs",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Graph Representations",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Graph Traversals (BFS & DFS)",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Graph Applications",
+      "conceptId": "computer-science.data-structures.chapter-10.topic-07"
+    }
+  ]
+}

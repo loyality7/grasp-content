@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-07.topic-01",
+  "name": "Power Series",
+  "subject": "mathematics",
+  "definition": "Power Series is a fundamental concept in mathematics.",
+  "explanation": "Learn about Power Series and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "power-series"
+  ]
+}

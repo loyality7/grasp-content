@@ -1,0 +1,47 @@
+{
+  "id": "chapter-06",
+  "name": "Data Visualization",
+  "description": "Data Visualization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Visualization Principles",
+      "conceptId": "computer-science.data-science.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Bar Charts",
+      "conceptId": "computer-science.data-science.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Line Charts",
+      "conceptId": "computer-science.data-science.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Scatter Plots",
+      "conceptId": "computer-science.data-science.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Histograms",
+      "conceptId": "computer-science.data-science.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Heatmaps",
+      "conceptId": "computer-science.data-science.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Dashboards",
+      "conceptId": "computer-science.data-science.chapter-06.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Data Storytelling",
+      "conceptId": "computer-science.data-science.chapter-06.topic-08"
+    }
+  ]
+}

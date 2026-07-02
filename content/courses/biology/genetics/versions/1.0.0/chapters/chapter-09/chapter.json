@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Quantitative Genetics",
+  "description": "Quantitative Genetics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Continuous Traits",
+      "conceptId": "biology.genetics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Polygenic Traits",
+      "conceptId": "biology.genetics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Heritability",
+      "conceptId": "biology.genetics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Environmental Effects",
+      "conceptId": "biology.genetics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Quantitative Trait Loci (QTL)",
+      "conceptId": "biology.genetics.chapter-09.topic-05"
+    }
+  ]
+}

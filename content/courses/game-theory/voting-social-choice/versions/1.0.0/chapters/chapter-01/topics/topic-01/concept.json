@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-01.topic-01",
+  "name": "What is Social Choice?",
+  "subject": "game-theory",
+  "definition": "What is Social Choice? is a fundamental concept in game-theory.",
+  "explanation": "Learn about What is Social Choice? and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "what-is-social-choice"
+  ]
+}

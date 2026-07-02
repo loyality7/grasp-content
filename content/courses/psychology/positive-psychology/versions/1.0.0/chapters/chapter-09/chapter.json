@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Positive Relationships",
+  "description": "Positive Relationships",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Social Support",
+      "conceptId": "psychology.positive-psychology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Trust",
+      "conceptId": "psychology.positive-psychology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Empathy",
+      "conceptId": "psychology.positive-psychology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Kindness",
+      "conceptId": "psychology.positive-psychology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Gratitude in Relationships",
+      "conceptId": "psychology.positive-psychology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Relationship Satisfaction",
+      "conceptId": "psychology.positive-psychology.chapter-09.topic-06"
+    }
+  ]
+}

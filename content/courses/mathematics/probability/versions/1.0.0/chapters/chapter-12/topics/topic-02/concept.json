@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-12.topic-02",
+  "name": "Prior Distribution",
+  "subject": "mathematics",
+  "definition": "Prior Distribution is a fundamental concept in mathematics.",
+  "explanation": "Learn about Prior Distribution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "prior-distribution"
+  ]
+}

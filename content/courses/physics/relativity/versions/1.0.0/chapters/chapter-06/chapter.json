@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Introduction to General Relativity",
+  "description": "Introduction to General Relativity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Equivalence Principle",
+      "conceptId": "physics.relativity.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gravity as Curved Spacetime",
+      "conceptId": "physics.relativity.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Geodesics",
+      "conceptId": "physics.relativity.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Curved Space",
+      "conceptId": "physics.relativity.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Einstein's Insight",
+      "conceptId": "physics.relativity.chapter-06.topic-05"
+    }
+  ]
+}

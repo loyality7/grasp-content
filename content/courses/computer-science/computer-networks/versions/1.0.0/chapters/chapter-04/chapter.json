@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Data Link Layer",
+  "description": "Data Link Layer",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Frames",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "MAC Addresses",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Error Detection",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Error Correction",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ethernet",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Switches",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "VLANs",
+      "conceptId": "computer-science.computer-networks.chapter-04.topic-07"
+    }
+  ]
+}

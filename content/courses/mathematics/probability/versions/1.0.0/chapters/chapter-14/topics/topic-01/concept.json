@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-14.topic-01",
+  "name": "Decision Trees",
+  "subject": "mathematics",
+  "definition": "Decision Trees is a fundamental concept in mathematics.",
+  "explanation": "Learn about Decision Trees and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "decision-trees"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-06.topic-05",
+  "name": "First-Mover Commitment",
+  "subject": "game-theory",
+  "definition": "First-Mover Commitment is a fundamental concept in game-theory.",
+  "explanation": "Learn about First-Mover Commitment and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "first-mover-commitment"
+  ]
+}

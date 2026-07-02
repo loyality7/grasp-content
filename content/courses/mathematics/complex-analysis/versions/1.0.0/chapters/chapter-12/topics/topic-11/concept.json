@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-12.topic-11",
+  "name": "Numerical Analysis",
+  "subject": "mathematics",
+  "definition": "Numerical Analysis is a fundamental concept in mathematics.",
+  "explanation": "Learn about Numerical Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "numerical-analysis"
+  ]
+}

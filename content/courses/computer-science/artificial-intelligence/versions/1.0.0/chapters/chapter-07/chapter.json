@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Constraint Satisfaction",
+  "description": "Constraint Satisfaction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Constraint Satisfaction Problems (CSPs)",
+      "conceptId": "computer-science.artificial-intelligence.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Backtracking Search",
+      "conceptId": "computer-science.artificial-intelligence.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Constraint Propagation",
+      "conceptId": "computer-science.artificial-intelligence.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Scheduling",
+      "conceptId": "computer-science.artificial-intelligence.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Resource Allocation",
+      "conceptId": "computer-science.artificial-intelligence.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Optimization",
+      "conceptId": "computer-science.artificial-intelligence.chapter-07.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Galaxies",
+  "description": "Galaxies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Spiral Galaxies",
+      "conceptId": "physics.astrophysics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Elliptical Galaxies",
+      "conceptId": "physics.astrophysics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Irregular Galaxies",
+      "conceptId": "physics.astrophysics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Galaxy Clusters",
+      "conceptId": "physics.astrophysics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Active Galactic Nuclei (AGN)",
+      "conceptId": "physics.astrophysics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Quasars",
+      "conceptId": "physics.astrophysics.chapter-08.topic-06"
+    }
+  ]
+}

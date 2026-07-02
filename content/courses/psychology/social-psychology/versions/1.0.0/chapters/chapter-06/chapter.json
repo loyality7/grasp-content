@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Group Behavior",
+  "description": "Group Behavior",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Group Dynamics",
+      "conceptId": "psychology.social-psychology.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Social Facilitation",
+      "conceptId": "psychology.social-psychology.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Social Loafing",
+      "conceptId": "psychology.social-psychology.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Groupthink",
+      "conceptId": "psychology.social-psychology.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Group Polarization",
+      "conceptId": "psychology.social-psychology.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Collective Decision Making",
+      "conceptId": "psychology.social-psychology.chapter-06.topic-06"
+    }
+  ]
+}

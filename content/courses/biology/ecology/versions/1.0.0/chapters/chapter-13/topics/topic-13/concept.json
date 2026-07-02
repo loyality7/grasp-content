@@ -1,0 +1,20 @@
+{
+  "id": "biology.ecology.chapter-13.topic-13",
+  "name": "CRISPR-Cas9",
+  "subject": "biology",
+  "definition": "CRISPR-Cas9 is a fundamental concept in biology.",
+  "explanation": "Learn about CRISPR-Cas9 and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "crispr-cas9"
+  ]
+}

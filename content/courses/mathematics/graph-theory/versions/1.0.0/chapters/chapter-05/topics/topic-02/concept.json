@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-05.topic-02",
+  "name": "Rooted Trees",
+  "subject": "mathematics",
+  "definition": "Rooted Trees is a fundamental concept in mathematics.",
+  "explanation": "Learn about Rooted Trees and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "rooted-trees"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Consciousness",
+  "description": "Consciousness",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Conscious Experience",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Awareness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Self-Consciousness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Levels of Consciousness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "The Hard Problem of Consciousness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Altered States of Consciousness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-06"
+    }
+  ]
+}

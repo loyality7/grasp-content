@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-05.topic-01",
+  "name": "Divide & Conquer Strategy",
+  "subject": "computer-science",
+  "definition": "Divide & Conquer Strategy is a fundamental concept in computer-science.",
+  "explanation": "Learn about Divide & Conquer Strategy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "divide-conquer-strategy"
+  ]
+}

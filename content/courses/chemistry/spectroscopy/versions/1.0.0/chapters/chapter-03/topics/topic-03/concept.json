@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-03.topic-03",
+  "name": "Electronic Excitation",
+  "subject": "chemistry",
+  "definition": "Electronic Excitation is a fundamental concept in chemistry.",
+  "explanation": "Learn about Electronic Excitation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "electronic-excitation"
+  ]
+}

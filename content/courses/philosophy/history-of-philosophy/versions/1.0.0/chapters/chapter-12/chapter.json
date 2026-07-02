@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Comparative Philosophy",
+  "description": "Comparative Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Eastern & Western Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Comparative Ethics",
+      "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Comparative Metaphysics",
+      "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Comparative Epistemology",
+      "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Intercultural Dialogue",
+      "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Global Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-06"
+    }
+  ]
+}

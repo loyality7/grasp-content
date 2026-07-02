@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Environmental & Industrial Applications",
+  "description": "Environmental & Industrial Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Radiation Sterilization",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Food Irradiation",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Industrial Radiography",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Environmental Monitoring",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nuclear Waste",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Radiation Protection",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-06"
+    }
+  ]
+}

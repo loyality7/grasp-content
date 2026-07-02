@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-04.topic-05",
+  "name": "Fair Allocation",
+  "subject": "game-theory",
+  "definition": "Fair Allocation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Fair Allocation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "fair-allocation"
+  ]
+}

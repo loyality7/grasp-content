@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-15.topic-12",
+  "name": "**Complex Analysis**",
+  "subject": "mathematics",
+  "definition": "**Complex Analysis** is a fundamental concept in mathematics.",
+  "explanation": "Learn about **Complex Analysis** and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "complex-analysis"
+  ]
+}

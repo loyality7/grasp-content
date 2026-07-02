@@ -1,0 +1,20 @@
+{
+  "id": "physics.relativity.chapter-04.topic-01",
+  "name": "Four-Vectors",
+  "subject": "physics",
+  "definition": "Four-Vectors is a fundamental concept in physics.",
+  "explanation": "Learn about Four-Vectors and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "four-vectors"
+  ]
+}

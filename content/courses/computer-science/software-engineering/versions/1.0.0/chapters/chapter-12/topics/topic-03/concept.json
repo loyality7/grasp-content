@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-12.topic-03",
+  "name": "Legacy Systems",
+  "subject": "computer-science",
+  "definition": "Legacy Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Legacy Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "legacy-systems"
+  ]
+}

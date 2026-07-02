@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-02.topic-01",
+  "name": "Private Value Auctions",
+  "subject": "game-theory",
+  "definition": "Private Value Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Private Value Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "private-value-auctions"
+  ]
+}

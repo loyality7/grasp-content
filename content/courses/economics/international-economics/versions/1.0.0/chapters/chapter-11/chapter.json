@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "International Economic Issues",
+  "description": "International Economic Issues",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Trade Wars",
+      "conceptId": "economics.international-economics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Currency Crises",
+      "conceptId": "economics.international-economics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Financial Crises",
+      "conceptId": "economics.international-economics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Global Inflation",
+      "conceptId": "economics.international-economics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Climate & Trade",
+      "conceptId": "economics.international-economics.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Digital Trade",
+      "conceptId": "economics.international-economics.chapter-11.topic-06"
+    }
+  ]
+}

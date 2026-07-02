@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Panpsychism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Extended Mind Theory",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Predictive Processing",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Machine Consciousness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Digital Minds",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Consciousness Research",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 8: Philosophy of Science**",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Scientific Method",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Scientific Explanation",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Observation",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Experimentation",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Scientific Theories",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Falsifiability",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Paradigm Shifts",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Realism vs Instrumentalism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Reductionism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Complexity",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Philosophy of Physics",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Philosophy of Biology",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-19"
+    }
+  ]
+}

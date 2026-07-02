@@ -1,0 +1,20 @@
+{
+  "id": "physics.fluid-mechanics.chapter-06.topic-04",
+  "name": "Non-Newtonian Fluids",
+  "subject": "physics",
+  "definition": "Non-Newtonian Fluids is a fundamental concept in physics.",
+  "explanation": "Learn about Non-Newtonian Fluids and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "non-newtonian-fluids"
+  ]
+}

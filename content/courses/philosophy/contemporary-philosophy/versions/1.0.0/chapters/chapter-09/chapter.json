@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Philosophy of Information",
+  "description": "Philosophy of Information",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Information",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Knowledge",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Digital Reality",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Information Ethics",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Data",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Computational Philosophy",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-06"
+    }
+  ]
+}

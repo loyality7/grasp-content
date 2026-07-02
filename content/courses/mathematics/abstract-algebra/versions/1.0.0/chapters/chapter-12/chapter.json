@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cryptography",
+      "conceptId": "mathematics.abstract-algebra.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Error-Correcting Codes",
+      "conceptId": "mathematics.abstract-algebra.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Coding Theory",
+      "conceptId": "mathematics.abstract-algebra.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Finite State Machines",
+      "conceptId": "mathematics.abstract-algebra.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Computer Algebra Systems",
+      "conceptId": "mathematics.abstract-algebra.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Symmetry in Physics",
+      "conceptId": "mathematics.abstract-algebra.chapter-12.topic-06"
+    }
+  ]
+}

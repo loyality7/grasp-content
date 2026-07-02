@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Sequential Games",
+  "description": "Introduction to Sequential Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What are Sequential Games?",
+      "conceptId": "game-theory.sequential-games.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dynamic Strategic Interaction",
+      "conceptId": "game-theory.sequential-games.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Timing of Decisions",
+      "conceptId": "game-theory.sequential-games.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sequential vs Simultaneous Games",
+      "conceptId": "game-theory.sequential-games.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strategic Planning",
+      "conceptId": "game-theory.sequential-games.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "game-theory.sequential-games.chapter-01.topic-06"
+    }
+  ]
+}

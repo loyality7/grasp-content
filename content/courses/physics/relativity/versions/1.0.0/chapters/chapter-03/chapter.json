@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Time & Length Effects",
+  "description": "Time & Length Effects",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Time Dilation",
+      "conceptId": "physics.relativity.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Length Contraction",
+      "conceptId": "physics.relativity.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Relativistic Velocity Addition",
+      "conceptId": "physics.relativity.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Relativistic Momentum",
+      "conceptId": "physics.relativity.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Relativistic Mass (Historical Concept)",
+      "conceptId": "physics.relativity.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Experimental Verification",
+      "conceptId": "physics.relativity.chapter-03.topic-06"
+    }
+  ]
+}

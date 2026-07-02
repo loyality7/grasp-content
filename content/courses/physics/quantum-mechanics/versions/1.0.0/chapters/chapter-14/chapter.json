@@ -1,0 +1,22 @@
+{
+  "id": "chapter-14",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Density Matrix (Introduction)",
+      "conceptId": "physics.quantum-mechanics.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Path Integral Formulation (Introduction)",
+      "conceptId": "physics.quantum-mechanics.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Quantum Field Theory (Overview)",
+      "conceptId": "physics.quantum-mechanics.chapter-14.topic-03"
+    }
+  ]
+}

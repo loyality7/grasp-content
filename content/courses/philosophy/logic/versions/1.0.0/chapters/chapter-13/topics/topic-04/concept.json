@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-13.topic-04",
+  "name": "Fuzzy Logic",
+  "subject": "philosophy",
+  "definition": "Fuzzy Logic is a fundamental concept in philosophy.",
+  "explanation": "Learn about Fuzzy Logic and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "fuzzy-logic"
+  ]
+}

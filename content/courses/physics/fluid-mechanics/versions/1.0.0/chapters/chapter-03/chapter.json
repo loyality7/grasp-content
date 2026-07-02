@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Buoyancy",
+  "description": "Buoyancy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Buoyant Force",
+      "conceptId": "physics.fluid-mechanics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Archimedes' Principle",
+      "conceptId": "physics.fluid-mechanics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Floating Bodies",
+      "conceptId": "physics.fluid-mechanics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sinking Bodies",
+      "conceptId": "physics.fluid-mechanics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Stability of Floating Objects",
+      "conceptId": "physics.fluid-mechanics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "physics.fluid-mechanics.chapter-03.topic-06"
+    }
+  ]
+}

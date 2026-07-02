@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-07.topic-05",
+  "name": "Gas Chromatography (GC)",
+  "subject": "chemistry",
+  "definition": "Gas Chromatography (GC) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Gas Chromatography (GC) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "gas-chromatography-gc"
+  ]
+}

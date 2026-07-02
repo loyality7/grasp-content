@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-05.topic-03",
+  "name": "Telescoping Series",
+  "subject": "mathematics",
+  "definition": "Telescoping Series is a fundamental concept in mathematics.",
+  "explanation": "Learn about Telescoping Series and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "telescoping-series"
+  ]
+}

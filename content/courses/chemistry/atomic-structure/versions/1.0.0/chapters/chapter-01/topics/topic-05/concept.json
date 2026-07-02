@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.atomic-structure.chapter-01.topic-05",
+  "name": "Bohr's Atomic Model",
+  "subject": "chemistry",
+  "definition": "Bohr's Atomic Model is a fundamental concept in chemistry.",
+  "explanation": "Learn about Bohr's Atomic Model and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "bohrs-atomic-model"
+  ]
+}

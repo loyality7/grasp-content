@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Security Governance",
+  "description": "Security Governance",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Security Policies",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Risk Management",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Compliance",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Security Frameworks",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Business Continuity",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Security Awareness",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Privacy Regulations",
+      "conceptId": "computer-science.cybersecurity.chapter-12.topic-07"
+    }
+  ]
+}

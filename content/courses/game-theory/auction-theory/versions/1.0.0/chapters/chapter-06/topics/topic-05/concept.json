@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-06.topic-05",
+  "name": "Collusion",
+  "subject": "game-theory",
+  "definition": "Collusion is a fundamental concept in game-theory.",
+  "explanation": "Learn about Collusion and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "collusion"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-05.topic-05",
+  "name": "Post-Hartree-Fock Methods",
+  "subject": "chemistry",
+  "definition": "Post-Hartree-Fock Methods is a fundamental concept in chemistry.",
+  "explanation": "Learn about Post-Hartree-Fock Methods and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "post-hartree-fock-methods"
+  ]
+}

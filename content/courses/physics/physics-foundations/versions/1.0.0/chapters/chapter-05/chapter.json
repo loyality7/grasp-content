@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Vector Operations",
+  "description": "Vector Operations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Vector Addition",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Vector Subtraction",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Triangle Law",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Parallelogram Law",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Components of a Vector",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dot Product",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Cross Product",
+      "conceptId": "physics.physics-foundations.chapter-05.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06",
+  "name": "Counting",
+  "description": "Counting",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Addition Principle",
+      "conceptId": "mathematics.discrete-mathematics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Multiplication Principle",
+      "conceptId": "mathematics.discrete-mathematics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inclusion-Exclusion Principle",
+      "conceptId": "mathematics.discrete-mathematics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Pigeonhole Principle",
+      "conceptId": "mathematics.discrete-mathematics.chapter-06.topic-04"
+    }
+  ]
+}

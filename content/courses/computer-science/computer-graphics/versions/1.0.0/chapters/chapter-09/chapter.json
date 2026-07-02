@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Animation",
+  "description": "Animation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Keyframe Animation",
+      "conceptId": "computer-science.computer-graphics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Skeletal Animation",
+      "conceptId": "computer-science.computer-graphics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inverse Kinematics",
+      "conceptId": "computer-science.computer-graphics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Particle Systems",
+      "conceptId": "computer-science.computer-graphics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Physics-Based Animation",
+      "conceptId": "computer-science.computer-graphics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Motion Capture",
+      "conceptId": "computer-science.computer-graphics.chapter-09.topic-06"
+    }
+  ]
+}

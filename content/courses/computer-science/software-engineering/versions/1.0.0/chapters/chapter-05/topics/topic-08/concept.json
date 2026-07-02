@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-05.topic-08",
+  "name": "Dependency Injection (Introduction)",
+  "subject": "computer-science",
+  "definition": "Dependency Injection (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Dependency Injection (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "dependency-injection-introduction"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-13.topic-01",
+  "name": "Server Operating Systems",
+  "subject": "computer-science",
+  "definition": "Server Operating Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Server Operating Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "server-operating-systems"
+  ]
+}

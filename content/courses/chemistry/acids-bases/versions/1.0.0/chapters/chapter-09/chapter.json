@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Acid-Base Titration",
+  "description": "Acid-Base Titration",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Titration Principles",
+      "conceptId": "chemistry.acids-bases.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Standard Solutions",
+      "conceptId": "chemistry.acids-bases.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "End Point",
+      "conceptId": "chemistry.acids-bases.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equivalence Point",
+      "conceptId": "chemistry.acids-bases.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Titration Curves",
+      "conceptId": "chemistry.acids-bases.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Choosing Indicators",
+      "conceptId": "chemistry.acids-bases.chapter-09.topic-06"
+    }
+  ]
+}

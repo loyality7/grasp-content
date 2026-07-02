@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-05.topic-04",
+  "name": "Antiderivatives",
+  "subject": "mathematics",
+  "definition": "Antiderivatives is a fundamental concept in mathematics.",
+  "explanation": "Learn about Antiderivatives and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "antiderivatives"
+  ]
+}

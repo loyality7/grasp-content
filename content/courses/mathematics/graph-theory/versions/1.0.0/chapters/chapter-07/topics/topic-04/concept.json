@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-07.topic-04",
+  "name": "Floyd-Warshall Algorithm",
+  "subject": "mathematics",
+  "definition": "Floyd-Warshall Algorithm is a fundamental concept in mathematics.",
+  "explanation": "Learn about Floyd-Warshall Algorithm and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "floyd-warshall-algorithm"
+  ]
+}

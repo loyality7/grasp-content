@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-04.topic-01",
+  "name": "Central Processing Unit (CPU)",
+  "subject": "computer-science",
+  "definition": "Central Processing Unit (CPU) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Central Processing Unit (CPU) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "central-processing-unit-cpu"
+  ]
+}

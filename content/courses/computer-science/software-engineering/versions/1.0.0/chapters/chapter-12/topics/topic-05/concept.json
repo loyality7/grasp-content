@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-12.topic-05",
+  "name": "Performance Optimization",
+  "subject": "computer-science",
+  "definition": "Performance Optimization is a fundamental concept in computer-science.",
+  "explanation": "Learn about Performance Optimization and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "performance-optimization"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07",
+  "name": "Explosions & Recoil",
+  "description": "Explosions & Recoil",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Explosion Problems",
+      "conceptId": "physics.momentum-collisions.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Recoil Motion",
+      "conceptId": "physics.momentum-collisions.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rocket Propulsion (Introduction)",
+      "conceptId": "physics.momentum-collisions.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Variable Mass Systems (Introduction)",
+      "conceptId": "physics.momentum-collisions.chapter-07.topic-04"
+    }
+  ]
+}

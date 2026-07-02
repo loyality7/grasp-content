@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-01.topic-02",
+  "name": "Logical Reasoning",
+  "subject": "philosophy",
+  "definition": "Logical Reasoning is a fundamental concept in philosophy.",
+  "explanation": "Learn about Logical Reasoning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "logical-reasoning"
+  ]
+}

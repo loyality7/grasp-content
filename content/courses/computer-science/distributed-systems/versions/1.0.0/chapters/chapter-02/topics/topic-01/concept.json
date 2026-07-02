@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-02.topic-01",
+  "name": "Remote Procedure Call (RPC)",
+  "subject": "computer-science",
+  "definition": "Remote Procedure Call (RPC) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Remote Procedure Call (RPC) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "remote-procedure-call-rpc"
+  ]
+}

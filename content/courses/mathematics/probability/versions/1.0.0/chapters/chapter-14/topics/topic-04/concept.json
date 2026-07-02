@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-14.topic-04",
+  "name": "Bayesian Networks (Introduction)",
+  "subject": "mathematics",
+  "definition": "Bayesian Networks (Introduction) is a fundamental concept in mathematics.",
+  "explanation": "Learn about Bayesian Networks (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "bayesian-networks-introduction"
+  ]
+}

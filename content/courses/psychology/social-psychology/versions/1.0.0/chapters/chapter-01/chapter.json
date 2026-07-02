@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Social Psychology",
+  "description": "Introduction to Social Psychology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Social Psychology?",
+      "conceptId": "psychology.social-psychology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Social Cognition",
+      "conceptId": "psychology.social-psychology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Social Perception",
+      "conceptId": "psychology.social-psychology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Social Context",
+      "conceptId": "psychology.social-psychology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Research Methods",
+      "conceptId": "psychology.social-psychology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "psychology.social-psychology.chapter-01.topic-06"
+    }
+  ]
+}

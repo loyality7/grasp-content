@@ -1,0 +1,20 @@
+{
+  "id": "biology.biotechnology.chapter-04.topic-03",
+  "name": "Whole Genome Sequencing",
+  "subject": "biology",
+  "definition": "Whole Genome Sequencing is a fundamental concept in biology.",
+  "explanation": "Learn about Whole Genome Sequencing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "whole-genome-sequencing"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-03.topic-06",
+  "name": "Pendant Vertices",
+  "subject": "mathematics",
+  "definition": "Pendant Vertices is a fundamental concept in mathematics.",
+  "explanation": "Learn about Pendant Vertices and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "pendant-vertices"
+  ]
+}

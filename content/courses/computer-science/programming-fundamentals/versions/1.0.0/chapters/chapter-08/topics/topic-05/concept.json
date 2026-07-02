@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-08.topic-05",
+  "name": "Basic Lists",
+  "subject": "computer-science",
+  "definition": "Basic Lists is a fundamental concept in computer-science.",
+  "explanation": "Learn about Basic Lists and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "basic-lists"
+  ]
+}

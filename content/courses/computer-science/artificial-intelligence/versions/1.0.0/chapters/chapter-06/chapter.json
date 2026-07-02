@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Planning & Decision Making",
+  "description": "Planning & Decision Making",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Planning Problems",
+      "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "State-Space Planning",
+      "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Goal Planning",
+      "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Markov Decision Processes (Introduction)",
+      "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Decision Trees",
+      "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Utility Theory",
+      "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-06"
+    }
+  ]
+}

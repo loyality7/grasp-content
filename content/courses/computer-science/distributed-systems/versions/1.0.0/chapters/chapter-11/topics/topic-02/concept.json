@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-11.topic-02",
+  "name": "Containers",
+  "subject": "computer-science",
+  "definition": "Containers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Containers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "containers"
+  ]
+}

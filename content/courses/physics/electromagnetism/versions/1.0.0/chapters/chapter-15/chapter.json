@@ -1,0 +1,37 @@
+{
+  "id": "chapter-15",
+  "name": "Ohm's Law",
+  "description": "Ohm's Law",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ohm's Law",
+      "conceptId": "physics.electromagnetism.chapter-15.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Resistance",
+      "conceptId": "physics.electromagnetism.chapter-15.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conductance",
+      "conceptId": "physics.electromagnetism.chapter-15.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Resistivity",
+      "conceptId": "physics.electromagnetism.chapter-15.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Temperature Effects",
+      "conceptId": "physics.electromagnetism.chapter-15.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Power Dissipation",
+      "conceptId": "physics.electromagnetism.chapter-15.topic-06"
+    }
+  ]
+}

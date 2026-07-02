@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Moment of Inertia",
+  "description": "Moment of Inertia",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Moment of Inertia",
+      "conceptId": "physics.rotational-motion.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Radius of Gyration",
+      "conceptId": "physics.rotational-motion.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Parallel Axis Theorem",
+      "conceptId": "physics.rotational-motion.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Perpendicular Axis Theorem",
+      "conceptId": "physics.rotational-motion.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Standard Moments of Inertia",
+      "conceptId": "physics.rotational-motion.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Composite Bodies",
+      "conceptId": "physics.rotational-motion.chapter-04.topic-06"
+    }
+  ]
+}

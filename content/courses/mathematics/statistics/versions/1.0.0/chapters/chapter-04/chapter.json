@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Measures of Dispersion",
+  "description": "Measures of Dispersion",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Range",
+      "conceptId": "mathematics.statistics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Variance",
+      "conceptId": "mathematics.statistics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Standard Deviation",
+      "conceptId": "mathematics.statistics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Quartiles",
+      "conceptId": "mathematics.statistics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Percentiles",
+      "conceptId": "mathematics.statistics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Interquartile Range (IQR)",
+      "conceptId": "mathematics.statistics.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Coefficient of Variation",
+      "conceptId": "mathematics.statistics.chapter-04.topic-07"
+    }
+  ]
+}

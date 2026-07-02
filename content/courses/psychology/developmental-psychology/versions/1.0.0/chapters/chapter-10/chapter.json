@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Developmental Theories",
+  "description": "Developmental Theories",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Piaget's Cognitive Development",
+      "conceptId": "psychology.developmental-psychology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Erikson's Psychosocial Development",
+      "conceptId": "psychology.developmental-psychology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vygotsky's Sociocultural Theory",
+      "conceptId": "psychology.developmental-psychology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bowlby's Attachment Theory",
+      "conceptId": "psychology.developmental-psychology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Kohlberg's Moral Development",
+      "conceptId": "psychology.developmental-psychology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bronfenbrenner's Ecological Systems Theory",
+      "conceptId": "psychology.developmental-psychology.chapter-10.topic-06"
+    }
+  ]
+}

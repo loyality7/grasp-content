@@ -1,0 +1,363 @@
+{
+  "id": "electricity-electrostatics",
+  "name": "Electricity (Electrostatics)",
+  "description": "Electricity (Electrostatics)",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Electric Charge",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Charge",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Charge",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Charging Methods",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conservation of Charge",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantization of Charge",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Conductors",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Insulators",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Semiconductors (Introduction)",
+          "conceptId": "physics.electricity-electrostatics.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Coulomb's Law",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coulomb's Law",
+          "conceptId": "physics.electricity-electrostatics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inverse Square Law",
+          "conceptId": "physics.electricity-electrostatics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Superposition Principle",
+          "conceptId": "physics.electricity-electrostatics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multiple Charge Systems",
+          "conceptId": "physics.electricity-electrostatics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "conceptId": "physics.electricity-electrostatics.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Electric Field",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Field",
+          "conceptId": "physics.electricity-electrostatics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electric Field Lines",
+          "conceptId": "physics.electricity-electrostatics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Point Charge Field",
+          "conceptId": "physics.electricity-electrostatics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Uniform Electric Field",
+          "conceptId": "physics.electricity-electrostatics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electric Dipole",
+          "conceptId": "physics.electricity-electrostatics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dipole Field",
+          "conceptId": "physics.electricity-electrostatics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Electric Flux",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Flux",
+          "conceptId": "physics.electricity-electrostatics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Flux Through Surfaces",
+          "conceptId": "physics.electricity-electrostatics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Closed Surfaces",
+          "conceptId": "physics.electricity-electrostatics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "conceptId": "physics.electricity-electrostatics.chapter-04.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Gauss's Law",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gauss's Law",
+          "conceptId": "physics.electricity-electrostatics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Symmetry",
+          "conceptId": "physics.electricity-electrostatics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Spherical Charge Distribution",
+          "conceptId": "physics.electricity-electrostatics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cylindrical Charge Distribution",
+          "conceptId": "physics.electricity-electrostatics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Infinite Plane Sheet",
+          "conceptId": "physics.electricity-electrostatics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "physics.electricity-electrostatics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Electric Potential",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Potential",
+          "conceptId": "physics.electricity-electrostatics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Potential Difference",
+          "conceptId": "physics.electricity-electrostatics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equipotential Surfaces",
+          "conceptId": "physics.electricity-electrostatics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Potential Energy",
+          "conceptId": "physics.electricity-electrostatics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Relation Between Field & Potential",
+          "conceptId": "physics.electricity-electrostatics.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Capacitance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Capacitors",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parallel Plate Capacitor",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dielectrics",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Capacitance Calculations",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Stored in Capacitors",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Capacitors in Series",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Capacitors in Parallel",
+          "conceptId": "physics.electricity-electrostatics.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Polarization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Dielectric Materials",
+          "conceptId": "physics.electricity-electrostatics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polarization",
+          "conceptId": "physics.electricity-electrostatics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electric Dipoles in Materials",
+          "conceptId": "physics.electricity-electrostatics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dielectric Constant",
+          "conceptId": "physics.electricity-electrostatics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electric Susceptibility (Introduction)",
+          "conceptId": "physics.electricity-electrostatics.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Energy in Electric Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Field Energy",
+          "conceptId": "physics.electricity-electrostatics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Density",
+          "conceptId": "physics.electricity-electrostatics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrostatic Pressure",
+          "conceptId": "physics.electricity-electrostatics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "conceptId": "physics.electricity-electrostatics.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Capacitive Sensors",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Touchscreens",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrostatic Precipitators",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Photocopiers",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Lightning",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Particle Accelerators (Introduction)",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Electrostatic Shielding",
+          "conceptId": "physics.electricity-electrostatics.chapter-10.topic-07"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "electricity-electrostatics"
+    ]
+  }
+}

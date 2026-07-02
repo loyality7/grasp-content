@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Social Contract Theory",
+  "description": "Social Contract Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Thomas Hobbes",
+      "conceptId": "philosophy.political-philosophy.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "John Locke",
+      "conceptId": "philosophy.political-philosophy.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Jean-Jacques Rousseau",
+      "conceptId": "philosophy.political-philosophy.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "State of Nature",
+      "conceptId": "philosophy.political-philosophy.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Social Contract",
+      "conceptId": "philosophy.political-philosophy.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Modern Contract Theory",
+      "conceptId": "philosophy.political-philosophy.chapter-07.topic-06"
+    }
+  ]
+}

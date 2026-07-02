@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Informal Logic",
+  "description": "Informal Logic",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Everyday Arguments",
+      "conceptId": "philosophy.logic.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Deductive Arguments",
+      "conceptId": "philosophy.logic.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inductive Arguments",
+      "conceptId": "philosophy.logic.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Abductive Reasoning",
+      "conceptId": "philosophy.logic.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Argument Evaluation",
+      "conceptId": "philosophy.logic.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Critical Thinking",
+      "conceptId": "philosophy.logic.chapter-02.topic-06"
+    }
+  ]
+}

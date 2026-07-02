@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Consumer Behavior",
+  "description": "Consumer Behavior",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Consumer Preferences",
+      "conceptId": "economics.microeconomics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Utility",
+      "conceptId": "economics.microeconomics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Total Utility",
+      "conceptId": "economics.microeconomics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Marginal Utility",
+      "conceptId": "economics.microeconomics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Budget Constraint",
+      "conceptId": "economics.microeconomics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Consumer Choice",
+      "conceptId": "economics.microeconomics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Demand Curve",
+      "conceptId": "economics.microeconomics.chapter-02.topic-07"
+    }
+  ]
+}

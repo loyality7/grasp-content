@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-08.topic-03",
+  "name": "Package Bidding",
+  "subject": "game-theory",
+  "definition": "Package Bidding is a fundamental concept in game-theory.",
+  "explanation": "Learn about Package Bidding and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "package-bidding"
+  ]
+}

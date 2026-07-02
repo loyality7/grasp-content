@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.electrochemistry.chapter-11.topic-03",
+  "name": "Energy Storage",
+  "subject": "chemistry",
+  "definition": "Energy Storage is a fundamental concept in chemistry.",
+  "explanation": "Learn about Energy Storage and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "energy-storage"
+  ]
+}

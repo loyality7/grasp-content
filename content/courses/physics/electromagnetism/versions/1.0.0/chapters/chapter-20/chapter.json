@@ -1,0 +1,32 @@
+{
+  "id": "chapter-20",
+  "name": "Inductors in Circuits",
+  "description": "Inductors in Circuits",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Inductors",
+      "conceptId": "physics.electromagnetism.chapter-20.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Magnetic Energy Storage",
+      "conceptId": "physics.electromagnetism.chapter-20.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "RL Circuits",
+      "conceptId": "physics.electromagnetism.chapter-20.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Time Constant",
+      "conceptId": "physics.electromagnetism.chapter-20.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transient Response",
+      "conceptId": "physics.electromagnetism.chapter-20.topic-05"
+    }
+  ]
+}

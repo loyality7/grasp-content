@@ -1,0 +1,37 @@
+{
+  "id": "chapter-21",
+  "name": "RLC Circuits",
+  "description": "RLC Circuits",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Series RLC Circuits",
+      "conceptId": "physics.electromagnetism.chapter-21.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Parallel RLC Circuits",
+      "conceptId": "physics.electromagnetism.chapter-21.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Resonance",
+      "conceptId": "physics.electromagnetism.chapter-21.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Quality Factor",
+      "conceptId": "physics.electromagnetism.chapter-21.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bandwidth",
+      "conceptId": "physics.electromagnetism.chapter-21.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Frequency Response",
+      "conceptId": "physics.electromagnetism.chapter-21.topic-06"
+    }
+  ]
+}

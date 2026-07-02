@@ -1,0 +1,112 @@
+{
+  "id": "chapter-13",
+  "name": "Applications of Computer Science",
+  "description": "Applications of Computer Science",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Software Development",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Web Applications",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mobile Applications",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Data Science",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cybersecurity",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Game Development",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Scientific Computing",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Career Paths",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "*Course 2: Programming Fundamentals**",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Variables",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Data Types",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Operators",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Input & Output",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Conditional Statements",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Loops",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Functions",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Arrays",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Strings",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Basic Algorithms",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Debugging",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-20"
+    },
+    {
+      "id": "topic-21",
+      "name": "Problem Solving",
+      "conceptId": "computer-science.computer-science-foundations.chapter-13.topic-21"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06",
+  "name": "Coordinate Systems",
+  "description": "Coordinate Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cartesian Coordinates",
+      "conceptId": "physics.physics-foundations.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Polar Coordinates",
+      "conceptId": "physics.physics-foundations.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cylindrical Coordinates (Introduction)",
+      "conceptId": "physics.physics-foundations.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Spherical Coordinates (Introduction)",
+      "conceptId": "physics.physics-foundations.chapter-06.topic-04"
+    }
+  ]
+}

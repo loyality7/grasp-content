@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-02.topic-03",
+  "name": "Disk Method",
+  "subject": "mathematics",
+  "definition": "Disk Method is a fundamental concept in mathematics.",
+  "explanation": "Learn about Disk Method and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "disk-method"
+  ]
+}

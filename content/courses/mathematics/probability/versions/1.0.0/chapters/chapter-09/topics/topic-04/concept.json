@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-09.topic-04",
+  "name": "Law of Large Numbers",
+  "subject": "mathematics",
+  "definition": "Law of Large Numbers is a fundamental concept in mathematics.",
+  "explanation": "Learn about Law of Large Numbers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "law-of-large-numbers"
+  ]
+}

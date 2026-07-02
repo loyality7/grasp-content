@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Recurrence Relations",
+  "description": "Recurrence Relations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Recursive Sequences",
+      "conceptId": "mathematics.discrete-mathematics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Linear Recurrence Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Solving Recurrences",
+      "conceptId": "mathematics.discrete-mathematics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Characteristic Equations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fibonacci Sequence",
+      "conceptId": "mathematics.discrete-mathematics.chapter-08.topic-05"
+    }
+  ]
+}

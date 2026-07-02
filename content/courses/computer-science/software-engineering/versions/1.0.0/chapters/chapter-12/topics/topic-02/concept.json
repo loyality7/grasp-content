@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-12.topic-02",
+  "name": "Feature Development",
+  "subject": "computer-science",
+  "definition": "Feature Development is a fundamental concept in computer-science.",
+  "explanation": "Learn about Feature Development and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "feature-development"
+  ]
+}

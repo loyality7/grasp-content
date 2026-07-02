@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Normalization",
+  "description": "Normalization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Functional Dependencies",
+      "conceptId": "computer-science.databases.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "First Normal Form (1NF)",
+      "conceptId": "computer-science.databases.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Second Normal Form (2NF)",
+      "conceptId": "computer-science.databases.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Third Normal Form (3NF)",
+      "conceptId": "computer-science.databases.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Boyce-Codd Normal Form (BCNF)",
+      "conceptId": "computer-science.databases.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Denormalization",
+      "conceptId": "computer-science.databases.chapter-06.topic-06"
+    }
+  ]
+}

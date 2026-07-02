@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.industrial-chemistry.chapter-03.topic-04",
+  "name": "Homogeneous Catalysis",
+  "subject": "chemistry",
+  "definition": "Homogeneous Catalysis is a fundamental concept in chemistry.",
+  "explanation": "Learn about Homogeneous Catalysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "homogeneous-catalysis"
+  ]
+}

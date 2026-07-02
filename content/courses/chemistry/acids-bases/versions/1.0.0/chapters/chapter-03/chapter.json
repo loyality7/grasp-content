@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Dissociation & Ionization",
+  "description": "Dissociation & Ionization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Acid Dissociation",
+      "conceptId": "chemistry.acids-bases.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Base Dissociation",
+      "conceptId": "chemistry.acids-bases.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Degree of Ionization",
+      "conceptId": "chemistry.acids-bases.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Strong Electrolytes",
+      "conceptId": "chemistry.acids-bases.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Weak Electrolytes",
+      "conceptId": "chemistry.acids-bases.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ionization Constants",
+      "conceptId": "chemistry.acids-bases.chapter-03.topic-06"
+    }
+  ]
+}

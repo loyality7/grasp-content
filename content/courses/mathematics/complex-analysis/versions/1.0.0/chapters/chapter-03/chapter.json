@@ -1,0 +1,32 @@
+{
+  "id": "chapter-03",
+  "name": "Complex Differentiation",
+  "description": "Complex Differentiation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Complex Derivative",
+      "conceptId": "mathematics.complex-analysis.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Analytic Functions",
+      "conceptId": "mathematics.complex-analysis.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Holomorphic Functions",
+      "conceptId": "mathematics.complex-analysis.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cauchy-Riemann Equations",
+      "conceptId": "mathematics.complex-analysis.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Harmonic Functions",
+      "conceptId": "mathematics.complex-analysis.chapter-03.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Acid-Base Theories",
+  "description": "Acid-Base Theories",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Arrhenius Theory",
+      "conceptId": "chemistry.acids-bases.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Brønsted-Lowry Theory",
+      "conceptId": "chemistry.acids-bases.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Lewis Theory",
+      "conceptId": "chemistry.acids-bases.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Conjugate Acids",
+      "conceptId": "chemistry.acids-bases.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Conjugate Bases",
+      "conceptId": "chemistry.acids-bases.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Amphoteric Substances",
+      "conceptId": "chemistry.acids-bases.chapter-02.topic-06"
+    }
+  ]
+}

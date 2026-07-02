@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Ligands",
+  "description": "Ligands",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Monodentate Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Bidentate Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Polydentate Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ambidentate Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Chelating Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bridging Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Common Ligands",
+      "conceptId": "chemistry.coordination-chemistry.chapter-02.topic-07"
+    }
+  ]
+}

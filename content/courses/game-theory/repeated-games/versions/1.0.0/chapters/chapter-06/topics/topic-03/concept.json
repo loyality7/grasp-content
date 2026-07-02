@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.repeated-games.chapter-06.topic-03",
+  "name": "Punishment",
+  "subject": "game-theory",
+  "definition": "Punishment is a fundamental concept in game-theory.",
+  "explanation": "Learn about Punishment and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "punishment"
+  ]
+}

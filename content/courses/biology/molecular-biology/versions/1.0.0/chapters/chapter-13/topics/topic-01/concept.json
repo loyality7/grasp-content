@@ -1,0 +1,20 @@
+{
+  "id": "biology.molecular-biology.chapter-13.topic-01",
+  "name": "Genomics",
+  "subject": "biology",
+  "definition": "Genomics is a fundamental concept in biology.",
+  "explanation": "Learn about Genomics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "genomics"
+  ]
+}

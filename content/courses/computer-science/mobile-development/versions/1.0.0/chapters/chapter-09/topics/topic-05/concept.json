@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.mobile-development.chapter-09.topic-05",
+  "name": "API Security",
+  "subject": "computer-science",
+  "definition": "API Security is a fundamental concept in computer-science.",
+  "explanation": "Learn about API Security and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "api-security"
+  ]
+}

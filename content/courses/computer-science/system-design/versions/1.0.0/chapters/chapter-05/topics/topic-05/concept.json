@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.system-design.chapter-05.topic-05",
+  "name": "Cache Eviction Policies",
+  "subject": "computer-science",
+  "definition": "Cache Eviction Policies is a fundamental concept in computer-science.",
+  "explanation": "Learn about Cache Eviction Policies and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "cache-eviction-policies"
+  ]
+}

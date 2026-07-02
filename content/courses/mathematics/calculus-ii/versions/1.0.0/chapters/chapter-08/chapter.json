@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Taylor & Maclaurin Series",
+  "description": "Taylor & Maclaurin Series",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Taylor Polynomials",
+      "conceptId": "mathematics.calculus-ii.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Maclaurin Series",
+      "conceptId": "mathematics.calculus-ii.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Taylor Series",
+      "conceptId": "mathematics.calculus-ii.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Error Estimation",
+      "conceptId": "mathematics.calculus-ii.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Common Function Expansions",
+      "conceptId": "mathematics.calculus-ii.chapter-08.topic-05"
+    }
+  ]
+}

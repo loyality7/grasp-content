@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Alcohols",
+  "description": "Alcohols",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Classification of Alcohols",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Physical Properties",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Preparation of Alcohols",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Chemical Reactions",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Oxidation of Alcohols",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dehydration",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Industrial Applications",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-01.topic-07"
+    }
+  ]
+}

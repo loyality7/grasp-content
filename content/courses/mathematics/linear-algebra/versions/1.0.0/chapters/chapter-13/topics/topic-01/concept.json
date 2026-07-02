@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-13.topic-01",
+  "name": "Matrix Conditioning",
+  "subject": "mathematics",
+  "definition": "Matrix Conditioning is a fundamental concept in mathematics.",
+  "explanation": "Learn about Matrix Conditioning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "matrix-conditioning"
+  ]
+}

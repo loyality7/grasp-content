@@ -1,0 +1,20 @@
+{
+  "id": "physics.magnetism.chapter-01.topic-01",
+  "name": "Magnets",
+  "subject": "physics",
+  "definition": "Magnets is a fundamental concept in physics.",
+  "explanation": "Learn about Magnets and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "magnets"
+  ]
+}

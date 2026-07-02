@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Line Integrals",
+  "description": "Line Integrals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Scalar Line Integrals",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Vector Line Integrals",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Work",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Circulation",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Path Independence",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-05"
+    }
+  ]
+}

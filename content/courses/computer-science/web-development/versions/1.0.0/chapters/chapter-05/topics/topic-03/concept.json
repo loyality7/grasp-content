@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-05.topic-03",
+  "name": "Classes",
+  "subject": "computer-science",
+  "definition": "Classes is a fundamental concept in computer-science.",
+  "explanation": "Learn about Classes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "classes"
+  ]
+}

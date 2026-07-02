@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06",
+  "name": "Methods of Solving",
+  "description": "Methods of Solving",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Undetermined Coefficients",
+      "conceptId": "mathematics.differential-equations.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Variation of Parameters",
+      "conceptId": "mathematics.differential-equations.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Reduction of Order",
+      "conceptId": "mathematics.differential-equations.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Operator Method (Introduction)",
+      "conceptId": "mathematics.differential-equations.chapter-06.topic-04"
+    }
+  ]
+}

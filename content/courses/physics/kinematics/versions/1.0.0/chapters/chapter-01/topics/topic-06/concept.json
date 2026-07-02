@@ -1,0 +1,20 @@
+{
+  "id": "physics.kinematics.chapter-01.topic-06",
+  "name": "Velocity",
+  "subject": "physics",
+  "definition": "Velocity is a fundamental concept in physics.",
+  "explanation": "Learn about Velocity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "velocity"
+  ]
+}

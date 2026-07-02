@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-09.topic-01",
+  "name": "Independence",
+  "subject": "mathematics",
+  "definition": "Independence is a fundamental concept in mathematics.",
+  "explanation": "Learn about Independence and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "independence"
+  ]
+}

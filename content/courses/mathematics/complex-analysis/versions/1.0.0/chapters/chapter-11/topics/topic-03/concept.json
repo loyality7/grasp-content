@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-11.topic-03",
+  "name": "Fluid Flow",
+  "subject": "mathematics",
+  "definition": "Fluid Flow is a fundamental concept in mathematics.",
+  "explanation": "Learn about Fluid Flow and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "fluid-flow"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Equilibrium",
+  "description": "Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Static Equilibrium",
+      "conceptId": "physics.newtonian-mechanics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dynamic Equilibrium",
+      "conceptId": "physics.newtonian-mechanics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Translational Equilibrium",
+      "conceptId": "physics.newtonian-mechanics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Conditions for Equilibrium",
+      "conceptId": "physics.newtonian-mechanics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications",
+      "conceptId": "physics.newtonian-mechanics.chapter-09.topic-05"
+    }
+  ]
+}

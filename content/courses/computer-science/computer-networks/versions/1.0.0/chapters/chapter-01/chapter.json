@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Computer Networks",
+  "description": "Introduction to Computer Networks",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is a Computer Network?",
+      "conceptId": "computer-science.computer-networks.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Types of Networks",
+      "conceptId": "computer-science.computer-networks.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Network Topologies",
+      "conceptId": "computer-science.computer-networks.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Network Devices",
+      "conceptId": "computer-science.computer-networks.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Internet Overview",
+      "conceptId": "computer-science.computer-networks.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Network Performance Metrics",
+      "conceptId": "computer-science.computer-networks.chapter-01.topic-06"
+    }
+  ]
+}

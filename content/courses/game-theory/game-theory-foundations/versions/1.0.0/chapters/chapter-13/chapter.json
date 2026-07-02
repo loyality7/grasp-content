@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Future of Game Theory",
+  "description": "Future of Game Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multi-Agent Systems",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Autonomous AI Agents",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Algorithmic Game Theory",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Network Games",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Behavioral Game Theory",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future Applications",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 2: Strategic Decision Making**",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Strategic Thinking",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Decision Trees",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Rational Choice",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Expected Utility",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Risk",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Uncertainty",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Mixed Strategies",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Backward Induction",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Dominance",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Equilibrium Concepts",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Strategic Planning",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Real-World Decision Models",
+      "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-19"
+    }
+  ]
+}

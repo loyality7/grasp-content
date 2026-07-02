@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nuclear-chemistry.chapter-03.topic-06",
+  "name": "Half-Life",
+  "subject": "chemistry",
+  "definition": "Half-Life is a fundamental concept in chemistry.",
+  "explanation": "Learn about Half-Life and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "half-life"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-11.topic-06",
+  "name": "Introduction to Design Patterns",
+  "subject": "computer-science",
+  "definition": "Introduction to Design Patterns is a fundamental concept in computer-science.",
+  "explanation": "Learn about Introduction to Design Patterns and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "introduction-to-design-patterns"
+  ]
+}

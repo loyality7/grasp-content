@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-02.topic-05",
+  "name": "Encoding Categorical Data",
+  "subject": "computer-science",
+  "definition": "Encoding Categorical Data is a fundamental concept in computer-science.",
+  "explanation": "Learn about Encoding Categorical Data and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "encoding-categorical-data"
+  ]
+}

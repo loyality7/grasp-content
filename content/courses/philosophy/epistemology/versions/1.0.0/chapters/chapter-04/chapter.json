@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Rationalism & Empiricism",
+  "description": "Rationalism & Empiricism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Rationalism",
+      "conceptId": "philosophy.epistemology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Empiricism",
+      "conceptId": "philosophy.epistemology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Innate Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "A Priori Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "A Posteriori Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Reason vs Experience",
+      "conceptId": "philosophy.epistemology.chapter-04.topic-06"
+    }
+  ]
+}

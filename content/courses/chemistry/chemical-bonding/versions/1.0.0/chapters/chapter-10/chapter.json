@@ -1,0 +1,32 @@
+{
+  "id": "chapter-10",
+  "name": "Molecular Polarity",
+  "description": "Molecular Polarity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bond Polarity",
+      "conceptId": "chemistry.chemical-bonding.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Molecular Polarity",
+      "conceptId": "chemistry.chemical-bonding.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Dipole Moment",
+      "conceptId": "chemistry.chemical-bonding.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Electronegativity Difference",
+      "conceptId": "chemistry.chemical-bonding.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Predicting Molecular Polarity",
+      "conceptId": "chemistry.chemical-bonding.chapter-10.topic-05"
+    }
+  ]
+}

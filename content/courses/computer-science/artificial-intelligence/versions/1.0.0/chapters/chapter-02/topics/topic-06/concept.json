@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-02.topic-06",
+  "name": "Utility-Based Agents",
+  "subject": "computer-science",
+  "definition": "Utility-Based Agents is a fundamental concept in computer-science.",
+  "explanation": "Learn about Utility-Based Agents and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "utility-based-agents"
+  ]
+}

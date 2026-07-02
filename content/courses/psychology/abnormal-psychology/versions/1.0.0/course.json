@@ -1,0 +1,566 @@
+{
+  "id": "abnormal-psychology",
+  "name": "Abnormal Psychology",
+  "description": "Abnormal Psychology",
+  "version": "1.0.0",
+  "domain": "psychology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Abnormal Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Abnormal Psychology?",
+          "conceptId": "psychology.abnormal-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Defining Psychological Disorders",
+          "conceptId": "psychology.abnormal-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Historical Perspectives",
+          "conceptId": "psychology.abnormal-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Models of Mental Illness",
+          "conceptId": "psychology.abnormal-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mental Health & Well-Being",
+          "conceptId": "psychology.abnormal-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stigma",
+          "conceptId": "psychology.abnormal-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Classification & Diagnosis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diagnostic Systems",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diagnostic Criteria",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Clinical Assessment",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interviews",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Psychological Testing",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Differential Diagnosis",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cultural Considerations",
+          "conceptId": "psychology.abnormal-psychology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Anxiety Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Generalized Anxiety Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Panic Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Phobias",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Social Anxiety Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Separation Anxiety",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Anxiety Assessment",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Treatment Approaches",
+          "conceptId": "psychology.abnormal-psychology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Obsessive-Compulsive & Trauma-Related Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Obsessive-Compulsive Disorder (OCD)",
+          "conceptId": "psychology.abnormal-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Body Dysmorphic Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hoarding Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Post-Traumatic Stress Disorder (PTSD)",
+          "conceptId": "psychology.abnormal-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Acute Stress Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trauma-Informed Care",
+          "conceptId": "psychology.abnormal-psychology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Mood Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Major Depressive Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Persistent Depressive Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bipolar Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Risk Factors",
+          "conceptId": "psychology.abnormal-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Suicide Prevention",
+          "conceptId": "psychology.abnormal-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evidence-Based Treatments",
+          "conceptId": "psychology.abnormal-psychology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Schizophrenia Spectrum Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Schizophrenia",
+          "conceptId": "psychology.abnormal-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Positive Symptoms",
+          "conceptId": "psychology.abnormal-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Negative Symptoms",
+          "conceptId": "psychology.abnormal-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cognitive Symptoms",
+          "conceptId": "psychology.abnormal-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Psychosis",
+          "conceptId": "psychology.abnormal-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Treatment & Rehabilitation",
+          "conceptId": "psychology.abnormal-psychology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Personality Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cluster A Disorders",
+          "conceptId": "psychology.abnormal-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cluster B Disorders",
+          "conceptId": "psychology.abnormal-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cluster C Disorders",
+          "conceptId": "psychology.abnormal-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Borderline Personality Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Antisocial Personality Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Clinical Management",
+          "conceptId": "psychology.abnormal-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Neurodevelopmental Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Autism Spectrum Disorder (ASD)",
+          "conceptId": "psychology.abnormal-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+          "conceptId": "psychology.abnormal-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Intellectual Disability",
+          "conceptId": "psychology.abnormal-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Learning Disorders",
+          "conceptId": "psychology.abnormal-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Early Identification",
+          "conceptId": "psychology.abnormal-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Intervention Strategies",
+          "conceptId": "psychology.abnormal-psychology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Eating & Substance Use Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Anorexia Nervosa",
+          "conceptId": "psychology.abnormal-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bulimia Nervosa",
+          "conceptId": "psychology.abnormal-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Binge-Eating Disorder",
+          "conceptId": "psychology.abnormal-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Substance Use Disorders",
+          "conceptId": "psychology.abnormal-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Addiction",
+          "conceptId": "psychology.abnormal-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Recovery & Rehabilitation",
+          "conceptId": "psychology.abnormal-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Causes of Psychological Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biological Factors",
+          "conceptId": "psychology.abnormal-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genetic Influences",
+          "conceptId": "psychology.abnormal-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cognitive Factors",
+          "conceptId": "psychology.abnormal-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavioral Factors",
+          "conceptId": "psychology.abnormal-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Factors",
+          "conceptId": "psychology.abnormal-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biopsychosocial Model",
+          "conceptId": "psychology.abnormal-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Prevention & Mental Health",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Protective Factors",
+          "conceptId": "psychology.abnormal-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Resilience",
+          "conceptId": "psychology.abnormal-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mental Health Promotion",
+          "conceptId": "psychology.abnormal-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Early Intervention",
+          "conceptId": "psychology.abnormal-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Community Mental Health",
+          "conceptId": "psychology.abnormal-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Awareness",
+          "conceptId": "psychology.abnormal-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Clinical Practice",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Education",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Workplace Mental Health",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Healthcare Systems",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Criminal Justice",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Family Support",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Digital Mental Health",
+          "conceptId": "psychology.abnormal-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cultural Psychology & Mental Health",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Positive Mental Health",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Emerging Therapies",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Artificial Intelligence in Mental Healthcare",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ethics in Clinical Practice",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Mental Health Research",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 9: Clinical Psychology**",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Clinical Assessment",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Psychological Testing",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Case Formulation",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Psychotherapy",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Cognitive Behavioral Therapy (CBT)",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Humanistic Therapy",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Psychodynamic Therapy",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Family Therapy",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Crisis Intervention",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Ethics",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Evidence-Based Practice",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Integrated Mental Healthcare",
+          "conceptId": "psychology.abnormal-psychology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "psychology",
+      "abnormal-psychology"
+    ]
+  }
+}

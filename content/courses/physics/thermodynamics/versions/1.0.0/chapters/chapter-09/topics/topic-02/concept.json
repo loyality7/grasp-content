@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-09.topic-02",
+  "name": "Entropy Change",
+  "subject": "physics",
+  "definition": "Entropy Change is a fundamental concept in physics.",
+  "explanation": "Learn about Entropy Change and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "entropy-change"
+  ]
+}

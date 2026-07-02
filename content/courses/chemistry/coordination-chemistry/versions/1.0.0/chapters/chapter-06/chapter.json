@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06",
+  "name": "Bonding Theories",
+  "description": "Bonding Theories",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Valence Bond Theory",
+      "conceptId": "chemistry.coordination-chemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Crystal Field Theory (CFT)",
+      "conceptId": "chemistry.coordination-chemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ligand Field Theory (Introduction)",
+      "conceptId": "chemistry.coordination-chemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Molecular Orbital Theory (Introduction)",
+      "conceptId": "chemistry.coordination-chemistry.chapter-06.topic-04"
+    }
+  ]
+}

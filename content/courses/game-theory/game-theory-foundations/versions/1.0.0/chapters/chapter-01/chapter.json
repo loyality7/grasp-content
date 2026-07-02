@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Game Theory",
+  "description": "Introduction to Game Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Game Theory?",
+      "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "History of Game Theory",
+      "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Strategic Interaction",
+      "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rational Decision Making",
+      "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications of Game Theory",
+      "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Branches of Game Theory",
+      "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-06"
+    }
+  ]
+}

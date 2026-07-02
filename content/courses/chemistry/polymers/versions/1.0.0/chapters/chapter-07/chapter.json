@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Polymer Processing",
+  "description": "Polymer Processing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Extrusion",
+      "conceptId": "chemistry.polymers.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Injection Molding",
+      "conceptId": "chemistry.polymers.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Blow Molding",
+      "conceptId": "chemistry.polymers.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Compression Molding",
+      "conceptId": "chemistry.polymers.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "3D Printing",
+      "conceptId": "chemistry.polymers.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fiber Spinning",
+      "conceptId": "chemistry.polymers.chapter-07.topic-06"
+    }
+  ]
+}

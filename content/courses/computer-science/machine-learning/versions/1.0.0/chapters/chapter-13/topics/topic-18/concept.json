@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-13.topic-18",
+  "name": "Business Intelligence",
+  "subject": "computer-science",
+  "definition": "Business Intelligence is a fundamental concept in computer-science.",
+  "explanation": "Learn about Business Intelligence and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "business-intelligence"
+  ]
+}

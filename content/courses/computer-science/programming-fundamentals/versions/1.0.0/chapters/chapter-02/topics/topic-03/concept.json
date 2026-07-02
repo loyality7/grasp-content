@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-02.topic-03",
+  "name": "Identifiers",
+  "subject": "computer-science",
+  "definition": "Identifiers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Identifiers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "identifiers"
+  ]
+}

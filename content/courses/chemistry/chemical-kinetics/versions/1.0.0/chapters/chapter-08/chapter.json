@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Reaction Mechanisms",
+  "description": "Reaction Mechanisms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Reaction Mechanism",
+      "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Elementary Steps",
+      "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Intermediates",
+      "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rate-Determining Step",
+      "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Chain Reactions",
+      "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Catalytic Mechanisms",
+      "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-06"
+    }
+  ]
+}

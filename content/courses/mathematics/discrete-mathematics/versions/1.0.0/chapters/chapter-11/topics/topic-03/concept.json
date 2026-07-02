@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-11.topic-03",
+  "name": "Logic Gates",
+  "subject": "mathematics",
+  "definition": "Logic Gates is a fundamental concept in mathematics.",
+  "explanation": "Learn about Logic Gates and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "logic-gates"
+  ]
+}

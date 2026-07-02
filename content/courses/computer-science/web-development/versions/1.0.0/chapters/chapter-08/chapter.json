@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Databases & ORMs",
+  "description": "Databases & ORMs",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Database Integration",
+      "conceptId": "computer-science.web-development.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "SQL Databases",
+      "conceptId": "computer-science.web-development.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "NoSQL Databases",
+      "conceptId": "computer-science.web-development.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "ORM Concepts",
+      "conceptId": "computer-science.web-development.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "CRUD Operations",
+      "conceptId": "computer-science.web-development.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Data Validation",
+      "conceptId": "computer-science.web-development.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Database Migrations",
+      "conceptId": "computer-science.web-development.chapter-08.topic-07"
+    }
+  ]
+}

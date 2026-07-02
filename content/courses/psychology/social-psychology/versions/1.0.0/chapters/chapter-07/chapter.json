@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Relationships",
+  "description": "Relationships",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Interpersonal Attraction",
+      "conceptId": "psychology.social-psychology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Friendship",
+      "conceptId": "psychology.social-psychology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Love",
+      "conceptId": "psychology.social-psychology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Attachment",
+      "conceptId": "psychology.social-psychology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Communication",
+      "conceptId": "psychology.social-psychology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Conflict Resolution",
+      "conceptId": "psychology.social-psychology.chapter-07.topic-06"
+    }
+  ]
+}

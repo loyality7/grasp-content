@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Realism & Anti-Realism",
+  "description": "Realism & Anti-Realism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Scientific Realism",
+      "conceptId": "philosophy.philosophy-of-science.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Instrumentalism",
+      "conceptId": "philosophy.philosophy-of-science.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Constructive Empiricism",
+      "conceptId": "philosophy.philosophy-of-science.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Observable vs Unobservable Entities",
+      "conceptId": "philosophy.philosophy-of-science.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Truth in Science",
+      "conceptId": "philosophy.philosophy-of-science.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Models of Reality",
+      "conceptId": "philosophy.philosophy-of-science.chapter-06.topic-06"
+    }
+  ]
+}

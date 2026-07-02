@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Personal Identity",
+  "description": "Personal Identity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Self",
+      "conceptId": "philosophy.metaphysics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Consciousness",
+      "conceptId": "philosophy.metaphysics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mind-Body Identity",
+      "conceptId": "philosophy.metaphysics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Memory Theory",
+      "conceptId": "philosophy.metaphysics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Psychological Continuity",
+      "conceptId": "philosophy.metaphysics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bodily Continuity",
+      "conceptId": "philosophy.metaphysics.chapter-07.topic-06"
+    }
+  ]
+}

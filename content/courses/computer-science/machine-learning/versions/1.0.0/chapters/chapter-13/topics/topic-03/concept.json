@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-13.topic-03",
+  "name": "Recommendation Systems",
+  "subject": "computer-science",
+  "definition": "Recommendation Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Recommendation Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "recommendation-systems"
+  ]
+}

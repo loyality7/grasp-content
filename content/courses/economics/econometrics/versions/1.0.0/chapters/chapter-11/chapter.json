@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Modern Econometrics",
+  "description": "Modern Econometrics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Machine Learning in Econometrics",
+      "conceptId": "economics.econometrics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Regularization",
+      "conceptId": "economics.econometrics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Classification Models",
+      "conceptId": "economics.econometrics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Causal Machine Learning",
+      "conceptId": "economics.econometrics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Big Data",
+      "conceptId": "economics.econometrics.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Computational Econometrics",
+      "conceptId": "economics.econometrics.chapter-11.topic-06"
+    }
+  ]
+}

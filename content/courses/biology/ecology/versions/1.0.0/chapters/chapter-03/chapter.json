@@ -1,0 +1,47 @@
+{
+  "id": "chapter-03",
+  "name": "Community Ecology",
+  "description": "Community Ecology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ecological Communities",
+      "conceptId": "biology.ecology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Species Interactions",
+      "conceptId": "biology.ecology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Competition",
+      "conceptId": "biology.ecology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Predation",
+      "conceptId": "biology.ecology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mutualism",
+      "conceptId": "biology.ecology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Commensalism",
+      "conceptId": "biology.ecology.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Parasitism",
+      "conceptId": "biology.ecology.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Ecological Succession",
+      "conceptId": "biology.ecology.chapter-03.topic-08"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Cell Theory & Cell Types",
+  "description": "Cell Theory & Cell Types",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cell Theory",
+      "conceptId": "biology.cell-biology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Discovery of Cells",
+      "conceptId": "biology.cell-biology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Prokaryotic Cells",
+      "conceptId": "biology.cell-biology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Eukaryotic Cells",
+      "conceptId": "biology.cell-biology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cell Diversity",
+      "conceptId": "biology.cell-biology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cell Size & Shape",
+      "conceptId": "biology.cell-biology.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-07.topic-01",
+  "name": "Biot-Savart Law",
+  "subject": "physics",
+  "definition": "Biot-Savart Law is a fundamental concept in physics.",
+  "explanation": "Learn about Biot-Savart Law and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "biot-savart-law"
+  ]
+}

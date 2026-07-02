@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Pendulums",
+  "description": "Pendulums",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Simple Pendulum",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Physical Pendulum",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Compound Pendulum",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Time Period",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Small Angle Approximation",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Energy of a Pendulum",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-06"
+    }
+  ]
+}

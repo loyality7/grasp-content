@@ -1,0 +1,37 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Positive Education",
+      "conceptId": "psychology.positive-psychology.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Positive Technology",
+      "conceptId": "psychology.positive-psychology.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Happiness Economics",
+      "conceptId": "psychology.positive-psychology.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cross-Cultural Well-Being",
+      "conceptId": "psychology.positive-psychology.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Future of Positive Psychology",
+      "conceptId": "psychology.positive-psychology.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Human Flourishing in the AI Era",
+      "conceptId": "psychology.positive-psychology.chapter-13.topic-06"
+    }
+  ]
+}

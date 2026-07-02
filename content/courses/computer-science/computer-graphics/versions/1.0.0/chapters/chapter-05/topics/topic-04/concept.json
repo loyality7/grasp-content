@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-graphics.chapter-05.topic-04",
+  "name": "Perspective Projection",
+  "subject": "computer-science",
+  "definition": "Perspective Projection is a fundamental concept in computer-science.",
+  "explanation": "Learn about Perspective Projection and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "perspective-projection"
+  ]
+}

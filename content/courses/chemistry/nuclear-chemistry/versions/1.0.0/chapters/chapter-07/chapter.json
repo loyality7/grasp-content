@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Radiation Detection",
+  "description": "Radiation Detection",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Geiger-Müller Counter",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scintillation Detector",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Semiconductor Detector",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cloud Chamber",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bubble Chamber",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dosimetry",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-06"
+    }
+  ]
+}

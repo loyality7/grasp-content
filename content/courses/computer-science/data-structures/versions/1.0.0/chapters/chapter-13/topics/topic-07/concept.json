@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-13.topic-07",
+  "name": "Game Development",
+  "subject": "computer-science",
+  "definition": "Game Development is a fundamental concept in computer-science.",
+  "explanation": "Learn about Game Development and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "game-development"
+  ]
+}

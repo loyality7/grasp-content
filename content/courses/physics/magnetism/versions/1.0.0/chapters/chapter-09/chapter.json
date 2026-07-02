@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electric Motors (Introduction)",
+      "conceptId": "physics.magnetism.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Loudspeakers",
+      "conceptId": "physics.magnetism.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Magnetic Storage",
+      "conceptId": "physics.magnetism.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "MRI (Introduction)",
+      "conceptId": "physics.magnetism.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Electromagnets",
+      "conceptId": "physics.magnetism.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Compass Navigation",
+      "conceptId": "physics.magnetism.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Particle Accelerators",
+      "conceptId": "physics.magnetism.chapter-09.topic-07"
+    }
+  ]
+}

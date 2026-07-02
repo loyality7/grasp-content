@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Memory & Testimony",
+  "description": "Memory & Testimony",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Memory",
+      "conceptId": "philosophy.epistemology.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Testimony",
+      "conceptId": "philosophy.epistemology.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Eyewitness Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Collective Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trust",
+      "conceptId": "philosophy.epistemology.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Epistemic Authority",
+      "conceptId": "philosophy.epistemology.chapter-06.topic-06"
+    }
+  ]
+}

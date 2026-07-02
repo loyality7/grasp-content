@@ -1,0 +1,20 @@
+{
+  "id": "biology.biotechnology.chapter-03.topic-06",
+  "name": "Real-Time PCR (qPCR)",
+  "subject": "biology",
+  "definition": "Real-Time PCR (qPCR) is a fundamental concept in biology.",
+  "explanation": "Learn about Real-Time PCR (qPCR) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "real-time-pcr-qpcr"
+  ]
+}

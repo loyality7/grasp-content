@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-08.topic-04",
+  "name": "LSTM",
+  "subject": "computer-science",
+  "definition": "LSTM is a fundamental concept in computer-science.",
+  "explanation": "Learn about LSTM and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "lstm"
+  ]
+}

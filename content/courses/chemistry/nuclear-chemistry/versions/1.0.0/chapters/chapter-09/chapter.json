@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Radioisotopes",
+  "description": "Radioisotopes",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Radioisotope Production",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Radioactive Tracers",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Isotope Labeling",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dating Techniques",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Carbon-14 Dating",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Industrial Isotopes",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-06"
+    }
+  ]
+}

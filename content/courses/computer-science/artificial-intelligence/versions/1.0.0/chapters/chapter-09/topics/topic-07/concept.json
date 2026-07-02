@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-09.topic-07",
+  "name": "Conversational AI",
+  "subject": "computer-science",
+  "definition": "Conversational AI is a fundamental concept in computer-science.",
+  "explanation": "Learn about Conversational AI and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "conversational-ai"
+  ]
+}

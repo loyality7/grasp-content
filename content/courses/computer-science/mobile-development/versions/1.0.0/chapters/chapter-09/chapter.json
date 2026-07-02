@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Security",
+  "description": "Security",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Secure Storage",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Authentication",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Authorization",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Encryption",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "API Security",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "App Permissions",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Secure Coding Practices",
+      "conceptId": "computer-science.mobile-development.chapter-09.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "biology.evolution.chapter-02.topic-01",
+  "name": "Natural Selection",
+  "subject": "biology",
+  "definition": "Natural Selection is a fundamental concept in biology.",
+  "explanation": "Learn about Natural Selection and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "natural-selection"
+  ]
+}

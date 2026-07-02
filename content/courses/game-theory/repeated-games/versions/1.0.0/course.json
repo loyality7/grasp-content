@@ -1,0 +1,556 @@
+{
+  "id": "repeated-games",
+  "name": "Repeated Games",
+  "description": "Repeated Games",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Repeated Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What are Repeated Games?",
+          "conceptId": "game-theory.repeated-games.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "One-Shot vs Repeated Games",
+          "conceptId": "game-theory.repeated-games.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strategic Memory",
+          "conceptId": "game-theory.repeated-games.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Long-Term Interaction",
+          "conceptId": "game-theory.repeated-games.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Repetition & Incentives",
+          "conceptId": "game-theory.repeated-games.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "game-theory.repeated-games.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Finite Repeated Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Finite Horizon",
+          "conceptId": "game-theory.repeated-games.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stage Games",
+          "conceptId": "game-theory.repeated-games.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Backward Induction",
+          "conceptId": "game-theory.repeated-games.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Endgame Effect",
+          "conceptId": "game-theory.repeated-games.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Equilibrium Analysis",
+          "conceptId": "game-theory.repeated-games.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Consequences",
+          "conceptId": "game-theory.repeated-games.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Infinite Repeated Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Infinite Horizon",
+          "conceptId": "game-theory.repeated-games.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Discounting the Future",
+          "conceptId": "game-theory.repeated-games.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Patience",
+          "conceptId": "game-theory.repeated-games.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Long-Term Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stable Relationships",
+          "conceptId": "game-theory.repeated-games.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Infinite Strategies",
+          "conceptId": "game-theory.repeated-games.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Cooperation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mutual Benefit",
+          "conceptId": "game-theory.repeated-games.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Trust",
+          "conceptId": "game-theory.repeated-games.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coordination",
+          "conceptId": "game-theory.repeated-games.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collective Action",
+          "conceptId": "game-theory.repeated-games.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cooperation Under Competition",
+          "conceptId": "game-theory.repeated-games.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Reputation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reputation",
+          "conceptId": "game-theory.repeated-games.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Credibility",
+          "conceptId": "game-theory.repeated-games.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Trustworthiness",
+          "conceptId": "game-theory.repeated-games.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reputation Building",
+          "conceptId": "game-theory.repeated-games.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reputation Loss",
+          "conceptId": "game-theory.repeated-games.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Signaling",
+          "conceptId": "game-theory.repeated-games.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Trigger Strategies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Grim Trigger Strategy",
+          "conceptId": "game-theory.repeated-games.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Trigger Strategies",
+          "conceptId": "game-theory.repeated-games.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Punishment",
+          "conceptId": "game-theory.repeated-games.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forgiveness",
+          "conceptId": "game-theory.repeated-games.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Enforcement of Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Deterrence",
+          "conceptId": "game-theory.repeated-games.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Tit-for-Tat",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tit-for-Tat Strategy",
+          "conceptId": "game-theory.repeated-games.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reciprocity",
+          "conceptId": "game-theory.repeated-games.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cooperation Through Reciprocity",
+          "conceptId": "game-theory.repeated-games.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Generous Tit-for-Tat",
+          "conceptId": "game-theory.repeated-games.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Win-Stay Lose-Shift",
+          "conceptId": "game-theory.repeated-games.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategy Comparison",
+          "conceptId": "game-theory.repeated-games.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "The Folk Theorem",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Folk Theorem",
+          "conceptId": "game-theory.repeated-games.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sustainable Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Discount Factor",
+          "conceptId": "game-theory.repeated-games.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equilibrium in Repeated Games",
+          "conceptId": "game-theory.repeated-games.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self-Enforcing Agreements",
+          "conceptId": "game-theory.repeated-games.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Long-Term Stability",
+          "conceptId": "game-theory.repeated-games.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Strategic Relationships",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Business Competition",
+          "conceptId": "game-theory.repeated-games.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Long-Term Contracts",
+          "conceptId": "game-theory.repeated-games.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Supply Chains",
+          "conceptId": "game-theory.repeated-games.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Employer-Employee Relationships",
+          "conceptId": "game-theory.repeated-games.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "International Diplomacy",
+          "conceptId": "game-theory.repeated-games.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Alliances",
+          "conceptId": "game-theory.repeated-games.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Evolution of Cooperation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Evolutionary Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reciprocal Altruism",
+          "conceptId": "game-theory.repeated-games.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Norms",
+          "conceptId": "game-theory.repeated-games.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Community Enforcement",
+          "conceptId": "game-theory.repeated-games.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biological Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cultural Evolution",
+          "conceptId": "game-theory.repeated-games.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pricing Wars",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Negotiation",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Politics",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cybersecurity",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Intelligence",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Online Platforms",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Blockchain Networks",
+          "conceptId": "game-theory.repeated-games.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Computational Models",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Agent Simulation",
+          "conceptId": "game-theory.repeated-games.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reinforcement Learning",
+          "conceptId": "game-theory.repeated-games.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Repeated Decision Algorithms",
+          "conceptId": "game-theory.repeated-games.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Adaptive Strategies",
+          "conceptId": "game-theory.repeated-games.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Evolutionary Simulation",
+          "conceptId": "game-theory.repeated-games.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Agent-Based Modeling",
+          "conceptId": "game-theory.repeated-games.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stochastic Repeated Games",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Imperfect Monitoring",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reputation Systems",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dynamic Networks",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Online Learning in Games",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Cooperative AI",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 7: Cooperative Game Theory**",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Cooperative Games",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Coalitions",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Coalition Formation",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Core",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Shapley Value",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Bargaining Solutions",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Fair Division",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Cost Sharing",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Voting Power",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Network Cooperation",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Resource Allocation",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Real-World Cooperative Systems",
+          "conceptId": "game-theory.repeated-games.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "repeated-games"
+    ]
+  }
+}

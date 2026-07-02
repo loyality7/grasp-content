@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.differential-equations.chapter-06.topic-01",
+  "name": "Undetermined Coefficients",
+  "subject": "mathematics",
+  "definition": "Undetermined Coefficients is a fundamental concept in mathematics.",
+  "explanation": "Learn about Undetermined Coefficients and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "undetermined-coefficients"
+  ]
+}

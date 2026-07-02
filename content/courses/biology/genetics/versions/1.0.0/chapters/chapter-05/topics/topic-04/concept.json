@@ -1,0 +1,20 @@
+{
+  "id": "biology.genetics.chapter-05.topic-04",
+  "name": "Genetic Mapping",
+  "subject": "biology",
+  "definition": "Genetic Mapping is a fundamental concept in biology.",
+  "explanation": "Learn about Genetic Mapping and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "genetic-mapping"
+  ]
+}

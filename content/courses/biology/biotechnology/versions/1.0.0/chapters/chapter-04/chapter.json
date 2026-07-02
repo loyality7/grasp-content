@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "DNA Sequencing & Genomics",
+  "description": "DNA Sequencing & Genomics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sanger Sequencing",
+      "conceptId": "biology.biotechnology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Next-Generation Sequencing (NGS)",
+      "conceptId": "biology.biotechnology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Whole Genome Sequencing",
+      "conceptId": "biology.biotechnology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Genome Annotation",
+      "conceptId": "biology.biotechnology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Comparative Genomics",
+      "conceptId": "biology.biotechnology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Personalized Genomics",
+      "conceptId": "biology.biotechnology.chapter-04.topic-06"
+    }
+  ]
+}

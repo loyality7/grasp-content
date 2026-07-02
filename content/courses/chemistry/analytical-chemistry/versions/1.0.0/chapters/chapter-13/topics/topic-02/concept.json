@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-13.topic-02",
+  "name": "Lab-on-a-Chip Systems",
+  "subject": "chemistry",
+  "definition": "Lab-on-a-Chip Systems is a fundamental concept in chemistry.",
+  "explanation": "Learn about Lab-on-a-Chip Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "lab-on-a-chip-systems"
+  ]
+}

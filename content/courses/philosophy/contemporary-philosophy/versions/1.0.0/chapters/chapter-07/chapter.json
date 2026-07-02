@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Philosophy of Technology",
+  "description": "Philosophy of Technology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Technology & Society",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Digital Life",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Automation",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Human Enhancement",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Virtual Reality",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Technological Change",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "id": "geometry",
+  "name": "Geometry",
+  "description": "Geometry",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Foundations of Geometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Points",
+          "conceptId": "mathematics.geometry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lines",
+          "conceptId": "mathematics.geometry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Line Segments",
+          "conceptId": "mathematics.geometry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rays",
+          "conceptId": "mathematics.geometry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Planes",
+          "conceptId": "mathematics.geometry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Collinear Points",
+          "conceptId": "mathematics.geometry.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Coplanar Points",
+          "conceptId": "mathematics.geometry.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Distance",
+          "conceptId": "mathematics.geometry.chapter-01.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Midpoint",
+          "conceptId": "mathematics.geometry.chapter-01.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Angles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Types of Angles",
+          "conceptId": "mathematics.geometry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Angle Relationships",
+          "conceptId": "mathematics.geometry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Complementary Angles",
+          "conceptId": "mathematics.geometry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Supplementary Angles",
+          "conceptId": "mathematics.geometry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Vertical Angles",
+          "conceptId": "mathematics.geometry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Adjacent Angles",
+          "conceptId": "mathematics.geometry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Angle Bisectors",
+          "conceptId": "mathematics.geometry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Parallel & Perpendicular Lines",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Parallel Lines",
+          "conceptId": "mathematics.geometry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Perpendicular Lines",
+          "conceptId": "mathematics.geometry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transversals",
+          "conceptId": "mathematics.geometry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Corresponding Angles",
+          "conceptId": "mathematics.geometry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Alternate Interior Angles",
+          "conceptId": "mathematics.geometry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Alternate Exterior Angles",
+          "conceptId": "mathematics.geometry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Same-Side Interior Angles",
+          "conceptId": "mathematics.geometry.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Triangles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Types of Triangles",
+          "conceptId": "mathematics.geometry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Triangle Congruence",
+          "conceptId": "mathematics.geometry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Triangle Inequality",
+          "conceptId": "mathematics.geometry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Isosceles Triangles",
+          "conceptId": "mathematics.geometry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Equilateral Triangles",
+          "conceptId": "mathematics.geometry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Right Triangles",
+          "conceptId": "mathematics.geometry.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Exterior Angle Theorem",
+          "conceptId": "mathematics.geometry.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Triangle Congruence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "SSS",
+          "conceptId": "mathematics.geometry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "SAS",
+          "conceptId": "mathematics.geometry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "ASA",
+          "conceptId": "mathematics.geometry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "AAS",
+          "conceptId": "mathematics.geometry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "HL Congruence",
+          "conceptId": "mathematics.geometry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Congruence Proofs",
+          "conceptId": "mathematics.geometry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Similarity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Similar Triangles",
+          "conceptId": "mathematics.geometry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "AA Similarity",
+          "conceptId": "mathematics.geometry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "SAS Similarity",
+          "conceptId": "mathematics.geometry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "SSS Similarity",
+          "conceptId": "mathematics.geometry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scale Factor",
+          "conceptId": "mathematics.geometry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Proportional Segments",
+          "conceptId": "mathematics.geometry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Right Triangle Geometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pythagorean Theorem",
+          "conceptId": "mathematics.geometry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Converse of Pythagorean Theorem",
+          "conceptId": "mathematics.geometry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Special Right Triangles",
+          "conceptId": "mathematics.geometry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Distance Formula",
+          "conceptId": "mathematics.geometry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Midpoint Formula",
+          "conceptId": "mathematics.geometry.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Quadrilaterals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Parallelograms",
+          "conceptId": "mathematics.geometry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rectangles",
+          "conceptId": "mathematics.geometry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Squares",
+          "conceptId": "mathematics.geometry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rhombuses",
+          "conceptId": "mathematics.geometry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trapezoids",
+          "conceptId": "mathematics.geometry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Kites",
+          "conceptId": "mathematics.geometry.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Properties of Quadrilaterals",
+          "conceptId": "mathematics.geometry.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Polygons",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Interior Angles",
+          "conceptId": "mathematics.geometry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exterior Angles",
+          "conceptId": "mathematics.geometry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Regular Polygons",
+          "conceptId": "mathematics.geometry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Polygon Diagonals",
+          "conceptId": "mathematics.geometry.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Circles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Radius",
+          "conceptId": "mathematics.geometry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diameter",
+          "conceptId": "mathematics.geometry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chords",
+          "conceptId": "mathematics.geometry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tangents",
+          "conceptId": "mathematics.geometry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Secants",
+          "conceptId": "mathematics.geometry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Arcs",
+          "conceptId": "mathematics.geometry.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Central Angles",
+          "conceptId": "mathematics.geometry.chapter-10.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Inscribed Angles",
+          "conceptId": "mathematics.geometry.chapter-10.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Arc Length",
+          "conceptId": "mathematics.geometry.chapter-10.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Sector Area",
+          "conceptId": "mathematics.geometry.chapter-10.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Transformations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Translation",
+          "conceptId": "mathematics.geometry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reflection",
+          "conceptId": "mathematics.geometry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rotation",
+          "conceptId": "mathematics.geometry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dilation",
+          "conceptId": "mathematics.geometry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Symmetry",
+          "conceptId": "mathematics.geometry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tessellations",
+          "conceptId": "mathematics.geometry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Coordinate Geometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coordinate Plane",
+          "conceptId": "mathematics.geometry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Slope",
+          "conceptId": "mathematics.geometry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distance Formula",
+          "conceptId": "mathematics.geometry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Midpoint Formula",
+          "conceptId": "mathematics.geometry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Equations of Lines",
+          "conceptId": "mathematics.geometry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Parallel & Perpendicular Lines",
+          "conceptId": "mathematics.geometry.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Area",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Area of Triangles",
+          "conceptId": "mathematics.geometry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Area of Quadrilaterals",
+          "conceptId": "mathematics.geometry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Area of Polygons",
+          "conceptId": "mathematics.geometry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Area of Circles",
+          "conceptId": "mathematics.geometry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Composite Figures",
+          "conceptId": "mathematics.geometry.chapter-13.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Surface Area & Volume",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Prisms",
+          "conceptId": "mathematics.geometry.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cylinders",
+          "conceptId": "mathematics.geometry.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pyramids",
+          "conceptId": "mathematics.geometry.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cones",
+          "conceptId": "mathematics.geometry.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spheres",
+          "conceptId": "mathematics.geometry.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Composite Solids",
+          "conceptId": "mathematics.geometry.chapter-14.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "name": "Geometric Proofs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Two-Column Proofs",
+          "conceptId": "mathematics.geometry.chapter-15.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Flow Proofs",
+          "conceptId": "mathematics.geometry.chapter-15.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Indirect Proofs",
+          "conceptId": "mathematics.geometry.chapter-15.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coordinate Proofs",
+          "conceptId": "mathematics.geometry.chapter-15.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "name": "Introduction to Trigonometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sine",
+          "conceptId": "mathematics.geometry.chapter-16.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cosine",
+          "conceptId": "mathematics.geometry.chapter-16.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tangent",
+          "conceptId": "mathematics.geometry.chapter-16.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Right Triangle Applications",
+          "conceptId": "mathematics.geometry.chapter-16.topic-04"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 32,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "geometry"
+    ]
+  }
+}

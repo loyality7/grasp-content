@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-12.topic-06",
+  "name": "Benchmarking Algorithms",
+  "subject": "computer-science",
+  "definition": "Benchmarking Algorithms is a fundamental concept in computer-science.",
+  "explanation": "Learn about Benchmarking Algorithms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "benchmarking-algorithms"
+  ]
+}

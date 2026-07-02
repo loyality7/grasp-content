@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-06.topic-04",
+  "name": "Single Sign-On (SSO)",
+  "subject": "computer-science",
+  "definition": "Single Sign-On (SSO) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Single Sign-On (SSO) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "single-sign-on-sso"
+  ]
+}

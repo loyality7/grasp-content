@@ -1,0 +1,439 @@
+{
+  "id": "chemistry-foundations",
+  "name": "Chemistry Foundations",
+  "description": "Chemistry Foundations",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Chemistry?",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Branches of Chemistry",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Matter",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Properties of Matter",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Physical Changes",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chemical Changes",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Method",
+          "conceptId": "chemistry.chemistry-foundations.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Matter & Classification",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Elements",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Compounds",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mixtures",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Homogeneous Mixtures",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Heterogeneous Mixtures",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pure Substances",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Separation Techniques",
+          "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Physical Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mass",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Volume",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Density",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Color",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Melting Point",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Boiling Point",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Solubility",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Conductivity",
+          "conceptId": "chemistry.chemistry-foundations.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Measurements",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "SI Units",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Notation",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Significant Figures",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Unit Conversion",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dimensional Analysis",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Measurement Uncertainty",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Experimental Errors",
+          "conceptId": "chemistry.chemistry-foundations.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "States of Matter",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Solids",
+          "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Liquids",
+          "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gases",
+          "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Plasma",
+          "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bose-Einstein Condensate (Introduction)",
+          "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Phase Changes",
+          "conceptId": "chemistry.chemistry-foundations.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Chemical Symbols & Formulae",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chemical Symbols",
+          "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Formulae",
+          "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Molecular Formula",
+          "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Empirical Formula",
+          "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Structural Formula",
+          "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Formula Writing",
+          "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Mole Concept",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mole",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Avogadro's Number",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Molar Mass",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Atomic Mass",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Molecular Mass",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Formula Mass",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Mole Conversions",
+          "conceptId": "chemistry.chemistry-foundations.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Chemical Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chemical Reactions",
+          "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Word Equations",
+          "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Skeleton Equations",
+          "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Balancing Equations",
+          "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Conservation of Mass",
+          "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Types of Chemical Reactions (Overview)",
+          "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Laboratory Skills",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Laboratory Equipment",
+          "conceptId": "chemistry.chemistry-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Safety Rules",
+          "conceptId": "chemistry.chemistry-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chemical Hazards",
+          "conceptId": "chemistry.chemistry-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Laboratory Measurements",
+          "conceptId": "chemistry.chemistry-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recording Data",
+          "conceptId": "chemistry.chemistry-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Good Laboratory Practices",
+          "conceptId": "chemistry.chemistry-foundations.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Introduction to Chemical Calculations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stoichiometry (Introduction)",
+          "conceptId": "chemistry.chemistry-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Percentage Composition",
+          "conceptId": "chemistry.chemistry-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Limiting Reagent (Introduction)",
+          "conceptId": "chemistry.chemistry-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Yield (Introduction)",
+          "conceptId": "chemistry.chemistry-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Concentration (Introduction)",
+          "conceptId": "chemistry.chemistry-foundations.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Everyday Chemistry",
+          "conceptId": "chemistry.chemistry-foundations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Household Chemicals",
+          "conceptId": "chemistry.chemistry-foundations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Industrial Chemistry",
+          "conceptId": "chemistry.chemistry-foundations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Chemistry",
+          "conceptId": "chemistry.chemistry-foundations.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Food Chemistry",
+          "conceptId": "chemistry.chemistry-foundations.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Medical Chemistry",
+          "conceptId": "chemistry.chemistry-foundations.chapter-11.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "chemistry-foundations"
+    ]
+  }
+}

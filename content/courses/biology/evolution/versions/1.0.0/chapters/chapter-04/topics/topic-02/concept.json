@@ -1,0 +1,20 @@
+{
+  "id": "biology.evolution.chapter-04.topic-02",
+  "name": "Hardy-Weinberg Principle",
+  "subject": "biology",
+  "definition": "Hardy-Weinberg Principle is a fundamental concept in biology.",
+  "explanation": "Learn about Hardy-Weinberg Principle and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "hardy-weinberg-principle"
+  ]
+}

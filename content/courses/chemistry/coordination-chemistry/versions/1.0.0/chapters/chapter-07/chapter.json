@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Crystal Field Theory",
+  "description": "Crystal Field Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Crystal Field Splitting",
+      "conceptId": "chemistry.coordination-chemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Octahedral Splitting",
+      "conceptId": "chemistry.coordination-chemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Tetrahedral Splitting",
+      "conceptId": "chemistry.coordination-chemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "High-Spin Complexes",
+      "conceptId": "chemistry.coordination-chemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Low-Spin Complexes",
+      "conceptId": "chemistry.coordination-chemistry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Crystal Field Stabilization Energy (CFSE)",
+      "conceptId": "chemistry.coordination-chemistry.chapter-07.topic-06"
+    }
+  ]
+}

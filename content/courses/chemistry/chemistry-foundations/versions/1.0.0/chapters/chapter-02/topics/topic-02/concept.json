@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.chemistry-foundations.chapter-02.topic-02",
+  "name": "Compounds",
+  "subject": "chemistry",
+  "definition": "Compounds is a fundamental concept in chemistry.",
+  "explanation": "Learn about Compounds and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "compounds"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.optics.chapter-01.topic-05",
+  "name": "Speed of Light",
+  "subject": "physics",
+  "definition": "Speed of Light is a fundamental concept in physics.",
+  "explanation": "Learn about Speed of Light and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "speed-of-light"
+  ]
+}

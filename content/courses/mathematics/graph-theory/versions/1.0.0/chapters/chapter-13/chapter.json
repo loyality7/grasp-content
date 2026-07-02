@@ -1,0 +1,22 @@
+{
+  "id": "chapter-13",
+  "name": "Random Graphs",
+  "description": "Random Graphs",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Erdős–Rényi Model",
+      "conceptId": "mathematics.graph-theory.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scale-Free Networks",
+      "conceptId": "mathematics.graph-theory.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Small-World Networks",
+      "conceptId": "mathematics.graph-theory.chapter-13.topic-03"
+    }
+  ]
+}

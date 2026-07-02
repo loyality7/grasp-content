@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.precalculus.chapter-10.topic-01",
+  "name": "Matrix Operations",
+  "subject": "mathematics",
+  "definition": "Matrix Operations is a fundamental concept in mathematics.",
+  "explanation": "Learn about Matrix Operations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "matrix-operations"
+  ]
+}

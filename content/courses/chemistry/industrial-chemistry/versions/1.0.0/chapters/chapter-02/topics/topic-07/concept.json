@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.industrial-chemistry.chapter-02.topic-07",
+  "name": "Process Control",
+  "subject": "chemistry",
+  "definition": "Process Control is a fundamental concept in chemistry.",
+  "explanation": "Learn about Process Control and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "process-control"
+  ]
+}

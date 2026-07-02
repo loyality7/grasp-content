@@ -1,0 +1,27 @@
+{
+  "id": "chapter-10",
+  "name": "Fourier Series",
+  "description": "Fourier Series",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Periodic Functions",
+      "conceptId": "mathematics.differential-equations.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fourier Coefficients",
+      "conceptId": "mathematics.differential-equations.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Even & Odd Functions",
+      "conceptId": "mathematics.differential-equations.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Half-Range Expansions",
+      "conceptId": "mathematics.differential-equations.chapter-10.topic-04"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Chemistry of Life",
+  "description": "Chemistry of Life",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atoms",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Molecules",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Chemical Bonds",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Water",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "pH",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Acids & Bases",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Biological Importance of Water",
+      "conceptId": "biology.biology-foundations.chapter-02.topic-07"
+    }
+  ]
+}

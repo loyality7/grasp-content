@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Crystal Defects",
+  "description": "Crystal Defects",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Point Defects",
+      "conceptId": "physics.solid-state-physics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Vacancy Defects",
+      "conceptId": "physics.solid-state-physics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Interstitial Defects",
+      "conceptId": "physics.solid-state-physics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dislocations",
+      "conceptId": "physics.solid-state-physics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Grain Boundaries",
+      "conceptId": "physics.solid-state-physics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Impurities",
+      "conceptId": "physics.solid-state-physics.chapter-03.topic-06"
+    }
+  ]
+}

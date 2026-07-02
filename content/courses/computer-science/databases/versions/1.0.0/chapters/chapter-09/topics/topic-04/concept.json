@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-09.topic-04",
+  "name": "Column-Family Databases",
+  "subject": "computer-science",
+  "definition": "Column-Family Databases is a fundamental concept in computer-science.",
+  "explanation": "Learn about Column-Family Databases and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "column-family-databases"
+  ]
+}

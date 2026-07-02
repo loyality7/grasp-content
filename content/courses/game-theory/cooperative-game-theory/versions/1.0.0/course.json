@@ -1,0 +1,561 @@
+{
+  "id": "cooperative-game-theory",
+  "name": "Cooperative Game Theory",
+  "description": "Cooperative Game Theory",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Cooperative Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Cooperative Game Theory?",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cooperation vs Competition",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coalitions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Collective Decision Making",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Shared Objectives",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Coalition Formation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coalitions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coalition Structures",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Grand Coalition",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coalition Stability",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coalition Formation Processes",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Alliances",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Characteristic Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Characteristic Function",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coalition Value",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transferable Utility (TU)",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Transferable Utility (NTU)",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coalition Worth",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cooperative Game Representation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "The Core",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "The Core",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Feasible Allocations",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stable Allocations",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Blocking Coalitions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Core Existence",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Core Applications",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "The Shapley Value",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Shapley Value",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Marginal Contribution",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fair Allocation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Efficiency",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Symmetry",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dummy Player Property",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Additivity",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Bargaining Solutions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bargaining Problems",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nash Bargaining Solution",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Kalai-Smorodinsky Solution",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Negotiation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fair Agreements",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cooperative Negotiation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Fair Division",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fair Division",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Envy-Free Allocation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proportional Allocation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equitable Allocation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cake-Cutting Problems",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Resource Allocation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Cost Sharing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Shared Costs",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cost Allocation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Joint Projects",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Infrastructure Sharing",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cooperative Investments",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cost Recovery Methods",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Voting Power",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Voting Games",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Weighted Voting",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Power Indices",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Banzhaf Power Index",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Shapley-Shubik Power Index",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Coalition Politics",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Network Cooperation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cooperative Networks",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Communication Graphs",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Supply Chains",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Distributed Systems",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collaborative AI",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Network Value",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Business Alliances",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Joint Ventures",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "International Organizations",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Agreements",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Multi-Robot Systems",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Open Source Communities",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Blockchain Governance",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Computational Cooperative Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coalition Algorithms",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Optimization",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Resource Scheduling",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multi-Agent Cooperation",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distributed Optimization",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cooperative AI",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hedonic Games",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Matching Theory",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cooperative Mechanism Design",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Network Formation Games",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collective Intelligence",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Cooperative Systems",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 8: Auction Theory**",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Auction Fundamentals",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Valuation Models",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "English Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Dutch Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "First-Price Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Second-Price (Vickrey) Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Bidder Strategies",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Revenue Equivalence",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Combinatorial Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Online Advertising Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Spectrum Auctions",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Mechanism Design",
+          "conceptId": "game-theory.cooperative-game-theory.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "cooperative-game-theory"
+    ]
+  }
+}

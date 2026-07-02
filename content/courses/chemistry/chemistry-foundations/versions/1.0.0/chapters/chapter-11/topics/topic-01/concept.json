@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.chemistry-foundations.chapter-11.topic-01",
+  "name": "Everyday Chemistry",
+  "subject": "chemistry",
+  "definition": "Everyday Chemistry is a fundamental concept in chemistry.",
+  "explanation": "Learn about Everyday Chemistry and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "everyday-chemistry"
+  ]
+}

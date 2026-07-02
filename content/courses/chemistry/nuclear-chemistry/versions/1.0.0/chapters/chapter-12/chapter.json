@@ -1,0 +1,112 @@
+{
+  "id": "chapter-12",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nuclear Astrophysics",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Nuclear Forensics",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Small Modular Reactors (SMRs)",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fusion Reactors (ITER)",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Radioactive Waste Disposal",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future Nuclear Technologies",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 24: Industrial Chemistry**",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Chemical Process Industries",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Process Design",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Industrial Catalysis",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Petroleum Refining",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Fertilizers",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Polymers",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Cement",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Glass",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Ceramics",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Pharmaceuticals",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Food Processing",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Green Manufacturing",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Process Safety",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-20"
+    },
+    {
+      "id": "topic-21",
+      "name": "Quality Control",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-21"
+    }
+  ]
+}

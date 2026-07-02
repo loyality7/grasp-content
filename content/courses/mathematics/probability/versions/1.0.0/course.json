@@ -1,0 +1,477 @@
+{
+  "id": "probability",
+  "name": "Probability",
+  "description": "Probability",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Foundations of Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Random Experiments",
+          "conceptId": "mathematics.probability.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sample Space",
+          "conceptId": "mathematics.probability.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Events",
+          "conceptId": "mathematics.probability.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Types of Events",
+          "conceptId": "mathematics.probability.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Probability Axioms",
+          "conceptId": "mathematics.probability.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Classical Probability",
+          "conceptId": "mathematics.probability.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Empirical Probability",
+          "conceptId": "mathematics.probability.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Counting Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Addition Rule",
+          "conceptId": "mathematics.probability.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multiplication Rule",
+          "conceptId": "mathematics.probability.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Permutations",
+          "conceptId": "mathematics.probability.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Combinations",
+          "conceptId": "mathematics.probability.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Circular Permutations",
+          "conceptId": "mathematics.probability.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Multiset Counting",
+          "conceptId": "mathematics.probability.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Inclusion-Exclusion Principle",
+          "conceptId": "mathematics.probability.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Conditional Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conditional Probability",
+          "conceptId": "mathematics.probability.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Independent Events",
+          "conceptId": "mathematics.probability.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dependent Events",
+          "conceptId": "mathematics.probability.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multiplication Rule",
+          "conceptId": "mathematics.probability.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Law of Total Probability",
+          "conceptId": "mathematics.probability.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bayes' Theorem",
+          "conceptId": "mathematics.probability.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Random Variables",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Discrete Random Variables",
+          "conceptId": "mathematics.probability.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Continuous Random Variables",
+          "conceptId": "mathematics.probability.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Probability Mass Function (PMF)",
+          "conceptId": "mathematics.probability.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Probability Density Function (PDF)",
+          "conceptId": "mathematics.probability.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cumulative Distribution Function (CDF)",
+          "conceptId": "mathematics.probability.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Expected Value",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Expectation",
+          "conceptId": "mathematics.probability.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Linearity of Expectation",
+          "conceptId": "mathematics.probability.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Variance",
+          "conceptId": "mathematics.probability.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Standard Deviation",
+          "conceptId": "mathematics.probability.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Moments",
+          "conceptId": "mathematics.probability.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Discrete Probability Distributions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bernoulli Distribution",
+          "conceptId": "mathematics.probability.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Binomial Distribution",
+          "conceptId": "mathematics.probability.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Geometric Distribution",
+          "conceptId": "mathematics.probability.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Negative Binomial Distribution",
+          "conceptId": "mathematics.probability.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hypergeometric Distribution",
+          "conceptId": "mathematics.probability.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Poisson Distribution",
+          "conceptId": "mathematics.probability.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Continuous Probability Distributions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Uniform Distribution",
+          "conceptId": "mathematics.probability.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Normal Distribution",
+          "conceptId": "mathematics.probability.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Exponential Distribution",
+          "conceptId": "mathematics.probability.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gamma Distribution",
+          "conceptId": "mathematics.probability.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Beta Distribution",
+          "conceptId": "mathematics.probability.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chi-Square Distribution",
+          "conceptId": "mathematics.probability.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Joint Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Joint Distributions",
+          "conceptId": "mathematics.probability.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Marginal Distributions",
+          "conceptId": "mathematics.probability.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conditional Distributions",
+          "conceptId": "mathematics.probability.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Covariance",
+          "conceptId": "mathematics.probability.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Correlation",
+          "conceptId": "mathematics.probability.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Multiple Random Variables",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Independence",
+          "conceptId": "mathematics.probability.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functions of Random Variables",
+          "conceptId": "mathematics.probability.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conditional Expectation",
+          "conceptId": "mathematics.probability.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Law of Large Numbers",
+          "conceptId": "mathematics.probability.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Central Limit Theorem",
+          "conceptId": "mathematics.probability.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Stochastic Processes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Markov Chains",
+          "conceptId": "mathematics.probability.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Random Walks",
+          "conceptId": "mathematics.probability.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Poisson Process",
+          "conceptId": "mathematics.probability.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Birth-Death Process",
+          "conceptId": "mathematics.probability.chapter-10.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Simulation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monte Carlo Simulation",
+          "conceptId": "mathematics.probability.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Random Number Generation",
+          "conceptId": "mathematics.probability.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sampling Methods",
+          "conceptId": "mathematics.probability.chapter-11.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Bayesian Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bayesian Inference",
+          "conceptId": "mathematics.probability.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Prior Distribution",
+          "conceptId": "mathematics.probability.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Posterior Distribution",
+          "conceptId": "mathematics.probability.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Likelihood",
+          "conceptId": "mathematics.probability.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bayesian Updating",
+          "conceptId": "mathematics.probability.chapter-12.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reliability",
+          "conceptId": "mathematics.probability.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Risk Analysis",
+          "conceptId": "mathematics.probability.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Finance",
+          "conceptId": "mathematics.probability.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Machine Learning",
+          "conceptId": "mathematics.probability.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Intelligence",
+          "conceptId": "mathematics.probability.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Queueing Systems",
+          "conceptId": "mathematics.probability.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Information Theory",
+          "conceptId": "mathematics.probability.chapter-13.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Probability Models",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Decision Trees",
+          "conceptId": "mathematics.probability.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conditional Independence",
+          "conceptId": "mathematics.probability.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hidden Markov Models (Introduction)",
+          "conceptId": "mathematics.probability.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bayesian Networks (Introduction)",
+          "conceptId": "mathematics.probability.chapter-14.topic-04"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "probability"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-10.topic-03",
+  "name": "Reporting",
+  "subject": "computer-science",
+  "definition": "Reporting is a fundamental concept in computer-science.",
+  "explanation": "Learn about Reporting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "reporting"
+  ]
+}

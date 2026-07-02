@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Polymer Properties",
+  "description": "Polymer Properties",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mechanical Properties",
+      "conceptId": "chemistry.polymers.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Thermal Properties",
+      "conceptId": "chemistry.polymers.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electrical Properties",
+      "conceptId": "chemistry.polymers.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Optical Properties",
+      "conceptId": "chemistry.polymers.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Chemical Resistance",
+      "conceptId": "chemistry.polymers.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Glass Transition Temperature (Tg)",
+      "conceptId": "chemistry.polymers.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Melting Temperature (Tm)",
+      "conceptId": "chemistry.polymers.chapter-06.topic-07"
+    }
+  ]
+}

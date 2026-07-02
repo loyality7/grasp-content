@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-01.topic-04",
+  "name": "Mutual Best Responses",
+  "subject": "game-theory",
+  "definition": "Mutual Best Responses is a fundamental concept in game-theory.",
+  "explanation": "Learn about Mutual Best Responses and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "mutual-best-responses"
+  ]
+}

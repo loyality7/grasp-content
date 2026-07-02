@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Optimal Taxation",
+      "conceptId": "economics.public-economics.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Behavioral Public Economics",
+      "conceptId": "economics.public-economics.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Universal Basic Income (UBI)",
+      "conceptId": "economics.public-economics.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Carbon Pricing",
+      "conceptId": "economics.public-economics.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Public-Private Partnerships (PPP)",
+      "conceptId": "economics.public-economics.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Public Finance",
+      "conceptId": "economics.public-economics.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 9: Monetary Economics**",
+      "conceptId": "economics.public-economics.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Money",
+      "conceptId": "economics.public-economics.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Banking",
+      "conceptId": "economics.public-economics.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Financial System",
+      "conceptId": "economics.public-economics.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Central Banking",
+      "conceptId": "economics.public-economics.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Money Supply",
+      "conceptId": "economics.public-economics.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Interest Rates",
+      "conceptId": "economics.public-economics.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Inflation",
+      "conceptId": "economics.public-economics.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Monetary Policy",
+      "conceptId": "economics.public-economics.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Financial Stability",
+      "conceptId": "economics.public-economics.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Digital Currencies",
+      "conceptId": "economics.public-economics.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Cryptocurrency",
+      "conceptId": "economics.public-economics.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Central Bank Digital Currencies (CBDCs)",
+      "conceptId": "economics.public-economics.chapter-13.topic-19"
+    }
+  ]
+}

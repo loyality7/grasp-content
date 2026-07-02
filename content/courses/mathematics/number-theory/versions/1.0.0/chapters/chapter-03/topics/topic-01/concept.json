@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-03.topic-01",
+  "name": "Congruence",
+  "subject": "mathematics",
+  "definition": "Congruence is a fundamental concept in mathematics.",
+  "explanation": "Learn about Congruence and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "congruence"
+  ]
+}

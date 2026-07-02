@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-19.topic-01",
+  "name": "Capacitors",
+  "subject": "physics",
+  "definition": "Capacitors is a fundamental concept in physics.",
+  "explanation": "Learn about Capacitors and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "capacitors"
+  ]
+}

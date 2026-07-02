@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-09.topic-02",
+  "name": "Instrumental Variables",
+  "subject": "economics",
+  "definition": "Instrumental Variables is a fundamental concept in economics.",
+  "explanation": "Learn about Instrumental Variables and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "instrumental-variables"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-13.topic-12",
+  "name": "Queues",
+  "subject": "computer-science",
+  "definition": "Queues is a fundamental concept in computer-science.",
+  "explanation": "Learn about Queues and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "queues"
+  ]
+}

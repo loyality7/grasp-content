@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Visual Arts",
+  "description": "Visual Arts",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Painting",
+      "conceptId": "philosophy.aesthetics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sculpture",
+      "conceptId": "philosophy.aesthetics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Photography",
+      "conceptId": "philosophy.aesthetics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Design",
+      "conceptId": "philosophy.aesthetics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Color Theory",
+      "conceptId": "philosophy.aesthetics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Visual Composition",
+      "conceptId": "philosophy.aesthetics.chapter-08.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Economic Thinking",
+  "description": "Economic Thinking",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Incentives",
+      "conceptId": "economics.economics-foundations.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Marginal Analysis",
+      "conceptId": "economics.economics-foundations.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cost-Benefit Analysis",
+      "conceptId": "economics.economics-foundations.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Positive Economics",
+      "conceptId": "economics.economics-foundations.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Normative Economics",
+      "conceptId": "economics.economics-foundations.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Economic Models",
+      "conceptId": "economics.economics-foundations.chapter-11.topic-06"
+    }
+  ]
+}

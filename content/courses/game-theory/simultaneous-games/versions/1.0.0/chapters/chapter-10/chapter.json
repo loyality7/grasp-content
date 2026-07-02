@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Information in Simultaneous Games",
+  "description": "Information in Simultaneous Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Complete Information",
+      "conceptId": "game-theory.simultaneous-games.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Incomplete Information",
+      "conceptId": "game-theory.simultaneous-games.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Information Asymmetry",
+      "conceptId": "game-theory.simultaneous-games.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Beliefs",
+      "conceptId": "game-theory.simultaneous-games.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hidden Information",
+      "conceptId": "game-theory.simultaneous-games.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Uncertainty",
+      "conceptId": "game-theory.simultaneous-games.chapter-10.topic-06"
+    }
+  ]
+}

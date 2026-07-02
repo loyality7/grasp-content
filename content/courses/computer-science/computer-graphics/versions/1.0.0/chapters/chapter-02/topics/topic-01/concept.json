@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-graphics.chapter-02.topic-01",
+  "name": "Points",
+  "subject": "computer-science",
+  "definition": "Points is a fundamental concept in computer-science.",
+  "explanation": "Learn about Points and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "points"
+  ]
+}

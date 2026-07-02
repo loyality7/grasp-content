@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-08.topic-03",
+  "name": "X-Ray Photoelectron Spectroscopy (XPS)",
+  "subject": "chemistry",
+  "definition": "X-Ray Photoelectron Spectroscopy (XPS) is a fundamental concept in chemistry.",
+  "explanation": "Learn about X-Ray Photoelectron Spectroscopy (XPS) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "x-ray-photoelectron-spectroscopy-xps"
+  ]
+}

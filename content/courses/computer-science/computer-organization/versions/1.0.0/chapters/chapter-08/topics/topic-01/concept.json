@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-08.topic-01",
+  "name": "Signed & Unsigned Numbers",
+  "subject": "computer-science",
+  "definition": "Signed & Unsigned Numbers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Signed & Unsigned Numbers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "signed-unsigned-numbers"
+  ]
+}

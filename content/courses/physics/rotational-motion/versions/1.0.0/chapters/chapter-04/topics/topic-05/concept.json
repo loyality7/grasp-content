@@ -1,0 +1,20 @@
+{
+  "id": "physics.rotational-motion.chapter-04.topic-05",
+  "name": "Standard Moments of Inertia",
+  "subject": "physics",
+  "definition": "Standard Moments of Inertia is a fundamental concept in physics.",
+  "explanation": "Learn about Standard Moments of Inertia and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "standard-moments-of-inertia"
+  ]
+}

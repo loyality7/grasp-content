@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-10.topic-02",
+  "name": "Random Walks",
+  "subject": "mathematics",
+  "definition": "Random Walks is a fundamental concept in mathematics.",
+  "explanation": "Learn about Random Walks and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "random-walks"
+  ]
+}

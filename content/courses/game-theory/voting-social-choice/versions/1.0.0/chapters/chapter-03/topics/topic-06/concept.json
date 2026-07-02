@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-03.topic-06",
+  "name": "Condorcet Method",
+  "subject": "game-theory",
+  "definition": "Condorcet Method is a fundamental concept in game-theory.",
+  "explanation": "Learn about Condorcet Method and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "condorcet-method"
+  ]
+}

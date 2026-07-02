@@ -1,0 +1,621 @@
+{
+  "id": "human-physiology",
+  "name": "Human Physiology",
+  "description": "Human Physiology",
+  "version": "1.0.0",
+  "domain": "biology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Physiology?",
+          "conceptId": "biology.human-physiology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Homeostasis",
+          "conceptId": "biology.human-physiology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Internal Environment",
+          "conceptId": "biology.human-physiology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Feedback Mechanisms",
+          "conceptId": "biology.human-physiology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Negative Feedback",
+          "conceptId": "biology.human-physiology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Positive Feedback",
+          "conceptId": "biology.human-physiology.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Integration of Organ Systems",
+          "conceptId": "biology.human-physiology.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Nervous System Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neuron Function",
+          "conceptId": "biology.human-physiology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Resting Membrane Potential",
+          "conceptId": "biology.human-physiology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Action Potential",
+          "conceptId": "biology.human-physiology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Synaptic Transmission",
+          "conceptId": "biology.human-physiology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Neurotransmitters",
+          "conceptId": "biology.human-physiology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reflex Arc",
+          "conceptId": "biology.human-physiology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Autonomic Nervous System",
+          "conceptId": "biology.human-physiology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Muscle Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Muscle Contraction",
+          "conceptId": "biology.human-physiology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sarcomere",
+          "conceptId": "biology.human-physiology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sliding Filament Theory",
+          "conceptId": "biology.human-physiology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Excitation-Contraction Coupling",
+          "conceptId": "biology.human-physiology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "ATP in Muscle",
+          "conceptId": "biology.human-physiology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Muscle Fatigue",
+          "conceptId": "biology.human-physiology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Smooth & Cardiac Muscle Function",
+          "conceptId": "biology.human-physiology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Cardiovascular Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cardiac Cycle",
+          "conceptId": "biology.human-physiology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrical Conduction of the Heart",
+          "conceptId": "biology.human-physiology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Blood Pressure",
+          "conceptId": "biology.human-physiology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cardiac Output",
+          "conceptId": "biology.human-physiology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Blood Flow",
+          "conceptId": "biology.human-physiology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regulation of Circulation",
+          "conceptId": "biology.human-physiology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Microcirculation",
+          "conceptId": "biology.human-physiology.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Respiratory Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mechanics of Breathing",
+          "conceptId": "biology.human-physiology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lung Volumes",
+          "conceptId": "biology.human-physiology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gas Exchange",
+          "conceptId": "biology.human-physiology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Oxygen Transport",
+          "conceptId": "biology.human-physiology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Dioxide Transport",
+          "conceptId": "biology.human-physiology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regulation of Respiration",
+          "conceptId": "biology.human-physiology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Acid-Base Balance",
+          "conceptId": "biology.human-physiology.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Digestive Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Digestion",
+          "conceptId": "biology.human-physiology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gastrointestinal Motility",
+          "conceptId": "biology.human-physiology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Enzyme Secretion",
+          "conceptId": "biology.human-physiology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nutrient Absorption",
+          "conceptId": "biology.human-physiology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Liver Function",
+          "conceptId": "biology.human-physiology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pancreatic Function",
+          "conceptId": "biology.human-physiology.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Gut Microbiome (Introduction)",
+          "conceptId": "biology.human-physiology.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Renal Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Kidney Function",
+          "conceptId": "biology.human-physiology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Glomerular Filtration",
+          "conceptId": "biology.human-physiology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tubular Reabsorption",
+          "conceptId": "biology.human-physiology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tubular Secretion",
+          "conceptId": "biology.human-physiology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Urine Formation",
+          "conceptId": "biology.human-physiology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Water Balance",
+          "conceptId": "biology.human-physiology.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Electrolyte Balance",
+          "conceptId": "biology.human-physiology.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Endocrine Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hormones",
+          "conceptId": "biology.human-physiology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Endocrine Glands",
+          "conceptId": "biology.human-physiology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hormone Receptors",
+          "conceptId": "biology.human-physiology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hypothalamus",
+          "conceptId": "biology.human-physiology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pituitary Gland",
+          "conceptId": "biology.human-physiology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thyroid Hormones",
+          "conceptId": "biology.human-physiology.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Insulin & Glucagon",
+          "conceptId": "biology.human-physiology.chapter-08.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Adrenal Hormones",
+          "conceptId": "biology.human-physiology.chapter-08.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Reproductive Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Male Reproductive Function",
+          "conceptId": "biology.human-physiology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Female Reproductive Function",
+          "conceptId": "biology.human-physiology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gametogenesis",
+          "conceptId": "biology.human-physiology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Menstrual Cycle",
+          "conceptId": "biology.human-physiology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fertilization",
+          "conceptId": "biology.human-physiology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pregnancy",
+          "conceptId": "biology.human-physiology.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Lactation",
+          "conceptId": "biology.human-physiology.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Immune & Lymphatic Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Innate Immunity",
+          "conceptId": "biology.human-physiology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adaptive Immunity",
+          "conceptId": "biology.human-physiology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Antibodies",
+          "conceptId": "biology.human-physiology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "T Cells",
+          "conceptId": "biology.human-physiology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "B Cells",
+          "conceptId": "biology.human-physiology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Inflammation",
+          "conceptId": "biology.human-physiology.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Immune Memory",
+          "conceptId": "biology.human-physiology.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Blood Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Composition of Blood",
+          "conceptId": "biology.human-physiology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Red Blood Cells",
+          "conceptId": "biology.human-physiology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "White Blood Cells",
+          "conceptId": "biology.human-physiology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Platelets",
+          "conceptId": "biology.human-physiology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Blood Clotting",
+          "conceptId": "biology.human-physiology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hemostasis",
+          "conceptId": "biology.human-physiology.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Blood Groups",
+          "conceptId": "biology.human-physiology.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Exercise & Environmental Physiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Exercise Physiology",
+          "conceptId": "biology.human-physiology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Systems",
+          "conceptId": "biology.human-physiology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Thermoregulation",
+          "conceptId": "biology.human-physiology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fluid Balance",
+          "conceptId": "biology.human-physiology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "High-Altitude Physiology",
+          "conceptId": "biology.human-physiology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stress Physiology",
+          "conceptId": "biology.human-physiology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Aging",
+          "conceptId": "biology.human-physiology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Clinical Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cardiovascular Disease",
+          "conceptId": "biology.human-physiology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diabetes",
+          "conceptId": "biology.human-physiology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hypertension",
+          "conceptId": "biology.human-physiology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Respiratory Disorders",
+          "conceptId": "biology.human-physiology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Kidney Disease",
+          "conceptId": "biology.human-physiology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hormonal Disorders",
+          "conceptId": "biology.human-physiology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Integrated Physiology in Medicine",
+          "conceptId": "biology.human-physiology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 8: Microbiology**",
+          "conceptId": "biology.human-physiology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Introduction to Microbiology",
+          "conceptId": "biology.human-physiology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Bacteria",
+          "conceptId": "biology.human-physiology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Archaea",
+          "conceptId": "biology.human-physiology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Viruses",
+          "conceptId": "biology.human-physiology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Fungi",
+          "conceptId": "biology.human-physiology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Protozoa",
+          "conceptId": "biology.human-physiology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Parasites",
+          "conceptId": "biology.human-physiology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Microbial Growth",
+          "conceptId": "biology.human-physiology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Microbial Genetics",
+          "conceptId": "biology.human-physiology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Antimicrobial Drugs",
+          "conceptId": "biology.human-physiology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Medical Microbiology",
+          "conceptId": "biology.human-physiology.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Industrial & Environmental Microbiology",
+          "conceptId": "biology.human-physiology.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "biology",
+      "human-physiology"
+    ]
+  }
+}

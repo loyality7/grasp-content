@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Intertemporal Choice",
+  "description": "Intertemporal Choice",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Present vs Future Consumption",
+      "conceptId": "economics.consumer-theory.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Saving",
+      "conceptId": "economics.consumer-theory.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Borrowing",
+      "conceptId": "economics.consumer-theory.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interest Rates",
+      "conceptId": "economics.consumer-theory.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Time Preference",
+      "conceptId": "economics.consumer-theory.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Lifetime Consumption",
+      "conceptId": "economics.consumer-theory.chapter-09.topic-06"
+    }
+  ]
+}

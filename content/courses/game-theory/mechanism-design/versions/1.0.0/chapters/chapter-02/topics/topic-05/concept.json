@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-02.topic-05",
+  "name": "Individual Rationality",
+  "subject": "game-theory",
+  "definition": "Individual Rationality is a fundamental concept in game-theory.",
+  "explanation": "Learn about Individual Rationality and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "individual-rationality"
+  ]
+}

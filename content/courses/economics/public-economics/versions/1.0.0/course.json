@@ -1,0 +1,571 @@
+{
+  "id": "public-economics",
+  "name": "Public Economics",
+  "description": "Public Economics",
+  "version": "1.0.0",
+  "domain": "economics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Public Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Public Economics?",
+          "conceptId": "economics.public-economics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Role of Government",
+          "conceptId": "economics.public-economics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Market Economy vs Government",
+          "conceptId": "economics.public-economics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Public Sector",
+          "conceptId": "economics.public-economics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Economic Efficiency",
+          "conceptId": "economics.public-economics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Equity",
+          "conceptId": "economics.public-economics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Public Goods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Public Goods",
+          "conceptId": "economics.public-economics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Private Goods",
+          "conceptId": "economics.public-economics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Common Resources",
+          "conceptId": "economics.public-economics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Club Goods",
+          "conceptId": "economics.public-economics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Free Rider Problem",
+          "conceptId": "economics.public-economics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Provision of Public Goods",
+          "conceptId": "economics.public-economics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Externalities",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Positive Externalities",
+          "conceptId": "economics.public-economics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Negative Externalities",
+          "conceptId": "economics.public-economics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Costs",
+          "conceptId": "economics.public-economics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Social Benefits",
+          "conceptId": "economics.public-economics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pigouvian Taxes",
+          "conceptId": "economics.public-economics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Subsidies",
+          "conceptId": "economics.public-economics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Coase Theorem",
+          "conceptId": "economics.public-economics.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Taxation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Principles of Taxation",
+          "conceptId": "economics.public-economics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Direct Taxes",
+          "conceptId": "economics.public-economics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Indirect Taxes",
+          "conceptId": "economics.public-economics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Progressive Taxation",
+          "conceptId": "economics.public-economics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Regressive Taxation",
+          "conceptId": "economics.public-economics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tax Incidence",
+          "conceptId": "economics.public-economics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Tax Efficiency",
+          "conceptId": "economics.public-economics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Government Expenditure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Public Spending",
+          "conceptId": "economics.public-economics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Education",
+          "conceptId": "economics.public-economics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Healthcare",
+          "conceptId": "economics.public-economics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Infrastructure",
+          "conceptId": "economics.public-economics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Defense",
+          "conceptId": "economics.public-economics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Social Welfare Programs",
+          "conceptId": "economics.public-economics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Public Investment",
+          "conceptId": "economics.public-economics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Budget & Public Debt",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Government Budget",
+          "conceptId": "economics.public-economics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Budget Deficit",
+          "conceptId": "economics.public-economics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Budget Surplus",
+          "conceptId": "economics.public-economics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Public Debt",
+          "conceptId": "economics.public-economics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Debt Sustainability",
+          "conceptId": "economics.public-economics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fiscal Responsibility",
+          "conceptId": "economics.public-economics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Fiscal Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Expansionary Fiscal Policy",
+          "conceptId": "economics.public-economics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Contractionary Fiscal Policy",
+          "conceptId": "economics.public-economics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Automatic Stabilizers",
+          "conceptId": "economics.public-economics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fiscal Multipliers",
+          "conceptId": "economics.public-economics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Countercyclical Policy",
+          "conceptId": "economics.public-economics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Policy Effectiveness",
+          "conceptId": "economics.public-economics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Income Redistribution",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Income Inequality",
+          "conceptId": "economics.public-economics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wealth Inequality",
+          "conceptId": "economics.public-economics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Poverty",
+          "conceptId": "economics.public-economics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Social Insurance",
+          "conceptId": "economics.public-economics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Safety Nets",
+          "conceptId": "economics.public-economics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Redistribution Policies",
+          "conceptId": "economics.public-economics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Cost-Benefit Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Costs",
+          "conceptId": "economics.public-economics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Benefits",
+          "conceptId": "economics.public-economics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Discounting",
+          "conceptId": "economics.public-economics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Net Present Value (NPV)",
+          "conceptId": "economics.public-economics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Public Project Evaluation",
+          "conceptId": "economics.public-economics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decision Making",
+          "conceptId": "economics.public-economics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Public Choice Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Public Choice",
+          "conceptId": "economics.public-economics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Voting Systems",
+          "conceptId": "economics.public-economics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Median Voter Theorem",
+          "conceptId": "economics.public-economics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interest Groups",
+          "conceptId": "economics.public-economics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bureaucracy",
+          "conceptId": "economics.public-economics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Government Failure",
+          "conceptId": "economics.public-economics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Fiscal Federalism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Central Government",
+          "conceptId": "economics.public-economics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "State & Local Government",
+          "conceptId": "economics.public-economics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Revenue Sharing",
+          "conceptId": "economics.public-economics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Grants",
+          "conceptId": "economics.public-economics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fiscal Decentralization",
+          "conceptId": "economics.public-economics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Intergovernmental Relations",
+          "conceptId": "economics.public-economics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Healthcare Policy",
+          "conceptId": "economics.public-economics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Education Policy",
+          "conceptId": "economics.public-economics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environmental Policy",
+          "conceptId": "economics.public-economics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Infrastructure Planning",
+          "conceptId": "economics.public-economics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Urban Development",
+          "conceptId": "economics.public-economics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Climate Policy",
+          "conceptId": "economics.public-economics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Digital Public Services",
+          "conceptId": "economics.public-economics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Optimal Taxation",
+          "conceptId": "economics.public-economics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Behavioral Public Economics",
+          "conceptId": "economics.public-economics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Universal Basic Income (UBI)",
+          "conceptId": "economics.public-economics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carbon Pricing",
+          "conceptId": "economics.public-economics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Public-Private Partnerships (PPP)",
+          "conceptId": "economics.public-economics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Public Finance",
+          "conceptId": "economics.public-economics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 9: Monetary Economics**",
+          "conceptId": "economics.public-economics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Money",
+          "conceptId": "economics.public-economics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Banking",
+          "conceptId": "economics.public-economics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Financial System",
+          "conceptId": "economics.public-economics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Central Banking",
+          "conceptId": "economics.public-economics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Money Supply",
+          "conceptId": "economics.public-economics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Interest Rates",
+          "conceptId": "economics.public-economics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Inflation",
+          "conceptId": "economics.public-economics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Monetary Policy",
+          "conceptId": "economics.public-economics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Financial Stability",
+          "conceptId": "economics.public-economics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Digital Currencies",
+          "conceptId": "economics.public-economics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Cryptocurrency",
+          "conceptId": "economics.public-economics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Central Bank Digital Currencies (CBDCs)",
+          "conceptId": "economics.public-economics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "economics",
+      "public-economics"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-18",
+  "name": "Network Theorems",
+  "description": "Network Theorems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Superposition Theorem",
+      "conceptId": "physics.electromagnetism.chapter-18.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Thévenin's Theorem",
+      "conceptId": "physics.electromagnetism.chapter-18.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Norton's Theorem",
+      "conceptId": "physics.electromagnetism.chapter-18.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Maximum Power Transfer Theorem",
+      "conceptId": "physics.electromagnetism.chapter-18.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Source Transformation",
+      "conceptId": "physics.electromagnetism.chapter-18.topic-05"
+    }
+  ]
+}

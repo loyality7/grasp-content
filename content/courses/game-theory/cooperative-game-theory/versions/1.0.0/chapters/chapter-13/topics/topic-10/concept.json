@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-13.topic-10",
+  "name": "English Auctions",
+  "subject": "game-theory",
+  "definition": "English Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about English Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "english-auctions"
+  ]
+}

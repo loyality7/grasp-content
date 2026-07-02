@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-07.topic-01",
+  "name": "Cloud Security Models",
+  "subject": "computer-science",
+  "definition": "Cloud Security Models is a fundamental concept in computer-science.",
+  "explanation": "Learn about Cloud Security Models and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "cloud-security-models"
+  ]
+}

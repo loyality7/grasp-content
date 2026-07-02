@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Operating Systems",
+  "description": "Introduction to Operating Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is an Operating System?",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Functions of an Operating System",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Types of Operating Systems",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "System Calls",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Kernel",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "User Space vs Kernel Space",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "OS Architecture",
+      "conceptId": "computer-science.operating-systems.chapter-01.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-12.topic-02",
+  "name": "Machine Learning",
+  "subject": "computer-science",
+  "definition": "Machine Learning is a fundamental concept in computer-science.",
+  "explanation": "Learn about Machine Learning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "machine-learning"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-11",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Business Alliances",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Joint Ventures",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "International Organizations",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Environmental Agreements",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Multi-Robot Systems",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Open Source Communities",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Blockchain Governance",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-11.topic-07"
+    }
+  ]
+}

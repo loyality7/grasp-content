@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-08.topic-02",
+  "name": "SQL Databases",
+  "subject": "computer-science",
+  "definition": "SQL Databases is a fundamental concept in computer-science.",
+  "explanation": "Learn about SQL Databases and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "sql-databases"
+  ]
+}

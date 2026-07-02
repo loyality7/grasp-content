@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.real-analysis.chapter-08.topic-05",
+  "name": "Fundamental Theorem of Calculus",
+  "subject": "mathematics",
+  "definition": "Fundamental Theorem of Calculus is a fundamental concept in mathematics.",
+  "explanation": "Learn about Fundamental Theorem of Calculus and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "fundamental-theorem-of-calculus"
+  ]
+}

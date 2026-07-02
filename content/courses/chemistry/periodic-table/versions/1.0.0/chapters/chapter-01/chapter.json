@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Development of the Periodic Table",
+  "description": "Development of the Periodic Table",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "History of the Periodic Table",
+      "conceptId": "chemistry.periodic-table.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dobereiner's Triads",
+      "conceptId": "chemistry.periodic-table.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Newlands' Law of Octaves",
+      "conceptId": "chemistry.periodic-table.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mendeleev's Periodic Table",
+      "conceptId": "chemistry.periodic-table.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Moseley's Atomic Number",
+      "conceptId": "chemistry.periodic-table.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Modern Periodic Law",
+      "conceptId": "chemistry.periodic-table.chapter-01.topic-06"
+    }
+  ]
+}

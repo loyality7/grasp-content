@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Black Holes",
+  "description": "Black Holes",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Schwarzschild Black Hole",
+      "conceptId": "physics.relativity.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Event Horizon",
+      "conceptId": "physics.relativity.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Escape Velocity",
+      "conceptId": "physics.relativity.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Singularity",
+      "conceptId": "physics.relativity.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Accretion Disk",
+      "conceptId": "physics.relativity.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hawking Radiation (Introduction)",
+      "conceptId": "physics.relativity.chapter-08.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-09.topic-10",
+  "name": "Euler Paths",
+  "subject": "mathematics",
+  "definition": "Euler Paths is a fundamental concept in mathematics.",
+  "explanation": "Learn about Euler Paths and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "euler-paths"
+  ]
+}

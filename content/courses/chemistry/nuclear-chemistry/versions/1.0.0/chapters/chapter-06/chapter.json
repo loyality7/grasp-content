@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Nuclear Fusion",
+  "description": "Nuclear Fusion",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nuclear Fusion",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fusion Reactions",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Stellar Fusion",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Deuterium-Tritium Fusion",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fusion Energy",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Controlled Fusion",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-06"
+    }
+  ]
+}

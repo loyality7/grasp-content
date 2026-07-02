@@ -1,0 +1,42 @@
+{
+  "id": "chapter-13",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Enterprise Security",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Financial Systems",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Healthcare Security",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Government Systems",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "IoT Security",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Mobile Security",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "AI Security",
+      "conceptId": "computer-science.cybersecurity.chapter-13.topic-07"
+    }
+  ]
+}

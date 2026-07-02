@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-14.topic-01",
+  "name": "Sample Space",
+  "subject": "mathematics",
+  "definition": "Sample Space is a fundamental concept in mathematics.",
+  "explanation": "Learn about Sample Space and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "sample-space"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-12.topic-04",
+  "name": "Multi-Agent Cooperation",
+  "subject": "game-theory",
+  "definition": "Multi-Agent Cooperation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multi-Agent Cooperation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multi-agent-cooperation"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Convergence Tests",
+  "description": "Convergence Tests",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Integral Test",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Comparison Test",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Limit Comparison Test",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ratio Test",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Root Test",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Alternating Series Test",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Absolute vs Conditional Convergence",
+      "conceptId": "mathematics.calculus-ii.chapter-06.topic-07"
+    }
+  ]
+}

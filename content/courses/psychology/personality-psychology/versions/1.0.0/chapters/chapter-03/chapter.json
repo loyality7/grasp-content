@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Psychodynamic Perspectives",
+  "description": "Psychodynamic Perspectives",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sigmund Freud's Theory",
+      "conceptId": "psychology.personality-psychology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Conscious Mind",
+      "conceptId": "psychology.personality-psychology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Unconscious Mind",
+      "conceptId": "psychology.personality-psychology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Id, Ego & Superego",
+      "conceptId": "psychology.personality-psychology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Defense Mechanisms",
+      "conceptId": "psychology.personality-psychology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Neo-Freudian Theories",
+      "conceptId": "psychology.personality-psychology.chapter-03.topic-06"
+    }
+  ]
+}

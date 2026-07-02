@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-13.topic-14",
+  "name": "Lighting & Shading",
+  "subject": "computer-science",
+  "definition": "Lighting & Shading is a fundamental concept in computer-science.",
+  "explanation": "Learn about Lighting & Shading and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "lighting-shading"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Fair Division",
+  "description": "Fair Division",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fair Division",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Envy-Free Allocation",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Proportional Allocation",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equitable Allocation",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cake-Cutting Problems",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Resource Allocation",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-07.topic-06"
+    }
+  ]
+}

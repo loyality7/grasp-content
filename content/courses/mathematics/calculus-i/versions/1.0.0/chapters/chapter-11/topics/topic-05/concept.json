@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-i.chapter-11.topic-05",
+  "name": "Simpson's Rule",
+  "subject": "mathematics",
+  "definition": "Simpson's Rule is a fundamental concept in mathematics.",
+  "explanation": "Learn about Simpson's Rule and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "simpsons-rule"
+  ]
+}

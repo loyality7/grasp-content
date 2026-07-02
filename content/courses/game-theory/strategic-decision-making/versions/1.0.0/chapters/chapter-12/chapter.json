@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Business Strategy",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pricing Decisions",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Career Decisions",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Investment Decisions",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sports Strategy",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "International Relations",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Product Competition",
+      "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-07"
+    }
+  ]
+}

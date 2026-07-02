@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Computational Spectroscopy",
+  "description": "Computational Spectroscopy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "IR Spectrum Prediction",
+      "conceptId": "chemistry.computational-chemistry.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Raman Spectrum Prediction",
+      "conceptId": "chemistry.computational-chemistry.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "UV-Visible Spectrum Prediction",
+      "conceptId": "chemistry.computational-chemistry.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "NMR Prediction",
+      "conceptId": "chemistry.computational-chemistry.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Vibrational Analysis",
+      "conceptId": "chemistry.computational-chemistry.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Spectral Assignment",
+      "conceptId": "chemistry.computational-chemistry.chapter-09.topic-06"
+    }
+  ]
+}

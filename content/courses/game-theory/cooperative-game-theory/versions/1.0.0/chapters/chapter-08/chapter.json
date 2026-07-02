@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Cost Sharing",
+  "description": "Cost Sharing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Shared Costs",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cost Allocation",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Joint Projects",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Infrastructure Sharing",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cooperative Investments",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cost Recovery Methods",
+      "conceptId": "game-theory.cooperative-game-theory.chapter-08.topic-06"
+    }
+  ]
+}

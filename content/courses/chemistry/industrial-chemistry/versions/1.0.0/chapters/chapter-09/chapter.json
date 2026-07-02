@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Food & Consumer Products",
+  "description": "Food & Consumer Products",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Food Processing",
+      "conceptId": "chemistry.industrial-chemistry.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Food Additives",
+      "conceptId": "chemistry.industrial-chemistry.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Preservatives",
+      "conceptId": "chemistry.industrial-chemistry.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Flavoring Agents",
+      "conceptId": "chemistry.industrial-chemistry.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cosmetics",
+      "conceptId": "chemistry.industrial-chemistry.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Soaps & Detergents",
+      "conceptId": "chemistry.industrial-chemistry.chapter-09.topic-06"
+    }
+  ]
+}

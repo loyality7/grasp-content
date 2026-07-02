@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Bacteria",
+  "description": "Bacteria",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bacterial Cell Structure",
+      "conceptId": "biology.microbiology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Shapes of Bacteria",
+      "conceptId": "biology.microbiology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Gram-Positive Bacteria",
+      "conceptId": "biology.microbiology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Gram-Negative Bacteria",
+      "conceptId": "biology.microbiology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bacterial Classification",
+      "conceptId": "biology.microbiology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bacterial Reproduction",
+      "conceptId": "biology.microbiology.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Endospores",
+      "conceptId": "biology.microbiology.chapter-02.topic-07"
+    }
+  ]
+}

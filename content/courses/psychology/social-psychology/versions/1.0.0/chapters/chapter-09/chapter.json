@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Aggression",
+  "description": "Aggression",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Aggression",
+      "conceptId": "psychology.social-psychology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Violence",
+      "conceptId": "psychology.social-psychology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Frustration-Aggression Theory",
+      "conceptId": "psychology.social-psychology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Social Learning of Aggression",
+      "conceptId": "psychology.social-psychology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Media Effects",
+      "conceptId": "psychology.social-psychology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Aggression Prevention",
+      "conceptId": "psychology.social-psychology.chapter-09.topic-06"
+    }
+  ]
+}

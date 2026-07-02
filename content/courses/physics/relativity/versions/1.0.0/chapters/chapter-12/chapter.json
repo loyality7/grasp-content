@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "GPS Corrections",
+      "conceptId": "physics.relativity.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Satellite Navigation",
+      "conceptId": "physics.relativity.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Black Hole Astrophysics",
+      "conceptId": "physics.relativity.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Gravitational Wave Astronomy",
+      "conceptId": "physics.relativity.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cosmology",
+      "conceptId": "physics.relativity.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "High-Energy Physics",
+      "conceptId": "physics.relativity.chapter-12.topic-06"
+    }
+  ]
+}

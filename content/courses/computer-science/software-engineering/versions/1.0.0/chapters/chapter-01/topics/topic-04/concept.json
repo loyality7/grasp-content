@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-01.topic-04",
+  "name": "Software Quality",
+  "subject": "computer-science",
+  "definition": "Software Quality is a fundamental concept in computer-science.",
+  "explanation": "Learn about Software Quality and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "software-quality"
+  ]
+}

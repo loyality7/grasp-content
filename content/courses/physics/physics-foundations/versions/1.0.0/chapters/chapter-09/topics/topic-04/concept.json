@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-09.topic-04",
+  "name": "Order of Magnitude",
+  "subject": "physics",
+  "definition": "Order of Magnitude is a fundamental concept in physics.",
+  "explanation": "Learn about Order of Magnitude and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "order-of-magnitude"
+  ]
+}

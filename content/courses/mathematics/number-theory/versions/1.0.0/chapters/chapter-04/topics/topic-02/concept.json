@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-04.topic-02",
+  "name": "Chinese Remainder Theorem",
+  "subject": "mathematics",
+  "definition": "Chinese Remainder Theorem is a fundamental concept in mathematics.",
+  "explanation": "Learn about Chinese Remainder Theorem and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "chinese-remainder-theorem"
+  ]
+}

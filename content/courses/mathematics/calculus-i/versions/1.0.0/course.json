@@ -1,0 +1,445 @@
+{
+  "id": "calculus-i",
+  "name": "Calculus I",
+  "description": "Calculus I",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Limits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Introduction to Limits",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Evaluating Limits",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "One-Sided Limits",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Infinite Limits",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Limits at Infinity",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Limit Laws",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Continuity",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Intermediate Value Theorem",
+          "conceptId": "mathematics.calculus-i.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Derivatives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Definition of Derivative",
+          "conceptId": "mathematics.calculus-i.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Difference Quotient",
+          "conceptId": "mathematics.calculus-i.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tangent Line",
+          "conceptId": "mathematics.calculus-i.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Instantaneous Rate of Change",
+          "conceptId": "mathematics.calculus-i.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Derivative Notation",
+          "conceptId": "mathematics.calculus-i.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Higher-Order Derivatives",
+          "conceptId": "mathematics.calculus-i.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Differentiation Rules",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Constant Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Power Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Constant Multiple Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sum Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Difference Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Product Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Quotient Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Chain Rule",
+          "conceptId": "mathematics.calculus-i.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Derivatives of Common Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Polynomial Functions",
+          "conceptId": "mathematics.calculus-i.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exponential Functions",
+          "conceptId": "mathematics.calculus-i.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Logarithmic Functions",
+          "conceptId": "mathematics.calculus-i.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Trigonometric Functions",
+          "conceptId": "mathematics.calculus-i.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inverse Trigonometric Functions",
+          "conceptId": "mathematics.calculus-i.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hyperbolic Functions (Introduction)",
+          "conceptId": "mathematics.calculus-i.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Implicit Differentiation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Implicit Functions",
+          "conceptId": "mathematics.calculus-i.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Implicit Derivatives",
+          "conceptId": "mathematics.calculus-i.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Related Rates",
+          "conceptId": "mathematics.calculus-i.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Logarithmic Differentiation",
+          "conceptId": "mathematics.calculus-i.chapter-05.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Applications of Derivatives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Critical Points",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Increasing & Decreasing Functions",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "First Derivative Test",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Second Derivative Test",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Concavity",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Inflection Points",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Curve Sketching",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Optimization",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Mean Value Theorem",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Rolle's Theorem",
+          "conceptId": "mathematics.calculus-i.chapter-06.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Antiderivatives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Indefinite Integrals",
+          "conceptId": "mathematics.calculus-i.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Basic Integration Rules",
+          "conceptId": "mathematics.calculus-i.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Initial Value Problems",
+          "conceptId": "mathematics.calculus-i.chapter-07.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Definite Integrals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Riemann Sums",
+          "conceptId": "mathematics.calculus-i.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sigma Notation Review",
+          "conceptId": "mathematics.calculus-i.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Definite Integral",
+          "conceptId": "mathematics.calculus-i.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Properties of Integrals",
+          "conceptId": "mathematics.calculus-i.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Area Under a Curve",
+          "conceptId": "mathematics.calculus-i.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Net Area",
+          "conceptId": "mathematics.calculus-i.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Fundamental Theorem of Calculus",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Part I",
+          "conceptId": "mathematics.calculus-i.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Part II",
+          "conceptId": "mathematics.calculus-i.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Evaluating Definite Integrals",
+          "conceptId": "mathematics.calculus-i.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Accumulation Functions",
+          "conceptId": "mathematics.calculus-i.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications of Integration",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Area Between Curves",
+          "conceptId": "mathematics.calculus-i.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Average Value of a Function",
+          "conceptId": "mathematics.calculus-i.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Motion Along a Line",
+          "conceptId": "mathematics.calculus-i.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Displacement",
+          "conceptId": "mathematics.calculus-i.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distance Traveled",
+          "conceptId": "mathematics.calculus-i.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Numerical Integration",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Left Riemann Sum",
+          "conceptId": "mathematics.calculus-i.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Right Riemann Sum",
+          "conceptId": "mathematics.calculus-i.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Midpoint Rule",
+          "conceptId": "mathematics.calculus-i.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Trapezoidal Rule",
+          "conceptId": "mathematics.calculus-i.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Simpson's Rule",
+          "conceptId": "mathematics.calculus-i.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Differential Equations (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Separable Differential Equations",
+          "conceptId": "mathematics.calculus-i.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exponential Growth & Decay",
+          "conceptId": "mathematics.calculus-i.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Logistic Growth (Introduction)",
+          "conceptId": "mathematics.calculus-i.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "**Limits**",
+          "conceptId": "mathematics.calculus-i.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "**Derivatives**",
+          "conceptId": "mathematics.calculus-i.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "**Basic Integration**",
+          "conceptId": "mathematics.calculus-i.chapter-12.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "calculus-i"
+    ]
+  }
+}

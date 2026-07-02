@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-11.topic-02",
+  "name": "QR Decomposition",
+  "subject": "mathematics",
+  "definition": "QR Decomposition is a fundamental concept in mathematics.",
+  "explanation": "Learn about QR Decomposition and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "qr-decomposition"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Distributed Systems Concepts",
+  "description": "Distributed Systems Concepts",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Distributed Systems",
+      "conceptId": "computer-science.system-design.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "CAP Theorem",
+      "conceptId": "computer-science.system-design.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Consistency Models",
+      "conceptId": "computer-science.system-design.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Consensus (Introduction)",
+      "conceptId": "computer-science.system-design.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Distributed Locks",
+      "conceptId": "computer-science.system-design.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fault Tolerance",
+      "conceptId": "computer-science.system-design.chapter-08.topic-06"
+    }
+  ]
+}

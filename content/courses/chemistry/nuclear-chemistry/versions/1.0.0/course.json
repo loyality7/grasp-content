@@ -1,0 +1,535 @@
+{
+  "id": "nuclear-chemistry",
+  "name": "Nuclear Chemistry",
+  "description": "Nuclear Chemistry",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Nuclear Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Nuclear Chemistry?",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Atomic Nucleus",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nuclear Stability",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nuclear Forces",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "History of Nuclear Chemistry",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Nuclear Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Protons",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Neutrons",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nuclear Binding Energy",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mass Defect",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nuclear Models",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nuclear Stability",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Radioactivity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Radioactive Decay",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Alpha Decay",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Beta Decay",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gamma Decay",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decay Series",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Half-Life",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Decay Constant",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Nuclear Reactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Equations",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nuclear Transmutation",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Induced Radioactivity",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conservation Laws",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Q-Value",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reaction Cross Section",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Nuclear Fission",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Fission",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chain Reactions",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Critical Mass",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nuclear Fuel",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Release",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reactor Fuel Cycle",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Nuclear Fusion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Fusion",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fusion Reactions",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stellar Fusion",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deuterium-Tritium Fusion",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fusion Energy",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Controlled Fusion",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Radiation Detection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Geiger-Müller Counter",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scintillation Detector",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Semiconductor Detector",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cloud Chamber",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bubble Chamber",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dosimetry",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Nuclear Reactors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reactor Components",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Moderators",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coolants",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Control Rods",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reactor Types",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nuclear Safety",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Reactor Operation",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Radioisotopes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Radioisotope Production",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Radioactive Tracers",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Isotope Labeling",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dating Techniques",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon-14 Dating",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Isotopes",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Nuclear Medicine",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "PET Imaging",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "SPECT Imaging",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Radiation Therapy",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Diagnostic Radiopharmaceuticals",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Therapeutic Radiopharmaceuticals",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Medical Safety",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Environmental & Industrial Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Radiation Sterilization",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food Irradiation",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Industrial Radiography",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Monitoring",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nuclear Waste",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Radiation Protection",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Astrophysics",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nuclear Forensics",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Small Modular Reactors (SMRs)",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fusion Reactors (ITER)",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Radioactive Waste Disposal",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Nuclear Technologies",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 24: Industrial Chemistry**",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Chemical Process Industries",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Process Design",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Industrial Catalysis",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Petroleum Refining",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Fertilizers",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Polymers",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Cement",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Glass",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Ceramics",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Pharmaceuticals",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Food Processing",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Green Manufacturing",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Process Safety",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-20"
+        },
+        {
+          "id": "topic-21",
+          "name": "Quality Control",
+          "conceptId": "chemistry.nuclear-chemistry.chapter-12.topic-21"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "nuclear-chemistry"
+    ]
+  }
+}

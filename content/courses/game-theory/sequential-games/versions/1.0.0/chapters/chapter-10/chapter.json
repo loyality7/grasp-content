@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Sequential Decision Models",
+  "description": "Sequential Decision Models",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Investment Decisions",
+      "conceptId": "game-theory.sequential-games.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Product Launches",
+      "conceptId": "game-theory.sequential-games.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Military Strategy",
+      "conceptId": "game-theory.sequential-games.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Political Campaigns",
+      "conceptId": "game-theory.sequential-games.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Litigation",
+      "conceptId": "game-theory.sequential-games.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Planning",
+      "conceptId": "game-theory.sequential-games.chapter-10.topic-06"
+    }
+  ]
+}

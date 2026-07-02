@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Philosophy",
+  "description": "Introduction to Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Philosophy?",
+      "conceptId": "philosophy.philosophy-foundations.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Branches of Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Philosophical Questions",
+      "conceptId": "philosophy.philosophy-foundations.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Methods of Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Critical Thinking",
+      "conceptId": "philosophy.philosophy-foundations.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Why Study Philosophy?",
+      "conceptId": "philosophy.philosophy-foundations.chapter-01.topic-06"
+    }
+  ]
+}

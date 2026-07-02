@@ -1,0 +1,57 @@
+{
+  "id": "chapter-02",
+  "name": "Matrices",
+  "description": "Matrices",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Matrix Basics",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Matrix Types",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Matrix Addition",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Matrix Subtraction",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Scalar Multiplication",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Matrix Multiplication",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Matrix Transpose",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Identity Matrix",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Zero Matrix",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Block Matrices",
+      "conceptId": "mathematics.linear-algebra.chapter-02.topic-10"
+    }
+  ]
+}

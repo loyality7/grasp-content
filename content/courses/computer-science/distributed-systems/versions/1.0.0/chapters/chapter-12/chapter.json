@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Large-Scale System Design",
+  "description": "Large-Scale System Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Search Engines",
+      "conceptId": "computer-science.distributed-systems.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Distributed Caching",
+      "conceptId": "computer-science.distributed-systems.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Social Networks",
+      "conceptId": "computer-science.distributed-systems.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Content Delivery Networks (CDNs)",
+      "conceptId": "computer-science.distributed-systems.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Global Load Balancing",
+      "conceptId": "computer-science.distributed-systems.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Geo-Distributed Systems",
+      "conceptId": "computer-science.distributed-systems.chapter-12.topic-06"
+    }
+  ]
+}

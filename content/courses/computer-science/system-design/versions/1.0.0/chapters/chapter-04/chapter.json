@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Load Balancing",
+  "description": "Load Balancing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Load Balancers",
+      "conceptId": "computer-science.system-design.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Load Balancing Algorithms",
+      "conceptId": "computer-science.system-design.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Reverse Proxies",
+      "conceptId": "computer-science.system-design.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Health Checks",
+      "conceptId": "computer-science.system-design.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Traffic Routing",
+      "conceptId": "computer-science.system-design.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "High Availability",
+      "conceptId": "computer-science.system-design.chapter-04.topic-06"
+    }
+  ]
+}

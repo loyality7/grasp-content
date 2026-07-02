@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Forced Oscillations",
+  "description": "Forced Oscillations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "External Driving Force",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Natural Frequency",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Driving Frequency",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Steady-State Motion",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transient Motion",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-05"
+    }
+  ]
+}

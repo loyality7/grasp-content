@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-10.topic-03",
+  "name": "Treasury Auctions",
+  "subject": "game-theory",
+  "definition": "Treasury Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Treasury Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "treasury-auctions"
+  ]
+}

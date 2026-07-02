@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-09.topic-03",
+  "name": "Superscalar Processors",
+  "subject": "computer-science",
+  "definition": "Superscalar Processors is a fundamental concept in computer-science.",
+  "explanation": "Learn about Superscalar Processors and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "superscalar-processors"
+  ]
+}

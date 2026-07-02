@@ -1,0 +1,480 @@
+{
+  "id": "chemical-kinetics",
+  "name": "Chemical Kinetics",
+  "description": "Chemical Kinetics",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Chemical Kinetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chemical Kinetics",
+          "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reaction Rate",
+          "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Factors Affecting Reaction Rate",
+          "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fast vs Slow Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rate Measurement",
+          "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Rate Laws",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rate Law",
+          "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rate Equation",
+          "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rate Constant",
+          "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Concentration Dependence",
+          "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Experimental Determination of Rate Laws",
+          "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Reaction Order",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Zero-Order Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "First-Order Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Second-Order Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fractional Order Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pseudo-First-Order Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Integrated Rate Laws",
+          "conceptId": "chemistry.chemical-kinetics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Molecularity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecularity",
+          "conceptId": "chemistry.chemical-kinetics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Elementary Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unimolecular Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bimolecular Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trimolecular Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Molecularity vs Reaction Order",
+          "conceptId": "chemistry.chemical-kinetics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Collision Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Collision Theory",
+          "conceptId": "chemistry.chemical-kinetics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Effective Collisions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Collision Frequency",
+          "conceptId": "chemistry.chemical-kinetics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Collision Orientation",
+          "conceptId": "chemistry.chemical-kinetics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Steric Factor",
+          "conceptId": "chemistry.chemical-kinetics.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Activation Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Activation Energy",
+          "conceptId": "chemistry.chemical-kinetics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Profile Diagram",
+          "conceptId": "chemistry.chemical-kinetics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Activated Complex",
+          "conceptId": "chemistry.chemical-kinetics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Transition State",
+          "conceptId": "chemistry.chemical-kinetics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Barrier",
+          "conceptId": "chemistry.chemical-kinetics.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Arrhenius Equation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arrhenius Equation",
+          "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Temperature Dependence",
+          "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Frequency Factor",
+          "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Arrhenius Plot",
+          "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Activation Energy Calculation",
+          "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Reaction Mechanisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reaction Mechanism",
+          "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Elementary Steps",
+          "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Intermediates",
+          "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rate-Determining Step",
+          "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Chain Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Catalytic Mechanisms",
+          "conceptId": "chemistry.chemical-kinetics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Catalysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Catalysts",
+          "conceptId": "chemistry.chemical-kinetics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Homogeneous Catalysis",
+          "conceptId": "chemistry.chemical-kinetics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heterogeneous Catalysis",
+          "conceptId": "chemistry.chemical-kinetics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Enzyme Catalysis",
+          "conceptId": "chemistry.chemical-kinetics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Autocatalysis",
+          "conceptId": "chemistry.chemical-kinetics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Catalyst Poisoning",
+          "conceptId": "chemistry.chemical-kinetics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Enzyme Kinetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enzymes",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Enzyme-Substrate Complex",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Michaelis-Menten Equation",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Vmax",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Km",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Competitive Inhibition",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Noncompetitive Inhibition",
+          "conceptId": "chemistry.chemical-kinetics.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Industrial Catalysis",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pharmaceutical Manufacturing",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Food Chemistry",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Atmospheric Chemistry",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Environmental Chemistry",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biochemical Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Combustion",
+          "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Transition State Theory",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diffusion-Controlled Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Photochemical Kinetics",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Oscillating Reactions",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computational Reaction Dynamics",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reaction Network Modeling",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hydrogen",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Alkali Metals",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Alkaline Earth Metals",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Boron Group",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Carbon Group",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Nitrogen Group",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Oxygen Group",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Halogens",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Noble Gases",
+          "conceptId": "chemistry.chemical-kinetics.chapter-12.topic-15"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "chemical-kinetics"
+    ]
+  }
+}

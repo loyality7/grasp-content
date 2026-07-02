@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-03.topic-06",
+  "name": "Bayes' Theorem",
+  "subject": "mathematics",
+  "definition": "Bayes' Theorem is a fundamental concept in mathematics.",
+  "explanation": "Learn about Bayes' Theorem and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "bayes-theorem"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Personality & Individual Differences",
+  "description": "Personality & Individual Differences",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Personality",
+      "conceptId": "psychology.psychology-foundations.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Temperament",
+      "conceptId": "psychology.psychology-foundations.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Traits",
+      "conceptId": "psychology.psychology-foundations.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Self-Concept",
+      "conceptId": "psychology.psychology-foundations.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Self-Esteem",
+      "conceptId": "psychology.psychology-foundations.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Individual Differences",
+      "conceptId": "psychology.psychology-foundations.chapter-11.topic-06"
+    }
+  ]
+}

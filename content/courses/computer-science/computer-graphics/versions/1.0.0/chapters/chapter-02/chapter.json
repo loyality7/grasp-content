@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "2D Graphics",
+  "description": "2D Graphics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Points",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lines",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Curves",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Polygons",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Clipping",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Windowing",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Viewports",
+      "conceptId": "computer-science.computer-graphics.chapter-02.topic-07"
+    }
+  ]
+}

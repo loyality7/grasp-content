@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-01.topic-01",
+  "name": "Propositions",
+  "subject": "mathematics",
+  "definition": "Propositions is a fundamental concept in mathematics.",
+  "explanation": "Learn about Propositions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "propositions"
+  ]
+}

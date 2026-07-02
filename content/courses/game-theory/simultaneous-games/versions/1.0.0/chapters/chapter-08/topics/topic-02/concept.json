@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.simultaneous-games.chapter-08.topic-02",
+  "name": "Chicken Game",
+  "subject": "game-theory",
+  "definition": "Chicken Game is a fundamental concept in game-theory.",
+  "explanation": "Learn about Chicken Game and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "chicken-game"
+  ]
+}

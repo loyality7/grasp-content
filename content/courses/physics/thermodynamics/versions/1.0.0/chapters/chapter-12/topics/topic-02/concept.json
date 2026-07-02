@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-12.topic-02",
+  "name": "Steam Engines",
+  "subject": "physics",
+  "definition": "Steam Engines is a fundamental concept in physics.",
+  "explanation": "Learn about Steam Engines and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "steam-engines"
+  ]
+}

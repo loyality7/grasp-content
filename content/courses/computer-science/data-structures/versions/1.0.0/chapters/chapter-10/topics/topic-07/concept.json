@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-10.topic-07",
+  "name": "Graph Applications",
+  "subject": "computer-science",
+  "definition": "Graph Applications is a fundamental concept in computer-science.",
+  "explanation": "Learn about Graph Applications and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "graph-applications"
+  ]
+}

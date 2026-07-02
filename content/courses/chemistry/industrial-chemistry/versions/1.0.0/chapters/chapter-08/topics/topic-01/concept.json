@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.industrial-chemistry.chapter-08.topic-01",
+  "name": "Drug Manufacturing",
+  "subject": "chemistry",
+  "definition": "Drug Manufacturing is a fundamental concept in chemistry.",
+  "explanation": "Learn about Drug Manufacturing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "drug-manufacturing"
+  ]
+}

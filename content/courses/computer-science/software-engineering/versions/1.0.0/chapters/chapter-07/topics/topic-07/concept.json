@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-07.topic-07",
+  "name": "Test Automation",
+  "subject": "computer-science",
+  "definition": "Test Automation is a fundamental concept in computer-science.",
+  "explanation": "Learn about Test Automation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "test-automation"
+  ]
+}

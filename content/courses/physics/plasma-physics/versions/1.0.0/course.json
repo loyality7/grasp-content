@@ -1,0 +1,470 @@
+{
+  "id": "plasma-physics",
+  "name": "Plasma Physics",
+  "description": "Plasma Physics",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Plasma",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Plasma?",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "States of Matter",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ionization",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Recombination",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Plasma Characteristics",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Examples of Plasma",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Natural vs Artificial Plasma",
+          "conceptId": "physics.plasma-physics.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Plasma Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plasma Density",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Temperature",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Degree of Ionization",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quasi-Neutrality",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Debye Shielding",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Debye Length",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Plasma Frequency",
+          "conceptId": "physics.plasma-physics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Motion of Charged Particles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Charged Particle Motion",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gyration",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Larmor Radius",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cyclotron Frequency",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Drift Motion",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "E×B Drift",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Magnetic Mirror Effect",
+          "conceptId": "physics.plasma-physics.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Plasma Fluid Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plasma as a Fluid",
+          "conceptId": "physics.plasma-physics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetohydrodynamics (MHD)",
+          "conceptId": "physics.plasma-physics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Continuity Equation",
+          "conceptId": "physics.plasma-physics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Momentum Equation",
+          "conceptId": "physics.plasma-physics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Equation",
+          "conceptId": "physics.plasma-physics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Frozen-in Field Concept",
+          "conceptId": "physics.plasma-physics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Plasma Waves",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electrostatic Waves",
+          "conceptId": "physics.plasma-physics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electromagnetic Waves in Plasma",
+          "conceptId": "physics.plasma-physics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Langmuir Waves",
+          "conceptId": "physics.plasma-physics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ion Acoustic Waves",
+          "conceptId": "physics.plasma-physics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Alfvén Waves",
+          "conceptId": "physics.plasma-physics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dispersion Relations",
+          "conceptId": "physics.plasma-physics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Plasma Instabilities",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plasma Stability",
+          "conceptId": "physics.plasma-physics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rayleigh–Taylor Instability",
+          "conceptId": "physics.plasma-physics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Kelvin–Helmholtz Instability",
+          "conceptId": "physics.plasma-physics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Kink Instability",
+          "conceptId": "physics.plasma-physics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sausage Instability",
+          "conceptId": "physics.plasma-physics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Turbulence (Introduction)",
+          "conceptId": "physics.plasma-physics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Plasma Confinement",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetic Confinement",
+          "conceptId": "physics.plasma-physics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Tokamak",
+          "conceptId": "physics.plasma-physics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stellarator",
+          "conceptId": "physics.plasma-physics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnetic Mirror",
+          "conceptId": "physics.plasma-physics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inertial Confinement Fusion",
+          "conceptId": "physics.plasma-physics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Plasma Heating Methods",
+          "conceptId": "physics.plasma-physics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Fusion Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Fusion",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fusion Reactions",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lawson Criterion",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deuterium-Tritium Fusion",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ignition",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fusion Reactors",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "ITER (Introduction)",
+          "conceptId": "physics.plasma-physics.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Space Plasma",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Solar Wind",
+          "conceptId": "physics.plasma-physics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetosphere",
+          "conceptId": "physics.plasma-physics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aurora",
+          "conceptId": "physics.plasma-physics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Van Allen Radiation Belts",
+          "conceptId": "physics.plasma-physics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ionosphere",
+          "conceptId": "physics.plasma-physics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Heliosphere",
+          "conceptId": "physics.plasma-physics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Laboratory Plasma",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plasma Generation",
+          "conceptId": "physics.plasma-physics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Glow Discharge",
+          "conceptId": "physics.plasma-physics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Arc Plasma",
+          "conceptId": "physics.plasma-physics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "RF Plasma",
+          "conceptId": "physics.plasma-physics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Microwave Plasma",
+          "conceptId": "physics.plasma-physics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Plasma Diagnostics",
+          "conceptId": "physics.plasma-physics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Industrial Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Semiconductor Fabrication",
+          "conceptId": "physics.plasma-physics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Plasma Etching",
+          "conceptId": "physics.plasma-physics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Plasma Coating",
+          "conceptId": "physics.plasma-physics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Plasma Cutting",
+          "conceptId": "physics.plasma-physics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Waste Treatment",
+          "conceptId": "physics.plasma-physics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Plasma Medicine",
+          "conceptId": "physics.plasma-physics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nonlinear Plasma Dynamics",
+          "conceptId": "physics.plasma-physics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dusty Plasma",
+          "conceptId": "physics.plasma-physics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Relativistic Plasma",
+          "conceptId": "physics.plasma-physics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Plasma Physics",
+          "conceptId": "physics.plasma-physics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Space Weather",
+          "conceptId": "physics.plasma-physics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Controlled Fusion Research",
+          "conceptId": "physics.plasma-physics.chapter-12.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "plasma-physics"
+    ]
+  }
+}

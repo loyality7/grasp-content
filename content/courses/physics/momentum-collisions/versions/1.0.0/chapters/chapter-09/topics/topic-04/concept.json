@@ -1,0 +1,20 @@
+{
+  "id": "physics.momentum-collisions.chapter-09.topic-04",
+  "name": "Crash Analysis",
+  "subject": "physics",
+  "definition": "Crash Analysis is a fundamental concept in physics.",
+  "explanation": "Learn about Crash Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "crash-analysis"
+  ]
+}

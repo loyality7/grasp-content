@@ -1,0 +1,20 @@
+{
+  "id": "biology.biotechnology.chapter-04.topic-01",
+  "name": "Sanger Sequencing",
+  "subject": "biology",
+  "definition": "Sanger Sequencing is a fundamental concept in biology.",
+  "explanation": "Learn about Sanger Sequencing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "sanger-sequencing"
+  ]
+}

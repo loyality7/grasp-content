@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Exchange Rates",
+  "description": "Exchange Rates",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Foreign Exchange Market",
+      "conceptId": "economics.international-economics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Exchange Rate Systems",
+      "conceptId": "economics.international-economics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Fixed Exchange Rates",
+      "conceptId": "economics.international-economics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Floating Exchange Rates",
+      "conceptId": "economics.international-economics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Currency Appreciation",
+      "conceptId": "economics.international-economics.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Currency Depreciation",
+      "conceptId": "economics.international-economics.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Purchasing Power Parity (PPP)",
+      "conceptId": "economics.international-economics.chapter-05.topic-07"
+    }
+  ]
+}

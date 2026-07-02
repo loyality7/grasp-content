@@ -1,0 +1,47 @@
+{
+  "id": "chapter-03",
+  "name": "Alkaline Earth Metals (Group 2)",
+  "description": "Alkaline Earth Metals (Group 2)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Group Trends",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Physical Properties",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Chemical Properties",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Oxides",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hydroxides",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Carbonates",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Sulfates",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Industrial Applications",
+      "conceptId": "chemistry.main-group-chemistry.chapter-03.topic-08"
+    }
+  ]
+}

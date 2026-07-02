@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Quadrilaterals",
+  "description": "Quadrilaterals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Parallelograms",
+      "conceptId": "mathematics.geometry.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rectangles",
+      "conceptId": "mathematics.geometry.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Squares",
+      "conceptId": "mathematics.geometry.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rhombuses",
+      "conceptId": "mathematics.geometry.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trapezoids",
+      "conceptId": "mathematics.geometry.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Kites",
+      "conceptId": "mathematics.geometry.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Properties of Quadrilaterals",
+      "conceptId": "mathematics.geometry.chapter-08.topic-07"
+    }
+  ]
+}

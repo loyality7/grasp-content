@@ -1,0 +1,20 @@
+{
+  "id": "biology.genetics.chapter-08.topic-02",
+  "name": "Allele Frequency",
+  "subject": "biology",
+  "definition": "Allele Frequency is a fundamental concept in biology.",
+  "explanation": "Learn about Allele Frequency and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "allele-frequency"
+  ]
+}

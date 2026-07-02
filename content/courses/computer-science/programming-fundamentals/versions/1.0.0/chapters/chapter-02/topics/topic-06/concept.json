@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-02.topic-06",
+  "name": "Type Casting",
+  "subject": "computer-science",
+  "definition": "Type Casting is a fundamental concept in computer-science.",
+  "explanation": "Learn about Type Casting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "type-casting"
+  ]
+}

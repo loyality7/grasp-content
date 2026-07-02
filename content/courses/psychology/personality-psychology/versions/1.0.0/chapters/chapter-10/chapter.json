@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Personality in Everyday Life",
+  "description": "Personality in Everyday Life",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Relationships",
+      "conceptId": "psychology.personality-psychology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Career Choice",
+      "conceptId": "psychology.personality-psychology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Leadership",
+      "conceptId": "psychology.personality-psychology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Decision Making",
+      "conceptId": "psychology.personality-psychology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Stress Management",
+      "conceptId": "psychology.personality-psychology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Well-Being",
+      "conceptId": "psychology.personality-psychology.chapter-10.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Cognitive Biases",
+  "description": "Cognitive Biases",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Confirmation Bias",
+      "conceptId": "economics.behavioral-economics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Anchoring Bias",
+      "conceptId": "economics.behavioral-economics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Availability Heuristic",
+      "conceptId": "economics.behavioral-economics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Representativeness Heuristic",
+      "conceptId": "economics.behavioral-economics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Overconfidence Bias",
+      "conceptId": "economics.behavioral-economics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hindsight Bias",
+      "conceptId": "economics.behavioral-economics.chapter-02.topic-06"
+    }
+  ]
+}

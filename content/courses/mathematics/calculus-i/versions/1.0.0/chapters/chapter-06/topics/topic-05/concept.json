@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-i.chapter-06.topic-05",
+  "name": "Concavity",
+  "subject": "mathematics",
+  "definition": "Concavity is a fundamental concept in mathematics.",
+  "explanation": "Learn about Concavity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "concavity"
+  ]
+}

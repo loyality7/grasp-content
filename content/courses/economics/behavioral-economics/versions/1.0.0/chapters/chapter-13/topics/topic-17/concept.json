@@ -1,0 +1,20 @@
+{
+  "id": "economics.behavioral-economics.chapter-13.topic-17",
+  "name": "Causal Inference",
+  "subject": "economics",
+  "definition": "Causal Inference is a fundamental concept in economics.",
+  "explanation": "Learn about Causal Inference and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "causal-inference"
+  ]
+}

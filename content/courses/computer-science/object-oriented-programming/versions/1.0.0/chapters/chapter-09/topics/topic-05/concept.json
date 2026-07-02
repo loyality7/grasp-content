@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-09.topic-05",
+  "name": "Custom Exceptions",
+  "subject": "computer-science",
+  "definition": "Custom Exceptions is a fundamental concept in computer-science.",
+  "explanation": "Learn about Custom Exceptions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "custom-exceptions"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Counting Techniques",
+  "description": "Counting Techniques",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Addition Rule",
+      "conceptId": "mathematics.probability.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Multiplication Rule",
+      "conceptId": "mathematics.probability.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Permutations",
+      "conceptId": "mathematics.probability.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Combinations",
+      "conceptId": "mathematics.probability.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Circular Permutations",
+      "conceptId": "mathematics.probability.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Multiset Counting",
+      "conceptId": "mathematics.probability.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Inclusion-Exclusion Principle",
+      "conceptId": "mathematics.probability.chapter-02.topic-07"
+    }
+  ]
+}

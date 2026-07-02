@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Online Auctions",
+  "description": "Online Auctions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "E-Commerce Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Advertising Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Search Engine Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Real-Time Bidding",
+      "conceptId": "game-theory.auction-theory.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Digital Marketplaces",
+      "conceptId": "game-theory.auction-theory.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Platform Economics",
+      "conceptId": "game-theory.auction-theory.chapter-09.topic-06"
+    }
+  ]
+}

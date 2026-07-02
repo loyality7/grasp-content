@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Rotational Dynamics",
+  "description": "Rotational Dynamics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Rotational Motion",
+      "conceptId": "physics.rotational-motion.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Axis of Rotation",
+      "conceptId": "physics.rotational-motion.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Translational vs Rotational Motion",
+      "conceptId": "physics.rotational-motion.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rotational Inertia",
+      "conceptId": "physics.rotational-motion.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rotational Equilibrium",
+      "conceptId": "physics.rotational-motion.chapter-02.topic-05"
+    }
+  ]
+}

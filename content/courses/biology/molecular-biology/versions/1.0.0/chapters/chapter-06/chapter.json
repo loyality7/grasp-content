@@ -1,0 +1,47 @@
+{
+  "id": "chapter-06",
+  "name": "Protein Synthesis",
+  "description": "Protein Synthesis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Genetic Code",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Codons",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ribosomes",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Translation",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Initiation",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Elongation",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Termination",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Protein Folding",
+      "conceptId": "biology.molecular-biology.chapter-06.topic-08"
+    }
+  ]
+}

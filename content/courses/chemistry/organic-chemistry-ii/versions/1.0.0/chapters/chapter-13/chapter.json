@@ -1,0 +1,42 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Asymmetric Synthesis",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Organocatalysis",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Green Organic Chemistry",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Medicinal Chemistry (Introduction)",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Computational Organic Chemistry",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Organic Chemistry I",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Organic Chemistry II",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-13.topic-07"
+    }
+  ]
+}

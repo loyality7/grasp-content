@@ -1,0 +1,47 @@
+{
+  "id": "chapter-09",
+  "name": "Named Organic Reactions",
+  "description": "Named Organic Reactions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Grignard Reaction",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Friedel-Crafts Reaction",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Aldol Condensation",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cannizzaro Reaction",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Claisen Condensation",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Diels-Alder Reaction",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Wittig Reaction",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Sandmeyer Reaction",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-09.topic-08"
+    }
+  ]
+}

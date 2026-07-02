@@ -1,0 +1,107 @@
+{
+  "id": "chapter-13",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Programming Languages",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "IDEs",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Static Analysis Tools",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Code Formatters",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transpilers",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Domain-Specific Languages (DSLs)",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Language Server Protocol (LSP)",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "*Course 16: Computer Graphics**",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Graphics Fundamentals",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "2D Graphics",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "3D Graphics",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Linear Transformations",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Rendering Pipeline",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Lighting & Shading",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Texturing",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Animation",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Cameras",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "GPU Programming",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Ray Tracing",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Real-Time Rendering",
+      "conceptId": "computer-science.compiler-design.chapter-13.topic-20"
+    }
+  ]
+}

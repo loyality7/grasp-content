@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Fair Division",
+  "description": "Fair Division",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fair Division",
+      "conceptId": "game-theory.voting-social-choice.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Envy-Free Allocation",
+      "conceptId": "game-theory.voting-social-choice.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Proportional Allocation",
+      "conceptId": "game-theory.voting-social-choice.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equitable Allocation",
+      "conceptId": "game-theory.voting-social-choice.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Resource Sharing",
+      "conceptId": "game-theory.voting-social-choice.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Collective Fairness",
+      "conceptId": "game-theory.voting-social-choice.chapter-08.topic-06"
+    }
+  ]
+}

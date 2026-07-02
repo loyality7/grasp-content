@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.atomic-structure.chapter-02.topic-03",
+  "name": "Electron",
+  "subject": "chemistry",
+  "definition": "Electron is a fundamental concept in chemistry.",
+  "explanation": "Learn about Electron and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "electron"
+  ]
+}

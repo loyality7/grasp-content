@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Monetary Economics in Practice",
+  "description": "Monetary Economics in Practice",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Inflation Targeting",
+      "conceptId": "economics.monetary-economics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Quantitative Easing",
+      "conceptId": "economics.monetary-economics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Negative Interest Rates",
+      "conceptId": "economics.monetary-economics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Monetary Policy During Crises",
+      "conceptId": "economics.monetary-economics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Central Bank Independence",
+      "conceptId": "economics.monetary-economics.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Global Monetary Coordination",
+      "conceptId": "economics.monetary-economics.chapter-11.topic-06"
+    }
+  ]
+}

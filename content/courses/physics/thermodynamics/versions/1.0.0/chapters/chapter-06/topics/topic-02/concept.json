@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-06.topic-02",
+  "name": "Heat Transfer",
+  "subject": "physics",
+  "definition": "Heat Transfer is a fundamental concept in physics.",
+  "explanation": "Learn about Heat Transfer and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "heat-transfer"
+  ]
+}

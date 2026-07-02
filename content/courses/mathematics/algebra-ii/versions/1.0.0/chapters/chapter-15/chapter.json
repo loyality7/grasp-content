@@ -1,0 +1,27 @@
+{
+  "id": "chapter-15",
+  "name": "Introduction to Trigonometry",
+  "description": "Introduction to Trigonometry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Angles Review",
+      "conceptId": "mathematics.algebra-ii.chapter-15.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Unit Circle (Introduction)",
+      "conceptId": "mathematics.algebra-ii.chapter-15.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Trigonometric Functions Preview",
+      "conceptId": "mathematics.algebra-ii.chapter-15.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Trigonometric Graphs Preview",
+      "conceptId": "mathematics.algebra-ii.chapter-15.topic-04"
+    }
+  ]
+}

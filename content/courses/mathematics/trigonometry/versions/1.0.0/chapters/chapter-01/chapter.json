@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Angle Measurement",
+  "description": "Angle Measurement",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Angles",
+      "conceptId": "mathematics.trigonometry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Degrees",
+      "conceptId": "mathematics.trigonometry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Radians",
+      "conceptId": "mathematics.trigonometry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Degree–Radian Conversion",
+      "conceptId": "mathematics.trigonometry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Coterminal Angles",
+      "conceptId": "mathematics.trigonometry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Reference Angles",
+      "conceptId": "mathematics.trigonometry.chapter-01.topic-06"
+    }
+  ]
+}

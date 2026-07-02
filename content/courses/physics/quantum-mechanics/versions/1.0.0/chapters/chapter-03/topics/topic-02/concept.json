@@ -1,0 +1,20 @@
+{
+  "id": "physics.quantum-mechanics.chapter-03.topic-02",
+  "name": "Time-Independent Schrödinger Equation",
+  "subject": "physics",
+  "definition": "Time-Independent Schrödinger Equation is a fundamental concept in physics.",
+  "explanation": "Learn about Time-Independent Schrödinger Equation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "time-independent-schrdinger-equation"
+  ]
+}

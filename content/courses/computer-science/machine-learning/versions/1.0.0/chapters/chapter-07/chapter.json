@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Neural Networks",
+  "description": "Neural Networks",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Artificial Neurons",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Perceptron",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Feedforward Networks",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Activation Functions",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Backpropagation",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Loss Functions",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Gradient Descent",
+      "conceptId": "computer-science.machine-learning.chapter-07.topic-07"
+    }
+  ]
+}

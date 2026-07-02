@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Revenue & Profit",
+  "description": "Revenue & Profit",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Total Revenue",
+      "conceptId": "economics.producer-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Average Revenue",
+      "conceptId": "economics.producer-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Marginal Revenue",
+      "conceptId": "economics.producer-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Accounting Profit",
+      "conceptId": "economics.producer-theory.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Economic Profit",
+      "conceptId": "economics.producer-theory.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Profit Maximization",
+      "conceptId": "economics.producer-theory.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-05.topic-04",
+  "name": "Bid Shading",
+  "subject": "game-theory",
+  "definition": "Bid Shading is a fundamental concept in game-theory.",
+  "explanation": "Learn about Bid Shading and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "bid-shading"
+  ]
+}

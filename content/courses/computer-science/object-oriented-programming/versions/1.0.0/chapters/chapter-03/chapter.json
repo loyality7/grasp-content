@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Constructors & Object Initialization",
+  "description": "Constructors & Object Initialization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Constructors",
+      "conceptId": "computer-science.object-oriented-programming.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Default Constructors",
+      "conceptId": "computer-science.object-oriented-programming.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Parameterized Constructors",
+      "conceptId": "computer-science.object-oriented-programming.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Constructor Overloading",
+      "conceptId": "computer-science.object-oriented-programming.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Object Initialization",
+      "conceptId": "computer-science.object-oriented-programming.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Object Destruction (Introduction)",
+      "conceptId": "computer-science.object-oriented-programming.chapter-03.topic-06"
+    }
+  ]
+}

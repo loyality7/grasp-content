@@ -1,0 +1,32 @@
+{
+  "id": "chapter-10",
+  "name": "Composite Materials",
+  "description": "Composite Materials",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fiber-Reinforced Composites",
+      "conceptId": "chemistry.materials-chemistry.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Carbon Fiber Composites",
+      "conceptId": "chemistry.materials-chemistry.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ceramic Matrix Composites",
+      "conceptId": "chemistry.materials-chemistry.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Metal Matrix Composites",
+      "conceptId": "chemistry.materials-chemistry.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nanocomposites",
+      "conceptId": "chemistry.materials-chemistry.chapter-10.topic-05"
+    }
+  ]
+}

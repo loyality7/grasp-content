@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Mechanism Design",
+  "description": "Introduction to Mechanism Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Mechanism Design?",
+      "conceptId": "game-theory.mechanism-design.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reverse Game Theory",
+      "conceptId": "game-theory.mechanism-design.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Social Objectives",
+      "conceptId": "game-theory.mechanism-design.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Incentives",
+      "conceptId": "game-theory.mechanism-design.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mechanisms",
+      "conceptId": "game-theory.mechanism-design.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "game-theory.mechanism-design.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-02.topic-01",
+  "name": "Prime Numbers",
+  "subject": "mathematics",
+  "definition": "Prime Numbers is a fundamental concept in mathematics.",
+  "explanation": "Learn about Prime Numbers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "prime-numbers"
+  ]
+}

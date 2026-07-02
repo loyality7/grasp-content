@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Deep Learning",
+  "description": "Deep Learning",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Deep Neural Networks",
+      "conceptId": "computer-science.machine-learning.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Convolutional Neural Networks (CNNs)",
+      "conceptId": "computer-science.machine-learning.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Recurrent Neural Networks (RNNs)",
+      "conceptId": "computer-science.machine-learning.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "LSTM",
+      "conceptId": "computer-science.machine-learning.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transformers (Introduction)",
+      "conceptId": "computer-science.machine-learning.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Transfer Learning",
+      "conceptId": "computer-science.machine-learning.chapter-08.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Springs & Elastic Energy",
+  "description": "Springs & Elastic Energy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Hooke's Law",
+      "conceptId": "physics.work-energy-power.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Spring Constant",
+      "conceptId": "physics.work-energy-power.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Elastic Potential Energy",
+      "conceptId": "physics.work-energy-power.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Springs in Series",
+      "conceptId": "physics.work-energy-power.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Springs in Parallel",
+      "conceptId": "physics.work-energy-power.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Spring Oscillations (Introduction)",
+      "conceptId": "physics.work-energy-power.chapter-07.topic-06"
+    }
+  ]
+}

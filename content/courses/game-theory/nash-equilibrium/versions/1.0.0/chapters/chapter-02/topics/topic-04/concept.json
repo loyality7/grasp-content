@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-02.topic-04",
+  "name": "Mutual Optimization",
+  "subject": "game-theory",
+  "definition": "Mutual Optimization is a fundamental concept in game-theory.",
+  "explanation": "Learn about Mutual Optimization and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "mutual-optimization"
+  ]
+}

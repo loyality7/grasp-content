@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-04.topic-03",
+  "name": "Equilibrium Selection",
+  "subject": "game-theory",
+  "definition": "Equilibrium Selection is a fundamental concept in game-theory.",
+  "explanation": "Learn about Equilibrium Selection and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "equilibrium-selection"
+  ]
+}

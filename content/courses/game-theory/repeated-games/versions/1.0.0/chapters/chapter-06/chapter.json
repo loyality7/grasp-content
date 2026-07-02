@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Trigger Strategies",
+  "description": "Trigger Strategies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Grim Trigger Strategy",
+      "conceptId": "game-theory.repeated-games.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Trigger Strategies",
+      "conceptId": "game-theory.repeated-games.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Punishment",
+      "conceptId": "game-theory.repeated-games.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Forgiveness",
+      "conceptId": "game-theory.repeated-games.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Enforcement of Cooperation",
+      "conceptId": "game-theory.repeated-games.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Deterrence",
+      "conceptId": "game-theory.repeated-games.chapter-06.topic-06"
+    }
+  ]
+}

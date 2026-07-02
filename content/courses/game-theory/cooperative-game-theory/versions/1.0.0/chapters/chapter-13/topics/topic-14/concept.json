@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-13.topic-14",
+  "name": "Bidder Strategies",
+  "subject": "game-theory",
+  "definition": "Bidder Strategies is a fundamental concept in game-theory.",
+  "explanation": "Learn about Bidder Strategies and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "bidder-strategies"
+  ]
+}

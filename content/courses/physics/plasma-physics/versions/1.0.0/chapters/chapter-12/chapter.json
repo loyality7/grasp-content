@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nonlinear Plasma Dynamics",
+      "conceptId": "physics.plasma-physics.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dusty Plasma",
+      "conceptId": "physics.plasma-physics.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Relativistic Plasma",
+      "conceptId": "physics.plasma-physics.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Computational Plasma Physics",
+      "conceptId": "physics.plasma-physics.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Space Weather",
+      "conceptId": "physics.plasma-physics.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Controlled Fusion Research",
+      "conceptId": "physics.plasma-physics.chapter-12.topic-06"
+    }
+  ]
+}

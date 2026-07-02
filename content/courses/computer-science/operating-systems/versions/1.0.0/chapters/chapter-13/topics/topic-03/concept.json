@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-13.topic-03",
+  "name": "Mobile Computing",
+  "subject": "computer-science",
+  "definition": "Mobile Computing is a fundamental concept in computer-science.",
+  "explanation": "Learn about Mobile Computing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "mobile-computing"
+  ]
+}

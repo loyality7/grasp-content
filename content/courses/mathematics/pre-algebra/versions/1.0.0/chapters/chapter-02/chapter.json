@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Integers Review",
+  "description": "Integers Review",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Integer Operations",
+      "conceptId": "mathematics.pre-algebra.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Order of Operations",
+      "conceptId": "mathematics.pre-algebra.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Absolute Value",
+      "conceptId": "mathematics.pre-algebra.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Opposite Numbers",
+      "conceptId": "mathematics.pre-algebra.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Integer Word Problems",
+      "conceptId": "mathematics.pre-algebra.chapter-02.topic-05"
+    }
+  ]
+}

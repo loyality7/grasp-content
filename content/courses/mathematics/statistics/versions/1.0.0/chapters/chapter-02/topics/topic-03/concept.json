@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-02.topic-03",
+  "name": "Bar Charts",
+  "subject": "mathematics",
+  "definition": "Bar Charts is a fundamental concept in mathematics.",
+  "explanation": "Learn about Bar Charts and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "bar-charts"
+  ]
+}

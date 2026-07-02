@@ -1,0 +1,67 @@
+{
+  "id": "chapter-03",
+  "name": "Functional Groups",
+  "description": "Functional Groups",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Functional Groups",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hydrocarbons",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Alcohols",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ethers",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Aldehydes",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ketones",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Carboxylic Acids",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Esters",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Amines",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Amides",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Nitriles",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Haloalkanes",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-03.topic-12"
+    }
+  ]
+}

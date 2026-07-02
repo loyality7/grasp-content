@@ -1,0 +1,20 @@
+{
+  "id": "biology.immunology.chapter-13.topic-15",
+  "name": "Conservation Biology",
+  "subject": "biology",
+  "definition": "Conservation Biology is a fundamental concept in biology.",
+  "explanation": "Learn about Conservation Biology and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "conservation-biology"
+  ]
+}

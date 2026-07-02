@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Firm Behavior",
+  "description": "Firm Behavior",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Business Objectives",
+      "conceptId": "economics.producer-theory.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Investment Decisions",
+      "conceptId": "economics.producer-theory.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Capacity Expansion",
+      "conceptId": "economics.producer-theory.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Innovation",
+      "conceptId": "economics.producer-theory.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Research & Development",
+      "conceptId": "economics.producer-theory.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Risk Management",
+      "conceptId": "economics.producer-theory.chapter-10.topic-06"
+    }
+  ]
+}

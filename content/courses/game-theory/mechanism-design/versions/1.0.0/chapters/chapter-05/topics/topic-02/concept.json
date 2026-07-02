@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-05.topic-02",
+  "name": "Generalized Second-Price Auctions",
+  "subject": "game-theory",
+  "definition": "Generalized Second-Price Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Generalized Second-Price Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "generalized-second-price-auctions"
+  ]
+}

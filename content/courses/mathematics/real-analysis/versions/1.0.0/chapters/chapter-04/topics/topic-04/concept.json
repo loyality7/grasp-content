@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.real-analysis.chapter-04.topic-04",
+  "name": "Absolute Convergence",
+  "subject": "mathematics",
+  "definition": "Absolute Convergence is a fundamental concept in mathematics.",
+  "explanation": "Learn about Absolute Convergence and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "absolute-convergence"
+  ]
+}

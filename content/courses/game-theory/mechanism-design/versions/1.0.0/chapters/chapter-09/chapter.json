@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Market Design",
+  "description": "Market Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Marketplace Design",
+      "conceptId": "game-theory.mechanism-design.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Digital Platforms",
+      "conceptId": "game-theory.mechanism-design.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Online Marketplaces",
+      "conceptId": "game-theory.mechanism-design.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Network Effects",
+      "conceptId": "game-theory.mechanism-design.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Pricing Rules",
+      "conceptId": "game-theory.mechanism-design.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Platform Incentives",
+      "conceptId": "game-theory.mechanism-design.chapter-09.topic-06"
+    }
+  ]
+}

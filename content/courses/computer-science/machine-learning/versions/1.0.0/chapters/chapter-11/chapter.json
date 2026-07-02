@@ -1,0 +1,42 @@
+{
+  "id": "chapter-11",
+  "name": "MLOps",
+  "description": "MLOps",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "ML Pipelines",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Experiment Tracking",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Versioning",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Continuous Training",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Continuous Deployment",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Model Monitoring",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "ML Infrastructure",
+      "conceptId": "computer-science.machine-learning.chapter-11.topic-07"
+    }
+  ]
+}

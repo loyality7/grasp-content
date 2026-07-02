@@ -1,0 +1,42 @@
+{
+  "id": "chapter-11",
+  "name": "Special Graphs",
+  "description": "Special Graphs",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Complete Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Bipartite Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Planar Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Euler Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hamiltonian Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Regular Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "DAGs (Directed Acyclic Graphs)",
+      "conceptId": "mathematics.graph-theory.chapter-11.topic-07"
+    }
+  ]
+}

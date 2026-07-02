@@ -1,0 +1,47 @@
+{
+  "id": "chapter-06",
+  "name": "Descriptive Statistics",
+  "description": "Descriptive Statistics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Frequency Distributions",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mean",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Median",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mode",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Range",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Variance",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Standard Deviation",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Data Visualization",
+      "conceptId": "psychology.research-methods-statistics.chapter-06.topic-08"
+    }
+  ]
+}

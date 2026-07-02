@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-05.topic-06",
+  "name": "Instruction Register",
+  "subject": "computer-science",
+  "definition": "Instruction Register is a fundamental concept in computer-science.",
+  "explanation": "Learn about Instruction Register and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "instruction-register"
+  ]
+}

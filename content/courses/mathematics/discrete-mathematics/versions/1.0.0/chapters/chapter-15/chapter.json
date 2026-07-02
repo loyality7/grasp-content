@@ -1,0 +1,42 @@
+{
+  "id": "chapter-15",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cryptography",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Computer Networks",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Databases",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Compiler Design",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Artificial Intelligence",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Software Engineering",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Optimization",
+      "conceptId": "mathematics.discrete-mathematics.chapter-15.topic-07"
+    }
+  ]
+}

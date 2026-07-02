@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "National Economy",
+  "description": "National Economy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Gross Domestic Product (GDP)",
+      "conceptId": "economics.economics-foundations.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Inflation",
+      "conceptId": "economics.economics-foundations.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Unemployment",
+      "conceptId": "economics.economics-foundations.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Economic Growth",
+      "conceptId": "economics.economics-foundations.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Business Cycles",
+      "conceptId": "economics.economics-foundations.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Standard of Living",
+      "conceptId": "economics.economics-foundations.chapter-07.topic-06"
+    }
+  ]
+}

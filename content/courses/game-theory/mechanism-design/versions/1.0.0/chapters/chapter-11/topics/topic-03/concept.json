@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-11.topic-03",
+  "name": "AI Negotiation",
+  "subject": "game-theory",
+  "definition": "AI Negotiation is a fundamental concept in game-theory.",
+  "explanation": "Learn about AI Negotiation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "ai-negotiation"
+  ]
+}

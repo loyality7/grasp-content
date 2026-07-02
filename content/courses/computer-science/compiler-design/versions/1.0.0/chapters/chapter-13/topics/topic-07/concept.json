@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-13.topic-07",
+  "name": "Language Server Protocol (LSP)",
+  "subject": "computer-science",
+  "definition": "Language Server Protocol (LSP) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Language Server Protocol (LSP) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "language-server-protocol-lsp"
+  ]
+}

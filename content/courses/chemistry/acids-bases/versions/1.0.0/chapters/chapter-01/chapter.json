@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Acids & Bases",
+  "description": "Introduction to Acids & Bases",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Acids",
+      "conceptId": "chemistry.acids-bases.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Bases",
+      "conceptId": "chemistry.acids-bases.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Physical Properties",
+      "conceptId": "chemistry.acids-bases.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Chemical Properties",
+      "conceptId": "chemistry.acids-bases.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strong vs Weak Acids",
+      "conceptId": "chemistry.acids-bases.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strong vs Weak Bases",
+      "conceptId": "chemistry.acids-bases.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-02.topic-01",
+  "name": "Atomic Spectra",
+  "subject": "chemistry",
+  "definition": "Atomic Spectra is a fundamental concept in chemistry.",
+  "explanation": "Learn about Atomic Spectra and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "atomic-spectra"
+  ]
+}

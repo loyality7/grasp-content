@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Spectroscopy",
+  "description": "Spectroscopy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "UV-Visible Spectroscopy",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Infrared (IR) Spectroscopy",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mass Spectrometry",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Proton NMR",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Carbon-13 NMR",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Structure Elucidation",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-11.topic-06"
+    }
+  ]
+}

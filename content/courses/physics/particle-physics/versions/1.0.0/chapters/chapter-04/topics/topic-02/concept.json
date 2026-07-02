@@ -1,0 +1,20 @@
+{
+  "id": "physics.particle-physics.chapter-04.topic-02",
+  "name": "Gluon",
+  "subject": "physics",
+  "definition": "Gluon is a fundamental concept in physics.",
+  "explanation": "Learn about Gluon and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "gluon"
+  ]
+}

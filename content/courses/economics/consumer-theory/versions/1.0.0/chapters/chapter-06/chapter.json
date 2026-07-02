@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Income & Substitution Effects",
+  "description": "Income & Substitution Effects",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Price Changes",
+      "conceptId": "economics.consumer-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Income Effect",
+      "conceptId": "economics.consumer-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Substitution Effect",
+      "conceptId": "economics.consumer-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Normal Goods",
+      "conceptId": "economics.consumer-theory.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Inferior Goods",
+      "conceptId": "economics.consumer-theory.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Giffen Goods",
+      "conceptId": "economics.consumer-theory.chapter-06.topic-06"
+    }
+  ]
+}

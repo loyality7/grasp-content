@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-02.topic-05",
+  "name": "Atomic Absorption Spectroscopy (AAS)",
+  "subject": "chemistry",
+  "definition": "Atomic Absorption Spectroscopy (AAS) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Atomic Absorption Spectroscopy (AAS) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "atomic-absorption-spectroscopy-aas"
+  ]
+}

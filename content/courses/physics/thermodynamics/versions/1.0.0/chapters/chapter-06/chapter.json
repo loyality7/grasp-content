@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Work & Heat in Thermodynamics",
+  "description": "Work & Heat in Thermodynamics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Work Done by a Gas",
+      "conceptId": "physics.thermodynamics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Heat Transfer",
+      "conceptId": "physics.thermodynamics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Internal Energy Change",
+      "conceptId": "physics.thermodynamics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sign Conventions",
+      "conceptId": "physics.thermodynamics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Energy Balance",
+      "conceptId": "physics.thermodynamics.chapter-06.topic-05"
+    }
+  ]
+}

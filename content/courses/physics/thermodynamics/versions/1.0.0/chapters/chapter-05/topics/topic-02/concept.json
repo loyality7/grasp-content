@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-05.topic-02",
+  "name": "Adiabatic Process",
+  "subject": "physics",
+  "definition": "Adiabatic Process is a fundamental concept in physics.",
+  "explanation": "Learn about Adiabatic Process and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "adiabatic-process"
+  ]
+}

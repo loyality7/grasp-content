@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Simultaneous Games",
+  "description": "Introduction to Simultaneous Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What are Simultaneous Games?",
+      "conceptId": "game-theory.simultaneous-games.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Strategic Interdependence",
+      "conceptId": "game-theory.simultaneous-games.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Simultaneous vs Sequential Games",
+      "conceptId": "game-theory.simultaneous-games.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rational Decision Making",
+      "conceptId": "game-theory.simultaneous-games.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Common Knowledge",
+      "conceptId": "game-theory.simultaneous-games.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Uncertainty",
+      "conceptId": "game-theory.simultaneous-games.chapter-01.topic-06"
+    }
+  ]
+}

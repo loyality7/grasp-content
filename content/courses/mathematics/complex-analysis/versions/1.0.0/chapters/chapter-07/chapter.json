@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Taylor & Laurent Series",
+  "description": "Taylor & Laurent Series",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Taylor Series",
+      "conceptId": "mathematics.complex-analysis.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Laurent Series",
+      "conceptId": "mathematics.complex-analysis.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Radius of Convergence",
+      "conceptId": "mathematics.complex-analysis.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Singularities",
+      "conceptId": "mathematics.complex-analysis.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Classification of Singularities",
+      "conceptId": "mathematics.complex-analysis.chapter-07.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Fluid Statics",
+  "description": "Fluid Statics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Hydrostatic Pressure",
+      "conceptId": "physics.fluid-mechanics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pressure Variation with Depth",
+      "conceptId": "physics.fluid-mechanics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Pascal's Law",
+      "conceptId": "physics.fluid-mechanics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hydraulic Systems",
+      "conceptId": "physics.fluid-mechanics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Pressure Measurement",
+      "conceptId": "physics.fluid-mechanics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Manometers",
+      "conceptId": "physics.fluid-mechanics.chapter-02.topic-06"
+    }
+  ]
+}

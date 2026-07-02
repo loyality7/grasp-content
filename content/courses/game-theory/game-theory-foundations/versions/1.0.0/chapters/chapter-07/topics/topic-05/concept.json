@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.game-theory-foundations.chapter-07.topic-05",
+  "name": "Rational Expectations",
+  "subject": "game-theory",
+  "definition": "Rational Expectations is a fundamental concept in game-theory.",
+  "explanation": "Learn about Rational Expectations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "rational-expectations"
+  ]
+}

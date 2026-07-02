@@ -1,0 +1,581 @@
+{
+  "id": "cognitive-psychology",
+  "name": "Cognitive Psychology",
+  "description": "Cognitive Psychology",
+  "version": "1.0.0",
+  "domain": "psychology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Cognitive Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Cognitive Psychology?",
+          "conceptId": "psychology.cognitive-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Information Processing Model",
+          "conceptId": "psychology.cognitive-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mental Representations",
+          "conceptId": "psychology.cognitive-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cognitive Architecture",
+          "conceptId": "psychology.cognitive-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "History of Cognitive Psychology",
+          "conceptId": "psychology.cognitive-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "psychology.cognitive-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Attention",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Selective Attention",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Divided Attention",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sustained Attention",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Attentional Control",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cognitive Load",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Multitasking",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Attention Disorders",
+          "conceptId": "psychology.cognitive-psychology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Perception",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Visual Perception",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Auditory Perception",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pattern Recognition",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Object Recognition",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Depth Perception",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Perceptual Constancies",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Visual Illusions",
+          "conceptId": "psychology.cognitive-psychology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Memory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sensory Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Working Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Long-Term Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Episodic Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Semantic Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Procedural Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Memory Consolidation",
+          "conceptId": "psychology.cognitive-psychology.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Learning & Knowledge",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Concept Formation",
+          "conceptId": "psychology.cognitive-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Schema Theory",
+          "conceptId": "psychology.cognitive-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Knowledge Representation",
+          "conceptId": "psychology.cognitive-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Expertise",
+          "conceptId": "psychology.cognitive-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Skill Acquisition",
+          "conceptId": "psychology.cognitive-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Transfer of Learning",
+          "conceptId": "psychology.cognitive-psychology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Language",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Language Processing",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Speech Perception",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Language Comprehension",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Language Production",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reading",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Writing",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Bilingualism",
+          "conceptId": "psychology.cognitive-psychology.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Thinking",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mental Models",
+          "conceptId": "psychology.cognitive-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mental Imagery",
+          "conceptId": "psychology.cognitive-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Abstract Thinking",
+          "conceptId": "psychology.cognitive-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Critical Thinking",
+          "conceptId": "psychology.cognitive-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Analogical Reasoning",
+          "conceptId": "psychology.cognitive-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Metacognition",
+          "conceptId": "psychology.cognitive-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Problem Solving",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Problem Representation",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Algorithms",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heuristics",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Insight",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Creativity",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Innovation",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Decision Strategies",
+          "conceptId": "psychology.cognitive-psychology.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Decision Making",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rational Decision Making",
+          "conceptId": "psychology.cognitive-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bounded Rationality",
+          "conceptId": "psychology.cognitive-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cognitive Biases",
+          "conceptId": "psychology.cognitive-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Risk Perception",
+          "conceptId": "psychology.cognitive-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Judgment Under Uncertainty",
+          "conceptId": "psychology.cognitive-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Prospect Theory",
+          "conceptId": "psychology.cognitive-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Intelligence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Theories of Intelligence",
+          "conceptId": "psychology.cognitive-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "General Intelligence",
+          "conceptId": "psychology.cognitive-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multiple Intelligences",
+          "conceptId": "psychology.cognitive-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Emotional Intelligence",
+          "conceptId": "psychology.cognitive-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Intelligence Testing",
+          "conceptId": "psychology.cognitive-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cognitive Abilities",
+          "conceptId": "psychology.cognitive-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Cognitive Neuroscience",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Brain Regions",
+          "conceptId": "psychology.cognitive-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Neural Networks",
+          "conceptId": "psychology.cognitive-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Brain Plasticity",
+          "conceptId": "psychology.cognitive-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Executive Functions",
+          "conceptId": "psychology.cognitive-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Neuroimaging",
+          "conceptId": "psychology.cognitive-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Brain-Behavior Relationships",
+          "conceptId": "psychology.cognitive-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Education",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Human-Computer Interaction",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Artificial Intelligence",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "User Experience (UX)",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Clinical Assessment",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cognitive Training",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Decision Support Systems",
+          "conceptId": "psychology.cognitive-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Embodied Cognition",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Consciousness",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cognitive Development",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Cognitive Models",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cognitive Enhancement",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Cognitive Science",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 3: Biological Psychology**",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Nervous System",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Neurons",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Brain Structure",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Neurotransmitters",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Hormones",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Sensory Systems",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Motor Systems",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Emotion",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Memory",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Sleep",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Brain Disorders",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Neuroplasticity",
+          "conceptId": "psychology.cognitive-psychology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "psychology",
+      "cognitive-psychology"
+    ]
+  }
+}

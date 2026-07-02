@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.strategic-decision-making.chapter-13.topic-04",
+  "name": "Algorithmic Decision Making",
+  "subject": "game-theory",
+  "definition": "Algorithmic Decision Making is a fundamental concept in game-theory.",
+  "explanation": "Learn about Algorithmic Decision Making and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "algorithmic-decision-making"
+  ]
+}

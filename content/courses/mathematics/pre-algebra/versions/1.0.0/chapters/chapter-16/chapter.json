@@ -1,0 +1,27 @@
+{
+  "id": "chapter-16",
+  "name": "Problem Solving",
+  "description": "Problem Solving",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Patterns",
+      "conceptId": "mathematics.pre-algebra.chapter-16.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Logical Reasoning",
+      "conceptId": "mathematics.pre-algebra.chapter-16.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Step Word Problems",
+      "conceptId": "mathematics.pre-algebra.chapter-16.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mathematical Modeling",
+      "conceptId": "mathematics.pre-algebra.chapter-16.topic-04"
+    }
+  ]
+}

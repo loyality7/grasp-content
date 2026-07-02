@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Network Models",
+  "description": "Network Models",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "OSI Model",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "TCP/IP Model",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Layered Communication",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Encapsulation",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Decapsulation",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Protocols",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Network Standards",
+      "conceptId": "computer-science.computer-networks.chapter-02.topic-07"
+    }
+  ]
+}

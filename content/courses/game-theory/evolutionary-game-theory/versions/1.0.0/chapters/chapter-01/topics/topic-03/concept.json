@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-01.topic-03",
+  "name": "Populations",
+  "subject": "game-theory",
+  "definition": "Populations is a fundamental concept in game-theory.",
+  "explanation": "Learn about Populations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "populations"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Twentieth-Century Philosophy",
+  "description": "Twentieth-Century Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Analytic Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Bertrand Russell",
+      "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ludwig Wittgenstein",
+      "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Phenomenology",
+      "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Existentialism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Logical Positivism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-06"
+    }
+  ]
+}

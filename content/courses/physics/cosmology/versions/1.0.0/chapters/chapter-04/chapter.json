@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Cosmic Microwave Background (CMB)",
+  "description": "Cosmic Microwave Background (CMB)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Discovery of the CMB",
+      "conceptId": "physics.cosmology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Blackbody Spectrum",
+      "conceptId": "physics.cosmology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Temperature Anisotropies",
+      "conceptId": "physics.cosmology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "CMB Measurements",
+      "conceptId": "physics.cosmology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "WMAP",
+      "conceptId": "physics.cosmology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Planck Mission",
+      "conceptId": "physics.cosmology.chapter-04.topic-06"
+    }
+  ]
+}

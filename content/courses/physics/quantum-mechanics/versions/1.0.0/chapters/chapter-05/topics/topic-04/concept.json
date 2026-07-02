@@ -1,0 +1,20 @@
+{
+  "id": "physics.quantum-mechanics.chapter-05.topic-04",
+  "name": "Measurement Limits",
+  "subject": "physics",
+  "definition": "Measurement Limits is a fundamental concept in physics.",
+  "explanation": "Learn about Measurement Limits and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "measurement-limits"
+  ]
+}

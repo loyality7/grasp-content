@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "International Finance",
+  "description": "International Finance",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "International Capital Flows",
+      "conceptId": "economics.international-economics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Foreign Direct Investment (FDI)",
+      "conceptId": "economics.international-economics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Portfolio Investment",
+      "conceptId": "economics.international-economics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sovereign Debt",
+      "conceptId": "economics.international-economics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Global Financial Markets",
+      "conceptId": "economics.international-economics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "International Banking",
+      "conceptId": "economics.international-economics.chapter-07.topic-06"
+    }
+  ]
+}

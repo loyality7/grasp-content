@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-graphics.chapter-09.topic-05",
+  "name": "Physics-Based Animation",
+  "subject": "computer-science",
+  "definition": "Physics-Based Animation is a fundamental concept in computer-science.",
+  "explanation": "Learn about Physics-Based Animation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "physics-based-animation"
+  ]
+}

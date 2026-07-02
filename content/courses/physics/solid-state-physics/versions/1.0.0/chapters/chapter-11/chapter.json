@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Dielectric Properties",
+  "description": "Dielectric Properties",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Dielectric Materials",
+      "conceptId": "physics.solid-state-physics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Polarization",
+      "conceptId": "physics.solid-state-physics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ferroelectric Materials",
+      "conceptId": "physics.solid-state-physics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Piezoelectric Materials",
+      "conceptId": "physics.solid-state-physics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Pyroelectric Materials",
+      "conceptId": "physics.solid-state-physics.chapter-11.topic-05"
+    }
+  ]
+}

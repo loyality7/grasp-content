@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-08.topic-04",
+  "name": "Equitable Allocation",
+  "subject": "game-theory",
+  "definition": "Equitable Allocation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Equitable Allocation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "equitable-allocation"
+  ]
+}

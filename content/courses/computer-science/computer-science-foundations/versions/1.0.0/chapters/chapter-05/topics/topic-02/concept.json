@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-05.topic-02",
+  "name": "Application Software",
+  "subject": "computer-science",
+  "definition": "Application Software is a fundamental concept in computer-science.",
+  "explanation": "Learn about Application Software and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "application-software"
+  ]
+}

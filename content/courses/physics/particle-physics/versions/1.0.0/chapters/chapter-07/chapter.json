@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Particle Interactions",
+  "description": "Particle Interactions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Feynman Diagrams",
+      "conceptId": "physics.particle-physics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Particle Scattering",
+      "conceptId": "physics.particle-physics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Particle Decay",
+      "conceptId": "physics.particle-physics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Conservation Laws",
+      "conceptId": "physics.particle-physics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cross Sections",
+      "conceptId": "physics.particle-physics.chapter-07.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-02.topic-03",
+  "name": "Instance Variables",
+  "subject": "computer-science",
+  "definition": "Instance Variables is a fundamental concept in computer-science.",
+  "explanation": "Learn about Instance Variables and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "instance-variables"
+  ]
+}

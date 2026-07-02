@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Systems of Linear Equations",
+  "description": "Systems of Linear Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Graphing Method",
+      "conceptId": "mathematics.algebra-i.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Substitution Method",
+      "conceptId": "mathematics.algebra-i.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Elimination Method",
+      "conceptId": "mathematics.algebra-i.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "mathematics.algebra-i.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Systems of Inequalities",
+      "conceptId": "mathematics.algebra-i.chapter-06.topic-05"
+    }
+  ]
+}

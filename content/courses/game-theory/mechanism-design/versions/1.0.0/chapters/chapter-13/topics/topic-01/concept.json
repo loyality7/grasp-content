@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-13.topic-01",
+  "name": "Bayesian Mechanism Design",
+  "subject": "game-theory",
+  "definition": "Bayesian Mechanism Design is a fundamental concept in game-theory.",
+  "explanation": "Learn about Bayesian Mechanism Design and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "bayesian-mechanism-design"
+  ]
+}

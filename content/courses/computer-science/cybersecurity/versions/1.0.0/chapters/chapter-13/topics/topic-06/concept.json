@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-13.topic-06",
+  "name": "Mobile Security",
+  "subject": "computer-science",
+  "definition": "Mobile Security is a fundamental concept in computer-science.",
+  "explanation": "Learn about Mobile Security and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "mobile-security"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-05.topic-04",
+  "name": "Efficiency",
+  "subject": "game-theory",
+  "definition": "Efficiency is a fundamental concept in game-theory.",
+  "explanation": "Learn about Efficiency and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "efficiency"
+  ]
+}

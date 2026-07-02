@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Magnetic Field Due to Electric Current",
+  "description": "Magnetic Field Due to Electric Current",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Magnetic Field Around a Wire",
+      "conceptId": "physics.magnetism.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Biot–Savart Law",
+      "conceptId": "physics.magnetism.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ampère's Law",
+      "conceptId": "physics.magnetism.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Magnetic Field of a Circular Loop",
+      "conceptId": "physics.magnetism.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Solenoids",
+      "conceptId": "physics.magnetism.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Toroids",
+      "conceptId": "physics.magnetism.chapter-03.topic-06"
+    }
+  ]
+}

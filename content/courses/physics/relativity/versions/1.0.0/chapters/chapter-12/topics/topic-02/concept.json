@@ -1,0 +1,20 @@
+{
+  "id": "physics.relativity.chapter-12.topic-02",
+  "name": "Satellite Navigation",
+  "subject": "physics",
+  "definition": "Satellite Navigation is a fundamental concept in physics.",
+  "explanation": "Learn about Satellite Navigation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "satellite-navigation"
+  ]
+}

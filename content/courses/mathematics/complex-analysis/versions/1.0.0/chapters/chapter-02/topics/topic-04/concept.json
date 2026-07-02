@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-02.topic-04",
+  "name": "Complex Mappings",
+  "subject": "mathematics",
+  "definition": "Complex Mappings is a fundamental concept in mathematics.",
+  "explanation": "Learn about Complex Mappings and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "complex-mappings"
+  ]
+}

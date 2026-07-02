@@ -1,0 +1,20 @@
+{
+  "id": "physics.cosmology.chapter-01.topic-02",
+  "name": "Observable Universe",
+  "subject": "physics",
+  "definition": "Observable Universe is a fundamental concept in physics.",
+  "explanation": "Learn about Observable Universe and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "observable-universe"
+  ]
+}

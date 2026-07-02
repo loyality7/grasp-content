@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "English Auctions",
+  "description": "English Auctions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ascending-Bid Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Open Bidding",
+      "conceptId": "game-theory.auction-theory.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Price Discovery",
+      "conceptId": "game-theory.auction-theory.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bidding Strategies",
+      "conceptId": "game-theory.auction-theory.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Auction Dynamics",
+      "conceptId": "game-theory.auction-theory.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "game-theory.auction-theory.chapter-03.topic-06"
+    }
+  ]
+}

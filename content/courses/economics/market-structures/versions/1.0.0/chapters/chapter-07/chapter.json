@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Pricing Strategies",
+  "description": "Pricing Strategies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Price Discrimination",
+      "conceptId": "economics.market-structures.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Two-Part Pricing",
+      "conceptId": "economics.market-structures.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Bundling",
+      "conceptId": "economics.market-structures.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Peak Pricing",
+      "conceptId": "economics.market-structures.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Dynamic Pricing",
+      "conceptId": "economics.market-structures.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Auctions",
+      "conceptId": "economics.market-structures.chapter-07.topic-06"
+    }
+  ]
+}

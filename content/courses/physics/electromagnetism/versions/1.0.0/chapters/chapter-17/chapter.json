@@ -1,0 +1,32 @@
+{
+  "id": "chapter-17",
+  "name": "Kirchhoff's Laws",
+  "description": "Kirchhoff's Laws",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Kirchhoff's Current Law (KCL)",
+      "conceptId": "physics.electromagnetism.chapter-17.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Kirchhoff's Voltage Law (KVL)",
+      "conceptId": "physics.electromagnetism.chapter-17.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Loop Analysis",
+      "conceptId": "physics.electromagnetism.chapter-17.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Node Analysis",
+      "conceptId": "physics.electromagnetism.chapter-17.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Circuit Simplification",
+      "conceptId": "physics.electromagnetism.chapter-17.topic-05"
+    }
+  ]
+}

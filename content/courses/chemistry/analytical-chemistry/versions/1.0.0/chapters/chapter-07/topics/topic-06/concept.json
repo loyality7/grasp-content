@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-07.topic-06",
+  "name": "High-Performance Liquid Chromatography (HPLC)",
+  "subject": "chemistry",
+  "definition": "High-Performance Liquid Chromatography (HPLC) is a fundamental concept in chemistry.",
+  "explanation": "Learn about High-Performance Liquid Chromatography (HPLC) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "high-performance-liquid-chromatography-hplc"
+  ]
+}

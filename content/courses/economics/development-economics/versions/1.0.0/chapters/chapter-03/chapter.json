@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Poverty",
+  "description": "Poverty",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Absolute Poverty",
+      "conceptId": "economics.development-economics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Relative Poverty",
+      "conceptId": "economics.development-economics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Poverty Trap",
+      "conceptId": "economics.development-economics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Causes of Poverty",
+      "conceptId": "economics.development-economics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Poverty Measurement",
+      "conceptId": "economics.development-economics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Poverty Reduction Strategies",
+      "conceptId": "economics.development-economics.chapter-03.topic-06"
+    }
+  ]
+}

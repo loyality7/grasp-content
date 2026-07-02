@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Science & Philosophy",
+  "description": "Science & Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Scientific Method",
+      "conceptId": "philosophy.philosophy-foundations.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scientific Explanation",
+      "conceptId": "philosophy.philosophy-foundations.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Evidence",
+      "conceptId": "philosophy.philosophy-foundations.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Theory",
+      "conceptId": "philosophy.philosophy-foundations.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Objectivity",
+      "conceptId": "philosophy.philosophy-foundations.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Philosophy of Science",
+      "conceptId": "philosophy.philosophy-foundations.chapter-10.topic-06"
+    }
+  ]
+}

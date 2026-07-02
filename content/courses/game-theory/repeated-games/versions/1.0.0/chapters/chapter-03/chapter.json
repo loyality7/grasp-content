@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Infinite Repeated Games",
+  "description": "Infinite Repeated Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Infinite Horizon",
+      "conceptId": "game-theory.repeated-games.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Discounting the Future",
+      "conceptId": "game-theory.repeated-games.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Patience",
+      "conceptId": "game-theory.repeated-games.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Long-Term Cooperation",
+      "conceptId": "game-theory.repeated-games.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Stable Relationships",
+      "conceptId": "game-theory.repeated-games.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Infinite Strategies",
+      "conceptId": "game-theory.repeated-games.chapter-03.topic-06"
+    }
+  ]
+}

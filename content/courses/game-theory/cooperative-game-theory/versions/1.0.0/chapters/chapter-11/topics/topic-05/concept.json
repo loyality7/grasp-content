@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-11.topic-05",
+  "name": "Multi-Robot Systems",
+  "subject": "game-theory",
+  "definition": "Multi-Robot Systems is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multi-Robot Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multi-robot-systems"
+  ]
+}

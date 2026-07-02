@@ -1,0 +1,20 @@
+{
+  "id": "biology.evolution.chapter-04.topic-03",
+  "name": "Allele Frequencies",
+  "subject": "biology",
+  "definition": "Allele Frequencies is a fundamental concept in biology.",
+  "explanation": "Learn about Allele Frequencies and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "allele-frequencies"
+  ]
+}

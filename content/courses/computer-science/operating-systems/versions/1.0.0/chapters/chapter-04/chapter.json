@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Process Synchronization",
+  "description": "Process Synchronization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Race Conditions",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Critical Section",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mutex Locks",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Semaphores",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Monitors",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Condition Variables",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Producer-Consumer Problem",
+      "conceptId": "computer-science.operating-systems.chapter-04.topic-07"
+    }
+  ]
+}

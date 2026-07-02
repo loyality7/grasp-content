@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Numerical Integration",
+  "description": "Numerical Integration",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Left Riemann Sum",
+      "conceptId": "mathematics.calculus-i.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Right Riemann Sum",
+      "conceptId": "mathematics.calculus-i.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Midpoint Rule",
+      "conceptId": "mathematics.calculus-i.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Trapezoidal Rule",
+      "conceptId": "mathematics.calculus-i.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Simpson's Rule",
+      "conceptId": "mathematics.calculus-i.chapter-11.topic-05"
+    }
+  ]
+}

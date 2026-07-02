@@ -1,0 +1,27 @@
+{
+  "id": "chapter-10",
+  "name": "Stochastic Processes",
+  "description": "Stochastic Processes",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Markov Chains",
+      "conceptId": "mathematics.probability.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Random Walks",
+      "conceptId": "mathematics.probability.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Poisson Process",
+      "conceptId": "mathematics.probability.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Birth-Death Process",
+      "conceptId": "mathematics.probability.chapter-10.topic-04"
+    }
+  ]
+}

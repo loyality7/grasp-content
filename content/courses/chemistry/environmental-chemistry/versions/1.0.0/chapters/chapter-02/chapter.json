@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Atmospheric Chemistry",
+  "description": "Atmospheric Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Composition of the Atmosphere",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Atmospheric Layers",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Oxygen Cycle",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Carbon Cycle",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nitrogen Cycle",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Atmospheric Reactions",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Photochemical Reactions",
+      "conceptId": "chemistry.environmental-chemistry.chapter-02.topic-07"
+    }
+  ]
+}

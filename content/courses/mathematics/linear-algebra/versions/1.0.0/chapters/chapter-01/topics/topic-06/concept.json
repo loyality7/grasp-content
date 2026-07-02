@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-01.topic-06",
+  "name": "Echelon Form",
+  "subject": "mathematics",
+  "definition": "Echelon Form is a fundamental concept in mathematics.",
+  "explanation": "Learn about Echelon Form and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "echelon-form"
+  ]
+}

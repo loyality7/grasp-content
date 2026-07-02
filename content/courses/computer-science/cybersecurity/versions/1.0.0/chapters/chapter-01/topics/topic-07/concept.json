@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-01.topic-07",
+  "name": "Security Principles",
+  "subject": "computer-science",
+  "definition": "Security Principles is a fundamental concept in computer-science.",
+  "explanation": "Learn about Security Principles and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "security-principles"
+  ]
+}

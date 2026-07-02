@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-03.topic-03",
+  "name": "Energy Minimization",
+  "subject": "chemistry",
+  "definition": "Energy Minimization is a fundamental concept in chemistry.",
+  "explanation": "Learn about Energy Minimization and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "energy-minimization"
+  ]
+}

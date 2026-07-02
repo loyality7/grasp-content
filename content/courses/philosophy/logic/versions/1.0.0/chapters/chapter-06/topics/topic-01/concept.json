@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-06.topic-01",
+  "name": "Modus Ponens",
+  "subject": "philosophy",
+  "definition": "Modus Ponens is a fundamental concept in philosophy.",
+  "explanation": "Learn about Modus Ponens and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "modus-ponens"
+  ]
+}

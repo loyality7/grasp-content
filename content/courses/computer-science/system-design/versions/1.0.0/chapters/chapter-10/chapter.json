@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Security & Reliability",
+  "description": "Security & Reliability",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Authentication",
+      "conceptId": "computer-science.system-design.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Authorization",
+      "conceptId": "computer-science.system-design.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rate Limiting",
+      "conceptId": "computer-science.system-design.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Encryption",
+      "conceptId": "computer-science.system-design.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Disaster Recovery",
+      "conceptId": "computer-science.system-design.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Backup Strategies",
+      "conceptId": "computer-science.system-design.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Fault Isolation",
+      "conceptId": "computer-science.system-design.chapter-10.topic-07"
+    }
+  ]
+}

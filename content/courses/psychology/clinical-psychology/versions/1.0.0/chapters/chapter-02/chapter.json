@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Clinical Assessment",
+  "description": "Clinical Assessment",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Clinical Interview",
+      "conceptId": "psychology.clinical-psychology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mental Status Examination",
+      "conceptId": "psychology.clinical-psychology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Behavioral Observation",
+      "conceptId": "psychology.clinical-psychology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Case History",
+      "conceptId": "psychology.clinical-psychology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Risk Assessment",
+      "conceptId": "psychology.clinical-psychology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Clinical Decision Making",
+      "conceptId": "psychology.clinical-psychology.chapter-02.topic-06"
+    }
+  ]
+}

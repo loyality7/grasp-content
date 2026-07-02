@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Emerging Applications",
+  "description": "Emerging Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Blockchain & Web3",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Autonomous Vehicles",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Smart Cities",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Climate Strategy",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Healthcare Systems",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Space Exploration",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Human-AI Collaboration",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-07"
+    }
+  ]
+}

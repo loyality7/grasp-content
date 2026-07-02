@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Theories of Knowledge",
+  "description": "Theories of Knowledge",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Justified True Belief (JTB)",
+      "conceptId": "philosophy.epistemology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gettier Problem",
+      "conceptId": "philosophy.epistemology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Internalism",
+      "conceptId": "philosophy.epistemology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Externalism",
+      "conceptId": "philosophy.epistemology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Reliabilism",
+      "conceptId": "philosophy.epistemology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Virtue Epistemology",
+      "conceptId": "philosophy.epistemology.chapter-02.topic-06"
+    }
+  ]
+}

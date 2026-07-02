@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Laplace Transforms",
+  "description": "Laplace Transforms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Laplace Transform",
+      "conceptId": "mathematics.differential-equations.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Inverse Laplace Transform",
+      "conceptId": "mathematics.differential-equations.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Properties",
+      "conceptId": "mathematics.differential-equations.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Solving Differential Equations",
+      "conceptId": "mathematics.differential-equations.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Unit Step Function",
+      "conceptId": "mathematics.differential-equations.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dirac Delta Function",
+      "conceptId": "mathematics.differential-equations.chapter-07.topic-06"
+    }
+  ]
+}

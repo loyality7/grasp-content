@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-02.topic-02",
+  "name": "Proof by Contradiction",
+  "subject": "mathematics",
+  "definition": "Proof by Contradiction is a fundamental concept in mathematics.",
+  "explanation": "Learn about Proof by Contradiction and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "proof-by-contradiction"
+  ]
+}

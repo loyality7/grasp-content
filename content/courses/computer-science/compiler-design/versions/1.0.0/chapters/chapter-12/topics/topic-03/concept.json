@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-12.topic-03",
+  "name": "Testing Compilers",
+  "subject": "computer-science",
+  "definition": "Testing Compilers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Testing Compilers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "testing-compilers"
+  ]
+}

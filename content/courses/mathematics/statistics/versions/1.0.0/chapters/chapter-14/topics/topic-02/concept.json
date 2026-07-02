@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-14.topic-02",
+  "name": "Exploratory Data Analysis (EDA)",
+  "subject": "mathematics",
+  "definition": "Exploratory Data Analysis (EDA) is a fundamental concept in mathematics.",
+  "explanation": "Learn about Exploratory Data Analysis (EDA) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "exploratory-data-analysis-eda"
+  ]
+}

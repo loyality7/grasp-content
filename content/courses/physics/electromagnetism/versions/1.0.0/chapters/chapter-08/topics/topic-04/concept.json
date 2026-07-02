@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-08.topic-04",
+  "name": "Eddy Currents",
+  "subject": "physics",
+  "definition": "Eddy Currents is a fundamental concept in physics.",
+  "explanation": "Learn about Eddy Currents and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "eddy-currents"
+  ]
+}

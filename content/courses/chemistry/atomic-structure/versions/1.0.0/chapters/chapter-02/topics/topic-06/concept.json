@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.atomic-structure.chapter-02.topic-06",
+  "name": "Atomic Number",
+  "subject": "chemistry",
+  "definition": "Atomic Number is a fundamental concept in chemistry.",
+  "explanation": "Learn about Atomic Number and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "atomic-number"
+  ]
+}

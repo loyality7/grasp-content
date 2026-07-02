@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-08.topic-06",
+  "name": "UML Class Diagrams (Introduction)",
+  "subject": "computer-science",
+  "definition": "UML Class Diagrams (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about UML Class Diagrams (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "uml-class-diagrams-introduction"
+  ]
+}

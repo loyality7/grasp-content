@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Rotational Kinematics",
+  "description": "Rotational Kinematics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Angular Displacement",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Angular Velocity",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Angular Acceleration",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rotational Equations of Motion",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Angular Position-Time Graphs",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Angular Velocity-Time Graphs",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Angular Acceleration-Time Graphs",
+      "conceptId": "physics.rotational-motion.chapter-01.topic-07"
+    }
+  ]
+}

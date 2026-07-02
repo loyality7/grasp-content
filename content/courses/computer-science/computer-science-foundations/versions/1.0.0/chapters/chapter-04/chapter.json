@@ -1,0 +1,47 @@
+{
+  "id": "chapter-04",
+  "name": "Computer Hardware",
+  "description": "Computer Hardware",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Central Processing Unit (CPU)",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Memory (RAM)",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Storage Devices",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Input Devices",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Output Devices",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Motherboard",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Buses",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Peripherals",
+      "conceptId": "computer-science.computer-science-foundations.chapter-04.topic-08"
+    }
+  ]
+}

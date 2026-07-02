@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-08.topic-01",
+  "name": "Taylor Polynomials",
+  "subject": "mathematics",
+  "definition": "Taylor Polynomials is a fundamental concept in mathematics.",
+  "explanation": "Learn about Taylor Polynomials and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "taylor-polynomials"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Development Economics",
+  "description": "Introduction to Development Economics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Economic Development?",
+      "conceptId": "economics.development-economics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Economic Growth vs Development",
+      "conceptId": "economics.development-economics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Developing Economies",
+      "conceptId": "economics.development-economics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Human Development",
+      "conceptId": "economics.development-economics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Development Indicators",
+      "conceptId": "economics.development-economics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sustainable Development",
+      "conceptId": "economics.development-economics.chapter-01.topic-06"
+    }
+  ]
+}

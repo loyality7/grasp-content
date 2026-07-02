@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.thermochemistry.chapter-12.topic-11",
+  "name": "Le Chatelier's Principle",
+  "subject": "chemistry",
+  "definition": "Le Chatelier's Principle is a fundamental concept in chemistry.",
+  "explanation": "Learn about Le Chatelier's Principle and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "le-chateliers-principle"
+  ]
+}

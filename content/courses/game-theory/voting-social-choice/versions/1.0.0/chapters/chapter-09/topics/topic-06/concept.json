@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-09.topic-06",
+  "name": "Deliberation",
+  "subject": "game-theory",
+  "definition": "Deliberation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Deliberation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "deliberation"
+  ]
+}

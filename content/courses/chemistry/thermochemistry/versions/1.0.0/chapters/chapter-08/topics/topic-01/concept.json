@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.thermochemistry.chapter-08.topic-01",
+  "name": "Entropy (S)",
+  "subject": "chemistry",
+  "definition": "Entropy (S) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Entropy (S) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "entropy-s"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Money & Banking",
+  "description": "Money & Banking",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Functions of Money",
+      "conceptId": "economics.economics-foundations.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Banking System",
+      "conceptId": "economics.economics-foundations.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Central Banks",
+      "conceptId": "economics.economics-foundations.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interest Rates",
+      "conceptId": "economics.economics-foundations.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Money Supply",
+      "conceptId": "economics.economics-foundations.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Inflation Control",
+      "conceptId": "economics.economics-foundations.chapter-08.topic-06"
+    }
+  ]
+}

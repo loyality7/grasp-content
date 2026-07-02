@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Monetary Economics",
+  "description": "Introduction to Monetary Economics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Money?",
+      "conceptId": "economics.monetary-economics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Functions of Money",
+      "conceptId": "economics.monetary-economics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Evolution of Money",
+      "conceptId": "economics.monetary-economics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Monetary System",
+      "conceptId": "economics.monetary-economics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Financial System",
+      "conceptId": "economics.monetary-economics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Role of Money in the Economy",
+      "conceptId": "economics.monetary-economics.chapter-01.topic-06"
+    }
+  ]
+}

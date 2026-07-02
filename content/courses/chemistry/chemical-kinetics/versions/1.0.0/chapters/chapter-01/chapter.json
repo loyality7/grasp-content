@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Chemical Kinetics",
+  "description": "Introduction to Chemical Kinetics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Chemical Kinetics",
+      "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reaction Rate",
+      "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Factors Affecting Reaction Rate",
+      "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fast vs Slow Reactions",
+      "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rate Measurement",
+      "conceptId": "chemistry.chemical-kinetics.chapter-01.topic-05"
+    }
+  ]
+}

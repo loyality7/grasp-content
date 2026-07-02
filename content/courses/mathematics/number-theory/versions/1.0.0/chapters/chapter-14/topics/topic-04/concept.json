@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-14.topic-04",
+  "name": "Error-Correcting Codes",
+  "subject": "mathematics",
+  "definition": "Error-Correcting Codes is a fundamental concept in mathematics.",
+  "explanation": "Learn about Error-Correcting Codes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "error-correcting-codes"
+  ]
+}

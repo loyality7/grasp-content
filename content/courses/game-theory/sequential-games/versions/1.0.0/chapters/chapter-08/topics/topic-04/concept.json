@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-08.topic-04",
+  "name": "Ultimatum Game",
+  "subject": "game-theory",
+  "definition": "Ultimatum Game is a fundamental concept in game-theory.",
+  "explanation": "Learn about Ultimatum Game and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "ultimatum-game"
+  ]
+}

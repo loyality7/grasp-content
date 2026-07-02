@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Replicator Dynamics",
+  "description": "Replicator Dynamics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Replicator Equation",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Population Shares",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Growth of Strategies",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dynamic Equilibrium",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Evolution Over Time",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Stability of Populations",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-04.topic-06"
+    }
+  ]
+}

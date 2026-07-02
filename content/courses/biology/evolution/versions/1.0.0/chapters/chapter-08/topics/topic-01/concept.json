@@ -1,0 +1,20 @@
+{
+  "id": "biology.evolution.chapter-08.topic-01",
+  "name": "Origin of Life",
+  "subject": "biology",
+  "definition": "Origin of Life is a fundamental concept in biology.",
+  "explanation": "Learn about Origin of Life and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "origin-of-life"
+  ]
+}

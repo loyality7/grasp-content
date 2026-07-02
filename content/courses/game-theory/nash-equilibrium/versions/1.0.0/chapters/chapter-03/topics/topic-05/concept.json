@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-03.topic-05",
+  "name": "Graphical Methods",
+  "subject": "game-theory",
+  "definition": "Graphical Methods is a fundamental concept in game-theory.",
+  "explanation": "Learn about Graphical Methods and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "graphical-methods"
+  ]
+}

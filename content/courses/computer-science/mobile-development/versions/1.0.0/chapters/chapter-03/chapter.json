@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Programming for Mobile",
+  "description": "Programming for Mobile",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Project Structure",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "State Management",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Event Handling",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Forms",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Input Validation",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Error Handling",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "App Configuration",
+      "conceptId": "computer-science.mobile-development.chapter-03.topic-07"
+    }
+  ]
+}

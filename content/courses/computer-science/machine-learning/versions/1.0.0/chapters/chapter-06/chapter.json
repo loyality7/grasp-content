@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Model Evaluation",
+  "description": "Model Evaluation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Confusion Matrix",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Accuracy",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Precision",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Recall",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "F1 Score",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "ROC Curve",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Cross Validation",
+      "conceptId": "computer-science.machine-learning.chapter-06.topic-07"
+    }
+  ]
+}

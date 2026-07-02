@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-02.topic-07",
+  "name": "Dilution",
+  "subject": "chemistry",
+  "definition": "Dilution is a fundamental concept in chemistry.",
+  "explanation": "Learn about Dilution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "dilution"
+  ]
+}

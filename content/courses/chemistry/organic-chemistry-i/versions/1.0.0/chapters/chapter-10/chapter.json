@@ -1,0 +1,47 @@
+{
+  "id": "chapter-10",
+  "name": "Aromatic Compounds",
+  "description": "Aromatic Compounds",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Benzene",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Aromaticity",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Huckel's Rule",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Electrophilic Aromatic Substitution",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nitration",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sulfonation",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Halogenation",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Friedel-Crafts Reactions",
+      "conceptId": "chemistry.organic-chemistry-i.chapter-10.topic-08"
+    }
+  ]
+}

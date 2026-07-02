@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Early Childhood",
+  "description": "Early Childhood",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Brain Development",
+      "conceptId": "psychology.developmental-psychology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Play",
+      "conceptId": "psychology.developmental-psychology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Language Acquisition",
+      "conceptId": "psychology.developmental-psychology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Emotional Development",
+      "conceptId": "psychology.developmental-psychology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Social Development",
+      "conceptId": "psychology.developmental-psychology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Parenting Styles",
+      "conceptId": "psychology.developmental-psychology.chapter-04.topic-06"
+    }
+  ]
+}

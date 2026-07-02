@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Modern Genetics",
+  "description": "Modern Genetics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Genomics",
+      "conceptId": "biology.genetics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Genome-Wide Association Studies (GWAS)",
+      "conceptId": "biology.genetics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Gene Editing",
+      "conceptId": "biology.genetics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "CRISPR Applications",
+      "conceptId": "biology.genetics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Personalized Genomics",
+      "conceptId": "biology.genetics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Precision Medicine",
+      "conceptId": "biology.genetics.chapter-10.topic-06"
+    }
+  ]
+}

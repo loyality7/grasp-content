@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-19.topic-06",
+  "name": "RC Circuits",
+  "subject": "physics",
+  "definition": "RC Circuits is a fundamental concept in physics.",
+  "explanation": "Learn about RC Circuits and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "rc-circuits"
+  ]
+}

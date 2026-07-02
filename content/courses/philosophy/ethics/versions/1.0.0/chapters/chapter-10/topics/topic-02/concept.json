@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.ethics.chapter-10.topic-02",
+  "name": "Algorithmic Bias",
+  "subject": "philosophy",
+  "definition": "Algorithmic Bias is a fundamental concept in philosophy.",
+  "explanation": "Learn about Algorithmic Bias and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "algorithmic-bias"
+  ]
+}

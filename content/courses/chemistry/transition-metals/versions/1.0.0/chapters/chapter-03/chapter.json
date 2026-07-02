@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Physical Properties",
+  "description": "Physical Properties",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atomic Radius",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ionic Radius",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Density",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Melting & Boiling Points",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hardness",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electrical Conductivity",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Thermal Conductivity",
+      "conceptId": "chemistry.transition-metals.chapter-03.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.applications-of-game-theory.chapter-10.topic-02",
+  "name": "Tournament Design",
+  "subject": "game-theory",
+  "definition": "Tournament Design is a fundamental concept in game-theory.",
+  "explanation": "Learn about Tournament Design and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "tournament-design"
+  ]
+}

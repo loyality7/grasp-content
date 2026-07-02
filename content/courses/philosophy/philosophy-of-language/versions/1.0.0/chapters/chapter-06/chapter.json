@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Speech Acts",
+  "description": "Speech Acts",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Speech Act Theory",
+      "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Assertions",
+      "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Questions",
+      "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Commands",
+      "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Promises",
+      "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Performative Language",
+      "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-06"
+    }
+  ]
+}

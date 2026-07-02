@@ -1,0 +1,27 @@
+{
+  "id": "chapter-08",
+  "name": "Equations",
+  "description": "Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "One-Step Equations",
+      "conceptId": "mathematics.pre-algebra.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Two-Step Equations",
+      "conceptId": "mathematics.pre-algebra.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multi-Step Equations",
+      "conceptId": "mathematics.pre-algebra.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Checking Solutions",
+      "conceptId": "mathematics.pre-algebra.chapter-08.topic-04"
+    }
+  ]
+}

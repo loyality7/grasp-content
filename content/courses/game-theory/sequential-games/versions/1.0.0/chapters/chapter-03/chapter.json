@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Information Sets",
+  "description": "Information Sets",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Perfect Information",
+      "conceptId": "game-theory.sequential-games.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Imperfect Information",
+      "conceptId": "game-theory.sequential-games.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Information Sets",
+      "conceptId": "game-theory.sequential-games.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hidden Actions",
+      "conceptId": "game-theory.sequential-games.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hidden Information",
+      "conceptId": "game-theory.sequential-games.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sequential Knowledge",
+      "conceptId": "game-theory.sequential-games.chapter-03.topic-06"
+    }
+  ]
+}

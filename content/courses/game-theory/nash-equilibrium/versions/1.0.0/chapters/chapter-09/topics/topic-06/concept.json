@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-09.topic-06",
+  "name": "Market Design",
+  "subject": "game-theory",
+  "definition": "Market Design is a fundamental concept in game-theory.",
+  "explanation": "Learn about Market Design and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "market-design"
+  ]
+}

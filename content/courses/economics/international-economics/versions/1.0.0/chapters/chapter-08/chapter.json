@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Trade Agreements",
+  "description": "Trade Agreements",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bilateral Agreements",
+      "conceptId": "economics.international-economics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Regional Trade Agreements",
+      "conceptId": "economics.international-economics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Customs Unions",
+      "conceptId": "economics.international-economics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Common Markets",
+      "conceptId": "economics.international-economics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Economic Unions",
+      "conceptId": "economics.international-economics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Free Trade Areas",
+      "conceptId": "economics.international-economics.chapter-08.topic-06"
+    }
+  ]
+}

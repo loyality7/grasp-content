@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Fundamentals of Magnetism",
+  "description": "Fundamentals of Magnetism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Magnets",
+      "conceptId": "physics.magnetism.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Magnetic Poles",
+      "conceptId": "physics.magnetism.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Magnetic Fields",
+      "conceptId": "physics.magnetism.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Magnetic Field Lines",
+      "conceptId": "physics.magnetism.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Earth's Magnetic Field",
+      "conceptId": "physics.magnetism.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Magnetic Dipoles",
+      "conceptId": "physics.magnetism.chapter-01.topic-06"
+    }
+  ]
+}

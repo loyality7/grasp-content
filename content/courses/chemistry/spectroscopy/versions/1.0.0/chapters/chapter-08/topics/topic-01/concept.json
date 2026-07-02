@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-08.topic-01",
+  "name": "X-Ray Fluorescence (XRF)",
+  "subject": "chemistry",
+  "definition": "X-Ray Fluorescence (XRF) is a fundamental concept in chemistry.",
+  "explanation": "Learn about X-Ray Fluorescence (XRF) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "x-ray-fluorescence-xrf"
+  ]
+}

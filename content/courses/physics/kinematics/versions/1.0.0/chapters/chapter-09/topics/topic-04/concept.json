@@ -1,0 +1,20 @@
+{
+  "id": "physics.kinematics.chapter-09.topic-04",
+  "name": "Integration in Motion",
+  "subject": "physics",
+  "definition": "Integration in Motion is a fundamental concept in physics.",
+  "explanation": "Learn about Integration in Motion and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "integration-in-motion"
+  ]
+}

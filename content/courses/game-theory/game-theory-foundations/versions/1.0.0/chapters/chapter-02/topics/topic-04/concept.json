@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.game-theory-foundations.chapter-02.topic-04",
+  "name": "Outcomes",
+  "subject": "game-theory",
+  "definition": "Outcomes is a fundamental concept in game-theory.",
+  "explanation": "Learn about Outcomes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "outcomes"
+  ]
+}

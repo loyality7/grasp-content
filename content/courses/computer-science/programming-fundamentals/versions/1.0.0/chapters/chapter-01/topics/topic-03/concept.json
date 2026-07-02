@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-01.topic-03",
+  "name": "Programming Languages",
+  "subject": "computer-science",
+  "definition": "Programming Languages is a fundamental concept in computer-science.",
+  "explanation": "Learn about Programming Languages and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "programming-languages"
+  ]
+}

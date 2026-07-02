@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-02.topic-03",
+  "name": "Rows",
+  "subject": "computer-science",
+  "definition": "Rows is a fundamental concept in computer-science.",
+  "explanation": "Learn about Rows and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "rows"
+  ]
+}

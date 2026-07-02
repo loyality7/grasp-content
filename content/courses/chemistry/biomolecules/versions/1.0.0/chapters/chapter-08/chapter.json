@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Vitamins & Cofactors",
+  "description": "Vitamins & Cofactors",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fat-Soluble Vitamins",
+      "conceptId": "chemistry.biomolecules.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Water-Soluble Vitamins",
+      "conceptId": "chemistry.biomolecules.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vitamin Deficiency Diseases",
+      "conceptId": "chemistry.biomolecules.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Coenzymes",
+      "conceptId": "chemistry.biomolecules.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Biological Roles",
+      "conceptId": "chemistry.biomolecules.chapter-08.topic-05"
+    }
+  ]
+}

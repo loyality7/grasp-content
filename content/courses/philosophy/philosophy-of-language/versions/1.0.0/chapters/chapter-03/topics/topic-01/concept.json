@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.philosophy-of-language.chapter-03.topic-01",
+  "name": "Truth",
+  "subject": "philosophy",
+  "definition": "Truth is a fundamental concept in philosophy.",
+  "explanation": "Learn about Truth and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "truth"
+  ]
+}

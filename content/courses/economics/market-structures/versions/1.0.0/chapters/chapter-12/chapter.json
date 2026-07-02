@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Telecommunications",
+      "conceptId": "economics.market-structures.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Airlines",
+      "conceptId": "economics.market-structures.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Pharmaceuticals",
+      "conceptId": "economics.market-structures.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Energy Markets",
+      "conceptId": "economics.market-structures.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Technology Companies",
+      "conceptId": "economics.market-structures.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "E-Commerce Platforms",
+      "conceptId": "economics.market-structures.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Financial Markets",
+      "conceptId": "economics.market-structures.chapter-12.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "chapter-06",
+  "name": "Cauchy's Integral Formula",
+  "description": "Cauchy's Integral Formula",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cauchy's Formula",
+      "conceptId": "mathematics.complex-analysis.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Higher-Order Derivatives",
+      "conceptId": "mathematics.complex-analysis.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Consequences of Cauchy's Formula",
+      "conceptId": "mathematics.complex-analysis.chapter-06.topic-03"
+    }
+  ]
+}

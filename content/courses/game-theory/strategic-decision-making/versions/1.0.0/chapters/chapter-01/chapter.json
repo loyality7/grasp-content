@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Strategic Thinking",
+  "description": "Strategic Thinking",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Strategy?",
+      "conceptId": "game-theory.strategic-decision-making.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Strategic Decision Making",
+      "conceptId": "game-theory.strategic-decision-making.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Strategic Interaction",
+      "conceptId": "game-theory.strategic-decision-making.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rational Choice",
+      "conceptId": "game-theory.strategic-decision-making.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Long-Term Thinking",
+      "conceptId": "game-theory.strategic-decision-making.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Planning",
+      "conceptId": "game-theory.strategic-decision-making.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Conflict Games",
+  "description": "Conflict Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Prisoner's Dilemma",
+      "conceptId": "game-theory.simultaneous-games.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chicken Game",
+      "conceptId": "game-theory.simultaneous-games.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Hawk-Dove Game",
+      "conceptId": "game-theory.simultaneous-games.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Matching Pennies",
+      "conceptId": "game-theory.simultaneous-games.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Zero-Sum Games",
+      "conceptId": "game-theory.simultaneous-games.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Conflict",
+      "conceptId": "game-theory.simultaneous-games.chapter-08.topic-06"
+    }
+  ]
+}

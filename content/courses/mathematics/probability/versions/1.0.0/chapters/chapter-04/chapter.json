@@ -1,0 +1,32 @@
+{
+  "id": "chapter-04",
+  "name": "Random Variables",
+  "description": "Random Variables",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Discrete Random Variables",
+      "conceptId": "mathematics.probability.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Continuous Random Variables",
+      "conceptId": "mathematics.probability.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Probability Mass Function (PMF)",
+      "conceptId": "mathematics.probability.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Probability Density Function (PDF)",
+      "conceptId": "mathematics.probability.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cumulative Distribution Function (CDF)",
+      "conceptId": "mathematics.probability.chapter-04.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Chemical Symbols & Formulae",
+  "description": "Chemical Symbols & Formulae",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Chemical Symbols",
+      "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chemical Formulae",
+      "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Molecular Formula",
+      "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Empirical Formula",
+      "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Structural Formula",
+      "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Formula Writing",
+      "conceptId": "chemistry.chemistry-foundations.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-02.topic-02",
+  "name": "Preference Profiles",
+  "subject": "game-theory",
+  "definition": "Preference Profiles is a fundamental concept in game-theory.",
+  "explanation": "Learn about Preference Profiles and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "preference-profiles"
+  ]
+}

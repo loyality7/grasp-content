@@ -1,0 +1,20 @@
+{
+  "id": "physics.newtonian-mechanics.chapter-01.topic-07",
+  "name": "Resultant Force",
+  "subject": "physics",
+  "definition": "Resultant Force is a fundamental concept in physics.",
+  "explanation": "Learn about Resultant Force and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "resultant-force"
+  ]
+}

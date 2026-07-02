@@ -1,0 +1,20 @@
+{
+  "id": "physics.modern-physics.chapter-03.topic-01",
+  "name": "Curved Spacetime",
+  "subject": "physics",
+  "definition": "Curved Spacetime is a fundamental concept in physics.",
+  "explanation": "Learn about Curved Spacetime and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "curved-spacetime"
+  ]
+}

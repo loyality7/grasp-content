@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-12.topic-03",
+  "name": "Eigenvalues of Graphs",
+  "subject": "mathematics",
+  "definition": "Eigenvalues of Graphs is a fundamental concept in mathematics.",
+  "explanation": "Learn about Eigenvalues of Graphs and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "eigenvalues-of-graphs"
+  ]
+}

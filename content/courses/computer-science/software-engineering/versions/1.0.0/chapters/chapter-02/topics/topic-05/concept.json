@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-02.topic-05",
+  "name": "User Stories",
+  "subject": "computer-science",
+  "definition": "User Stories is a fundamental concept in computer-science.",
+  "explanation": "Learn about User Stories and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "user-stories"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Model Deployment",
+  "description": "Model Deployment",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Model Serialization",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Inference",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Model Serving",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "APIs for ML Models",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Edge Deployment",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Monitoring Models",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Model Drift",
+      "conceptId": "computer-science.machine-learning.chapter-10.topic-07"
+    }
+  ]
+}

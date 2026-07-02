@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.game-theory-foundations.chapter-13.topic-16",
+  "name": "Dominance",
+  "subject": "game-theory",
+  "definition": "Dominance is a fundamental concept in game-theory.",
+  "explanation": "Learn about Dominance and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "dominance"
+  ]
+}

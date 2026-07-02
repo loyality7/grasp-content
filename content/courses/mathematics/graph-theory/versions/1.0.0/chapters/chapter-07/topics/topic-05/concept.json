@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-07.topic-05",
+  "name": "A* Search (Introduction)",
+  "subject": "mathematics",
+  "definition": "A* Search (Introduction) is a fundamental concept in mathematics.",
+  "explanation": "Learn about A* Search (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "a-search-introduction"
+  ]
+}

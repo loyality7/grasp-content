@@ -1,0 +1,641 @@
+{
+  "id": "web-development",
+  "name": "Web Development",
+  "description": "Web Development",
+  "version": "1.0.0",
+  "domain": "computer-science",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Web Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "How the Web Works",
+          "conceptId": "computer-science.web-development.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Client-Server Architecture",
+          "conceptId": "computer-science.web-development.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Browsers",
+          "conceptId": "computer-science.web-development.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Web Servers",
+          "conceptId": "computer-science.web-development.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "HTTP & HTTPS",
+          "conceptId": "computer-science.web-development.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "URLs",
+          "conceptId": "computer-science.web-development.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Domain Names",
+          "conceptId": "computer-science.web-development.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "HTML",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "HTML Structure",
+          "conceptId": "computer-science.web-development.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Semantic HTML",
+          "conceptId": "computer-science.web-development.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Text Elements",
+          "conceptId": "computer-science.web-development.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Lists",
+          "conceptId": "computer-science.web-development.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tables",
+          "conceptId": "computer-science.web-development.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Forms",
+          "conceptId": "computer-science.web-development.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Media Elements",
+          "conceptId": "computer-science.web-development.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Accessibility Basics",
+          "conceptId": "computer-science.web-development.chapter-02.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "CSS",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "CSS Syntax",
+          "conceptId": "computer-science.web-development.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Selectors",
+          "conceptId": "computer-science.web-development.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Colors",
+          "conceptId": "computer-science.web-development.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Typography",
+          "conceptId": "computer-science.web-development.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Box Model",
+          "conceptId": "computer-science.web-development.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Flexbox",
+          "conceptId": "computer-science.web-development.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "CSS Grid",
+          "conceptId": "computer-science.web-development.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Animations",
+          "conceptId": "computer-science.web-development.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Responsive Design",
+          "conceptId": "computer-science.web-development.chapter-03.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "JavaScript Fundamentals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Variables",
+          "conceptId": "computer-science.web-development.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Data Types",
+          "conceptId": "computer-science.web-development.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Operators",
+          "conceptId": "computer-science.web-development.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Functions",
+          "conceptId": "computer-science.web-development.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Objects",
+          "conceptId": "computer-science.web-development.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Arrays",
+          "conceptId": "computer-science.web-development.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "DOM Manipulation",
+          "conceptId": "computer-science.web-development.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Events",
+          "conceptId": "computer-science.web-development.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Modern JavaScript",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "ES6+ Features",
+          "conceptId": "computer-science.web-development.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Modules",
+          "conceptId": "computer-science.web-development.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Classes",
+          "conceptId": "computer-science.web-development.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Promises",
+          "conceptId": "computer-science.web-development.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Async/Await",
+          "conceptId": "computer-science.web-development.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fetch API",
+          "conceptId": "computer-science.web-development.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Error Handling",
+          "conceptId": "computer-science.web-development.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Frontend Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Component-Based Architecture",
+          "conceptId": "computer-science.web-development.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "State Management",
+          "conceptId": "computer-science.web-development.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Routing",
+          "conceptId": "computer-science.web-development.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forms",
+          "conceptId": "computer-science.web-development.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Client-Side Rendering",
+          "conceptId": "computer-science.web-development.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Frontend Build Tools",
+          "conceptId": "computer-science.web-development.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Frontend Frameworks (Introduction)",
+          "conceptId": "computer-science.web-development.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Backend Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Server-Side Programming",
+          "conceptId": "computer-science.web-development.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Routing",
+          "conceptId": "computer-science.web-development.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Middleware",
+          "conceptId": "computer-science.web-development.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Request Handling",
+          "conceptId": "computer-science.web-development.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Response Handling",
+          "conceptId": "computer-science.web-development.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "MVC Architecture",
+          "conceptId": "computer-science.web-development.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Backend Frameworks (Introduction)",
+          "conceptId": "computer-science.web-development.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Databases & ORMs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Database Integration",
+          "conceptId": "computer-science.web-development.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "SQL Databases",
+          "conceptId": "computer-science.web-development.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "NoSQL Databases",
+          "conceptId": "computer-science.web-development.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "ORM Concepts",
+          "conceptId": "computer-science.web-development.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "CRUD Operations",
+          "conceptId": "computer-science.web-development.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Validation",
+          "conceptId": "computer-science.web-development.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Database Migrations",
+          "conceptId": "computer-science.web-development.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "REST APIs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "API Design",
+          "conceptId": "computer-science.web-development.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "REST Principles",
+          "conceptId": "computer-science.web-development.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "HTTP Methods",
+          "conceptId": "computer-science.web-development.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "JSON",
+          "conceptId": "computer-science.web-development.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "API Authentication",
+          "conceptId": "computer-science.web-development.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "API Documentation",
+          "conceptId": "computer-science.web-development.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "API Testing",
+          "conceptId": "computer-science.web-development.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Authentication & Security",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sessions",
+          "conceptId": "computer-science.web-development.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cookies",
+          "conceptId": "computer-science.web-development.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "JWT",
+          "conceptId": "computer-science.web-development.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Password Hashing",
+          "conceptId": "computer-science.web-development.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "OAuth (Introduction)",
+          "conceptId": "computer-science.web-development.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "CSRF",
+          "conceptId": "computer-science.web-development.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "XSS",
+          "conceptId": "computer-science.web-development.chapter-10.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "SQL Injection Prevention",
+          "conceptId": "computer-science.web-development.chapter-10.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Deployment & DevOps",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hosting",
+          "conceptId": "computer-science.web-development.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Domain Configuration",
+          "conceptId": "computer-science.web-development.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environment Variables",
+          "conceptId": "computer-science.web-development.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "CI/CD Basics",
+          "conceptId": "computer-science.web-development.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Docker Basics",
+          "conceptId": "computer-science.web-development.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cloud Deployment",
+          "conceptId": "computer-science.web-development.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Monitoring & Logging",
+          "conceptId": "computer-science.web-development.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Performance & Best Practices",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Performance Optimization",
+          "conceptId": "computer-science.web-development.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Caching",
+          "conceptId": "computer-science.web-development.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lazy Loading",
+          "conceptId": "computer-science.web-development.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "SEO Basics",
+          "conceptId": "computer-science.web-development.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Progressive Web Apps (PWA)",
+          "conceptId": "computer-science.web-development.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Accessibility",
+          "conceptId": "computer-science.web-development.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Web Standards",
+          "conceptId": "computer-science.web-development.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Full-Stack Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Full-Stack Architecture",
+          "conceptId": "computer-science.web-development.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "E-Commerce Applications",
+          "conceptId": "computer-science.web-development.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Media Applications",
+          "conceptId": "computer-science.web-development.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Content Management Systems",
+          "conceptId": "computer-science.web-development.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Real-Time Applications",
+          "conceptId": "computer-science.web-development.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "WebSockets",
+          "conceptId": "computer-science.web-development.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Full-Stack Project",
+          "conceptId": "computer-science.web-development.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 12: Mobile Development**",
+          "conceptId": "computer-science.web-development.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Mobile App Fundamentals",
+          "conceptId": "computer-science.web-development.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Android Development",
+          "conceptId": "computer-science.web-development.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "iOS Development",
+          "conceptId": "computer-science.web-development.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Cross-Platform Development",
+          "conceptId": "computer-science.web-development.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "UI/UX for Mobile",
+          "conceptId": "computer-science.web-development.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Navigation",
+          "conceptId": "computer-science.web-development.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "State Management",
+          "conceptId": "computer-science.web-development.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Local Storage",
+          "conceptId": "computer-science.web-development.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Networking",
+          "conceptId": "computer-science.web-development.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Device Features",
+          "conceptId": "computer-science.web-development.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Push Notifications",
+          "conceptId": "computer-science.web-development.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "App Publishing",
+          "conceptId": "computer-science.web-development.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "computer-science",
+      "web-development"
+    ]
+  }
+}

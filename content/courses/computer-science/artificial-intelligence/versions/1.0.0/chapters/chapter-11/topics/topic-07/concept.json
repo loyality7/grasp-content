@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-11.topic-07",
+  "name": "AI Applications",
+  "subject": "computer-science",
+  "definition": "AI Applications is a fundamental concept in computer-science.",
+  "explanation": "Learn about AI Applications and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "ai-applications"
+  ]
+}

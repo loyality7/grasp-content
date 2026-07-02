@@ -1,0 +1,423 @@
+{
+  "id": "kinematics",
+  "name": "Kinematics",
+  "description": "Kinematics",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Describing Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Position",
+          "conceptId": "physics.kinematics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reference Frame",
+          "conceptId": "physics.kinematics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distance",
+          "conceptId": "physics.kinematics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Displacement",
+          "conceptId": "physics.kinematics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Speed",
+          "conceptId": "physics.kinematics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Velocity",
+          "conceptId": "physics.kinematics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Average Speed",
+          "conceptId": "physics.kinematics.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Average Velocity",
+          "conceptId": "physics.kinematics.chapter-01.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Instantaneous Speed",
+          "conceptId": "physics.kinematics.chapter-01.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Instantaneous Velocity",
+          "conceptId": "physics.kinematics.chapter-01.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Acceleration",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acceleration",
+          "conceptId": "physics.kinematics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Average Acceleration",
+          "conceptId": "physics.kinematics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Instantaneous Acceleration",
+          "conceptId": "physics.kinematics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Uniform Acceleration",
+          "conceptId": "physics.kinematics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Non-Uniform Acceleration",
+          "conceptId": "physics.kinematics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deceleration",
+          "conceptId": "physics.kinematics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Motion Graphs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Position-Time Graph",
+          "conceptId": "physics.kinematics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distance-Time Graph",
+          "conceptId": "physics.kinematics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Velocity-Time Graph",
+          "conceptId": "physics.kinematics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Speed-Time Graph",
+          "conceptId": "physics.kinematics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Acceleration-Time Graph",
+          "conceptId": "physics.kinematics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interpreting Motion Graphs",
+          "conceptId": "physics.kinematics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Area Under Graphs",
+          "conceptId": "physics.kinematics.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Slope of Graphs",
+          "conceptId": "physics.kinematics.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Equations of Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Uniform Motion",
+          "conceptId": "physics.kinematics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Constant Acceleration",
+          "conceptId": "physics.kinematics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "First Equation of Motion",
+          "conceptId": "physics.kinematics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Second Equation of Motion",
+          "conceptId": "physics.kinematics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Third Equation of Motion",
+          "conceptId": "physics.kinematics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Derivation of Equations",
+          "conceptId": "physics.kinematics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "conceptId": "physics.kinematics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Relative Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Relative Position",
+          "conceptId": "physics.kinematics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Relative Velocity",
+          "conceptId": "physics.kinematics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Relative Acceleration",
+          "conceptId": "physics.kinematics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "River Boat Problems",
+          "conceptId": "physics.kinematics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rain-Man Problems",
+          "conceptId": "physics.kinematics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Moving Observer Problems",
+          "conceptId": "physics.kinematics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Projectile Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Projectile Basics",
+          "conceptId": "physics.kinematics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Horizontal Projection",
+          "conceptId": "physics.kinematics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Angular Projection",
+          "conceptId": "physics.kinematics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Time of Flight",
+          "conceptId": "physics.kinematics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Maximum Height",
+          "conceptId": "physics.kinematics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Horizontal Range",
+          "conceptId": "physics.kinematics.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Projectile Trajectory",
+          "conceptId": "physics.kinematics.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Projectile on Inclined Plane",
+          "conceptId": "physics.kinematics.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Circular Motion (Kinematics)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Circular Motion",
+          "conceptId": "physics.kinematics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Angular Displacement",
+          "conceptId": "physics.kinematics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Angular Velocity",
+          "conceptId": "physics.kinematics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Angular Acceleration",
+          "conceptId": "physics.kinematics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tangential Velocity",
+          "conceptId": "physics.kinematics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Centripetal Acceleration",
+          "conceptId": "physics.kinematics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Period",
+          "conceptId": "physics.kinematics.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Frequency",
+          "conceptId": "physics.kinematics.chapter-07.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Motion in Multiple Dimensions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Two-Dimensional Motion",
+          "conceptId": "physics.kinematics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vector Components",
+          "conceptId": "physics.kinematics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Motion in x-y Plane",
+          "conceptId": "physics.kinematics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Relative Motion in 2D",
+          "conceptId": "physics.kinematics.chapter-08.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Calculus in Kinematics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Position Function",
+          "conceptId": "physics.kinematics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Velocity from Position",
+          "conceptId": "physics.kinematics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Acceleration from Velocity",
+          "conceptId": "physics.kinematics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Integration in Motion",
+          "conceptId": "physics.kinematics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Differential Relationships",
+          "conceptId": "physics.kinematics.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Free Fall",
+          "conceptId": "physics.kinematics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Elevator Motion",
+          "conceptId": "physics.kinematics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vehicle Motion",
+          "conceptId": "physics.kinematics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sports Motion",
+          "conceptId": "physics.kinematics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Satellite Motion (Kinematics)",
+          "conceptId": "physics.kinematics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Motion Analysis",
+          "conceptId": "physics.kinematics.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 3 (Newtonian Mechanics)** will answer **why objects move** by introducing forces, Newton's laws, free-body diagrams, friction, tension, and equilibrium.",
+          "conceptId": "physics.kinematics.chapter-10.topic-07"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "kinematics"
+    ]
+  }
+}

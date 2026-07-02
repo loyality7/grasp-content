@@ -1,0 +1,561 @@
+{
+  "id": "philosophy-of-language",
+  "name": "Philosophy of Language",
+  "description": "Philosophy of Language",
+  "version": "1.0.0",
+  "domain": "philosophy",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Philosophy of Language",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Philosophy of Language?",
+          "conceptId": "philosophy.philosophy-of-language.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Language & Communication",
+          "conceptId": "philosophy.philosophy-of-language.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Meaning",
+          "conceptId": "philosophy.philosophy-of-language.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reference",
+          "conceptId": "philosophy.philosophy-of-language.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Truth",
+          "conceptId": "philosophy.philosophy-of-language.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Major Questions",
+          "conceptId": "philosophy.philosophy-of-language.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Meaning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Meaning",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sense",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reference",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Concepts",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Definitions",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ambiguity",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Vagueness",
+          "conceptId": "philosophy.philosophy-of-language.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Truth & Reference",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Truth",
+          "conceptId": "philosophy.philosophy-of-language.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Correspondence Theory",
+          "conceptId": "philosophy.philosophy-of-language.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coherence Theory",
+          "conceptId": "philosophy.philosophy-of-language.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pragmatic Theory of Truth",
+          "conceptId": "philosophy.philosophy-of-language.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Names",
+          "conceptId": "philosophy.philosophy-of-language.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Descriptions",
+          "conceptId": "philosophy.philosophy-of-language.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Semantics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Semantics",
+          "conceptId": "philosophy.philosophy-of-language.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Words",
+          "conceptId": "philosophy.philosophy-of-language.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sentences",
+          "conceptId": "philosophy.philosophy-of-language.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Propositions",
+          "conceptId": "philosophy.philosophy-of-language.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Compositionality",
+          "conceptId": "philosophy.philosophy-of-language.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Semantic Relations",
+          "conceptId": "philosophy.philosophy-of-language.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Pragmatics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pragmatics",
+          "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Context",
+          "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Speaker Meaning",
+          "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conversational Implicature",
+          "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Presupposition",
+          "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Context-Dependent Language",
+          "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Speech Acts",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Speech Act Theory",
+          "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Assertions",
+          "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Questions",
+          "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Commands",
+          "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Promises",
+          "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Performative Language",
+          "conceptId": "philosophy.philosophy-of-language.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Language & Thought",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linguistic Relativity",
+          "conceptId": "philosophy.philosophy-of-language.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sapir-Whorf Hypothesis",
+          "conceptId": "philosophy.philosophy-of-language.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Concepts",
+          "conceptId": "philosophy.philosophy-of-language.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mental Representation",
+          "conceptId": "philosophy.philosophy-of-language.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inner Speech",
+          "conceptId": "philosophy.philosophy-of-language.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cognitive Development",
+          "conceptId": "philosophy.philosophy-of-language.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Logic & Language",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Logical Form",
+          "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Formal Languages",
+          "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Natural Languages",
+          "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantification",
+          "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Identity",
+          "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Analysis",
+          "conceptId": "philosophy.philosophy-of-language.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Communication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Communication Models",
+          "conceptId": "philosophy.philosophy-of-language.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Interpretation",
+          "conceptId": "philosophy.philosophy-of-language.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Miscommunication",
+          "conceptId": "philosophy.philosophy-of-language.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Symbol Systems",
+          "conceptId": "philosophy.philosophy-of-language.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nonverbal Communication",
+          "conceptId": "philosophy.philosophy-of-language.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Information Theory",
+          "conceptId": "philosophy.philosophy-of-language.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Language & Society",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Meaning",
+          "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Language & Culture",
+          "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Language Change",
+          "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multilingualism",
+          "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Political Language",
+          "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ethical Language",
+          "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Language & Artificial Intelligence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Natural Language Processing (NLP)",
+          "conceptId": "philosophy.philosophy-of-language.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Language Models",
+          "conceptId": "philosophy.philosophy-of-language.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Machine Translation",
+          "conceptId": "philosophy.philosophy-of-language.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conversational AI",
+          "conceptId": "philosophy.philosophy-of-language.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Knowledge Representation",
+          "conceptId": "philosophy.philosophy-of-language.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human-AI Communication",
+          "conceptId": "philosophy.philosophy-of-language.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Education",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Law",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Journalism",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Linguistics",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computer Science",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artificial Intelligence",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cognitive Science",
+          "conceptId": "philosophy.philosophy-of-language.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy of Linguistics",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fiction & Reference",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Meaning in Digital Communication",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Semantics",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Future of Language",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Philosophy of Communication",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 10: Aesthetics**",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Beauty",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Art",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Artistic Value",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Creativity",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Interpretation",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Taste",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Aesthetic Experience",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Literature",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Music",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Film",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Architecture",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Digital Art",
+          "conceptId": "philosophy.philosophy-of-language.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "philosophy",
+      "philosophy-of-language"
+    ]
+  }
+}

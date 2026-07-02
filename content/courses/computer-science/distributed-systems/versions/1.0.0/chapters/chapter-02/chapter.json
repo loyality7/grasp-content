@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Distributed Communication",
+  "description": "Distributed Communication",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Remote Procedure Call (RPC)",
+      "conceptId": "computer-science.distributed-systems.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Remote Method Invocation (RMI)",
+      "conceptId": "computer-science.distributed-systems.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Message Passing",
+      "conceptId": "computer-science.distributed-systems.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Publish-Subscribe",
+      "conceptId": "computer-science.distributed-systems.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Message Queues",
+      "conceptId": "computer-science.distributed-systems.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Event-Driven Communication",
+      "conceptId": "computer-science.distributed-systems.chapter-02.topic-06"
+    }
+  ]
+}

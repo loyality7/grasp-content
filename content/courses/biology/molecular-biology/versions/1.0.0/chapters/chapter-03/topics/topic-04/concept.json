@@ -1,0 +1,20 @@
+{
+  "id": "biology.molecular-biology.chapter-03.topic-04",
+  "name": "DNA Polymerase",
+  "subject": "biology",
+  "definition": "DNA Polymerase is a fundamental concept in biology.",
+  "explanation": "Learn about DNA Polymerase and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "dna-polymerase"
+  ]
+}

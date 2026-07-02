@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-02.topic-07",
+  "name": "Inclusion-Exclusion Principle",
+  "subject": "mathematics",
+  "definition": "Inclusion-Exclusion Principle is a fundamental concept in mathematics.",
+  "explanation": "Learn about Inclusion-Exclusion Principle and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "inclusion-exclusion-principle"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.relativity.chapter-10.topic-04",
+  "name": "LIGO",
+  "subject": "physics",
+  "definition": "LIGO is a fundamental concept in physics.",
+  "explanation": "Learn about LIGO and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "ligo"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.magnetism.chapter-02.topic-03",
+  "name": "Right-Hand Rule",
+  "subject": "physics",
+  "definition": "Right-Hand Rule is a fundamental concept in physics.",
+  "explanation": "Learn about Right-Hand Rule and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "right-hand-rule"
+  ]
+}

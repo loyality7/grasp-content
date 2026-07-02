@@ -1,0 +1,37 @@
+{
+  "id": "chapter-23",
+  "name": "Measurement & Instrumentation",
+  "description": "Measurement & Instrumentation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ammeter",
+      "conceptId": "physics.electromagnetism.chapter-23.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Voltmeter",
+      "conceptId": "physics.electromagnetism.chapter-23.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ohmmeter",
+      "conceptId": "physics.electromagnetism.chapter-23.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Multimeter",
+      "conceptId": "physics.electromagnetism.chapter-23.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Oscilloscope",
+      "conceptId": "physics.electromagnetism.chapter-23.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Wheatstone Bridge",
+      "conceptId": "physics.electromagnetism.chapter-23.topic-06"
+    }
+  ]
+}

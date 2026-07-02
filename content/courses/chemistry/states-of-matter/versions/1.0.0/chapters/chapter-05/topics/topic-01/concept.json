@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.states-of-matter.chapter-05.topic-01",
+  "name": "Boyle's Law",
+  "subject": "chemistry",
+  "definition": "Boyle's Law is a fundamental concept in chemistry.",
+  "explanation": "Learn about Boyle's Law and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "boyles-law"
+  ]
+}

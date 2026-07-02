@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Philosophy of Mind",
+  "description": "Introduction to Philosophy of Mind",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Philosophy of Mind?",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mental States",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Consciousness",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "The Mind-Body Problem",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mental Representation",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Major Theories of Mind",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-06"
+    }
+  ]
+}

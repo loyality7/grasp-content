@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-10.topic-04",
+  "name": "Stefan-Boltzmann Law",
+  "subject": "physics",
+  "definition": "Stefan-Boltzmann Law is a fundamental concept in physics.",
+  "explanation": "Learn about Stefan-Boltzmann Law and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "stefan-boltzmann-law"
+  ]
+}

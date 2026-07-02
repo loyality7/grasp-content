@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-12.topic-05",
+  "name": "Sequential Planning",
+  "subject": "game-theory",
+  "definition": "Sequential Planning is a fundamental concept in game-theory.",
+  "explanation": "Learn about Sequential Planning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "sequential-planning"
+  ]
+}

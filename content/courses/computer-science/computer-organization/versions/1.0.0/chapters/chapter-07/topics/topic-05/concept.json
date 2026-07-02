@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-07.topic-05",
+  "name": "Direct Memory Access (DMA)",
+  "subject": "computer-science",
+  "definition": "Direct Memory Access (DMA) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Direct Memory Access (DMA) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "direct-memory-access-dma"
+  ]
+}

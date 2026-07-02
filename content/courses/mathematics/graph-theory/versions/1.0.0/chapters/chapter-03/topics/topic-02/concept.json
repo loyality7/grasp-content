@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-03.topic-02",
+  "name": "In-Degree",
+  "subject": "mathematics",
+  "definition": "In-Degree is a fundamental concept in mathematics.",
+  "explanation": "Learn about In-Degree and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "in-degree"
+  ]
+}

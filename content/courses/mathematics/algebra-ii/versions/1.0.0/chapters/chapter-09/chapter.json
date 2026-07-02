@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Conic Sections",
+  "description": "Conic Sections",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Circles",
+      "conceptId": "mathematics.algebra-ii.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Parabolas",
+      "conceptId": "mathematics.algebra-ii.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ellipses",
+      "conceptId": "mathematics.algebra-ii.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hyperbolas",
+      "conceptId": "mathematics.algebra-ii.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications",
+      "conceptId": "mathematics.algebra-ii.chapter-09.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-13.topic-03",
+  "name": "Survival Analysis",
+  "subject": "economics",
+  "definition": "Survival Analysis is a fundamental concept in economics.",
+  "explanation": "Learn about Survival Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "survival-analysis"
+  ]
+}

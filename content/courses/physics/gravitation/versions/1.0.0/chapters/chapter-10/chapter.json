@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Planetary Motion",
+      "conceptId": "physics.gravitation.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Space Missions",
+      "conceptId": "physics.gravitation.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "GPS Satellites",
+      "conceptId": "physics.gravitation.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rocket Trajectories",
+      "conceptId": "physics.gravitation.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Space Exploration",
+      "conceptId": "physics.gravitation.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Astrodynamics (Introduction)",
+      "conceptId": "physics.gravitation.chapter-10.topic-06"
+    }
+  ]
+}

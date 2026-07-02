@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Variables & Data Types",
+  "description": "Variables & Data Types",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Variables",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Constants",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Identifiers",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Primitive Data Types",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Type Conversion",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Type Casting",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Variable Scope (Introduction)",
+      "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-07"
+    }
+  ]
+}

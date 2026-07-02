@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Long-Run Production",
+  "description": "Long-Run Production",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Variable Inputs",
+      "conceptId": "economics.producer-theory.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Returns to Scale",
+      "conceptId": "economics.producer-theory.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Expansion Path",
+      "conceptId": "economics.producer-theory.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Optimal Input Mix",
+      "conceptId": "economics.producer-theory.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Production Planning",
+      "conceptId": "economics.producer-theory.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Long-Run Efficiency",
+      "conceptId": "economics.producer-theory.chapter-04.topic-06"
+    }
+  ]
+}

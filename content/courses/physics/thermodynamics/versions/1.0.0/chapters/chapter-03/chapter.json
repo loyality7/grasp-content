@@ -1,0 +1,47 @@
+{
+  "id": "chapter-03",
+  "name": "Kinetic Theory of Gases",
+  "description": "Kinetic Theory of Gases",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ideal Gas",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gas Molecules",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Pressure",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Temperature",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "RMS Speed",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Mean Free Path",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Degrees of Freedom",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Equipartition Theorem",
+      "conceptId": "physics.thermodynamics.chapter-03.topic-08"
+    }
+  ]
+}

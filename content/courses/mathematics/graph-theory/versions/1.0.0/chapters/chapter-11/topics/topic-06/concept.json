@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-11.topic-06",
+  "name": "Regular Graphs",
+  "subject": "mathematics",
+  "definition": "Regular Graphs is a fundamental concept in mathematics.",
+  "explanation": "Learn about Regular Graphs and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "regular-graphs"
+  ]
+}

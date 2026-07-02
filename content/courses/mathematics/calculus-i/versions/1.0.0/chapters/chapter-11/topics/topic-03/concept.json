@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-i.chapter-11.topic-03",
+  "name": "Midpoint Rule",
+  "subject": "mathematics",
+  "definition": "Midpoint Rule is a fundamental concept in mathematics.",
+  "explanation": "Learn about Midpoint Rule and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "midpoint-rule"
+  ]
+}

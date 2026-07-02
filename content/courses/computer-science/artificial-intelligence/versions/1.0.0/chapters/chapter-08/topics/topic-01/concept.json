@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-08.topic-01",
+  "name": "Expert Systems",
+  "subject": "computer-science",
+  "definition": "Expert Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Expert Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "expert-systems"
+  ]
+}

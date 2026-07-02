@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-01.topic-04",
+  "name": "Physical Quantities",
+  "subject": "physics",
+  "definition": "Physical Quantities is a fundamental concept in physics.",
+  "explanation": "Learn about Physical Quantities and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "physical-quantities"
+  ]
+}

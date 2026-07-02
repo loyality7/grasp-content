@@ -1,0 +1,37 @@
+{
+  "id": "chapter-15",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fluid Flow",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Electromagnetism",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Heat Transfer",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Optimization Problems",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Engineering Applications",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Physics Applications",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-06"
+    }
+  ]
+}

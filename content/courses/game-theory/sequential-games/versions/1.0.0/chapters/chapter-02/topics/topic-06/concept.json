@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-02.topic-06",
+  "name": "Paths Through a Game",
+  "subject": "game-theory",
+  "definition": "Paths Through a Game is a fundamental concept in game-theory.",
+  "explanation": "Learn about Paths Through a Game and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "paths-through-a-game"
+  ]
+}

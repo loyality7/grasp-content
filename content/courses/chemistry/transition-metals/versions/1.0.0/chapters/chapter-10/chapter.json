@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Lanthanides & Actinides",
+  "description": "Lanthanides & Actinides",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Lanthanides",
+      "conceptId": "chemistry.transition-metals.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lanthanide Contraction",
+      "conceptId": "chemistry.transition-metals.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rare Earth Elements",
+      "conceptId": "chemistry.transition-metals.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Actinides",
+      "conceptId": "chemistry.transition-metals.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Radioactive Elements",
+      "conceptId": "chemistry.transition-metals.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Nuclear Applications",
+      "conceptId": "chemistry.transition-metals.chapter-10.topic-06"
+    }
+  ]
+}

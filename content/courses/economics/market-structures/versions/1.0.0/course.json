@@ -1,0 +1,571 @@
+{
+  "id": "market-structures",
+  "name": "Market Structures",
+  "description": "Market Structures",
+  "version": "1.0.0",
+  "domain": "economics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Market Structures",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Market?",
+          "conceptId": "economics.market-structures.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Characteristics of Market Structures",
+          "conceptId": "economics.market-structures.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Market Power",
+          "conceptId": "economics.market-structures.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Competition",
+          "conceptId": "economics.market-structures.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Barriers to Entry",
+          "conceptId": "economics.market-structures.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Market Efficiency",
+          "conceptId": "economics.market-structures.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Perfect Competition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Characteristics",
+          "conceptId": "economics.market-structures.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Price Takers",
+          "conceptId": "economics.market-structures.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Market Equilibrium",
+          "conceptId": "economics.market-structures.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Profit Maximization",
+          "conceptId": "economics.market-structures.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Short-Run Equilibrium",
+          "conceptId": "economics.market-structures.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Long-Run Equilibrium",
+          "conceptId": "economics.market-structures.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Economic Efficiency",
+          "conceptId": "economics.market-structures.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Monopoly",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Characteristics of Monopoly",
+          "conceptId": "economics.market-structures.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sources of Monopoly Power",
+          "conceptId": "economics.market-structures.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Price Setting",
+          "conceptId": "economics.market-structures.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Output Decision",
+          "conceptId": "economics.market-structures.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Natural Monopoly",
+          "conceptId": "economics.market-structures.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Monopoly Regulation",
+          "conceptId": "economics.market-structures.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Welfare Effects",
+          "conceptId": "economics.market-structures.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Monopolistic Competition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Product Differentiation",
+          "conceptId": "economics.market-structures.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brand Competition",
+          "conceptId": "economics.market-structures.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Short-Run Equilibrium",
+          "conceptId": "economics.market-structures.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Long-Run Equilibrium",
+          "conceptId": "economics.market-structures.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Advertising",
+          "conceptId": "economics.market-structures.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Non-Price Competition",
+          "conceptId": "economics.market-structures.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Oligopoly",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Characteristics",
+          "conceptId": "economics.market-structures.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategic Interdependence",
+          "conceptId": "economics.market-structures.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Price Leadership",
+          "conceptId": "economics.market-structures.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Kinked Demand Curve",
+          "conceptId": "economics.market-structures.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collusion",
+          "conceptId": "economics.market-structures.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cartels",
+          "conceptId": "economics.market-structures.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Market Concentration",
+          "conceptId": "economics.market-structures.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Strategic Behavior",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Game Theory",
+          "conceptId": "economics.market-structures.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nash Equilibrium",
+          "conceptId": "economics.market-structures.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Prisoner's Dilemma",
+          "conceptId": "economics.market-structures.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Repeated Games",
+          "conceptId": "economics.market-structures.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Entry Deterrence",
+          "conceptId": "economics.market-structures.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Competitive Strategy",
+          "conceptId": "economics.market-structures.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Pricing Strategies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Price Discrimination",
+          "conceptId": "economics.market-structures.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Two-Part Pricing",
+          "conceptId": "economics.market-structures.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bundling",
+          "conceptId": "economics.market-structures.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Peak Pricing",
+          "conceptId": "economics.market-structures.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dynamic Pricing",
+          "conceptId": "economics.market-structures.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Auctions",
+          "conceptId": "economics.market-structures.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Competition Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Antitrust Laws",
+          "conceptId": "economics.market-structures.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Competition Authorities",
+          "conceptId": "economics.market-structures.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mergers & Acquisitions",
+          "conceptId": "economics.market-structures.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Abuse of Dominance",
+          "conceptId": "economics.market-structures.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Consumer Protection",
+          "conceptId": "economics.market-structures.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Market Regulation",
+          "conceptId": "economics.market-structures.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Digital Markets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Platform Markets",
+          "conceptId": "economics.market-structures.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Network Effects",
+          "conceptId": "economics.market-structures.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Sided Markets",
+          "conceptId": "economics.market-structures.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Digital Monopolies",
+          "conceptId": "economics.market-structures.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data as an Economic Asset",
+          "conceptId": "economics.market-structures.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Competition in the Digital Economy",
+          "conceptId": "economics.market-structures.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Market Failure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Externalities",
+          "conceptId": "economics.market-structures.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Public Goods",
+          "conceptId": "economics.market-structures.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Information Asymmetry",
+          "conceptId": "economics.market-structures.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Market Power",
+          "conceptId": "economics.market-structures.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Government Intervention",
+          "conceptId": "economics.market-structures.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regulatory Policies",
+          "conceptId": "economics.market-structures.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Industry Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Industry Structure",
+          "conceptId": "economics.market-structures.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Market Concentration Ratios",
+          "conceptId": "economics.market-structures.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Herfindahl-Hirschman Index (HHI)",
+          "conceptId": "economics.market-structures.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Competitive Advantage",
+          "conceptId": "economics.market-structures.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Market Entry",
+          "conceptId": "economics.market-structures.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industry Life Cycle",
+          "conceptId": "economics.market-structures.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Telecommunications",
+          "conceptId": "economics.market-structures.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Airlines",
+          "conceptId": "economics.market-structures.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pharmaceuticals",
+          "conceptId": "economics.market-structures.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Markets",
+          "conceptId": "economics.market-structures.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Technology Companies",
+          "conceptId": "economics.market-structures.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "E-Commerce Platforms",
+          "conceptId": "economics.market-structures.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Financial Markets",
+          "conceptId": "economics.market-structures.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Contestable Markets",
+          "conceptId": "economics.market-structures.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Behavioral Industrial Organization",
+          "conceptId": "economics.market-structures.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Platform Economics",
+          "conceptId": "economics.market-structures.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Innovation & Competition",
+          "conceptId": "economics.market-structures.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Global Competition",
+          "conceptId": "economics.market-structures.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Market Structures",
+          "conceptId": "economics.market-structures.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 7: International Economics**",
+          "conceptId": "economics.market-structures.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Comparative Advantage",
+          "conceptId": "economics.market-structures.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "International Trade",
+          "conceptId": "economics.market-structures.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Trade Theories",
+          "conceptId": "economics.market-structures.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Tariffs & Quotas",
+          "conceptId": "economics.market-structures.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Exchange Rates",
+          "conceptId": "economics.market-structures.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Balance of Payments",
+          "conceptId": "economics.market-structures.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Trade Agreements",
+          "conceptId": "economics.market-structures.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Globalization",
+          "conceptId": "economics.market-structures.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "International Finance",
+          "conceptId": "economics.market-structures.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Trade Policy",
+          "conceptId": "economics.market-structures.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Economic Integration",
+          "conceptId": "economics.market-structures.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Global Economic Institutions",
+          "conceptId": "economics.market-structures.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "economics",
+      "market-structures"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-02.topic-03",
+  "name": "Decision Nodes",
+  "subject": "game-theory",
+  "definition": "Decision Nodes is a fundamental concept in game-theory.",
+  "explanation": "Learn about Decision Nodes and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "decision-nodes"
+  ]
+}

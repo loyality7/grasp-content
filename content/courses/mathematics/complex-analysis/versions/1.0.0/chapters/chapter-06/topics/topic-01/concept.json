@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-06.topic-01",
+  "name": "Cauchy's Formula",
+  "subject": "mathematics",
+  "definition": "Cauchy's Formula is a fundamental concept in mathematics.",
+  "explanation": "Learn about Cauchy's Formula and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "cauchys-formula"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.metaphysics.chapter-02.topic-06",
+  "name": "Ship of Theseus",
+  "subject": "philosophy",
+  "definition": "Ship of Theseus is a fundamental concept in philosophy.",
+  "explanation": "Learn about Ship of Theseus and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "ship-of-theseus"
+  ]
+}

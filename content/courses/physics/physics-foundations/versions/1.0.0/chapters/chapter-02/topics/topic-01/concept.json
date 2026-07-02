@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-02.topic-01",
+  "name": "SI Base Units",
+  "subject": "physics",
+  "definition": "SI Base Units is a fundamental concept in physics.",
+  "explanation": "Learn about SI Base Units and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "si-base-units"
+  ]
+}

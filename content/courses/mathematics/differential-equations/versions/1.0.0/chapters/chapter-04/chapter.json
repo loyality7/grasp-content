@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Second-Order Differential Equations",
+  "description": "Second-Order Differential Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Homogeneous Equations",
+      "conceptId": "mathematics.differential-equations.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Nonhomogeneous Equations",
+      "conceptId": "mathematics.differential-equations.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Constant Coefficient Equations",
+      "conceptId": "mathematics.differential-equations.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Characteristic Equation",
+      "conceptId": "mathematics.differential-equations.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Repeated Roots",
+      "conceptId": "mathematics.differential-equations.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Complex Roots",
+      "conceptId": "mathematics.differential-equations.chapter-04.topic-06"
+    }
+  ]
+}

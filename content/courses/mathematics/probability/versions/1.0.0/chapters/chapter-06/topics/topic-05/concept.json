@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-06.topic-05",
+  "name": "Hypergeometric Distribution",
+  "subject": "mathematics",
+  "definition": "Hypergeometric Distribution is a fundamental concept in mathematics.",
+  "explanation": "Learn about Hypergeometric Distribution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "hypergeometric-distribution"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Galvanic (Voltaic) Cells",
+  "description": "Galvanic (Voltaic) Cells",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Galvanic Cells",
+      "conceptId": "chemistry.electrochemistry.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Daniell Cell",
+      "conceptId": "chemistry.electrochemistry.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electron Flow",
+      "conceptId": "chemistry.electrochemistry.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ion Movement",
+      "conceptId": "chemistry.electrochemistry.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cell Reactions",
+      "conceptId": "chemistry.electrochemistry.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "chemistry.electrochemistry.chapter-04.topic-06"
+    }
+  ]
+}

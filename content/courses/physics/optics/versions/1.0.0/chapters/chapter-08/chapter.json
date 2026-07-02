@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Diffraction",
+  "description": "Diffraction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Single Slit Diffraction",
+      "conceptId": "physics.optics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Double Slit Diffraction",
+      "conceptId": "physics.optics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Diffraction Grating",
+      "conceptId": "physics.optics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Resolving Power",
+      "conceptId": "physics.optics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rayleigh Criterion",
+      "conceptId": "physics.optics.chapter-08.topic-05"
+    }
+  ]
+}

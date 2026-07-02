@@ -1,0 +1,20 @@
+{
+  "id": "biology.immunology.chapter-09.topic-04",
+  "name": "Asthma",
+  "subject": "biology",
+  "definition": "Asthma is a fundamental concept in biology.",
+  "explanation": "Learn about Asthma and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "asthma"
+  ]
+}

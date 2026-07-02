@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Eastern Philosophical Traditions",
+  "description": "Eastern Philosophical Traditions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Indian Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hindu Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Buddhist Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Jain Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Confucianism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Daoism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-06"
+    }
+  ]
+}

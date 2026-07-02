@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Input Markets",
+  "description": "Input Markets",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Demand for Labor",
+      "conceptId": "economics.producer-theory.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Capital",
+      "conceptId": "economics.producer-theory.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Land",
+      "conceptId": "economics.producer-theory.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Entrepreneurship",
+      "conceptId": "economics.producer-theory.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Wage Determination",
+      "conceptId": "economics.producer-theory.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Productivity & Compensation",
+      "conceptId": "economics.producer-theory.chapter-08.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Accelerators & Detectors",
+  "description": "Accelerators & Detectors",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Linear Accelerators",
+      "conceptId": "physics.particle-physics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Synchrotrons",
+      "conceptId": "physics.particle-physics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cyclotrons",
+      "conceptId": "physics.particle-physics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Large Hadron Collider",
+      "conceptId": "physics.particle-physics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Particle Detectors",
+      "conceptId": "physics.particle-physics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Tracking Systems",
+      "conceptId": "physics.particle-physics.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Calorimeters",
+      "conceptId": "physics.particle-physics.chapter-09.topic-07"
+    }
+  ]
+}

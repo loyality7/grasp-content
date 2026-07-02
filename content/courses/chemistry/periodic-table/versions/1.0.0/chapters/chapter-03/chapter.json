@@ -1,0 +1,32 @@
+{
+  "id": "chapter-03",
+  "name": "Electronic Configuration & the Periodic Table",
+  "description": "Electronic Configuration & the Periodic Table",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electron Configuration Review",
+      "conceptId": "chemistry.periodic-table.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Valence Electrons",
+      "conceptId": "chemistry.periodic-table.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Valence Shell",
+      "conceptId": "chemistry.periodic-table.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Block Classification",
+      "conceptId": "chemistry.periodic-table.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Periodicity from Electron Configuration",
+      "conceptId": "chemistry.periodic-table.chapter-03.topic-05"
+    }
+  ]
+}

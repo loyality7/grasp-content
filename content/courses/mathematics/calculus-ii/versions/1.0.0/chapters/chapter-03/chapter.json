@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "First-Order Differential Equations",
+  "description": "First-Order Differential Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Separable Equations",
+      "conceptId": "mathematics.calculus-ii.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Linear Differential Equations",
+      "conceptId": "mathematics.calculus-ii.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Growth & Decay Models",
+      "conceptId": "mathematics.calculus-ii.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Newton's Law of Cooling",
+      "conceptId": "mathematics.calculus-ii.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Logistic Equation",
+      "conceptId": "mathematics.calculus-ii.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Mixing Problems",
+      "conceptId": "mathematics.calculus-ii.chapter-03.topic-06"
+    }
+  ]
+}

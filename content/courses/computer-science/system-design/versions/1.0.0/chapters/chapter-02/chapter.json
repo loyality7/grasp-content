@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "System Architecture",
+  "description": "System Architecture",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Monolithic Architecture",
+      "conceptId": "computer-science.system-design.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Layered Architecture",
+      "conceptId": "computer-science.system-design.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Client-Server Architecture",
+      "conceptId": "computer-science.system-design.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Service-Oriented Architecture (SOA)",
+      "conceptId": "computer-science.system-design.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Microservices",
+      "conceptId": "computer-science.system-design.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Event-Driven Architecture",
+      "conceptId": "computer-science.system-design.chapter-02.topic-06"
+    }
+  ]
+}

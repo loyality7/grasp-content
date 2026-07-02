@@ -1,0 +1,22 @@
+{
+  "id": "chapter-10",
+  "name": "Approximation Methods",
+  "description": "Approximation Methods",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Perturbation Theory",
+      "conceptId": "physics.quantum-mechanics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Variational Method",
+      "conceptId": "physics.quantum-mechanics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "WKB Approximation (Introduction)",
+      "conceptId": "physics.quantum-mechanics.chapter-10.topic-03"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Polymer Industry",
+  "description": "Polymer Industry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Plastic Manufacturing",
+      "conceptId": "chemistry.industrial-chemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Synthetic Rubber",
+      "conceptId": "chemistry.industrial-chemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Fibers",
+      "conceptId": "chemistry.industrial-chemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Resins",
+      "conceptId": "chemistry.industrial-chemistry.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Polymer Processing",
+      "conceptId": "chemistry.industrial-chemistry.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Recycling Technologies",
+      "conceptId": "chemistry.industrial-chemistry.chapter-06.topic-06"
+    }
+  ]
+}

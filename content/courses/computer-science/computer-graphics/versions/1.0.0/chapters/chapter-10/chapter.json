@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "GPU Programming",
+  "description": "GPU Programming",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Graphics Processing Units (GPUs)",
+      "conceptId": "computer-science.computer-graphics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Shader Programming",
+      "conceptId": "computer-science.computer-graphics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vertex Shaders",
+      "conceptId": "computer-science.computer-graphics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fragment Shaders",
+      "conceptId": "computer-science.computer-graphics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Compute Shaders",
+      "conceptId": "computer-science.computer-graphics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Graphics APIs (Overview)",
+      "conceptId": "computer-science.computer-graphics.chapter-10.topic-06"
+    }
+  ]
+}

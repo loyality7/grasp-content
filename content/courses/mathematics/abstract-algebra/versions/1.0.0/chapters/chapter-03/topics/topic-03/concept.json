@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.abstract-algebra.chapter-03.topic-03",
+  "name": "Automorphisms",
+  "subject": "mathematics",
+  "definition": "Automorphisms is a fundamental concept in mathematics.",
+  "explanation": "Learn about Automorphisms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "automorphisms"
+  ]
+}

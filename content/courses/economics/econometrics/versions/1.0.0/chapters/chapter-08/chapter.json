@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Panel Data",
+  "description": "Panel Data",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cross-Sectional Data",
+      "conceptId": "economics.econometrics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Panel Data",
+      "conceptId": "economics.econometrics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Fixed Effects Models",
+      "conceptId": "economics.econometrics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Random Effects Models",
+      "conceptId": "economics.econometrics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Longitudinal Analysis",
+      "conceptId": "economics.econometrics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Panel Data Applications",
+      "conceptId": "economics.econometrics.chapter-08.topic-06"
+    }
+  ]
+}

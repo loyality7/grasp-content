@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-04.topic-01",
+  "name": "Walks",
+  "subject": "mathematics",
+  "definition": "Walks is a fundamental concept in mathematics.",
+  "explanation": "Learn about Walks and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "walks"
+  ]
+}

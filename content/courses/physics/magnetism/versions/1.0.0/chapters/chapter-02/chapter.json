@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Magnetic Force",
+  "description": "Magnetic Force",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Magnetic Force on a Charge",
+      "conceptId": "physics.magnetism.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lorentz Force",
+      "conceptId": "physics.magnetism.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Right-Hand Rule",
+      "conceptId": "physics.magnetism.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Motion of Charged Particles",
+      "conceptId": "physics.magnetism.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cyclotron Motion",
+      "conceptId": "physics.magnetism.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Helical Motion",
+      "conceptId": "physics.magnetism.chapter-02.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-12.topic-02",
+  "name": "Windows Architecture",
+  "subject": "computer-science",
+  "definition": "Windows Architecture is a fundamental concept in computer-science.",
+  "explanation": "Learn about Windows Architecture and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "windows-architecture"
+  ]
+}

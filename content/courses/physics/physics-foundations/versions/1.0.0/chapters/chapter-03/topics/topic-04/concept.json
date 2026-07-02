@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-03.topic-04",
+  "name": "Scientific Notation",
+  "subject": "physics",
+  "definition": "Scientific Notation is a fundamental concept in physics.",
+  "explanation": "Learn about Scientific Notation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "scientific-notation"
+  ]
+}

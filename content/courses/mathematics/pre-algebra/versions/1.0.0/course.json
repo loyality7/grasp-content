@@ -1,0 +1,544 @@
+{
+  "id": "pre-algebra",
+  "name": "Pre-Algebra",
+  "description": "Pre-Algebra",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Algebra Foundations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Variables",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Constants",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Expressions",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Terms",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coefficients",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Like & Unlike Terms",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Simplifying Expressions",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Evaluating Expressions",
+          "conceptId": "mathematics.pre-algebra.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Integers Review",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Integer Operations",
+          "conceptId": "mathematics.pre-algebra.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Order of Operations",
+          "conceptId": "mathematics.pre-algebra.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Absolute Value",
+          "conceptId": "mathematics.pre-algebra.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Opposite Numbers",
+          "conceptId": "mathematics.pre-algebra.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Integer Word Problems",
+          "conceptId": "mathematics.pre-algebra.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Fractions & Decimals Review",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fraction Operations",
+          "conceptId": "mathematics.pre-algebra.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Decimal Operations",
+          "conceptId": "mathematics.pre-algebra.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fraction ↔ Decimal",
+          "conceptId": "mathematics.pre-algebra.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mixed Numbers",
+          "conceptId": "mathematics.pre-algebra.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Complex Fractions",
+          "conceptId": "mathematics.pre-algebra.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Ratios & Rates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ratios",
+          "conceptId": "mathematics.pre-algebra.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rates",
+          "conceptId": "mathematics.pre-algebra.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unit Rates",
+          "conceptId": "mathematics.pre-algebra.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Proportions",
+          "conceptId": "mathematics.pre-algebra.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scale Drawings",
+          "conceptId": "mathematics.pre-algebra.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Percent Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Percentage Problems",
+          "conceptId": "mathematics.pre-algebra.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Discounts",
+          "conceptId": "mathematics.pre-algebra.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sales Tax",
+          "conceptId": "mathematics.pre-algebra.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tips",
+          "conceptId": "mathematics.pre-algebra.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Commission",
+          "conceptId": "mathematics.pre-algebra.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interest",
+          "conceptId": "mathematics.pre-algebra.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Exponents",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Powers",
+          "conceptId": "mathematics.pre-algebra.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Base & Exponent",
+          "conceptId": "mathematics.pre-algebra.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Squares",
+          "conceptId": "mathematics.pre-algebra.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cubes",
+          "conceptId": "mathematics.pre-algebra.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Laws of Exponents (Basic)",
+          "conceptId": "mathematics.pre-algebra.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Notation",
+          "conceptId": "mathematics.pre-algebra.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Square Roots",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Perfect Squares",
+          "conceptId": "mathematics.pre-algebra.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Square Roots",
+          "conceptId": "mathematics.pre-algebra.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cube Roots",
+          "conceptId": "mathematics.pre-algebra.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Estimation of Roots",
+          "conceptId": "mathematics.pre-algebra.chapter-07.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "One-Step Equations",
+          "conceptId": "mathematics.pre-algebra.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Two-Step Equations",
+          "conceptId": "mathematics.pre-algebra.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Step Equations",
+          "conceptId": "mathematics.pre-algebra.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Checking Solutions",
+          "conceptId": "mathematics.pre-algebra.chapter-08.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Inequalities",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "One-Step Inequalities",
+          "conceptId": "mathematics.pre-algebra.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multi-Step Inequalities",
+          "conceptId": "mathematics.pre-algebra.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Graphing on Number Line",
+          "conceptId": "mathematics.pre-algebra.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Compound Inequalities",
+          "conceptId": "mathematics.pre-algebra.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Functions Introduction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Relations",
+          "conceptId": "mathematics.pre-algebra.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functions",
+          "conceptId": "mathematics.pre-algebra.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Domain",
+          "conceptId": "mathematics.pre-algebra.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Range",
+          "conceptId": "mathematics.pre-algebra.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Function Notation",
+          "conceptId": "mathematics.pre-algebra.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Input & Output Tables",
+          "conceptId": "mathematics.pre-algebra.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Coordinate Plane",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cartesian Plane",
+          "conceptId": "mathematics.pre-algebra.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ordered Pairs",
+          "conceptId": "mathematics.pre-algebra.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quadrants",
+          "conceptId": "mathematics.pre-algebra.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Plotting Points",
+          "conceptId": "mathematics.pre-algebra.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distance Between Points (Intro)",
+          "conceptId": "mathematics.pre-algebra.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Graphing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tables to Graphs",
+          "conceptId": "mathematics.pre-algebra.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Linear Patterns",
+          "conceptId": "mathematics.pre-algebra.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Slope (Introduction)",
+          "conceptId": "mathematics.pre-algebra.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Intercepts (Introduction)",
+          "conceptId": "mathematics.pre-algebra.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Geometry Foundations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Angles",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Triangles",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quadrilaterals",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Circles",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polygons",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Perimeter",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Area",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Volume",
+          "conceptId": "mathematics.pre-algebra.chapter-13.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Outcomes",
+          "conceptId": "mathematics.pre-algebra.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sample Space",
+          "conceptId": "mathematics.pre-algebra.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Experimental Probability",
+          "conceptId": "mathematics.pre-algebra.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Theoretical Probability",
+          "conceptId": "mathematics.pre-algebra.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Simple Events",
+          "conceptId": "mathematics.pre-algebra.chapter-14.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "name": "Statistics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mean",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Median",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mode",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Range",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Histograms",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Box Plots (Introduction)",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scatter Plots (Introduction)",
+          "conceptId": "mathematics.pre-algebra.chapter-15.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "name": "Problem Solving",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Patterns",
+          "conceptId": "mathematics.pre-algebra.chapter-16.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logical Reasoning",
+          "conceptId": "mathematics.pre-algebra.chapter-16.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Step Word Problems",
+          "conceptId": "mathematics.pre-algebra.chapter-16.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mathematical Modeling",
+          "conceptId": "mathematics.pre-algebra.chapter-16.topic-04"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 32,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "pre-algebra"
+    ]
+  }
+}

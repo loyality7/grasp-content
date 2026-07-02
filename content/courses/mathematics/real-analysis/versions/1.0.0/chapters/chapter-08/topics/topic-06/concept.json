@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.real-analysis.chapter-08.topic-06",
+  "name": "Improper Integrals",
+  "subject": "mathematics",
+  "definition": "Improper Integrals is a fundamental concept in mathematics.",
+  "explanation": "Learn about Improper Integrals and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "improper-integrals"
+  ]
+}

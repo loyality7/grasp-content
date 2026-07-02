@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-06.topic-04",
+  "name": "Credibility",
+  "subject": "game-theory",
+  "definition": "Credibility is a fundamental concept in game-theory.",
+  "explanation": "Learn about Credibility and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "credibility"
+  ]
+}

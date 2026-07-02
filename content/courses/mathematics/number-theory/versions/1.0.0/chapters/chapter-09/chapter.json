@@ -1,0 +1,22 @@
+{
+  "id": "chapter-09",
+  "name": "Continued Fractions",
+  "description": "Continued Fractions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Continued Fractions",
+      "conceptId": "mathematics.number-theory.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Rational Approximations",
+      "conceptId": "mathematics.number-theory.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Convergents",
+      "conceptId": "mathematics.number-theory.chapter-09.topic-03"
+    }
+  ]
+}

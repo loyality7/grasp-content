@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-08.topic-05",
+  "name": "Type I Error",
+  "subject": "mathematics",
+  "definition": "Type I Error is a fundamental concept in mathematics.",
+  "explanation": "Learn about Type I Error and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "type-i-error"
+  ]
+}

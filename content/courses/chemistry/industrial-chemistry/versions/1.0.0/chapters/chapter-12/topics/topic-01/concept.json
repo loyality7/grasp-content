@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.industrial-chemistry.chapter-12.topic-01",
+  "name": "Chemical Manufacturing",
+  "subject": "chemistry",
+  "definition": "Chemical Manufacturing is a fundamental concept in chemistry.",
+  "explanation": "Learn about Chemical Manufacturing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "chemical-manufacturing"
+  ]
+}

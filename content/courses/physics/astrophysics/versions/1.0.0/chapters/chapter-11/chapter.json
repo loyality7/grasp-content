@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "High-Energy Astrophysics",
+  "description": "High-Energy Astrophysics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Gamma-Ray Bursts",
+      "conceptId": "physics.astrophysics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "X-Ray Binaries",
+      "conceptId": "physics.astrophysics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cosmic Rays",
+      "conceptId": "physics.astrophysics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Relativistic Jets",
+      "conceptId": "physics.astrophysics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Active Galaxies",
+      "conceptId": "physics.astrophysics.chapter-11.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Sealed-Bid Auctions",
+  "description": "Sealed-Bid Auctions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "First-Price Sealed-Bid Auction",
+      "conceptId": "game-theory.auction-theory.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Second-Price (Vickrey) Auction",
+      "conceptId": "game-theory.auction-theory.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Truthful Bidding",
+      "conceptId": "game-theory.auction-theory.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bid Shading",
+      "conceptId": "game-theory.auction-theory.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Expected Payoffs",
+      "conceptId": "game-theory.auction-theory.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Comparison",
+      "conceptId": "game-theory.auction-theory.chapter-05.topic-06"
+    }
+  ]
+}

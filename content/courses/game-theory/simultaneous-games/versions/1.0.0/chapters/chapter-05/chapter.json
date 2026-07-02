@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Nash Equilibrium",
+  "description": "Nash Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nash Equilibrium",
+      "conceptId": "game-theory.simultaneous-games.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mutual Best Responses",
+      "conceptId": "game-theory.simultaneous-games.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Equilibrium Identification",
+      "conceptId": "game-theory.simultaneous-games.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Multiple Equilibria",
+      "conceptId": "game-theory.simultaneous-games.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Unique Equilibrium",
+      "conceptId": "game-theory.simultaneous-games.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Equilibrium Stability",
+      "conceptId": "game-theory.simultaneous-games.chapter-05.topic-06"
+    }
+  ]
+}

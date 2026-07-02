@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-13.topic-15",
+  "name": "Signaling",
+  "subject": "game-theory",
+  "definition": "Signaling is a fundamental concept in game-theory.",
+  "explanation": "Learn about Signaling and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "signaling"
+  ]
+}

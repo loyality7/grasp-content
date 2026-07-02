@@ -1,0 +1,107 @@
+{
+  "id": "chapter-13",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Performance Optimization",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Embedded Systems",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mobile Devices",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Servers",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Supercomputers",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Accelerators",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Hardware-Aware Programming",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "*Course 7: Operating Systems**",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Operating System Fundamentals",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Processes & Threads",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "CPU Scheduling",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Synchronization",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Deadlocks",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Memory Management",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Virtual Memory",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "File Systems",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Storage Management",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Input/Output Management",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Security & Protection",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Virtualization & Containers",
+      "conceptId": "computer-science.computer-organization.chapter-13.topic-20"
+    }
+  ]
+}

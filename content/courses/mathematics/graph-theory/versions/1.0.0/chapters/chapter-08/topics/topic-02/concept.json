@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-08.topic-02",
+  "name": "Maximum Flow",
+  "subject": "mathematics",
+  "definition": "Maximum Flow is a fundamental concept in mathematics.",
+  "explanation": "Learn about Maximum Flow and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "maximum-flow"
+  ]
+}

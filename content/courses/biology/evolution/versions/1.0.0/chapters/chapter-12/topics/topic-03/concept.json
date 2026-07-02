@@ -1,0 +1,20 @@
+{
+  "id": "biology.evolution.chapter-12.topic-03",
+  "name": "Molecular Evolution",
+  "subject": "biology",
+  "definition": "Molecular Evolution is a fundamental concept in biology.",
+  "explanation": "Learn about Molecular Evolution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "molecular-evolution"
+  ]
+}

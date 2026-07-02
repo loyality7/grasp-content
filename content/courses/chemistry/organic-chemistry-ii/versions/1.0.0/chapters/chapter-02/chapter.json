@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Phenols",
+  "description": "Phenols",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Structure of Phenols",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Acidity of Phenols",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electrophilic Substitution",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Oxidation Reactions",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Industrial Uses",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-02.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-06.topic-06",
+  "name": "General Results",
+  "subject": "game-theory",
+  "definition": "General Results is a fundamental concept in game-theory.",
+  "explanation": "Learn about General Results and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "general-results"
+  ]
+}

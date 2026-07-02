@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Advanced Polymers",
+  "description": "Advanced Polymers",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Conductive Polymers",
+      "conceptId": "chemistry.polymers.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Smart Polymers",
+      "conceptId": "chemistry.polymers.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Shape Memory Polymers",
+      "conceptId": "chemistry.polymers.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hydrogels",
+      "conceptId": "chemistry.polymers.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Liquid Crystal Polymers",
+      "conceptId": "chemistry.polymers.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Nanocomposites",
+      "conceptId": "chemistry.polymers.chapter-09.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Torque",
+  "description": "Torque",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Torque",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lever Arm",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Moment Arm",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Torque Direction",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Net Torque",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Couple",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Applications",
+      "conceptId": "physics.rotational-motion.chapter-03.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.trigonometry.chapter-12.topic-02",
+  "name": "Euler's Formula",
+  "subject": "mathematics",
+  "definition": "Euler's Formula is a fundamental concept in mathematics.",
+  "explanation": "Learn about Euler's Formula and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "eulers-formula"
+  ]
+}

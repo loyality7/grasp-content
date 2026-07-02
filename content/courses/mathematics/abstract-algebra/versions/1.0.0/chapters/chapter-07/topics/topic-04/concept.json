@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.abstract-algebra.chapter-07.topic-04",
+  "name": "Maximal Ideals",
+  "subject": "mathematics",
+  "definition": "Maximal Ideals is a fundamental concept in mathematics.",
+  "explanation": "Learn about Maximal Ideals and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "maximal-ideals"
+  ]
+}

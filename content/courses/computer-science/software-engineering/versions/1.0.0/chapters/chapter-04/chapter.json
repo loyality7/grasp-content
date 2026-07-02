@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Object-Oriented Design",
+  "description": "Object-Oriented Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "UML Diagrams",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Class Diagrams",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Sequence Diagrams",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Activity Diagrams",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "State Diagrams",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Object-Oriented Analysis",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Design Patterns (Introduction)",
+      "conceptId": "computer-science.software-engineering.chapter-04.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Storage & I/O Management",
+  "description": "Storage & I/O Management",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Disk Scheduling",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "RAID",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Device Drivers",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interrupts",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "DMA",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Buffering",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Caching",
+      "conceptId": "computer-science.operating-systems.chapter-09.topic-07"
+    }
+  ]
+}

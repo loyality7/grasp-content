@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.pre-algebra.chapter-02.topic-03",
+  "name": "Absolute Value",
+  "subject": "mathematics",
+  "definition": "Absolute Value is a fundamental concept in mathematics.",
+  "explanation": "Learn about Absolute Value and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "absolute-value"
+  ]
+}

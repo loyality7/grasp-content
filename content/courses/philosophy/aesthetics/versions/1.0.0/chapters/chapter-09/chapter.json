@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Film & Digital Media",
+  "description": "Film & Digital Media",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cinema",
+      "conceptId": "philosophy.aesthetics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Storytelling",
+      "conceptId": "philosophy.aesthetics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cinematography",
+      "conceptId": "philosophy.aesthetics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Animation",
+      "conceptId": "philosophy.aesthetics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Video Games",
+      "conceptId": "philosophy.aesthetics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Interactive Media",
+      "conceptId": "philosophy.aesthetics.chapter-09.topic-06"
+    }
+  ]
+}

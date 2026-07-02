@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-07.topic-04",
+  "name": "Matrix Representation",
+  "subject": "mathematics",
+  "definition": "Matrix Representation is a fundamental concept in mathematics.",
+  "explanation": "Learn about Matrix Representation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "matrix-representation"
+  ]
+}

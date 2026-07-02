@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Matter & Classification",
+  "description": "Matter & Classification",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Elements",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Compounds",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mixtures",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Homogeneous Mixtures",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Heterogeneous Mixtures",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Pure Substances",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Separation Techniques",
+      "conceptId": "chemistry.chemistry-foundations.chapter-02.topic-07"
+    }
+  ]
+}

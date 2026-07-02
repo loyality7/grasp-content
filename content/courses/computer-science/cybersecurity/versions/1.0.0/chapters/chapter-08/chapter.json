@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Malware & Threats",
+  "description": "Malware & Threats",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Viruses",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Worms",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Trojans",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ransomware",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Spyware",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Botnets",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Advanced Persistent Threats (APTs)",
+      "conceptId": "computer-science.cybersecurity.chapter-08.topic-07"
+    }
+  ]
+}

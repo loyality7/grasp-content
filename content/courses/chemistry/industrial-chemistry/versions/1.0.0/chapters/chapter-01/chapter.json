@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Industrial Chemistry",
+  "description": "Introduction to Industrial Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Industrial Chemistry?",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chemical Process Industries",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Industrial Scale Production",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Raw Materials",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Feedstocks",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Process Flow Diagrams",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Process Economics",
+      "conceptId": "chemistry.industrial-chemistry.chapter-01.topic-07"
+    }
+  ]
+}

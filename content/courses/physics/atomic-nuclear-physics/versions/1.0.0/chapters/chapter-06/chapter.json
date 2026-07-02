@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Nuclear Structure",
+  "description": "Nuclear Structure",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Structure of the Nucleus",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Nuclear Forces",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Binding Energy",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mass Defect",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nuclear Stability",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Liquid Drop Model",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Shell Model (Introduction)",
+      "conceptId": "physics.atomic-nuclear-physics.chapter-06.topic-07"
+    }
+  ]
+}

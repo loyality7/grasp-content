@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Current Electricity",
+  "description": "Current Electricity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electric Current",
+      "conceptId": "physics.electromagnetism.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Current Density",
+      "conceptId": "physics.electromagnetism.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Drift Velocity",
+      "conceptId": "physics.electromagnetism.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ohm's Law",
+      "conceptId": "physics.electromagnetism.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Electrical Resistance",
+      "conceptId": "physics.electromagnetism.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electrical Conductivity",
+      "conceptId": "physics.electromagnetism.chapter-04.topic-06"
+    }
+  ]
+}

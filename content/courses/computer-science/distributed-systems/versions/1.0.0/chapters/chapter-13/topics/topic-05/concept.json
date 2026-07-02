@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-13.topic-05",
+  "name": "Blockchain Fundamentals",
+  "subject": "computer-science",
+  "definition": "Blockchain Fundamentals is a fundamental concept in computer-science.",
+  "explanation": "Learn about Blockchain Fundamentals and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "blockchain-fundamentals"
+  ]
+}

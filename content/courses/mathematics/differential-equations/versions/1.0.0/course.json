@@ -1,0 +1,502 @@
+{
+  "id": "differential-equations",
+  "name": "Differential Equations",
+  "description": "Differential Equations",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Differential Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Differential Equation?",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Order of a Differential Equation",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Degree of a Differential Equation",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Linear vs Nonlinear Equations",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Initial Value Problems (IVP)",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Boundary Value Problems (BVP)",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Mathematical Modeling",
+          "conceptId": "mathematics.differential-equations.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "First-Order Differential Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Separable Equations",
+          "conceptId": "mathematics.differential-equations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Linear First-Order Equations",
+          "conceptId": "mathematics.differential-equations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Exact Differential Equations",
+          "conceptId": "mathematics.differential-equations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Integrating Factors",
+          "conceptId": "mathematics.differential-equations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bernoulli Equations",
+          "conceptId": "mathematics.differential-equations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Homogeneous Equations",
+          "conceptId": "mathematics.differential-equations.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Applications of First-Order Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Population Growth",
+          "conceptId": "mathematics.differential-equations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exponential Growth & Decay",
+          "conceptId": "mathematics.differential-equations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Logistic Growth",
+          "conceptId": "mathematics.differential-equations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Newton's Law of Cooling",
+          "conceptId": "mathematics.differential-equations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mixing Problems",
+          "conceptId": "mathematics.differential-equations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Radioactive Decay",
+          "conceptId": "mathematics.differential-equations.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Second-Order Differential Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Homogeneous Equations",
+          "conceptId": "mathematics.differential-equations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nonhomogeneous Equations",
+          "conceptId": "mathematics.differential-equations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Constant Coefficient Equations",
+          "conceptId": "mathematics.differential-equations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Characteristic Equation",
+          "conceptId": "mathematics.differential-equations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Repeated Roots",
+          "conceptId": "mathematics.differential-equations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Complex Roots",
+          "conceptId": "mathematics.differential-equations.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Higher-Order Differential Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "nth-Order Linear Equations",
+          "conceptId": "mathematics.differential-equations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Homogeneous Solutions",
+          "conceptId": "mathematics.differential-equations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Particular Solutions",
+          "conceptId": "mathematics.differential-equations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Superposition Principle",
+          "conceptId": "mathematics.differential-equations.chapter-05.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Methods of Solving",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Undetermined Coefficients",
+          "conceptId": "mathematics.differential-equations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Variation of Parameters",
+          "conceptId": "mathematics.differential-equations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reduction of Order",
+          "conceptId": "mathematics.differential-equations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Operator Method (Introduction)",
+          "conceptId": "mathematics.differential-equations.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Laplace Transforms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Laplace Transform",
+          "conceptId": "mathematics.differential-equations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inverse Laplace Transform",
+          "conceptId": "mathematics.differential-equations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Properties",
+          "conceptId": "mathematics.differential-equations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Solving Differential Equations",
+          "conceptId": "mathematics.differential-equations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Unit Step Function",
+          "conceptId": "mathematics.differential-equations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dirac Delta Function",
+          "conceptId": "mathematics.differential-equations.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Systems of Differential Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coupled Systems",
+          "conceptId": "mathematics.differential-equations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Matrix Form",
+          "conceptId": "mathematics.differential-equations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Eigenvalue Method",
+          "conceptId": "mathematics.differential-equations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stability Analysis",
+          "conceptId": "mathematics.differential-equations.chapter-08.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Power Series Solutions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Power Series Method",
+          "conceptId": "mathematics.differential-equations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Frobenius Method",
+          "conceptId": "mathematics.differential-equations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ordinary Points",
+          "conceptId": "mathematics.differential-equations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Singular Points",
+          "conceptId": "mathematics.differential-equations.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Fourier Series",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Periodic Functions",
+          "conceptId": "mathematics.differential-equations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fourier Coefficients",
+          "conceptId": "mathematics.differential-equations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Even & Odd Functions",
+          "conceptId": "mathematics.differential-equations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Half-Range Expansions",
+          "conceptId": "mathematics.differential-equations.chapter-10.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Partial Differential Equations (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Heat Equation",
+          "conceptId": "mathematics.differential-equations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wave Equation",
+          "conceptId": "mathematics.differential-equations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Laplace Equation",
+          "conceptId": "mathematics.differential-equations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Separation of Variables",
+          "conceptId": "mathematics.differential-equations.chapter-11.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Numerical Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Euler's Method",
+          "conceptId": "mathematics.differential-equations.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Improved Euler Method",
+          "conceptId": "mathematics.differential-equations.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Runge-Kutta Methods",
+          "conceptId": "mathematics.differential-equations.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Numerical Stability",
+          "conceptId": "mathematics.differential-equations.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Nonlinear Differential Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Autonomous Systems",
+          "conceptId": "mathematics.differential-equations.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Phase Plane",
+          "conceptId": "mathematics.differential-equations.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equilibrium Points",
+          "conceptId": "mathematics.differential-equations.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stability",
+          "conceptId": "mathematics.differential-equations.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bifurcation (Introduction)",
+          "conceptId": "mathematics.differential-equations.chapter-13.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mechanical Vibrations",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrical Circuits",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Population Dynamics",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Reactions",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fluid Mechanics",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Control Systems",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Epidemiology",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Engineering Models",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "**Discrete Mathematics**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "**Probability**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "**Statistics**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "**Number Theory**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "**Graph Theory**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "**Real Analysis**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "**Abstract Algebra**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "**Complex Analysis**",
+          "conceptId": "mathematics.differential-equations.chapter-14.topic-16"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "differential-equations"
+    ]
+  }
+}

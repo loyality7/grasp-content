@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Computational Thinking",
+  "description": "Computational Thinking",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Problem Solving",
+      "conceptId": "computer-science.computer-science-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Abstraction",
+      "conceptId": "computer-science.computer-science-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Decomposition",
+      "conceptId": "computer-science.computer-science-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Pattern Recognition",
+      "conceptId": "computer-science.computer-science-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Algorithmic Thinking",
+      "conceptId": "computer-science.computer-science-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Logical Reasoning",
+      "conceptId": "computer-science.computer-science-foundations.chapter-02.topic-06"
+    }
+  ]
+}

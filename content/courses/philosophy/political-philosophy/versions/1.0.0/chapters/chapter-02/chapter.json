@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Justice",
+  "description": "Justice",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Justice",
+      "conceptId": "philosophy.political-philosophy.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Distributive Justice",
+      "conceptId": "philosophy.political-philosophy.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Retributive Justice",
+      "conceptId": "philosophy.political-philosophy.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Procedural Justice",
+      "conceptId": "philosophy.political-philosophy.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Social Justice",
+      "conceptId": "philosophy.political-philosophy.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fairness",
+      "conceptId": "philosophy.political-philosophy.chapter-02.topic-06"
+    }
+  ]
+}

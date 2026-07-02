@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.differential-equations.chapter-07.topic-06",
+  "name": "Dirac Delta Function",
+  "subject": "mathematics",
+  "definition": "Dirac Delta Function is a fundamental concept in mathematics.",
+  "explanation": "Learn about Dirac Delta Function and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "dirac-delta-function"
+  ]
+}

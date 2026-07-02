@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-11.topic-01",
+  "name": "Fourier Transform",
+  "subject": "mathematics",
+  "definition": "Fourier Transform is a fundamental concept in mathematics.",
+  "explanation": "Learn about Fourier Transform and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "fourier-transform"
+  ]
+}

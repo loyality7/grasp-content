@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "UV-Visible Spectroscopy",
+  "description": "UV-Visible Spectroscopy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "UV Radiation",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Visible Radiation",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electronic Excitation",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Beer-Lambert Law",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Absorption Spectrum",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Chromophores",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Applications",
+      "conceptId": "chemistry.spectroscopy.chapter-03.topic-07"
+    }
+  ]
+}

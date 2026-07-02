@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Nucleic Acids",
+  "description": "Nucleic Acids",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "DNA",
+      "conceptId": "biology.biochemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "RNA",
+      "conceptId": "biology.biochemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Nucleotides",
+      "conceptId": "biology.biochemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "DNA Replication",
+      "conceptId": "biology.biochemistry.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transcription",
+      "conceptId": "biology.biochemistry.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Translation",
+      "conceptId": "biology.biochemistry.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Gene Expression",
+      "conceptId": "biology.biochemistry.chapter-06.topic-07"
+    }
+  ]
+}

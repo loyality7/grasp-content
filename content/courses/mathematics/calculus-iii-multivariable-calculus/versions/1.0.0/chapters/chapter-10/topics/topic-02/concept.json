@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-02",
+  "name": "Gradient Fields",
+  "subject": "mathematics",
+  "definition": "Gradient Fields is a fundamental concept in mathematics.",
+  "explanation": "Learn about Gradient Fields and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "gradient-fields"
+  ]
+}

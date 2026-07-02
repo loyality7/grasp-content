@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Arithmetic Functions",
+  "description": "Arithmetic Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Euler's Totient Function",
+      "conceptId": "mathematics.number-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Möbius Function",
+      "conceptId": "mathematics.number-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Divisor Function",
+      "conceptId": "mathematics.number-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sum of Divisors",
+      "conceptId": "mathematics.number-theory.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Multiplicative Functions",
+      "conceptId": "mathematics.number-theory.chapter-06.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Nernst Equation",
+  "description": "Nernst Equation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nernst Equation",
+      "conceptId": "chemistry.electrochemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Non-Standard Conditions",
+      "conceptId": "chemistry.electrochemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Concentration Cells",
+      "conceptId": "chemistry.electrochemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equilibrium Constant & Cell Potential",
+      "conceptId": "chemistry.electrochemistry.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Temperature Effects",
+      "conceptId": "chemistry.electrochemistry.chapter-06.topic-05"
+    }
+  ]
+}

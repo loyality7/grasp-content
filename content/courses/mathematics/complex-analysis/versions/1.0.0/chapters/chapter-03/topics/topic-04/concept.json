@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-03.topic-04",
+  "name": "Cauchy-Riemann Equations",
+  "subject": "mathematics",
+  "definition": "Cauchy-Riemann Equations is a fundamental concept in mathematics.",
+  "explanation": "Learn about Cauchy-Riemann Equations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "cauchy-riemann-equations"
+  ]
+}

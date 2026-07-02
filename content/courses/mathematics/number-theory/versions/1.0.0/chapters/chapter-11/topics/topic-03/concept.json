@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-11.topic-03",
+  "name": "Perfect Numbers",
+  "subject": "mathematics",
+  "definition": "Perfect Numbers is a fundamental concept in mathematics.",
+  "explanation": "Learn about Perfect Numbers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "perfect-numbers"
+  ]
+}

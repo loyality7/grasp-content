@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Perfect Competition",
+  "description": "Perfect Competition",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Characteristics",
+      "conceptId": "economics.microeconomics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Profit Maximization",
+      "conceptId": "economics.microeconomics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Short-Run Equilibrium",
+      "conceptId": "economics.microeconomics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Long-Run Equilibrium",
+      "conceptId": "economics.microeconomics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Market Efficiency",
+      "conceptId": "economics.microeconomics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Producer Surplus",
+      "conceptId": "economics.microeconomics.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-13.topic-10",
+  "name": "Preference Aggregation",
+  "subject": "game-theory",
+  "definition": "Preference Aggregation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Preference Aggregation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "preference-aggregation"
+  ]
+}

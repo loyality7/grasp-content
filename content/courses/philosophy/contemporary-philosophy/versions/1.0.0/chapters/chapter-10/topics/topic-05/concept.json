@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.contemporary-philosophy.chapter-10.topic-05",
+  "name": "AI Governance",
+  "subject": "philosophy",
+  "definition": "AI Governance is a fundamental concept in philosophy.",
+  "explanation": "Learn about AI Governance and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "ai-governance"
+  ]
+}

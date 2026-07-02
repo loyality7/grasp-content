@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Public Choice Theory",
+  "description": "Public Choice Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Public Choice",
+      "conceptId": "economics.public-economics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Voting Systems",
+      "conceptId": "economics.public-economics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Median Voter Theorem",
+      "conceptId": "economics.public-economics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interest Groups",
+      "conceptId": "economics.public-economics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bureaucracy",
+      "conceptId": "economics.public-economics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Government Failure",
+      "conceptId": "economics.public-economics.chapter-10.topic-06"
+    }
+  ]
+}

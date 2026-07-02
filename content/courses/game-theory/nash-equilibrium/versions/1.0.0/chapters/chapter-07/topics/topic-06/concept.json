@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-07.topic-06",
+  "name": "Dynamic Consistency",
+  "subject": "game-theory",
+  "definition": "Dynamic Consistency is a fundamental concept in game-theory.",
+  "explanation": "Learn about Dynamic Consistency and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "dynamic-consistency"
+  ]
+}

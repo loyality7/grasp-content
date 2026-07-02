@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-06.topic-01",
+  "name": "Heteroscedasticity",
+  "subject": "economics",
+  "definition": "Heteroscedasticity is a fundamental concept in economics.",
+  "explanation": "Learn about Heteroscedasticity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "heteroscedasticity"
+  ]
+}

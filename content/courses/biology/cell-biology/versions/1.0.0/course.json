@@ -1,0 +1,591 @@
+{
+  "id": "cell-biology",
+  "name": "Cell Biology",
+  "description": "Cell Biology",
+  "version": "1.0.0",
+  "domain": "biology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Cell Theory & Cell Types",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cell Theory",
+          "conceptId": "biology.cell-biology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Discovery of Cells",
+          "conceptId": "biology.cell-biology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Prokaryotic Cells",
+          "conceptId": "biology.cell-biology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Eukaryotic Cells",
+          "conceptId": "biology.cell-biology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cell Diversity",
+          "conceptId": "biology.cell-biology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cell Size & Shape",
+          "conceptId": "biology.cell-biology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Cell Membrane",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plasma Membrane",
+          "conceptId": "biology.cell-biology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fluid Mosaic Model",
+          "conceptId": "biology.cell-biology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Phospholipid Bilayer",
+          "conceptId": "biology.cell-biology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Membrane Proteins",
+          "conceptId": "biology.cell-biology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Membrane Carbohydrates",
+          "conceptId": "biology.cell-biology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Membrane Cholesterol",
+          "conceptId": "biology.cell-biology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Membrane Functions",
+          "conceptId": "biology.cell-biology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Cell Organelles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nucleus",
+          "conceptId": "biology.cell-biology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nucleolus",
+          "conceptId": "biology.cell-biology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ribosomes",
+          "conceptId": "biology.cell-biology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Endoplasmic Reticulum",
+          "conceptId": "biology.cell-biology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Golgi Apparatus",
+          "conceptId": "biology.cell-biology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lysosomes",
+          "conceptId": "biology.cell-biology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Peroxisomes",
+          "conceptId": "biology.cell-biology.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Vacuoles",
+          "conceptId": "biology.cell-biology.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Mitochondria",
+          "conceptId": "biology.cell-biology.chapter-03.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Chloroplasts",
+          "conceptId": "biology.cell-biology.chapter-03.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Cytoskeleton",
+          "conceptId": "biology.cell-biology.chapter-03.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Centrosomes",
+          "conceptId": "biology.cell-biology.chapter-03.topic-12"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Membrane Transport",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Passive Transport",
+          "conceptId": "biology.cell-biology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diffusion",
+          "conceptId": "biology.cell-biology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Osmosis",
+          "conceptId": "biology.cell-biology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Facilitated Diffusion",
+          "conceptId": "biology.cell-biology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Active Transport",
+          "conceptId": "biology.cell-biology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Endocytosis",
+          "conceptId": "biology.cell-biology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Exocytosis",
+          "conceptId": "biology.cell-biology.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Cellular Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "ATP",
+          "conceptId": "biology.cell-biology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cellular Respiration (Overview)",
+          "conceptId": "biology.cell-biology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Photosynthesis (Overview)",
+          "conceptId": "biology.cell-biology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Conversion",
+          "conceptId": "biology.cell-biology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metabolic Pathways",
+          "conceptId": "biology.cell-biology.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Cell Communication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cell Signaling",
+          "conceptId": "biology.cell-biology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Receptors",
+          "conceptId": "biology.cell-biology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Signal Transduction",
+          "conceptId": "biology.cell-biology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Second Messengers",
+          "conceptId": "biology.cell-biology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cell-to-Cell Communication",
+          "conceptId": "biology.cell-biology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cellular Responses",
+          "conceptId": "biology.cell-biology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Cell Cycle",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cell Cycle Overview",
+          "conceptId": "biology.cell-biology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "G₁ Phase",
+          "conceptId": "biology.cell-biology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "S Phase",
+          "conceptId": "biology.cell-biology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "G₂ Phase",
+          "conceptId": "biology.cell-biology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "M Phase",
+          "conceptId": "biology.cell-biology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cell Cycle Regulation",
+          "conceptId": "biology.cell-biology.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Checkpoints",
+          "conceptId": "biology.cell-biology.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Cell Division",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mitosis",
+          "conceptId": "biology.cell-biology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cytokinesis",
+          "conceptId": "biology.cell-biology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Meiosis",
+          "conceptId": "biology.cell-biology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gamete Formation",
+          "conceptId": "biology.cell-biology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Comparison of Mitosis & Meiosis",
+          "conceptId": "biology.cell-biology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chromosome Behavior",
+          "conceptId": "biology.cell-biology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Cell Death & Repair",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Apoptosis",
+          "conceptId": "biology.cell-biology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Necrosis",
+          "conceptId": "biology.cell-biology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Autophagy",
+          "conceptId": "biology.cell-biology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cell Senescence",
+          "conceptId": "biology.cell-biology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tissue Repair",
+          "conceptId": "biology.cell-biology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stem Cells",
+          "conceptId": "biology.cell-biology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Cell Junctions & Tissues",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tight Junctions",
+          "conceptId": "biology.cell-biology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gap Junctions",
+          "conceptId": "biology.cell-biology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Desmosomes",
+          "conceptId": "biology.cell-biology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Extracellular Matrix",
+          "conceptId": "biology.cell-biology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cell Adhesion",
+          "conceptId": "biology.cell-biology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tissue Formation",
+          "conceptId": "biology.cell-biology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Laboratory Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Light Microscopy",
+          "conceptId": "biology.cell-biology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electron Microscopy",
+          "conceptId": "biology.cell-biology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cell Culture",
+          "conceptId": "biology.cell-biology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cell Staining",
+          "conceptId": "biology.cell-biology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cell Counting",
+          "conceptId": "biology.cell-biology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fluorescence Microscopy",
+          "conceptId": "biology.cell-biology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cancer Biology",
+          "conceptId": "biology.cell-biology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Regenerative Medicine",
+          "conceptId": "biology.cell-biology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stem Cell Therapy",
+          "conceptId": "biology.cell-biology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tissue Engineering",
+          "conceptId": "biology.cell-biology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gene Therapy",
+          "conceptId": "biology.cell-biology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cell-Based Diagnostics",
+          "conceptId": "biology.cell-biology.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cell Differentiation",
+          "conceptId": "biology.cell-biology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cell Polarity",
+          "conceptId": "biology.cell-biology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cell Migration",
+          "conceptId": "biology.cell-biology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Organoids",
+          "conceptId": "biology.cell-biology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Single-Cell Biology",
+          "conceptId": "biology.cell-biology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Synthetic Cells (Introduction)",
+          "conceptId": "biology.cell-biology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 3: Molecular Biology**",
+          "conceptId": "biology.cell-biology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "DNA Structure",
+          "conceptId": "biology.cell-biology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "RNA Structure",
+          "conceptId": "biology.cell-biology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "DNA Replication",
+          "conceptId": "biology.cell-biology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Transcription",
+          "conceptId": "biology.cell-biology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "RNA Processing",
+          "conceptId": "biology.cell-biology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Translation",
+          "conceptId": "biology.cell-biology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Gene Regulation",
+          "conceptId": "biology.cell-biology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Mutations",
+          "conceptId": "biology.cell-biology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Recombinant DNA",
+          "conceptId": "biology.cell-biology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "CRISPR",
+          "conceptId": "biology.cell-biology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Epigenetics",
+          "conceptId": "biology.cell-biology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Central Dogma of Molecular Biology",
+          "conceptId": "biology.cell-biology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "biology",
+      "cell-biology"
+    ]
+  }
+}

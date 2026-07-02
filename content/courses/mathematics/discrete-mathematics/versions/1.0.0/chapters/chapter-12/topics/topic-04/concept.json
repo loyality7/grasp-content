@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-12.topic-04",
+  "name": "Big Θ",
+  "subject": "mathematics",
+  "definition": "Big Θ is a fundamental concept in mathematics.",
+  "explanation": "Learn about Big Θ and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "big-"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "biology.biotechnology.chapter-11.topic-01",
+  "name": "Biological Databases",
+  "subject": "biology",
+  "definition": "Biological Databases is a fundamental concept in biology.",
+  "explanation": "Learn about Biological Databases and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "biological-databases"
+  ]
+}

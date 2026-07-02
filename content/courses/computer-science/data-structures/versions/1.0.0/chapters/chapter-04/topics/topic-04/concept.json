@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-04.topic-04",
+  "name": "Linked List Implementation",
+  "subject": "computer-science",
+  "definition": "Linked List Implementation is a fundamental concept in computer-science.",
+  "explanation": "Learn about Linked List Implementation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "linked-list-implementation"
+  ]
+}

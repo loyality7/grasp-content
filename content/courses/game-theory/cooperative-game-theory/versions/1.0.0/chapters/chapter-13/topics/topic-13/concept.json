@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-13.topic-13",
+  "name": "Second-Price (Vickrey) Auctions",
+  "subject": "game-theory",
+  "definition": "Second-Price (Vickrey) Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Second-Price (Vickrey) Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "second-price-vickrey-auctions"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-07.topic-04",
+  "name": "Pascal's Triangle",
+  "subject": "mathematics",
+  "definition": "Pascal's Triangle is a fundamental concept in mathematics.",
+  "explanation": "Learn about Pascal's Triangle and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "pascals-triangle"
+  ]
+}

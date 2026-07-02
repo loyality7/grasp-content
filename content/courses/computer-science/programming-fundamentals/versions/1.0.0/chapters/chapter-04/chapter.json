@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Input & Output",
+  "description": "Input & Output",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Console Input",
+      "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Console Output",
+      "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Formatted Output",
+      "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Reading User Input",
+      "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Basic File Input & Output",
+      "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Error Handling (Introduction)",
+      "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-06"
+    }
+  ]
+}

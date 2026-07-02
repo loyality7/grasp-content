@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Complex Functions",
+  "description": "Complex Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Functions of a Complex Variable",
+      "conceptId": "mathematics.complex-analysis.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Limits",
+      "conceptId": "mathematics.complex-analysis.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Continuity",
+      "conceptId": "mathematics.complex-analysis.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Complex Mappings",
+      "conceptId": "mathematics.complex-analysis.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Branches & Branch Cuts (Introduction)",
+      "conceptId": "mathematics.complex-analysis.chapter-02.topic-05"
+    }
+  ]
+}

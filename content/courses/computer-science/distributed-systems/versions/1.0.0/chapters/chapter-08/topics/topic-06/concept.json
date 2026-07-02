@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-08.topic-06",
+  "name": "Self-Healing Systems",
+  "subject": "computer-science",
+  "definition": "Self-Healing Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Self-Healing Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "self-healing-systems"
+  ]
+}

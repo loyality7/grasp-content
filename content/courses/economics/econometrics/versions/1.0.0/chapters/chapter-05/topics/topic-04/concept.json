@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-05.topic-04",
+  "name": "F-Test",
+  "subject": "economics",
+  "definition": "F-Test is a fundamental concept in economics.",
+  "explanation": "Learn about F-Test and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "f-test"
+  ]
+}

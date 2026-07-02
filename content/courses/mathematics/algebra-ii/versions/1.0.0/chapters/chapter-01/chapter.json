@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Review of Algebra I",
+  "description": "Review of Algebra I",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Linear Equations",
+      "conceptId": "mathematics.algebra-ii.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Systems of Equations",
+      "conceptId": "mathematics.algebra-ii.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Polynomials",
+      "conceptId": "mathematics.algebra-ii.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Factoring",
+      "conceptId": "mathematics.algebra-ii.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Quadratics Review",
+      "conceptId": "mathematics.algebra-ii.chapter-01.topic-05"
+    }
+  ]
+}

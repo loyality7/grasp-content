@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "DC Circuits",
+  "description": "DC Circuits",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Series Circuits",
+      "conceptId": "physics.electromagnetism.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Parallel Circuits",
+      "conceptId": "physics.electromagnetism.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Kirchhoff's Laws",
+      "conceptId": "physics.electromagnetism.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "EMF",
+      "conceptId": "physics.electromagnetism.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Internal Resistance",
+      "conceptId": "physics.electromagnetism.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Power Dissipation",
+      "conceptId": "physics.electromagnetism.chapter-05.topic-06"
+    }
+  ]
+}

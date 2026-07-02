@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.differential-equations.chapter-04.topic-02",
+  "name": "Nonhomogeneous Equations",
+  "subject": "mathematics",
+  "definition": "Nonhomogeneous Equations is a fundamental concept in mathematics.",
+  "explanation": "Learn about Nonhomogeneous Equations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "nonhomogeneous-equations"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-11.topic-06",
+  "name": "Multi-Agent AI",
+  "subject": "game-theory",
+  "definition": "Multi-Agent AI is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multi-Agent AI and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multi-agent-ai"
+  ]
+}

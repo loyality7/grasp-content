@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Tension & Connected Bodies",
+  "description": "Tension & Connected Bodies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Tension Force",
+      "conceptId": "physics.newtonian-mechanics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pulley Systems",
+      "conceptId": "physics.newtonian-mechanics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Connected Masses",
+      "conceptId": "physics.newtonian-mechanics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Atwood Machine",
+      "conceptId": "physics.newtonian-mechanics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Multi-Body Systems",
+      "conceptId": "physics.newtonian-mechanics.chapter-07.topic-05"
+    }
+  ]
+}

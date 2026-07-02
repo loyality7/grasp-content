@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-12.topic-05",
+  "name": "Electricity Markets",
+  "subject": "game-theory",
+  "definition": "Electricity Markets is a fundamental concept in game-theory.",
+  "explanation": "Learn about Electricity Markets and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "electricity-markets"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-03.topic-03",
+  "name": "Holomorphic Functions",
+  "subject": "mathematics",
+  "definition": "Holomorphic Functions is a fundamental concept in mathematics.",
+  "explanation": "Learn about Holomorphic Functions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "holomorphic-functions"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Lasers & Fiber Optics",
+  "description": "Lasers & Fiber Optics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Stimulated Emission",
+      "conceptId": "physics.optics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Laser Principle",
+      "conceptId": "physics.optics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Laser Types",
+      "conceptId": "physics.optics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Optical Fibers",
+      "conceptId": "physics.optics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Numerical Aperture",
+      "conceptId": "physics.optics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fiber Communication",
+      "conceptId": "physics.optics.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Optical Sensors",
+      "conceptId": "physics.optics.chapter-10.topic-07"
+    }
+  ]
+}

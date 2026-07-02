@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-networks.chapter-11.topic-05",
+  "name": "Software-Defined Networking (SDN)",
+  "subject": "computer-science",
+  "definition": "Software-Defined Networking (SDN) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Software-Defined Networking (SDN) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "software-defined-networking-sdn"
+  ]
+}

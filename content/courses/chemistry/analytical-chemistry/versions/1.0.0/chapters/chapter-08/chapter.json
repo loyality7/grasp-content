@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Electroanalytical Methods",
+  "description": "Electroanalytical Methods",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Potentiometry",
+      "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Conductometry",
+      "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Voltammetry",
+      "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Polarography",
+      "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ion-Selective Electrodes",
+      "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "pH Meter",
+      "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-06"
+    }
+  ]
+}

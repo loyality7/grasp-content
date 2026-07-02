@@ -1,0 +1,561 @@
+{
+  "id": "auction-theory",
+  "name": "Auction Theory",
+  "description": "Auction Theory",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Auction Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is an Auction?",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Auction Objectives",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Buyers & Sellers",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bidders",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Valuations",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Auction Design",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "conceptId": "game-theory.auction-theory.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Valuation Models",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Private Value Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Common Value Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Independent Values",
+          "conceptId": "game-theory.auction-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interdependent Values",
+          "conceptId": "game-theory.auction-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Information",
+          "conceptId": "game-theory.auction-theory.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Winner's Curse",
+          "conceptId": "game-theory.auction-theory.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "English Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ascending-Bid Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Open Bidding",
+          "conceptId": "game-theory.auction-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Price Discovery",
+          "conceptId": "game-theory.auction-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bidding Strategies",
+          "conceptId": "game-theory.auction-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Auction Dynamics",
+          "conceptId": "game-theory.auction-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "game-theory.auction-theory.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Dutch Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Descending-Bid Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stopping Rule",
+          "conceptId": "game-theory.auction-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strategic Timing",
+          "conceptId": "game-theory.auction-theory.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Risk Preferences",
+          "conceptId": "game-theory.auction-theory.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bidder Behavior",
+          "conceptId": "game-theory.auction-theory.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Market Applications",
+          "conceptId": "game-theory.auction-theory.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Sealed-Bid Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "First-Price Sealed-Bid Auction",
+          "conceptId": "game-theory.auction-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Second-Price (Vickrey) Auction",
+          "conceptId": "game-theory.auction-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Truthful Bidding",
+          "conceptId": "game-theory.auction-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bid Shading",
+          "conceptId": "game-theory.auction-theory.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Expected Payoffs",
+          "conceptId": "game-theory.auction-theory.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Comparison",
+          "conceptId": "game-theory.auction-theory.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Bidder Strategies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Optimal Bidding",
+          "conceptId": "game-theory.auction-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Risk Aversion",
+          "conceptId": "game-theory.auction-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Information Advantage",
+          "conceptId": "game-theory.auction-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Strategic Signaling",
+          "conceptId": "game-theory.auction-theory.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collusion",
+          "conceptId": "game-theory.auction-theory.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Entry Decisions",
+          "conceptId": "game-theory.auction-theory.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Revenue Equivalence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Revenue Equivalence Theorem",
+          "conceptId": "game-theory.auction-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Auction Efficiency",
+          "conceptId": "game-theory.auction-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Seller Revenue",
+          "conceptId": "game-theory.auction-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bidder Utility",
+          "conceptId": "game-theory.auction-theory.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Allocation Efficiency",
+          "conceptId": "game-theory.auction-theory.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Auction Comparison",
+          "conceptId": "game-theory.auction-theory.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Multi-Item Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Unit Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Combinatorial Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Package Bidding",
+          "conceptId": "game-theory.auction-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Winner Determination",
+          "conceptId": "game-theory.auction-theory.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Resource Allocation",
+          "conceptId": "game-theory.auction-theory.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Computational Challenges",
+          "conceptId": "game-theory.auction-theory.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Online Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "E-Commerce Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Advertising Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Search Engine Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Real-Time Bidding",
+          "conceptId": "game-theory.auction-theory.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Marketplaces",
+          "conceptId": "game-theory.auction-theory.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Platform Economics",
+          "conceptId": "game-theory.auction-theory.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Public Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Spectrum Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Government Procurement",
+          "conceptId": "game-theory.auction-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Treasury Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Markets",
+          "conceptId": "game-theory.auction-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Credit Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Resource Allocation",
+          "conceptId": "game-theory.auction-theory.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Mechanism Design in Auctions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Incentive Compatibility",
+          "conceptId": "game-theory.auction-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Truthfulness",
+          "conceptId": "game-theory.auction-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Efficient Mechanisms",
+          "conceptId": "game-theory.auction-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reserve Prices",
+          "conceptId": "game-theory.auction-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Market Design",
+          "conceptId": "game-theory.auction-theory.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Auction Optimization",
+          "conceptId": "game-theory.auction-theory.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Art Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Real Estate",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Financial Markets",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Procurement",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cloud Computing Resources",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Blockchain Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Artificial Intelligence",
+          "conceptId": "game-theory.auction-theory.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Dynamic Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Double Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Matching Markets",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Algorithmic Auctions",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "AI Bidding Agents",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Auction Markets",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 9: Voting & Social Choice**",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Voting Systems",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Majority Rule",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Preference Aggregation",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Arrow's Impossibility Theorem",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Condorcet Paradox",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Voting Power",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Strategic Voting",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Fair Division",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Collective Decision Making",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Committee Decisions",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Social Welfare Functions",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Computational Social Choice",
+          "conceptId": "game-theory.auction-theory.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "auction-theory"
+    ]
+  }
+}

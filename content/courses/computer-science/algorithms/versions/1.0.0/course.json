@@ -1,0 +1,606 @@
+{
+  "id": "algorithms",
+  "name": "Algorithms",
+  "description": "Algorithms",
+  "version": "1.0.0",
+  "domain": "computer-science",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is an Algorithm?",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Algorithm Design",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Correctness",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Efficiency",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Time Complexity",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Space Complexity",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Asymptotic Analysis",
+          "conceptId": "computer-science.algorithms.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Recursion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Recursive Thinking",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Base Case",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Recursive Case",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Recursion Trees",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tail Recursion",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Divide vs Recursive Solutions",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Backtracking (Introduction)",
+          "conceptId": "computer-science.algorithms.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Searching Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Search",
+          "conceptId": "computer-science.algorithms.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Binary Search",
+          "conceptId": "computer-science.algorithms.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Search Variants",
+          "conceptId": "computer-science.algorithms.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Search on Sorted Data",
+          "conceptId": "computer-science.algorithms.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Search Complexity",
+          "conceptId": "computer-science.algorithms.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "computer-science.algorithms.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Sorting Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bubble Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Selection Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Insertion Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Merge Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quick Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Heap Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Counting Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Radix Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Bucket Sort",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Stability & In-Place Sorting",
+          "conceptId": "computer-science.algorithms.chapter-04.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Divide & Conquer",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Divide & Conquer Strategy",
+          "conceptId": "computer-science.algorithms.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Merge Sort",
+          "conceptId": "computer-science.algorithms.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quick Sort",
+          "conceptId": "computer-science.algorithms.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Binary Search",
+          "conceptId": "computer-science.algorithms.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Closest Pair Problem",
+          "conceptId": "computer-science.algorithms.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Master Theorem (Introduction)",
+          "conceptId": "computer-science.algorithms.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Greedy Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Greedy Strategy",
+          "conceptId": "computer-science.algorithms.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Activity Selection",
+          "conceptId": "computer-science.algorithms.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Huffman Coding",
+          "conceptId": "computer-science.algorithms.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fractional Knapsack",
+          "conceptId": "computer-science.algorithms.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Minimum Spanning Tree (Greedy View)",
+          "conceptId": "computer-science.algorithms.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Greedy Proofs",
+          "conceptId": "computer-science.algorithms.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Dynamic Programming",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Optimal Substructure",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Overlapping Subproblems",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Memoization",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tabulation",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fibonacci",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Knapsack",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Longest Common Subsequence",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Matrix Chain Multiplication",
+          "conceptId": "computer-science.algorithms.chapter-07.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Backtracking & Branch and Bound",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Backtracking",
+          "conceptId": "computer-science.algorithms.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "N-Queens",
+          "conceptId": "computer-science.algorithms.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sudoku Solver",
+          "conceptId": "computer-science.algorithms.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Permutations",
+          "conceptId": "computer-science.algorithms.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Branch and Bound",
+          "conceptId": "computer-science.algorithms.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "State Space Trees",
+          "conceptId": "computer-science.algorithms.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Graph Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Breadth-First Search (BFS)",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Depth-First Search (DFS)",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Topological Sorting",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dijkstra's Algorithm",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bellman-Ford Algorithm",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Floyd-Warshall Algorithm",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Prim's Algorithm",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Kruskal's Algorithm",
+          "conceptId": "computer-science.algorithms.chapter-09.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "String Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pattern Matching",
+          "conceptId": "computer-science.algorithms.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Naive String Search",
+          "conceptId": "computer-science.algorithms.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Knuth-Morris-Pratt (KMP)",
+          "conceptId": "computer-science.algorithms.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rabin-Karp",
+          "conceptId": "computer-science.algorithms.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trie-Based Searching",
+          "conceptId": "computer-science.algorithms.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "String Hashing",
+          "conceptId": "computer-science.algorithms.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Advanced Algorithm Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Randomized Algorithms",
+          "conceptId": "computer-science.algorithms.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Approximation Algorithms",
+          "conceptId": "computer-science.algorithms.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Online Algorithms",
+          "conceptId": "computer-science.algorithms.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Parallel Algorithms (Introduction)",
+          "conceptId": "computer-science.algorithms.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computational Complexity",
+          "conceptId": "computer-science.algorithms.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "NP-Complete Problems (Introduction)",
+          "conceptId": "computer-science.algorithms.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Algorithm Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Proof of Correctness",
+          "conceptId": "computer-science.algorithms.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Recurrence Relations",
+          "conceptId": "computer-science.algorithms.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Amortized Analysis",
+          "conceptId": "computer-science.algorithms.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Worst Case",
+          "conceptId": "computer-science.algorithms.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Average Case",
+          "conceptId": "computer-science.algorithms.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Benchmarking Algorithms",
+          "conceptId": "computer-science.algorithms.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Route Planning",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Search Engines",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Compression",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scheduling",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recommendation Systems",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Computer Vision",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Artificial Intelligence",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 6: Computer Organization**",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Digital Logic Basics",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Number Systems",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Boolean Algebra",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Logic Gates",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Combinational Circuits",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Sequential Circuits",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "CPU Architecture",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Instruction Set Architecture (ISA)",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Memory Hierarchy",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Input/Output Systems",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Pipelining",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Parallel Processing",
+          "conceptId": "computer-science.algorithms.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "computer-science",
+      "algorithms"
+    ]
+  }
+}

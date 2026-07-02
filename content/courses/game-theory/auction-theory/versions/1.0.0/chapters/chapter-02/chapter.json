@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Valuation Models",
+  "description": "Valuation Models",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Private Value Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Common Value Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Independent Values",
+      "conceptId": "game-theory.auction-theory.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interdependent Values",
+      "conceptId": "game-theory.auction-theory.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Information",
+      "conceptId": "game-theory.auction-theory.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Winner's Curse",
+      "conceptId": "game-theory.auction-theory.chapter-02.topic-06"
+    }
+  ]
+}

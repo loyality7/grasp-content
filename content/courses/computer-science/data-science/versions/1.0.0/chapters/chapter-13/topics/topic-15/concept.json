@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-13.topic-15",
+  "name": "Cloud Security",
+  "subject": "computer-science",
+  "definition": "Cloud Security is a fundamental concept in computer-science.",
+  "explanation": "Learn about Cloud Security and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "cloud-security"
+  ]
+}

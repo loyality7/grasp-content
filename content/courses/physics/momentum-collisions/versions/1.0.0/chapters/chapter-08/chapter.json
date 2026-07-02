@@ -1,0 +1,27 @@
+{
+  "id": "chapter-08",
+  "name": "Momentum in Rotational Systems",
+  "description": "Momentum in Rotational Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Angular Momentum (Introduction)",
+      "conceptId": "physics.momentum-collisions.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Linear vs Angular Momentum",
+      "conceptId": "physics.momentum-collisions.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conservation of Angular Momentum",
+      "conceptId": "physics.momentum-collisions.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Everyday Examples",
+      "conceptId": "physics.momentum-collisions.chapter-08.topic-04"
+    }
+  ]
+}

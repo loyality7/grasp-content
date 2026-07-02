@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Enthalpy of Reactions",
+  "description": "Enthalpy of Reactions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Enthalpy of Formation",
+      "conceptId": "chemistry.thermochemistry.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Enthalpy of Combustion",
+      "conceptId": "chemistry.thermochemistry.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Enthalpy of Neutralization",
+      "conceptId": "chemistry.thermochemistry.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Enthalpy of Solution",
+      "conceptId": "chemistry.thermochemistry.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Enthalpy of Atomization",
+      "conceptId": "chemistry.thermochemistry.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Lattice Enthalpy",
+      "conceptId": "chemistry.thermochemistry.chapter-05.topic-06"
+    }
+  ]
+}

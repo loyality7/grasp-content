@@ -1,0 +1,20 @@
+{
+  "id": "biology.immunology.chapter-02.topic-05",
+  "name": "Fever",
+  "subject": "biology",
+  "definition": "Fever is a fundamental concept in biology.",
+  "explanation": "Learn about Fever and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "fever"
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": "mechanism-design",
+  "name": "Mechanism Design",
+  "description": "Mechanism Design",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Mechanism Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Mechanism Design?",
+          "conceptId": "game-theory.mechanism-design.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reverse Game Theory",
+          "conceptId": "game-theory.mechanism-design.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Objectives",
+          "conceptId": "game-theory.mechanism-design.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Incentives",
+          "conceptId": "game-theory.mechanism-design.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "game-theory.mechanism-design.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Incentive Compatibility",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Incentive Compatibility",
+          "conceptId": "game-theory.mechanism-design.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategic Behavior",
+          "conceptId": "game-theory.mechanism-design.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Truthful Reporting",
+          "conceptId": "game-theory.mechanism-design.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Private Information",
+          "conceptId": "game-theory.mechanism-design.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Individual Rationality",
+          "conceptId": "game-theory.mechanism-design.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Participation Constraints",
+          "conceptId": "game-theory.mechanism-design.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Truthful Mechanisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Strategy-Proof Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dominant Strategy Incentive Compatibility (DSIC)",
+          "conceptId": "game-theory.mechanism-design.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Revelation Principle",
+          "conceptId": "game-theory.mechanism-design.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Direct Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Truthful Bidding",
+          "conceptId": "game-theory.mechanism-design.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Efficient Allocation",
+          "conceptId": "game-theory.mechanism-design.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Social Choice Mechanisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Welfare",
+          "conceptId": "game-theory.mechanism-design.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Preference Aggregation",
+          "conceptId": "game-theory.mechanism-design.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Voting Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Collective Decisions",
+          "conceptId": "game-theory.mechanism-design.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fair Allocation",
+          "conceptId": "game-theory.mechanism-design.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Decision Making",
+          "conceptId": "game-theory.mechanism-design.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Auction Mechanisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vickrey Auctions",
+          "conceptId": "game-theory.mechanism-design.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Generalized Second-Price Auctions",
+          "conceptId": "game-theory.mechanism-design.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Revenue Maximization",
+          "conceptId": "game-theory.mechanism-design.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reserve Prices",
+          "conceptId": "game-theory.mechanism-design.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Optimal Auctions",
+          "conceptId": "game-theory.mechanism-design.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Auction Design",
+          "conceptId": "game-theory.mechanism-design.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Matching Markets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stable Matching",
+          "conceptId": "game-theory.mechanism-design.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Matching Algorithms",
+          "conceptId": "game-theory.mechanism-design.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Deferred Acceptance Algorithm",
+          "conceptId": "game-theory.mechanism-design.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "School Choice",
+          "conceptId": "game-theory.mechanism-design.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Medical Residency Matching",
+          "conceptId": "game-theory.mechanism-design.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Marketplace Design",
+          "conceptId": "game-theory.mechanism-design.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Public Goods & Resource Allocation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Public Goods",
+          "conceptId": "game-theory.mechanism-design.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cost Sharing",
+          "conceptId": "game-theory.mechanism-design.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Resource Allocation",
+          "conceptId": "game-theory.mechanism-design.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Budget Balance",
+          "conceptId": "game-theory.mechanism-design.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fair Distribution",
+          "conceptId": "game-theory.mechanism-design.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Collective Investment",
+          "conceptId": "game-theory.mechanism-design.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Contract Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Contracts",
+          "conceptId": "game-theory.mechanism-design.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Principal-Agent Problem",
+          "conceptId": "game-theory.mechanism-design.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moral Hazard",
+          "conceptId": "game-theory.mechanism-design.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Adverse Selection",
+          "conceptId": "game-theory.mechanism-design.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Incentive Contracts",
+          "conceptId": "game-theory.mechanism-design.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Performance-Based Compensation",
+          "conceptId": "game-theory.mechanism-design.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Market Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Marketplace Design",
+          "conceptId": "game-theory.mechanism-design.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Digital Platforms",
+          "conceptId": "game-theory.mechanism-design.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Online Marketplaces",
+          "conceptId": "game-theory.mechanism-design.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Network Effects",
+          "conceptId": "game-theory.mechanism-design.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pricing Rules",
+          "conceptId": "game-theory.mechanism-design.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Platform Incentives",
+          "conceptId": "game-theory.mechanism-design.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Algorithmic Mechanism Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computational Mechanism Design",
+          "conceptId": "game-theory.mechanism-design.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Approximation Algorithms",
+          "conceptId": "game-theory.mechanism-design.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distributed Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Online Algorithms",
+          "conceptId": "game-theory.mechanism-design.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computational Complexity",
+          "conceptId": "game-theory.mechanism-design.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Automated Decision Systems",
+          "conceptId": "game-theory.mechanism-design.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "AI & Multi-Agent Mechanisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Agent Systems",
+          "conceptId": "game-theory.mechanism-design.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Autonomous Agents",
+          "conceptId": "game-theory.mechanism-design.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "AI Negotiation",
+          "conceptId": "game-theory.mechanism-design.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resource Coordination",
+          "conceptId": "game-theory.mechanism-design.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cooperative AI",
+          "conceptId": "game-theory.mechanism-design.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Autonomous Marketplaces",
+          "conceptId": "game-theory.mechanism-design.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Internet Advertising",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cloud Computing",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ride-Sharing Platforms",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Blockchain Protocols",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electricity Markets",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Government Procurement",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Spectrum Allocation",
+          "conceptId": "game-theory.mechanism-design.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bayesian Mechanism Design",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dynamic Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Robust Mechanism Design",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Decentralized Mechanisms",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "AI-Designed Markets",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Mechanism Design",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 12: Applications of Game Theory**",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Business Strategy",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Economics",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Politics",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "International Relations",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Artificial Intelligence",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Cybersecurity",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Sports",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Biology",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Negotiation",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Blockchain",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Social Networks",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Future of Strategic Systems",
+          "conceptId": "game-theory.mechanism-design.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "mechanism-design"
+    ]
+  }
+}

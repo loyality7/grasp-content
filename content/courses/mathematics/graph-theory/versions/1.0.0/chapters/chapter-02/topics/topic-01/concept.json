@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-02.topic-01",
+  "name": "Adjacency Matrix",
+  "subject": "mathematics",
+  "definition": "Adjacency Matrix is a fundamental concept in mathematics.",
+  "explanation": "Learn about Adjacency Matrix and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "adjacency-matrix"
+  ]
+}

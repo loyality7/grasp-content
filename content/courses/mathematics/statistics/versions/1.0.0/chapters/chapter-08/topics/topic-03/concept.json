@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-08.topic-03",
+  "name": "p-Value",
+  "subject": "mathematics",
+  "definition": "p-Value is a fundamental concept in mathematics.",
+  "explanation": "Learn about p-Value and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "p-value"
+  ]
+}

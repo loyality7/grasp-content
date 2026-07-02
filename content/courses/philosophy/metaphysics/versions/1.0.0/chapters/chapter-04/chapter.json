@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Causation",
+  "description": "Causation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cause & Effect",
+      "conceptId": "philosophy.metaphysics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Necessary & Sufficient Causes",
+      "conceptId": "philosophy.metaphysics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Causal Chains",
+      "conceptId": "philosophy.metaphysics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Determinism",
+      "conceptId": "philosophy.metaphysics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Probability & Causation",
+      "conceptId": "philosophy.metaphysics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Counterfactuals",
+      "conceptId": "philosophy.metaphysics.chapter-04.topic-06"
+    }
+  ]
+}

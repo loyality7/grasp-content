@@ -1,0 +1,57 @@
+{
+  "id": "chapter-06",
+  "name": "Applications of Derivatives",
+  "description": "Applications of Derivatives",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Critical Points",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Increasing & Decreasing Functions",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "First Derivative Test",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Second Derivative Test",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Concavity",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Inflection Points",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Curve Sketching",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Optimization",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Mean Value Theorem",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Rolle's Theorem",
+      "conceptId": "mathematics.calculus-i.chapter-06.topic-10"
+    }
+  ]
+}

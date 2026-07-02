@@ -1,0 +1,20 @@
+{
+  "id": "physics.optics.chapter-03.topic-03",
+  "name": "Snell's Law",
+  "subject": "physics",
+  "definition": "Snell's Law is a fundamental concept in physics.",
+  "explanation": "Learn about Snell's Law and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "snells-law"
+  ]
+}

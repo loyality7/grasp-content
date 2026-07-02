@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Early Adulthood",
+  "description": "Early Adulthood",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Career Development",
+      "conceptId": "psychology.developmental-psychology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Relationships",
+      "conceptId": "psychology.developmental-psychology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Marriage",
+      "conceptId": "psychology.developmental-psychology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Parenthood",
+      "conceptId": "psychology.developmental-psychology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Emotional Maturity",
+      "conceptId": "psychology.developmental-psychology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Lifestyle Choices",
+      "conceptId": "psychology.developmental-psychology.chapter-07.topic-06"
+    }
+  ]
+}

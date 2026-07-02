@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-10.topic-06",
+  "name": "AI Planning",
+  "subject": "game-theory",
+  "definition": "AI Planning is a fundamental concept in game-theory.",
+  "explanation": "Learn about AI Planning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "ai-planning"
+  ]
+}

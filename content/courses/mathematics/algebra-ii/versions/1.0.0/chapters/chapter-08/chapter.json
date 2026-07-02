@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Advanced Functions",
+  "description": "Advanced Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Composite Functions",
+      "conceptId": "mathematics.algebra-ii.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Inverse Functions",
+      "conceptId": "mathematics.algebra-ii.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Transformations",
+      "conceptId": "mathematics.algebra-ii.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Piecewise Functions",
+      "conceptId": "mathematics.algebra-ii.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Absolute Value Functions",
+      "conceptId": "mathematics.algebra-ii.chapter-08.topic-05"
+    }
+  ]
+}

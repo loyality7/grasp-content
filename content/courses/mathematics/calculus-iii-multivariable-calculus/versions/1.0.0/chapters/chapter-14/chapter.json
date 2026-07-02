@@ -1,0 +1,32 @@
+{
+  "id": "chapter-14",
+  "name": "Differential Operators",
+  "description": "Differential Operators",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Gradient",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Divergence",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Curl",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Laplacian",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Physical Interpretation",
+      "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-05"
+    }
+  ]
+}

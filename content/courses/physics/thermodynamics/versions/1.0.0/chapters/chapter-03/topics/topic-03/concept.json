@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-03.topic-03",
+  "name": "Pressure",
+  "subject": "physics",
+  "definition": "Pressure is a fundamental concept in physics.",
+  "explanation": "Learn about Pressure and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "pressure"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Conflict & Competition",
+  "description": "Conflict & Competition",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Hawk-Dove Game",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Resource Competition",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Territorial Behavior",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Evolutionary Arms Races",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Predator-Prey Dynamics",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Competitive Adaptation",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-06.topic-06"
+    }
+  ]
+}

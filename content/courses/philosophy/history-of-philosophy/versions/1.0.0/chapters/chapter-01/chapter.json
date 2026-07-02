@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Origins of Philosophy",
+  "description": "Origins of Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Myth to Reason",
+      "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pre-Socratic Philosophy",
+      "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Milesian School",
+      "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Heraclitus",
+      "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Parmenides",
+      "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Pythagorean Tradition",
+      "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-06"
+    }
+  ]
+}

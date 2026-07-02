@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.strategic-decision-making.chapter-13.topic-08",
+  "name": "Simultaneous-Move Games",
+  "subject": "game-theory",
+  "definition": "Simultaneous-Move Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Simultaneous-Move Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "simultaneous-move-games"
+  ]
+}

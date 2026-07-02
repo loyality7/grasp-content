@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Scientific Knowledge",
+  "description": "Scientific Knowledge",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Scientific Method",
+      "conceptId": "philosophy.epistemology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Observation",
+      "conceptId": "philosophy.epistemology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Experimentation",
+      "conceptId": "philosophy.epistemology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Theory Formation",
+      "conceptId": "philosophy.epistemology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Falsifiability",
+      "conceptId": "philosophy.epistemology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Scientific Realism",
+      "conceptId": "philosophy.epistemology.chapter-08.topic-06"
+    }
+  ]
+}

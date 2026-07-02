@@ -1,0 +1,491 @@
+{
+  "id": "contemporary-philosophy",
+  "name": "Contemporary Philosophy",
+  "description": "Contemporary Philosophy",
+  "version": "1.0.0",
+  "domain": "philosophy",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Contemporary Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Contemporary Philosophy?",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Modern Philosophical Movements",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Analytic vs Continental Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Current Philosophical Questions",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Philosophy Today",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Directions",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Analytic Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Logical Analysis",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Philosophy of Language",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ordinary Language Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Philosophy of Logic",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Thought Experiments",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Conceptual Analysis",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Phenomenology & Existentialism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Phenomenology",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Intentionality",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Existentialism",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Freedom",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Authenticity",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Meaning of Life",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Pragmatism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pragmatism",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Truth as Practice",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Inquiry",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Problem Solving",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Democracy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applied Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Structuralism & Poststructuralism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structuralism",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Language & Culture",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Poststructuralism",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deconstruction",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Power & Knowledge",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Discourse Analysis",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Feminist Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Feminist Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gender",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equality",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Justice",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Care Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Intersectionality",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Philosophy of Technology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Technology & Society",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Digital Life",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Automation",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human Enhancement",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Virtual Reality",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Technological Change",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Environmental Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Environmental Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sustainability",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Deep Ecology",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Animal Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Climate Justice",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Generations",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Philosophy of Information",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Information",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Knowledge",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Digital Reality",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Information Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Computational Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Artificial Intelligence & Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "AI Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Machine Intelligence",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Autonomous Systems",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Algorithmic Fairness",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "AI Governance",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human-AI Collaboration",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Global Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Comparative Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cross-Cultural Dialogue",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Global Justice",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human Rights",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "World Citizenship",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interdisciplinary Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Contemporary Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bioethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Business Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Media Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Political Philosophy",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Law",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Education",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Research",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Future of Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conscious Artificial Intelligence",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Space Ethics",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transhumanism",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Existential Risks",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Civilization",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Philosophy for the 21st Century",
+          "conceptId": "philosophy.contemporary-philosophy.chapter-13.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "philosophy",
+      "contemporary-philosophy"
+    ]
+  }
+}

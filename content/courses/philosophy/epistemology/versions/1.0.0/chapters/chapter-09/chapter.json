@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Social Epistemology",
+  "description": "Social Epistemology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Collective Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Expert Testimony",
+      "conceptId": "philosophy.epistemology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Peer Disagreement",
+      "conceptId": "philosophy.epistemology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Information Networks",
+      "conceptId": "philosophy.epistemology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Misinformation",
+      "conceptId": "philosophy.epistemology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Epistemic Communities",
+      "conceptId": "philosophy.epistemology.chapter-09.topic-06"
+    }
+  ]
+}

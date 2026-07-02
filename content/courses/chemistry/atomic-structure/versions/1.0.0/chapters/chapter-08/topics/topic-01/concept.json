@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.atomic-structure.chapter-08.topic-01",
+  "name": "Electron Configuration",
+  "subject": "chemistry",
+  "definition": "Electron Configuration is a fundamental concept in chemistry.",
+  "explanation": "Learn about Electron Configuration and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "electron-configuration"
+  ]
+}

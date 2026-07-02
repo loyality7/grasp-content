@@ -1,0 +1,561 @@
+{
+  "id": "game-theory-foundations",
+  "name": "Game Theory Foundations",
+  "description": "Game Theory Foundations",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Game Theory?",
+          "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Game Theory",
+          "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strategic Interaction",
+          "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rational Decision Making",
+          "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications of Game Theory",
+          "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Branches of Game Theory",
+          "conceptId": "game-theory.game-theory-foundations.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Elements of a Game",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Players",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategies",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Actions",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Outcomes",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Payoffs",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Rules of the Game",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Information",
+          "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Types of Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cooperative vs Non-Cooperative Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Zero-Sum Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Non-Zero-Sum Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Simultaneous Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sequential Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Symmetric vs Asymmetric Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Rationality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rational Players",
+          "conceptId": "game-theory.game-theory-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Preferences",
+          "conceptId": "game-theory.game-theory-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Utility",
+          "conceptId": "game-theory.game-theory-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Expected Utility",
+          "conceptId": "game-theory.game-theory-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decision Making",
+          "conceptId": "game-theory.game-theory-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Thinking",
+          "conceptId": "game-theory.game-theory-foundations.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Representing Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Normal Form Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Payoff Matrices",
+          "conceptId": "game-theory.game-theory-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Extensive Form Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Game Trees",
+          "conceptId": "game-theory.game-theory-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strategy Profiles",
+          "conceptId": "game-theory.game-theory-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Outcome Analysis",
+          "conceptId": "game-theory.game-theory-foundations.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Dominant Strategies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Dominant Strategy",
+          "conceptId": "game-theory.game-theory-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dominated Strategy",
+          "conceptId": "game-theory.game-theory-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strict Dominance",
+          "conceptId": "game-theory.game-theory-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Weak Dominance",
+          "conceptId": "game-theory.game-theory-foundations.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Elimination of Dominated Strategies",
+          "conceptId": "game-theory.game-theory-foundations.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Simplification",
+          "conceptId": "game-theory.game-theory-foundations.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Best Responses",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Best Response",
+          "conceptId": "game-theory.game-theory-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategic Choice",
+          "conceptId": "game-theory.game-theory-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mutual Best Responses",
+          "conceptId": "game-theory.game-theory-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stable Outcomes",
+          "conceptId": "game-theory.game-theory-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rational Expectations",
+          "conceptId": "game-theory.game-theory-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Adjustment",
+          "conceptId": "game-theory.game-theory-foundations.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Nash Equilibrium (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nash Equilibrium",
+          "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Equilibrium Concepts",
+          "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multiple Equilibria",
+          "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equilibrium Stability",
+          "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coordination Problems",
+          "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Balance",
+          "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Classic Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Prisoner's Dilemma",
+          "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stag Hunt",
+          "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Battle of the Sexes",
+          "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Matching Pennies",
+          "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hawk-Dove Game",
+          "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Coordination Game",
+          "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Information in Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Perfect Information",
+          "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Imperfect Information",
+          "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Complete Information",
+          "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Incomplete Information",
+          "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Uncertainty",
+          "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Information Advantage",
+          "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Game Theory in the Real World",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Business Competition",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pricing Strategies",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Negotiation",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Politics",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sports",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artificial Intelligence",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Everyday Decisions",
+          "conceptId": "game-theory.game-theory-foundations.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Mathematical Foundations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sets",
+          "conceptId": "game-theory.game-theory-foundations.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Probability",
+          "conceptId": "game-theory.game-theory-foundations.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Utility Functions",
+          "conceptId": "game-theory.game-theory-foundations.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Expected Value",
+          "conceptId": "game-theory.game-theory-foundations.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Optimization",
+          "conceptId": "game-theory.game-theory-foundations.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Basic Proof Concepts",
+          "conceptId": "game-theory.game-theory-foundations.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Future of Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Agent Systems",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Autonomous AI Agents",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Algorithmic Game Theory",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Network Games",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Behavioral Game Theory",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Applications",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 2: Strategic Decision Making**",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Strategic Thinking",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Decision Trees",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Rational Choice",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Expected Utility",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Risk",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Uncertainty",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Mixed Strategies",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Backward Induction",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Dominance",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Equilibrium Concepts",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Strategic Planning",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Real-World Decision Models",
+          "conceptId": "game-theory.game-theory-foundations.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "game-theory-foundations"
+    ]
+  }
+}

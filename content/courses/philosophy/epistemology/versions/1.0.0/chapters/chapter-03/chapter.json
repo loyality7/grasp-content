@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Skepticism",
+  "description": "Skepticism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Philosophical Skepticism",
+      "conceptId": "philosophy.epistemology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Global Skepticism",
+      "conceptId": "philosophy.epistemology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Local Skepticism",
+      "conceptId": "philosophy.epistemology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cartesian Skepticism",
+      "conceptId": "philosophy.epistemology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Brain-in-a-Vat Argument",
+      "conceptId": "philosophy.epistemology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Responses to Skepticism",
+      "conceptId": "philosophy.epistemology.chapter-03.topic-06"
+    }
+  ]
+}

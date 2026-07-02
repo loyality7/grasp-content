@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-05.topic-07",
+  "name": "Probabilistic Inference",
+  "subject": "computer-science",
+  "definition": "Probabilistic Inference is a fundamental concept in computer-science.",
+  "explanation": "Learn about Probabilistic Inference and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "probabilistic-inference"
+  ]
+}

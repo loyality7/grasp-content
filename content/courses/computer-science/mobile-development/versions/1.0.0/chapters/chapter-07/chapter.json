@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Device Features",
+  "description": "Device Features",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Camera",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Microphone",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "GPS & Location",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sensors",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Contacts",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bluetooth",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Biometrics",
+      "conceptId": "computer-science.mobile-development.chapter-07.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Navigation & User Experience",
+  "description": "Navigation & User Experience",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Navigation Patterns",
+      "conceptId": "computer-science.mobile-development.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Navigation Stack",
+      "conceptId": "computer-science.mobile-development.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Tabs",
+      "conceptId": "computer-science.mobile-development.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Drawers",
+      "conceptId": "computer-science.mobile-development.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Deep Linking",
+      "conceptId": "computer-science.mobile-development.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "User Experience Principles",
+      "conceptId": "computer-science.mobile-development.chapter-04.topic-06"
+    }
+  ]
+}

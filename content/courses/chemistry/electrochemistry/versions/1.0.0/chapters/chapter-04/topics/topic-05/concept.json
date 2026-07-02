@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.electrochemistry.chapter-04.topic-05",
+  "name": "Cell Reactions",
+  "subject": "chemistry",
+  "definition": "Cell Reactions is a fundamental concept in chemistry.",
+  "explanation": "Learn about Cell Reactions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "cell-reactions"
+  ]
+}

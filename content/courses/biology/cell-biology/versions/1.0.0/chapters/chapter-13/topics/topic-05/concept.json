@@ -1,0 +1,20 @@
+{
+  "id": "biology.cell-biology.chapter-13.topic-05",
+  "name": "Single-Cell Biology",
+  "subject": "biology",
+  "definition": "Single-Cell Biology is a fundamental concept in biology.",
+  "explanation": "Learn about Single-Cell Biology and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "single-cell-biology"
+  ]
+}

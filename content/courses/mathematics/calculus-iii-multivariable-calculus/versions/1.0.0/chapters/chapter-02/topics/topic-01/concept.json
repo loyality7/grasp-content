@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-01",
+  "name": "Vectors in 2D & 3D",
+  "subject": "mathematics",
+  "definition": "Vectors in 2D & 3D is a fundamental concept in mathematics.",
+  "explanation": "Learn about Vectors in 2D & 3D and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "vectors-in-2d-3d"
+  ]
+}

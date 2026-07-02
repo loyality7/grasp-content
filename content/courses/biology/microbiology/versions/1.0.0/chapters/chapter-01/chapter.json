@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Microbiology",
+  "description": "Introduction to Microbiology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Microbiology?",
+      "conceptId": "biology.microbiology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "History of Microbiology",
+      "conceptId": "biology.microbiology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Types of Microorganisms",
+      "conceptId": "biology.microbiology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Importance of Microorganisms",
+      "conceptId": "biology.microbiology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Beneficial vs Harmful Microbes",
+      "conceptId": "biology.microbiology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Microbial Diversity",
+      "conceptId": "biology.microbiology.chapter-01.topic-06"
+    }
+  ]
+}

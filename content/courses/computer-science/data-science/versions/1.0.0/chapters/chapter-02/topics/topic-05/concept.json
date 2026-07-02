@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-02.topic-05",
+  "name": "Files (CSV, JSON, Excel)",
+  "subject": "computer-science",
+  "definition": "Files (CSV, JSON, Excel) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Files (CSV, JSON, Excel) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "files-csv-json-excel"
+  ]
+}

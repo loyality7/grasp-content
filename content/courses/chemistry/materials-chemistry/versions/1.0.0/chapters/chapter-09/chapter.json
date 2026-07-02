@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Energy Materials",
+  "description": "Energy Materials",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Battery Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fuel Cell Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Supercapacitor Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Solar Cell Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hydrogen Storage Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Thermoelectric Materials",
+      "conceptId": "chemistry.materials-chemistry.chapter-09.topic-06"
+    }
+  ]
+}

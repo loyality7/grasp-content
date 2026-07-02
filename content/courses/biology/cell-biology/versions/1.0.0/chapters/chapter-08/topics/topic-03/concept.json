@@ -1,0 +1,20 @@
+{
+  "id": "biology.cell-biology.chapter-08.topic-03",
+  "name": "Meiosis",
+  "subject": "biology",
+  "definition": "Meiosis is a fundamental concept in biology.",
+  "explanation": "Learn about Meiosis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "meiosis"
+  ]
+}

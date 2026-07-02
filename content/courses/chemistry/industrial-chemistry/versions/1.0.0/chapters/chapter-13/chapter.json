@@ -1,0 +1,112 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Industry 4.0",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Process Automation",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "AI in Chemical Manufacturing",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Digital Twins",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sustainable Process Design",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Carbon Capture",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Green Hydrogen Production",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "*Course 25: Computational Chemistry**",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Introduction to Computational Chemistry",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Molecular Modeling",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Molecular Mechanics",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Quantum Chemistry",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Density Functional Theory (DFT)",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Molecular Dynamics",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Monte Carlo Simulation",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Drug Discovery",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Protein Modeling",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Computational Spectroscopy",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Materials Simulation",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "High-Performance Computing",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-20"
+    },
+    {
+      "id": "topic-21",
+      "name": "AI in Chemistry",
+      "conceptId": "chemistry.industrial-chemistry.chapter-13.topic-21"
+    }
+  ]
+}

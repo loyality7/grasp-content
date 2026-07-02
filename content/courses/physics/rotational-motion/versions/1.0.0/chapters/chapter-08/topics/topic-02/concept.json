@@ -1,0 +1,20 @@
+{
+  "id": "physics.rotational-motion.chapter-08.topic-02",
+  "name": "Conservation of Angular Momentum",
+  "subject": "physics",
+  "definition": "Conservation of Angular Momentum is a fundamental concept in physics.",
+  "explanation": "Learn about Conservation of Angular Momentum and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "conservation-of-angular-momentum"
+  ]
+}

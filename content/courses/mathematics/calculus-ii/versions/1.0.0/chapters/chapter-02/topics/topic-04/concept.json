@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-02.topic-04",
+  "name": "Washer Method",
+  "subject": "mathematics",
+  "definition": "Washer Method is a fundamental concept in mathematics.",
+  "explanation": "Learn about Washer Method and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "washer-method"
+  ]
+}

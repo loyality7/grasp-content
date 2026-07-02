@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.strategic-decision-making.chapter-13.topic-14",
+  "name": "Nash Equilibrium",
+  "subject": "game-theory",
+  "definition": "Nash Equilibrium is a fundamental concept in game-theory.",
+  "explanation": "Learn about Nash Equilibrium and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "nash-equilibrium"
+  ]
+}

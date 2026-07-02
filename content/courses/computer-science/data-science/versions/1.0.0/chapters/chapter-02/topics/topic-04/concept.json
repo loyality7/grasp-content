@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-02.topic-04",
+  "name": "Web Scraping",
+  "subject": "computer-science",
+  "definition": "Web Scraping is a fundamental concept in computer-science.",
+  "explanation": "Learn about Web Scraping and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "web-scraping"
+  ]
+}

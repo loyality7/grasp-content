@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-04.topic-05",
+  "name": "Payoff Dominance",
+  "subject": "game-theory",
+  "definition": "Payoff Dominance is a fundamental concept in game-theory.",
+  "explanation": "Learn about Payoff Dominance and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "payoff-dominance"
+  ]
+}

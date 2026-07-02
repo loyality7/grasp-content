@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Computer Vision & Robotics",
+  "description": "Computer Vision & Robotics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Computer Vision",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Image Processing",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Object Detection",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Image Classification",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Robotics",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sensors",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Motion Planning",
+      "conceptId": "computer-science.artificial-intelligence.chapter-10.topic-07"
+    }
+  ]
+}

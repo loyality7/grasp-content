@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Time Preferences",
+  "description": "Time Preferences",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Present Bias",
+      "conceptId": "economics.behavioral-economics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hyperbolic Discounting",
+      "conceptId": "economics.behavioral-economics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Delayed Gratification",
+      "conceptId": "economics.behavioral-economics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Self-Control",
+      "conceptId": "economics.behavioral-economics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Saving Decisions",
+      "conceptId": "economics.behavioral-economics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Long-Term Planning",
+      "conceptId": "economics.behavioral-economics.chapter-06.topic-06"
+    }
+  ]
+}

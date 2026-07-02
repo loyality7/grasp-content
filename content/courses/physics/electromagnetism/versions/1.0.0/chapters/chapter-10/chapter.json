@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Maxwell's Equations",
+  "description": "Maxwell's Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Gauss's Law (Electric)",
+      "conceptId": "physics.electromagnetism.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gauss's Law (Magnetism)",
+      "conceptId": "physics.electromagnetism.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Faraday's Law",
+      "conceptId": "physics.electromagnetism.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ampère-Maxwell Law",
+      "conceptId": "physics.electromagnetism.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Maxwell's Equations",
+      "conceptId": "physics.electromagnetism.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electromagnetic Field Theory",
+      "conceptId": "physics.electromagnetism.chapter-10.topic-06"
+    }
+  ]
+}

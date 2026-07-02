@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-05.topic-01",
+  "name": "Sigma Notation",
+  "subject": "mathematics",
+  "definition": "Sigma Notation is a fundamental concept in mathematics.",
+  "explanation": "Learn about Sigma Notation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "sigma-notation"
+  ]
+}

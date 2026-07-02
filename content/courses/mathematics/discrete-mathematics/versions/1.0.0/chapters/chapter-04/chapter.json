@@ -1,0 +1,47 @@
+{
+  "id": "chapter-04",
+  "name": "Relations",
+  "description": "Relations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Binary Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reflexive Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Symmetric Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Antisymmetric Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transitive Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Equivalence Relations",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Partial Orders",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Hasse Diagrams",
+      "conceptId": "mathematics.discrete-mathematics.chapter-04.topic-08"
+    }
+  ]
+}

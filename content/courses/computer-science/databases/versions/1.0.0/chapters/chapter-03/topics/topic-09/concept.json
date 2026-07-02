@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-03.topic-09",
+  "name": "HAVING",
+  "subject": "computer-science",
+  "definition": "HAVING is a fundamental concept in computer-science.",
+  "explanation": "Learn about HAVING and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "having"
+  ]
+}

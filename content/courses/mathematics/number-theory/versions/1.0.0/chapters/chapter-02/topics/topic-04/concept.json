@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-02.topic-04",
+  "name": "Fundamental Theorem of Arithmetic",
+  "subject": "mathematics",
+  "definition": "Fundamental Theorem of Arithmetic is a fundamental concept in mathematics.",
+  "explanation": "Learn about Fundamental Theorem of Arithmetic and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "fundamental-theorem-of-arithmetic"
+  ]
+}

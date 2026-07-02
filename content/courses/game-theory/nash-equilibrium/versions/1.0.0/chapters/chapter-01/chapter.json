@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Nash Equilibrium",
+  "description": "Introduction to Nash Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Nash Equilibrium?",
+      "conceptId": "game-theory.nash-equilibrium.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Strategic Stability",
+      "conceptId": "game-theory.nash-equilibrium.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Best Response Principle",
+      "conceptId": "game-theory.nash-equilibrium.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mutual Best Responses",
+      "conceptId": "game-theory.nash-equilibrium.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Equilibrium Intuition",
+      "conceptId": "game-theory.nash-equilibrium.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Historical Background",
+      "conceptId": "game-theory.nash-equilibrium.chapter-01.topic-06"
+    }
+  ]
+}

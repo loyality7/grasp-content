@@ -1,0 +1,491 @@
+{
+  "id": "applications-of-game-theory",
+  "name": "Applications of Game Theory",
+  "description": "Applications of Game Theory",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Business Strategy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Competitive Strategy",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pricing Wars",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Product Differentiation",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Market Entry",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Platform Competition",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Partnerships",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Economics & Markets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Oligopoly Competition",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Auction Markets",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Labor Markets",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Financial Markets",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Public Goods",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Market Design",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Negotiation & Bargaining",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Negotiation Strategies",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "BATNA (Best Alternative to a Negotiated Agreement)",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cooperative Bargaining",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conflict Resolution",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mediation",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deal Design",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Politics & Voting",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Elections",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coalition Governments",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Legislative Bargaining",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Public Choice",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Voting Systems",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Policy Design",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "International Relations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diplomacy",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Arms Races",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Trade Negotiations",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Economic Sanctions",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "International Cooperation",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Climate Agreements",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Artificial Intelligence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Agent Systems",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reinforcement Learning",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Autonomous Negotiation",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cooperative AI",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Competitive AI",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Safety",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Computer Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Network Routing",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distributed Systems",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Blockchain Consensus",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resource Scheduling",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cloud Computing",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Algorithmic Mechanism Design",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Biology & Evolution",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Evolutionary Competition",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cooperation",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Altruism",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Animal Behavior",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Population Dynamics",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evolutionary Stability",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Cybersecurity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Attacker vs Defender Games",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Intrusion Detection",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Security Investment",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Information Warfare",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyber Deterrence",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Security Strategy",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Sports & Entertainment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sports Strategy",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Tournament Design",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Penalty Kicks",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fantasy Sports",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Esports",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Game Balancing",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Society & Digital Platforms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Networks",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Recommendation Systems",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Online Communities",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reputation Systems",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Crowdsourcing",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Platform Governance",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Emerging Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Blockchain & Web3",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Autonomous Vehicles",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Smart Cities",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Climate Strategy",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Healthcare Systems",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Space Exploration",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Human-AI Collaboration",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "The Future of Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Algorithmic Society",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "AI-Designed Mechanisms",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Agent Economies",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Autonomous Organizations",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collective Intelligence",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Decision-Making in the AI Era",
+          "conceptId": "game-theory.applications-of-game-theory.chapter-13.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "applications-of-game-theory"
+    ]
+  }
+}

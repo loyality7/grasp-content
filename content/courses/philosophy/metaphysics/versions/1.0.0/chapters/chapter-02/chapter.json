@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Identity & Persistence",
+  "description": "Identity & Persistence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Identity",
+      "conceptId": "philosophy.metaphysics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Numerical vs Qualitative Identity",
+      "conceptId": "philosophy.metaphysics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Persistence Through Time",
+      "conceptId": "philosophy.metaphysics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Change",
+      "conceptId": "philosophy.metaphysics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Essential vs Accidental Properties",
+      "conceptId": "philosophy.metaphysics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ship of Theseus",
+      "conceptId": "philosophy.metaphysics.chapter-02.topic-06"
+    }
+  ]
+}

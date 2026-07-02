@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Large Language Models & Generative AI",
+  "description": "Large Language Models & Generative AI",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Foundation Models",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Transformer Architecture (Overview)",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Embeddings",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fine-Tuning",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Retrieval-Augmented Generation (RAG)",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Agents",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Multimodal Models",
+      "conceptId": "computer-science.machine-learning.chapter-12.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chapter-14",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Computer Graphics",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Machine Learning",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Data Science",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Image Processing",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Robotics",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Control Systems",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Network Analysis",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Differential Equations",
+      "conceptId": "mathematics.linear-algebra.chapter-14.topic-08"
+    }
+  ]
+}

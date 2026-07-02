@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-graphics.chapter-07.topic-02",
+  "name": "Ambient Lighting",
+  "subject": "computer-science",
+  "definition": "Ambient Lighting is a fundamental concept in computer-science.",
+  "explanation": "Learn about Ambient Lighting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "ambient-lighting"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-03.topic-02",
+  "name": "Coalition Value",
+  "subject": "game-theory",
+  "definition": "Coalition Value is a fundamental concept in game-theory.",
+  "explanation": "Learn about Coalition Value and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "coalition-value"
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "id": "macroeconomics",
+  "name": "Macroeconomics",
+  "description": "Macroeconomics",
+  "version": "1.0.0",
+  "domain": "economics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Macroeconomics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scope of Macroeconomics",
+          "conceptId": "economics.macroeconomics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Macroeconomic Variables",
+          "conceptId": "economics.macroeconomics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Circular Flow of Income",
+          "conceptId": "economics.macroeconomics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "National Economy",
+          "conceptId": "economics.macroeconomics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Economic Objectives",
+          "conceptId": "economics.macroeconomics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Macroeconomic Indicators",
+          "conceptId": "economics.macroeconomics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "National Income Accounting",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gross Domestic Product (GDP)",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gross National Product (GNP)",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Net National Product (NNP)",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "National Income",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Personal Income",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Disposable Income",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Real vs Nominal GDP",
+          "conceptId": "economics.macroeconomics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Economic Growth",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Economic Growth",
+          "conceptId": "economics.macroeconomics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Productivity",
+          "conceptId": "economics.macroeconomics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Capital Formation",
+          "conceptId": "economics.macroeconomics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human Capital",
+          "conceptId": "economics.macroeconomics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Technological Progress",
+          "conceptId": "economics.macroeconomics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Growth",
+          "conceptId": "economics.macroeconomics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Inflation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Inflation",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Consumer Price Index (CPI)",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Producer Price Index (PPI)",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Demand-Pull Inflation",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cost-Push Inflation",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Inflation Measurement",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Effects of Inflation",
+          "conceptId": "economics.macroeconomics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Unemployment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Types of Unemployment",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Labor Force",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unemployment Rate",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Structural Unemployment",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyclical Unemployment",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Frictional Unemployment",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Employment Policies",
+          "conceptId": "economics.macroeconomics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Business Cycles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Expansion",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Peak",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Recession",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Depression",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recovery",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Economic Fluctuations",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Leading & Lagging Indicators",
+          "conceptId": "economics.macroeconomics.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Aggregate Demand & Aggregate Supply",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Aggregate Demand (AD)",
+          "conceptId": "economics.macroeconomics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Aggregate Supply (AS)",
+          "conceptId": "economics.macroeconomics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Short-Run Equilibrium",
+          "conceptId": "economics.macroeconomics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Long-Run Equilibrium",
+          "conceptId": "economics.macroeconomics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Demand Shocks",
+          "conceptId": "economics.macroeconomics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Supply Shocks",
+          "conceptId": "economics.macroeconomics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Fiscal Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Government Spending",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Taxation",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Budget Deficit",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Budget Surplus",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Public Debt",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fiscal Multipliers",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Automatic Stabilizers",
+          "conceptId": "economics.macroeconomics.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Monetary Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Central Banks",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Money Supply",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Interest Rates",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Open Market Operations",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reserve Requirements",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Inflation Targeting",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Monetary Transmission",
+          "conceptId": "economics.macroeconomics.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "International Macroeconomics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Balance of Payments",
+          "conceptId": "economics.macroeconomics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exchange Rates",
+          "conceptId": "economics.macroeconomics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Foreign Exchange Markets",
+          "conceptId": "economics.macroeconomics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "International Capital Flows",
+          "conceptId": "economics.macroeconomics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trade Balance",
+          "conceptId": "economics.macroeconomics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Financial Systems",
+          "conceptId": "economics.macroeconomics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Economic Crises",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Financial Crises",
+          "conceptId": "economics.macroeconomics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Banking Crises",
+          "conceptId": "economics.macroeconomics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Currency Crises",
+          "conceptId": "economics.macroeconomics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sovereign Debt Crises",
+          "conceptId": "economics.macroeconomics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recessions",
+          "conceptId": "economics.macroeconomics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Policy Responses",
+          "conceptId": "economics.macroeconomics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Economic Forecasting",
+          "conceptId": "economics.macroeconomics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Government Policy Analysis",
+          "conceptId": "economics.macroeconomics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Central Banking",
+          "conceptId": "economics.macroeconomics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "International Organizations",
+          "conceptId": "economics.macroeconomics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Development Planning",
+          "conceptId": "economics.macroeconomics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Economic Decision Making",
+          "conceptId": "economics.macroeconomics.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Keynesian Economics",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classical Economics",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Monetarism",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "New Classical Economics",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "New Keynesian Economics",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Modern Macroeconomic Challenges",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 4: Consumer Theory**",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Consumer Preferences",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Utility Theory",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Budget Constraints",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Indifference Curves",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Consumer Choice",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Income & Substitution Effects",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Revealed Preference",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Demand Functions",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Consumer Welfare",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Behavioral Consumer Theory",
+          "conceptId": "economics.macroeconomics.chapter-13.topic-17"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "economics",
+      "macroeconomics"
+    ]
+  }
+}

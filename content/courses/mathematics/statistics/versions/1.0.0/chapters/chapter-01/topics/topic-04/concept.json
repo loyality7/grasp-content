@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-01.topic-04",
+  "name": "Variables",
+  "subject": "mathematics",
+  "definition": "Variables is a fundamental concept in mathematics.",
+  "explanation": "Learn about Variables and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "variables"
+  ]
+}

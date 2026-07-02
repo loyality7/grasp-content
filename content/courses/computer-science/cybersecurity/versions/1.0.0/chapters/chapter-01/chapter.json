@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Cybersecurity",
+  "description": "Introduction to Cybersecurity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Cybersecurity?",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "CIA Triad",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Threats",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Vulnerabilities",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Risk",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Attack Surface",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Security Principles",
+      "conceptId": "computer-science.cybersecurity.chapter-01.topic-07"
+    }
+  ]
+}

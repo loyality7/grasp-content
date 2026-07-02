@@ -1,0 +1,348 @@
+{
+  "id": "gravitation",
+  "name": "Gravitation",
+  "description": "Gravitation",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Universal Gravitation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Newton's Law of Universal Gravitation",
+          "conceptId": "physics.gravitation.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gravitational Constant (G)",
+          "conceptId": "physics.gravitation.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gravitational Force",
+          "conceptId": "physics.gravitation.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Inverse Square Law",
+          "conceptId": "physics.gravitation.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Superposition Principle",
+          "conceptId": "physics.gravitation.chapter-01.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Gravitational Field",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gravitational Field",
+          "conceptId": "physics.gravitation.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Field Strength",
+          "conceptId": "physics.gravitation.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Field Lines",
+          "conceptId": "physics.gravitation.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gravitational Acceleration (g)",
+          "conceptId": "physics.gravitation.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Variation of g",
+          "conceptId": "physics.gravitation.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mass vs Weight",
+          "conceptId": "physics.gravitation.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Gravitational Potential",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gravitational Potential",
+          "conceptId": "physics.gravitation.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Potential Difference",
+          "conceptId": "physics.gravitation.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equipotential Surfaces",
+          "conceptId": "physics.gravitation.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Potential Energy",
+          "conceptId": "physics.gravitation.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Escape Energy",
+          "conceptId": "physics.gravitation.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Motion Under Gravity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Free Fall",
+          "conceptId": "physics.gravitation.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vertical Motion",
+          "conceptId": "physics.gravitation.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Projectile Motion Under Gravity",
+          "conceptId": "physics.gravitation.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Motion Near Earth's Surface",
+          "conceptId": "physics.gravitation.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gravity on Other Planets",
+          "conceptId": "physics.gravitation.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Orbital Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Circular Orbits",
+          "conceptId": "physics.gravitation.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Orbital Velocity",
+          "conceptId": "physics.gravitation.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Orbital Period",
+          "conceptId": "physics.gravitation.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Centripetal Force in Orbits",
+          "conceptId": "physics.gravitation.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Low Earth Orbit (LEO)",
+          "conceptId": "physics.gravitation.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Geostationary Orbit",
+          "conceptId": "physics.gravitation.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Satellites",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Artificial Satellites",
+          "conceptId": "physics.gravitation.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Natural Satellites",
+          "conceptId": "physics.gravitation.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Geostationary Satellites",
+          "conceptId": "physics.gravitation.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Polar Satellites",
+          "conceptId": "physics.gravitation.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Satellite Launch",
+          "conceptId": "physics.gravitation.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Satellite Applications",
+          "conceptId": "physics.gravitation.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Escape Velocity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Escape Velocity",
+          "conceptId": "physics.gravitation.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Escape Trajectory",
+          "conceptId": "physics.gravitation.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Energy Required to Escape",
+          "conceptId": "physics.gravitation.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Planetary Escape",
+          "conceptId": "physics.gravitation.chapter-07.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Kepler's Laws",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "First Law",
+          "conceptId": "physics.gravitation.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Second Law",
+          "conceptId": "physics.gravitation.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Third Law",
+          "conceptId": "physics.gravitation.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Elliptical Orbits",
+          "conceptId": "physics.gravitation.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Planetary Motion",
+          "conceptId": "physics.gravitation.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "physics.gravitation.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Multi-Body Gravitation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Center of Mass",
+          "conceptId": "physics.gravitation.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Earth-Moon System",
+          "conceptId": "physics.gravitation.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tidal Forces",
+          "conceptId": "physics.gravitation.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Lagrange Points (Introduction)",
+          "conceptId": "physics.gravitation.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Binary Systems",
+          "conceptId": "physics.gravitation.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Planetary Motion",
+          "conceptId": "physics.gravitation.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Space Missions",
+          "conceptId": "physics.gravitation.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "GPS Satellites",
+          "conceptId": "physics.gravitation.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rocket Trajectories",
+          "conceptId": "physics.gravitation.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Space Exploration",
+          "conceptId": "physics.gravitation.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Astrodynamics (Introduction)",
+          "conceptId": "physics.gravitation.chapter-10.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "gravitation"
+    ]
+  }
+}

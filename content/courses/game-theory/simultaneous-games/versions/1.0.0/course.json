@@ -1,0 +1,561 @@
+{
+  "id": "simultaneous-games",
+  "name": "Simultaneous Games",
+  "description": "Simultaneous Games",
+  "version": "1.0.0",
+  "domain": "game-theory",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Simultaneous Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What are Simultaneous Games?",
+          "conceptId": "game-theory.simultaneous-games.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategic Interdependence",
+          "conceptId": "game-theory.simultaneous-games.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Simultaneous vs Sequential Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rational Decision Making",
+          "conceptId": "game-theory.simultaneous-games.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Common Knowledge",
+          "conceptId": "game-theory.simultaneous-games.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Uncertainty",
+          "conceptId": "game-theory.simultaneous-games.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Payoff Matrices",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Payoff Matrix",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Players",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strategies",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Outcomes",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Utility",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Matrix Representation",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Reading Payoff Tables",
+          "conceptId": "game-theory.simultaneous-games.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Pure Strategies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pure Strategies",
+          "conceptId": "game-theory.simultaneous-games.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategy Profiles",
+          "conceptId": "game-theory.simultaneous-games.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Best Responses",
+          "conceptId": "game-theory.simultaneous-games.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rational Choice",
+          "conceptId": "game-theory.simultaneous-games.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stable Outcomes",
+          "conceptId": "game-theory.simultaneous-games.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Reasoning",
+          "conceptId": "game-theory.simultaneous-games.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Dominance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Strict Dominance",
+          "conceptId": "game-theory.simultaneous-games.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Weak Dominance",
+          "conceptId": "game-theory.simultaneous-games.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dominated Strategies",
+          "conceptId": "game-theory.simultaneous-games.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Iterated Elimination",
+          "conceptId": "game-theory.simultaneous-games.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strategic Simplification",
+          "conceptId": "game-theory.simultaneous-games.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decision Analysis",
+          "conceptId": "game-theory.simultaneous-games.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Nash Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nash Equilibrium",
+          "conceptId": "game-theory.simultaneous-games.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mutual Best Responses",
+          "conceptId": "game-theory.simultaneous-games.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equilibrium Identification",
+          "conceptId": "game-theory.simultaneous-games.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multiple Equilibria",
+          "conceptId": "game-theory.simultaneous-games.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Unique Equilibrium",
+          "conceptId": "game-theory.simultaneous-games.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Equilibrium Stability",
+          "conceptId": "game-theory.simultaneous-games.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Mixed Strategies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mixed Strategies",
+          "conceptId": "game-theory.simultaneous-games.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Randomization",
+          "conceptId": "game-theory.simultaneous-games.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Expected Payoffs",
+          "conceptId": "game-theory.simultaneous-games.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mixed Strategy Nash Equilibrium",
+          "conceptId": "game-theory.simultaneous-games.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strategic Unpredictability",
+          "conceptId": "game-theory.simultaneous-games.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "game-theory.simultaneous-games.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Coordination Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coordination Problems",
+          "conceptId": "game-theory.simultaneous-games.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multiple Equilibria",
+          "conceptId": "game-theory.simultaneous-games.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Focal Points",
+          "conceptId": "game-theory.simultaneous-games.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Assurance Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stag Hunt",
+          "conceptId": "game-theory.simultaneous-games.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Coordination",
+          "conceptId": "game-theory.simultaneous-games.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Conflict Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Prisoner's Dilemma",
+          "conceptId": "game-theory.simultaneous-games.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chicken Game",
+          "conceptId": "game-theory.simultaneous-games.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hawk-Dove Game",
+          "conceptId": "game-theory.simultaneous-games.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Matching Pennies",
+          "conceptId": "game-theory.simultaneous-games.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Zero-Sum Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Conflict",
+          "conceptId": "game-theory.simultaneous-games.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Market Competition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Price Competition",
+          "conceptId": "game-theory.simultaneous-games.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantity Competition",
+          "conceptId": "game-theory.simultaneous-games.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Oligopoly",
+          "conceptId": "game-theory.simultaneous-games.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Strategic Pricing",
+          "conceptId": "game-theory.simultaneous-games.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Product Differentiation",
+          "conceptId": "game-theory.simultaneous-games.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Business Competition",
+          "conceptId": "game-theory.simultaneous-games.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Information in Simultaneous Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Complete Information",
+          "conceptId": "game-theory.simultaneous-games.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Incomplete Information",
+          "conceptId": "game-theory.simultaneous-games.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Information Asymmetry",
+          "conceptId": "game-theory.simultaneous-games.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Beliefs",
+          "conceptId": "game-theory.simultaneous-games.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hidden Information",
+          "conceptId": "game-theory.simultaneous-games.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Uncertainty",
+          "conceptId": "game-theory.simultaneous-games.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Real-World Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Business Strategy",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Politics",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sports",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Military Planning",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cybersecurity",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artificial Intelligence",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Online Platforms",
+          "conceptId": "game-theory.simultaneous-games.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Computational Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Matrix Computation",
+          "conceptId": "game-theory.simultaneous-games.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Equilibrium Algorithms",
+          "conceptId": "game-theory.simultaneous-games.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Simulation",
+          "conceptId": "game-theory.simultaneous-games.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multi-Agent Systems",
+          "conceptId": "game-theory.simultaneous-games.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Algorithmic Decision Making",
+          "conceptId": "game-theory.simultaneous-games.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Strategy",
+          "conceptId": "game-theory.simultaneous-games.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Correlated Equilibrium",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Evolutionarily Stable Strategies (Introduction)",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Learning in Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Large Strategic Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Network Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Modern Applications",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 4: Sequential Games**",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Extensive-Form Games",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Game Trees",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Sequential Decision Making",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Information Sets",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Backward Induction",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Subgame Perfect Equilibrium",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Credible Threats",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Commitment",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Bargaining",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Dynamic Competition",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Negotiation",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Strategic Timing",
+          "conceptId": "game-theory.simultaneous-games.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "game-theory",
+      "simultaneous-games"
+    ]
+  }
+}

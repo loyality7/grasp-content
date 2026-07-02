@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Data Science",
+  "description": "Introduction to Data Science",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Data Science?",
+      "conceptId": "computer-science.data-science.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Data Science Workflow",
+      "conceptId": "computer-science.data-science.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Types of Data",
+      "conceptId": "computer-science.data-science.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Data Science Lifecycle",
+      "conceptId": "computer-science.data-science.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Roles in Data Science",
+      "conceptId": "computer-science.data-science.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "computer-science.data-science.chapter-01.topic-06"
+    }
+  ]
+}

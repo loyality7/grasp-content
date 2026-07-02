@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Nash Equilibrium (Introduction)",
+  "description": "Nash Equilibrium (Introduction)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nash Equilibrium",
+      "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Equilibrium Concepts",
+      "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Multiple Equilibria",
+      "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equilibrium Stability",
+      "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Coordination Problems",
+      "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Balance",
+      "conceptId": "game-theory.game-theory-foundations.chapter-08.topic-06"
+    }
+  ]
+}

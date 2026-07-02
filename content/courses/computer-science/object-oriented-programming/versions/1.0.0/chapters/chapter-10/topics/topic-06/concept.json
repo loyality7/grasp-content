@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-10.topic-06",
+  "name": "Maps",
+  "subject": "computer-science",
+  "definition": "Maps is a fundamental concept in computer-science.",
+  "explanation": "Learn about Maps and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "maps"
+  ]
+}

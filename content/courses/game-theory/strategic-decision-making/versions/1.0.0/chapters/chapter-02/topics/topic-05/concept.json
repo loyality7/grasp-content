@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.strategic-decision-making.chapter-02.topic-05",
+  "name": "Sequential Decisions",
+  "subject": "game-theory",
+  "definition": "Sequential Decisions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Sequential Decisions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "sequential-decisions"
+  ]
+}

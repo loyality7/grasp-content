@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-04.topic-04",
+  "name": "Outlier Detection",
+  "subject": "computer-science",
+  "definition": "Outlier Detection is a fundamental concept in computer-science.",
+  "explanation": "Learn about Outlier Detection and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "outlier-detection"
+  ]
+}

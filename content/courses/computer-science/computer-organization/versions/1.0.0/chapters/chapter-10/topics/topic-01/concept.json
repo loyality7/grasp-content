@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-10.topic-01",
+  "name": "Multicore Processors",
+  "subject": "computer-science",
+  "definition": "Multicore Processors is a fundamental concept in computer-science.",
+  "explanation": "Learn about Multicore Processors and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "multicore-processors"
+  ]
+}

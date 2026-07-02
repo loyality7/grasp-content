@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-08.topic-05",
+  "name": "Object Collaboration",
+  "subject": "computer-science",
+  "definition": "Object Collaboration is a fundamental concept in computer-science.",
+  "explanation": "Learn about Object Collaboration and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "object-collaboration"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Inequality",
+  "description": "Inequality",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Income Inequality",
+      "conceptId": "economics.development-economics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Wealth Inequality",
+      "conceptId": "economics.development-economics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Social Mobility",
+      "conceptId": "economics.development-economics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Inclusive Growth",
+      "conceptId": "economics.development-economics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Redistribution",
+      "conceptId": "economics.development-economics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Equality of Opportunity",
+      "conceptId": "economics.development-economics.chapter-04.topic-06"
+    }
+  ]
+}

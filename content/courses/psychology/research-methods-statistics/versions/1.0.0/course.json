@@ -1,0 +1,596 @@
+{
+  "id": "research-methods-statistics",
+  "name": "Research Methods & Statistics",
+  "description": "Research Methods & Statistics",
+  "version": "1.0.0",
+  "domain": "psychology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Psychological Research",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Psychological Research?",
+          "conceptId": "psychology.research-methods-statistics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Method",
+          "conceptId": "psychology.research-methods-statistics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Research Questions",
+          "conceptId": "psychology.research-methods-statistics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hypotheses",
+          "conceptId": "psychology.research-methods-statistics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Theory Development",
+          "conceptId": "psychology.research-methods-statistics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evidence-Based Psychology",
+          "conceptId": "psychology.research-methods-statistics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Research Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Experimental Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quasi-Experimental Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Correlational Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Descriptive Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Longitudinal Studies",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cross-Sectional Studies",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Mixed Methods Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Variables & Measurement",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Independent Variables",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dependent Variables",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Control Variables",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Operational Definitions",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reliability",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Validity",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Measurement Scales",
+          "conceptId": "psychology.research-methods-statistics.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Sampling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Population",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sample",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Probability Sampling",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Probability Sampling",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sampling Bias",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sample Size",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Generalizability",
+          "conceptId": "psychology.research-methods-statistics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Data Collection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Observation",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Surveys",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Interviews",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Questionnaires",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Psychological Tests",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Behavioral Measures",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Digital Data Collection",
+          "conceptId": "psychology.research-methods-statistics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Descriptive Statistics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Frequency Distributions",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mean",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Median",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mode",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Range",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Variance",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Standard Deviation",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Data Visualization",
+          "conceptId": "psychology.research-methods-statistics.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Inferential Statistics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Probability",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sampling Distributions",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Confidence Intervals",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hypothesis Testing",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "p-Values",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Statistical Significance",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Effect Size",
+          "conceptId": "psychology.research-methods-statistics.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Correlation & Regression",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Correlation",
+          "conceptId": "psychology.research-methods-statistics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Correlation Coefficient",
+          "conceptId": "psychology.research-methods-statistics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Scatter Plots",
+          "conceptId": "psychology.research-methods-statistics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Linear Regression",
+          "conceptId": "psychology.research-methods-statistics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Prediction",
+          "conceptId": "psychology.research-methods-statistics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Correlation vs Causation",
+          "conceptId": "psychology.research-methods-statistics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Experimental Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "t-Tests",
+          "conceptId": "psychology.research-methods-statistics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "ANOVA",
+          "conceptId": "psychology.research-methods-statistics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chi-Square Tests",
+          "conceptId": "psychology.research-methods-statistics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Parametric Tests",
+          "conceptId": "psychology.research-methods-statistics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Statistical Assumptions",
+          "conceptId": "psychology.research-methods-statistics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interpreting Results",
+          "conceptId": "psychology.research-methods-statistics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Research Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Informed Consent",
+          "conceptId": "psychology.research-methods-statistics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Confidentiality",
+          "conceptId": "psychology.research-methods-statistics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Privacy",
+          "conceptId": "psychology.research-methods-statistics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deception in Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Institutional Review Boards (IRBs)",
+          "conceptId": "psychology.research-methods-statistics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Responsible Conduct of Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Scientific Communication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Research Reports",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "APA Style",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Literature Reviews",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Interpretation",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Peer Review",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Replication",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Open Science",
+          "conceptId": "psychology.research-methods-statistics.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Clinical Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Educational Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Organizational Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Health Psychology",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Market Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Policy Evaluation",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Behavioral Analytics",
+          "conceptId": "psychology.research-methods-statistics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Meta-Analysis",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bayesian Statistics",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Big Data in Psychology",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Psychology",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Machine Learning for Behavioral Research",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reproducible Science",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 12: Positive Psychology**",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Happiness",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Well-Being",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Positive Emotions",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Character Strengths",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Resilience",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Optimism",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Motivation",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Mindfulness",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Flow",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Meaning & Purpose",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Relationships",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Human Flourishing",
+          "conceptId": "psychology.research-methods-statistics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "psychology",
+      "research-methods-statistics"
+    ]
+  }
+}

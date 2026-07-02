@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "The Scientific Method",
+  "description": "The Scientific Method",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Observation",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hypothesis",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Experimentation",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Data Collection",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Analysis",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Replication",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Scientific Communication",
+      "conceptId": "philosophy.philosophy-of-science.chapter-02.topic-07"
+    }
+  ]
+}

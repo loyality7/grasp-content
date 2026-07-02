@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Developmental Psychology",
+  "description": "Introduction to Developmental Psychology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Developmental Psychology?",
+      "conceptId": "psychology.developmental-psychology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lifespan Development",
+      "conceptId": "psychology.developmental-psychology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Nature vs Nurture",
+      "conceptId": "psychology.developmental-psychology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Developmental Research Methods",
+      "conceptId": "psychology.developmental-psychology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Developmental Theories",
+      "conceptId": "psychology.developmental-psychology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Stages of Development",
+      "conceptId": "psychology.developmental-psychology.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-12.topic-06",
+  "name": "AI Agents",
+  "subject": "computer-science",
+  "definition": "AI Agents is a fundamental concept in computer-science.",
+  "explanation": "Learn about AI Agents and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "ai-agents"
+  ]
+}

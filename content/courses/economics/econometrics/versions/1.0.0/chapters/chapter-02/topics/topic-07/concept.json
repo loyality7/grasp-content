@@ -1,0 +1,20 @@
+{
+  "id": "economics.econometrics.chapter-02.topic-07",
+  "name": "Statistical Inference",
+  "subject": "economics",
+  "definition": "Statistical Inference is a fundamental concept in economics.",
+  "explanation": "Learn about Statistical Inference and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "economics",
+    "statistical-inference"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Pragmatics",
+  "description": "Pragmatics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Pragmatics",
+      "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Context",
+      "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Speaker Meaning",
+      "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Conversational Implicature",
+      "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Presupposition",
+      "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Context-Dependent Language",
+      "conceptId": "philosophy.philosophy-of-language.chapter-05.topic-06"
+    }
+  ]
+}

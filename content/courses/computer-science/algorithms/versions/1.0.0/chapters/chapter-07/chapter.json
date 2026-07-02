@@ -1,0 +1,47 @@
+{
+  "id": "chapter-07",
+  "name": "Dynamic Programming",
+  "description": "Dynamic Programming",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Optimal Substructure",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Overlapping Subproblems",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Memoization",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Tabulation",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fibonacci",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Knapsack",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Longest Common Subsequence",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Matrix Chain Multiplication",
+      "conceptId": "computer-science.algorithms.chapter-07.topic-08"
+    }
+  ]
+}

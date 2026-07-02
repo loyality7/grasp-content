@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Sampling Distributions",
+  "description": "Sampling Distributions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sampling Distribution",
+      "conceptId": "mathematics.statistics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Central Limit Theorem",
+      "conceptId": "mathematics.statistics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Standard Error",
+      "conceptId": "mathematics.statistics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sample Mean Distribution",
+      "conceptId": "mathematics.statistics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sample Proportion Distribution",
+      "conceptId": "mathematics.statistics.chapter-06.topic-05"
+    }
+  ]
+}

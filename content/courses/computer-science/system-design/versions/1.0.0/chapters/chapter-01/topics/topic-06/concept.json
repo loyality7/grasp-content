@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.system-design.chapter-01.topic-06",
+  "name": "Availability",
+  "subject": "computer-science",
+  "definition": "Availability is a fundamental concept in computer-science.",
+  "explanation": "Learn about Availability and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "availability"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.differential-equations.chapter-12.topic-01",
+  "name": "Euler's Method",
+  "subject": "mathematics",
+  "definition": "Euler's Method is a fundamental concept in mathematics.",
+  "explanation": "Learn about Euler's Method and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "eulers-method"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-10.topic-03",
+  "name": "Maximum Matching",
+  "subject": "mathematics",
+  "definition": "Maximum Matching is a fundamental concept in mathematics.",
+  "explanation": "Learn about Maximum Matching and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "maximum-matching"
+  ]
+}

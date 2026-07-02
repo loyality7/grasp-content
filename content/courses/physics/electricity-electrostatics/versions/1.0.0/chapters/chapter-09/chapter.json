@@ -1,0 +1,27 @@
+{
+  "id": "chapter-09",
+  "name": "Energy in Electric Fields",
+  "description": "Energy in Electric Fields",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electric Field Energy",
+      "conceptId": "physics.electricity-electrostatics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Energy Density",
+      "conceptId": "physics.electricity-electrostatics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electrostatic Pressure",
+      "conceptId": "physics.electricity-electrostatics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "physics.electricity-electrostatics.chapter-09.topic-04"
+    }
+  ]
+}

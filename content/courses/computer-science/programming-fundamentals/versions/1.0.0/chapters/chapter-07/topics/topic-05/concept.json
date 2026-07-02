@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-07.topic-05",
+  "name": "Local Variables",
+  "subject": "computer-science",
+  "definition": "Local Variables is a fundamental concept in computer-science.",
+  "explanation": "Learn about Local Variables and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "local-variables"
+  ]
+}

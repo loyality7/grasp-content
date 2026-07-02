@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07",
+  "name": "Fermat & Euler Theorems",
+  "description": "Fermat & Euler Theorems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fermat's Little Theorem",
+      "conceptId": "mathematics.number-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Euler's Theorem",
+      "conceptId": "mathematics.number-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Wilson's Theorem",
+      "conceptId": "mathematics.number-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "mathematics.number-theory.chapter-07.topic-04"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.game-theory-foundations.chapter-02.topic-06",
+  "name": "Rules of the Game",
+  "subject": "game-theory",
+  "definition": "Rules of the Game is a fundamental concept in game-theory.",
+  "explanation": "Learn about Rules of the Game and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "rules-of-the-game"
+  ]
+}

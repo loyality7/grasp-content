@@ -1,0 +1,37 @@
+{
+  "id": "chapter-11",
+  "name": "Problem Solving",
+  "description": "Problem Solving",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Algorithm Design",
+      "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pseudocode",
+      "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Flowcharts",
+      "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Pattern Problems",
+      "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mathematical Programming",
+      "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Practice Problems",
+      "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-06"
+    }
+  ]
+}

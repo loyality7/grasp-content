@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Exponents",
+  "description": "Exponents",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Powers",
+      "conceptId": "mathematics.pre-algebra.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Base & Exponent",
+      "conceptId": "mathematics.pre-algebra.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Squares",
+      "conceptId": "mathematics.pre-algebra.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cubes",
+      "conceptId": "mathematics.pre-algebra.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Laws of Exponents (Basic)",
+      "conceptId": "mathematics.pre-algebra.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Scientific Notation",
+      "conceptId": "mathematics.pre-algebra.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Dominance",
+  "description": "Dominance",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Strict Dominance",
+      "conceptId": "game-theory.simultaneous-games.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Weak Dominance",
+      "conceptId": "game-theory.simultaneous-games.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Dominated Strategies",
+      "conceptId": "game-theory.simultaneous-games.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Iterated Elimination",
+      "conceptId": "game-theory.simultaneous-games.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strategic Simplification",
+      "conceptId": "game-theory.simultaneous-games.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Decision Analysis",
+      "conceptId": "game-theory.simultaneous-games.chapter-04.topic-06"
+    }
+  ]
+}

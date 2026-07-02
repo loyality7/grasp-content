@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Compact Objects",
+  "description": "Compact Objects",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "White Dwarfs",
+      "conceptId": "physics.astrophysics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chandrasekhar Limit",
+      "conceptId": "physics.astrophysics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Neutron Stars",
+      "conceptId": "physics.astrophysics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Pulsars",
+      "conceptId": "physics.astrophysics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Magnetars",
+      "conceptId": "physics.astrophysics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Black Holes",
+      "conceptId": "physics.astrophysics.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.kinematics.chapter-01.topic-08",
+  "name": "Average Velocity",
+  "subject": "physics",
+  "definition": "Average Velocity is a fundamental concept in physics.",
+  "explanation": "Learn about Average Velocity and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "average-velocity"
+  ]
+}

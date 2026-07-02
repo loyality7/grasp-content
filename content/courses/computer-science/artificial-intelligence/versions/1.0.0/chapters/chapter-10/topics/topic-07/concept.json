@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-10.topic-07",
+  "name": "Motion Planning",
+  "subject": "computer-science",
+  "definition": "Motion Planning is a fundamental concept in computer-science.",
+  "explanation": "Learn about Motion Planning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "motion-planning"
+  ]
+}

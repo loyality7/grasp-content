@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.machine-learning.chapter-11.topic-01",
+  "name": "ML Pipelines",
+  "subject": "computer-science",
+  "definition": "ML Pipelines is a fundamental concept in computer-science.",
+  "explanation": "Learn about ML Pipelines and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "ml-pipelines"
+  ]
+}

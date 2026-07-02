@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Inflation",
+  "description": "Inflation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Inflation",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Consumer Price Index (CPI)",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Producer Price Index (PPI)",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Demand-Pull Inflation",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cost-Push Inflation",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Inflation Measurement",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Effects of Inflation",
+      "conceptId": "economics.macroeconomics.chapter-04.topic-07"
+    }
+  ]
+}

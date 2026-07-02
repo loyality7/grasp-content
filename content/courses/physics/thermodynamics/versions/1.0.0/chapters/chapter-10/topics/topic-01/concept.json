@@ -1,0 +1,20 @@
+{
+  "id": "physics.thermodynamics.chapter-10.topic-01",
+  "name": "Conduction",
+  "subject": "physics",
+  "definition": "Conduction is a fundamental concept in physics.",
+  "explanation": "Learn about Conduction and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "conduction"
+  ]
+}

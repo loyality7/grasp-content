@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Demand Theory",
+  "description": "Demand Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Individual Demand",
+      "conceptId": "economics.consumer-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Market Demand",
+      "conceptId": "economics.consumer-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Demand Functions",
+      "conceptId": "economics.consumer-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Demand Elasticity",
+      "conceptId": "economics.consumer-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Consumer Response to Price Changes",
+      "conceptId": "economics.consumer-theory.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Consumer Surplus",
+      "conceptId": "economics.consumer-theory.chapter-07.topic-06"
+    }
+  ]
+}

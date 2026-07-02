@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Chemical Process Engineering",
+  "description": "Chemical Process Engineering",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Unit Operations",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Unit Processes",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Reactors",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Heat Exchangers",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Distillation Columns",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Separation Processes",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Process Control",
+      "conceptId": "chemistry.industrial-chemistry.chapter-02.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Ethics",
+  "description": "Introduction to Ethics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Ethics?",
+      "conceptId": "philosophy.ethics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Morality",
+      "conceptId": "philosophy.ethics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Moral Reasoning",
+      "conceptId": "philosophy.ethics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Values",
+      "conceptId": "philosophy.ethics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Moral Responsibility",
+      "conceptId": "philosophy.ethics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Branches of Ethics",
+      "conceptId": "philosophy.ethics.chapter-01.topic-06"
+    }
+  ]
+}

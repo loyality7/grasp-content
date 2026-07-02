@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Distributed Systems",
+  "description": "Introduction to Distributed Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is a Distributed System?",
+      "conceptId": "computer-science.distributed-systems.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Characteristics",
+      "conceptId": "computer-science.distributed-systems.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Advantages & Challenges",
+      "conceptId": "computer-science.distributed-systems.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Distributed System Models",
+      "conceptId": "computer-science.distributed-systems.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transparency",
+      "conceptId": "computer-science.distributed-systems.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Scalability",
+      "conceptId": "computer-science.distributed-systems.chapter-01.topic-06"
+    }
+  ]
+}

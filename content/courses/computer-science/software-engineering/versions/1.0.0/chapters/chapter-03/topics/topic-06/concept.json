@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-03.topic-06",
+  "name": "Design Documentation",
+  "subject": "computer-science",
+  "definition": "Design Documentation is a fundamental concept in computer-science.",
+  "explanation": "Learn about Design Documentation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "design-documentation"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Prime Numbers",
+  "description": "Prime Numbers",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Prime Numbers",
+      "conceptId": "mathematics.number-theory.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Composite Numbers",
+      "conceptId": "mathematics.number-theory.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Prime Factorization",
+      "conceptId": "mathematics.number-theory.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fundamental Theorem of Arithmetic",
+      "conceptId": "mathematics.number-theory.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sieve of Eratosthenes",
+      "conceptId": "mathematics.number-theory.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Distribution of Primes (Introduction)",
+      "conceptId": "mathematics.number-theory.chapter-02.topic-06"
+    }
+  ]
+}

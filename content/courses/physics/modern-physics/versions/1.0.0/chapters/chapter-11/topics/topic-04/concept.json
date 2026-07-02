@@ -1,0 +1,20 @@
+{
+  "id": "physics.modern-physics.chapter-11.topic-04",
+  "name": "Quantum Cryptography",
+  "subject": "physics",
+  "definition": "Quantum Cryptography is a fundamental concept in physics.",
+  "explanation": "Learn about Quantum Cryptography and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "quantum-cryptography"
+  ]
+}

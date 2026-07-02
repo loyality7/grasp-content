@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Data Wrangling",
+  "description": "Data Wrangling",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Data Cleaning",
+      "conceptId": "computer-science.data-science.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Missing Values",
+      "conceptId": "computer-science.data-science.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Duplicate Data",
+      "conceptId": "computer-science.data-science.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Data Transformation",
+      "conceptId": "computer-science.data-science.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Feature Engineering",
+      "conceptId": "computer-science.data-science.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Data Integration",
+      "conceptId": "computer-science.data-science.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Data Quality",
+      "conceptId": "computer-science.data-science.chapter-03.topic-07"
+    }
+  ]
+}

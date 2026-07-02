@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-02.topic-02",
+  "name": "Derived Units",
+  "subject": "physics",
+  "definition": "Derived Units is a fundamental concept in physics.",
+  "explanation": "Learn about Derived Units and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "derived-units"
+  ]
+}

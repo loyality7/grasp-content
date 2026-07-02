@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Nuclear Structure",
+  "description": "Nuclear Structure",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Protons",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Neutrons",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Nuclear Binding Energy",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mass Defect",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Nuclear Models",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Nuclear Stability",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-02.topic-06"
+    }
+  ]
+}

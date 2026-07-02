@@ -1,0 +1,378 @@
+{
+  "id": "fluid-mechanics",
+  "name": "Fluid Mechanics",
+  "description": "Fluid Mechanics",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Properties of Fluids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Fluid?",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Density",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Specific Gravity",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pressure",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Compressibility",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Surface Tension",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Capillary Action",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Viscosity",
+          "conceptId": "physics.fluid-mechanics.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Fluid Statics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hydrostatic Pressure",
+          "conceptId": "physics.fluid-mechanics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pressure Variation with Depth",
+          "conceptId": "physics.fluid-mechanics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pascal's Law",
+          "conceptId": "physics.fluid-mechanics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hydraulic Systems",
+          "conceptId": "physics.fluid-mechanics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pressure Measurement",
+          "conceptId": "physics.fluid-mechanics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Manometers",
+          "conceptId": "physics.fluid-mechanics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Buoyancy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Buoyant Force",
+          "conceptId": "physics.fluid-mechanics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Archimedes' Principle",
+          "conceptId": "physics.fluid-mechanics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Floating Bodies",
+          "conceptId": "physics.fluid-mechanics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sinking Bodies",
+          "conceptId": "physics.fluid-mechanics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stability of Floating Objects",
+          "conceptId": "physics.fluid-mechanics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "physics.fluid-mechanics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Fluid Dynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Flow Rate",
+          "conceptId": "physics.fluid-mechanics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Continuity Equation",
+          "conceptId": "physics.fluid-mechanics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Streamlines",
+          "conceptId": "physics.fluid-mechanics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Laminar Flow",
+          "conceptId": "physics.fluid-mechanics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Turbulent Flow",
+          "conceptId": "physics.fluid-mechanics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reynolds Number",
+          "conceptId": "physics.fluid-mechanics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Bernoulli's Principle",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bernoulli's Equation",
+          "conceptId": "physics.fluid-mechanics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Conservation in Fluids",
+          "conceptId": "physics.fluid-mechanics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Venturi Effect",
+          "conceptId": "physics.fluid-mechanics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pitot Tube",
+          "conceptId": "physics.fluid-mechanics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "conceptId": "physics.fluid-mechanics.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Viscosity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Dynamic Viscosity",
+          "conceptId": "physics.fluid-mechanics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Kinematic Viscosity",
+          "conceptId": "physics.fluid-mechanics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Newtonian Fluids",
+          "conceptId": "physics.fluid-mechanics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Newtonian Fluids",
+          "conceptId": "physics.fluid-mechanics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stokes' Law",
+          "conceptId": "physics.fluid-mechanics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Terminal Velocity",
+          "conceptId": "physics.fluid-mechanics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Flow Through Pipes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pipe Flow",
+          "conceptId": "physics.fluid-mechanics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Head Loss",
+          "conceptId": "physics.fluid-mechanics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Darcy-Weisbach Equation",
+          "conceptId": "physics.fluid-mechanics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Flow Resistance",
+          "conceptId": "physics.fluid-mechanics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pumps (Introduction)",
+          "conceptId": "physics.fluid-mechanics.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Surface Phenomena",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Surface Tension",
+          "conceptId": "physics.fluid-mechanics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wetting",
+          "conceptId": "physics.fluid-mechanics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Contact Angle",
+          "conceptId": "physics.fluid-mechanics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Soap Films",
+          "conceptId": "physics.fluid-mechanics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bubbles",
+          "conceptId": "physics.fluid-mechanics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Capillary Rise",
+          "conceptId": "physics.fluid-mechanics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Compressible Flow (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mach Number",
+          "conceptId": "physics.fluid-mechanics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Subsonic Flow",
+          "conceptId": "physics.fluid-mechanics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Supersonic Flow",
+          "conceptId": "physics.fluid-mechanics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Shock Waves (Introduction)",
+          "conceptId": "physics.fluid-mechanics.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hydraulics",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Aircraft Wings",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ship Buoyancy",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Blood Flow",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Water Distribution Systems",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Weather Systems",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ocean Currents",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Fluid Machines",
+          "conceptId": "physics.fluid-mechanics.chapter-10.topic-08"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "fluid-mechanics"
+    ]
+  }
+}

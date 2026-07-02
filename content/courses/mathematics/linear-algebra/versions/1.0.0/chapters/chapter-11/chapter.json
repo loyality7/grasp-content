@@ -1,0 +1,27 @@
+{
+  "id": "chapter-11",
+  "name": "Matrix Factorization",
+  "description": "Matrix Factorization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "LU Decomposition",
+      "conceptId": "mathematics.linear-algebra.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "QR Decomposition",
+      "conceptId": "mathematics.linear-algebra.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cholesky Decomposition",
+      "conceptId": "mathematics.linear-algebra.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Singular Value Decomposition (SVD)",
+      "conceptId": "mathematics.linear-algebra.chapter-11.topic-04"
+    }
+  ]
+}

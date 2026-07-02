@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Indexing & Query Optimization",
+  "description": "Indexing & Query Optimization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Indexes",
+      "conceptId": "computer-science.databases.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "B-Trees",
+      "conceptId": "computer-science.databases.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Hash Indexes",
+      "conceptId": "computer-science.databases.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Query Execution Plans",
+      "conceptId": "computer-science.databases.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Query Optimization",
+      "conceptId": "computer-science.databases.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Performance Tuning",
+      "conceptId": "computer-science.databases.chapter-08.topic-06"
+    }
+  ]
+}

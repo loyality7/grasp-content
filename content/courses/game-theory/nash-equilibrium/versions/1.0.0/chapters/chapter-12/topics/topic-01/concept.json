@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-12.topic-01",
+  "name": "Computing Nash Equilibria",
+  "subject": "game-theory",
+  "definition": "Computing Nash Equilibria is a fundamental concept in game-theory.",
+  "explanation": "Learn about Computing Nash Equilibria and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "computing-nash-equilibria"
+  ]
+}

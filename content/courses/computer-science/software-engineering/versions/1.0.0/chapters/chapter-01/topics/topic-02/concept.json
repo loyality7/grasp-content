@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-01.topic-02",
+  "name": "Software Development Life Cycle (SDLC)",
+  "subject": "computer-science",
+  "definition": "Software Development Life Cycle (SDLC) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Software Development Life Cycle (SDLC) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "software-development-life-cycle-sdlc"
+  ]
+}

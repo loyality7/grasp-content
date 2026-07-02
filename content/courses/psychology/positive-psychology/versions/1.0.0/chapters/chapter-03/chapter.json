@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Positive Emotions",
+  "description": "Positive Emotions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Joy",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gratitude",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Hope",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Love",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Awe",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Compassion",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Broaden-and-Build Theory",
+      "conceptId": "psychology.positive-psychology.chapter-03.topic-07"
+    }
+  ]
+}

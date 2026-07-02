@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Environmental Chemistry",
+  "description": "Introduction to Environmental Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Environmental Chemistry?",
+      "conceptId": "chemistry.environmental-chemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Earth's Environmental Systems",
+      "conceptId": "chemistry.environmental-chemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Natural vs Anthropogenic Processes",
+      "conceptId": "chemistry.environmental-chemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Environmental Monitoring",
+      "conceptId": "chemistry.environmental-chemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Environmental Regulations",
+      "conceptId": "chemistry.environmental-chemistry.chapter-01.topic-05"
+    }
+  ]
+}

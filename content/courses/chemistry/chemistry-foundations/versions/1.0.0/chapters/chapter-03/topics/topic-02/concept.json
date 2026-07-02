@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.chemistry-foundations.chapter-03.topic-02",
+  "name": "Volume",
+  "subject": "chemistry",
+  "definition": "Volume is a fundamental concept in chemistry.",
+  "explanation": "Learn about Volume and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "volume"
+  ]
+}

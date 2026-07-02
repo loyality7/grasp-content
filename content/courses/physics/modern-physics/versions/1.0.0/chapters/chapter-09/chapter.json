@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Particle Physics",
+  "description": "Particle Physics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Fundamental Particles",
+      "conceptId": "physics.modern-physics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Quarks",
+      "conceptId": "physics.modern-physics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Leptons",
+      "conceptId": "physics.modern-physics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bosons",
+      "conceptId": "physics.modern-physics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Standard Model",
+      "conceptId": "physics.modern-physics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Particle Interactions",
+      "conceptId": "physics.modern-physics.chapter-09.topic-06"
+    }
+  ]
+}

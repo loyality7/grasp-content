@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Elements of a Game",
+  "description": "Elements of a Game",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Players",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Strategies",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Actions",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Outcomes",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Payoffs",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Rules of the Game",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Information",
+      "conceptId": "game-theory.game-theory-foundations.chapter-02.topic-07"
+    }
+  ]
+}

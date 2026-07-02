@@ -1,0 +1,27 @@
+{
+  "id": "chapter-11",
+  "name": "Partial Differential Equations (Introduction)",
+  "description": "Partial Differential Equations (Introduction)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Heat Equation",
+      "conceptId": "mathematics.differential-equations.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Wave Equation",
+      "conceptId": "mathematics.differential-equations.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Laplace Equation",
+      "conceptId": "mathematics.differential-equations.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Separation of Variables",
+      "conceptId": "mathematics.differential-equations.chapter-11.topic-04"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-10.topic-02",
+  "name": "Gauss's Law (Magnetism)",
+  "subject": "physics",
+  "definition": "Gauss's Law (Magnetism) is a fundamental concept in physics.",
+  "explanation": "Learn about Gauss's Law (Magnetism) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "gausss-law-magnetism"
+  ]
+}

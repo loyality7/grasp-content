@@ -1,0 +1,20 @@
+{
+  "id": "physics.optics.chapter-10.topic-01",
+  "name": "Stimulated Emission",
+  "subject": "physics",
+  "definition": "Stimulated Emission is a fundamental concept in physics.",
+  "explanation": "Learn about Stimulated Emission and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "stimulated-emission"
+  ]
+}

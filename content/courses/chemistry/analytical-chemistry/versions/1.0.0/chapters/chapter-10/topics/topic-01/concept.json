@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-10.topic-01",
+  "name": "Calibration Curves",
+  "subject": "chemistry",
+  "definition": "Calibration Curves is a fundamental concept in chemistry.",
+  "explanation": "Learn about Calibration Curves and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "calibration-curves"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "biology.biotechnology.chapter-02.topic-01",
+  "name": "Recombinant DNA",
+  "subject": "biology",
+  "definition": "Recombinant DNA is a fundamental concept in biology.",
+  "explanation": "Learn about Recombinant DNA and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "recombinant-dna"
+  ]
+}

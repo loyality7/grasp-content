@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Environmental Ethics",
+  "description": "Environmental Ethics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Environmental Responsibility",
+      "conceptId": "philosophy.ethics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sustainability",
+      "conceptId": "philosophy.ethics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Animal Ethics",
+      "conceptId": "philosophy.ethics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Biodiversity",
+      "conceptId": "philosophy.ethics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Climate Ethics",
+      "conceptId": "philosophy.ethics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future Generations",
+      "conceptId": "philosophy.ethics.chapter-09.topic-06"
+    }
+  ]
+}

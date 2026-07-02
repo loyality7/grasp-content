@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Monte Carlo Methods",
+  "description": "Monte Carlo Methods",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Random Sampling",
+      "conceptId": "chemistry.computational-chemistry.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Monte Carlo Simulation",
+      "conceptId": "chemistry.computational-chemistry.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Statistical Mechanics",
+      "conceptId": "chemistry.computational-chemistry.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equilibrium Sampling",
+      "conceptId": "chemistry.computational-chemistry.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Free Energy Calculations",
+      "conceptId": "chemistry.computational-chemistry.chapter-08.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-networks.chapter-11.topic-03",
+  "name": "Load Balancing",
+  "subject": "computer-science",
+  "definition": "Load Balancing is a fundamental concept in computer-science.",
+  "explanation": "Learn about Load Balancing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "load-balancing"
+  ]
+}

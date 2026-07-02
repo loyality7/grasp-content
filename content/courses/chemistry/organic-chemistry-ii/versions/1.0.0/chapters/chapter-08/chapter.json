@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Heterocyclic Compounds",
+  "description": "Heterocyclic Compounds",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Pyridine",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pyrrole",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Furan",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Thiophene",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Imidazole",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Indole",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Biological Importance",
+      "conceptId": "chemistry.organic-chemistry-ii.chapter-08.topic-07"
+    }
+  ]
+}

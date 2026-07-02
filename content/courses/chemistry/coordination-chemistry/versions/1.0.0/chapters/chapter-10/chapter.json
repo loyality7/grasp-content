@@ -1,0 +1,32 @@
+{
+  "id": "chapter-10",
+  "name": "Organometallic Chemistry (Introduction)",
+  "description": "Organometallic Chemistry (Introduction)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Organometallic Compounds",
+      "conceptId": "chemistry.coordination-chemistry.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Metal-Carbon Bonds",
+      "conceptId": "chemistry.coordination-chemistry.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ferrocene",
+      "conceptId": "chemistry.coordination-chemistry.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Metal Carbonyls",
+      "conceptId": "chemistry.coordination-chemistry.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Catalytic Cycles",
+      "conceptId": "chemistry.coordination-chemistry.chapter-10.topic-05"
+    }
+  ]
+}

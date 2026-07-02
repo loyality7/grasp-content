@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Quantum Operators",
+  "description": "Quantum Operators",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Operators",
+      "conceptId": "physics.quantum-mechanics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Observable Quantities",
+      "conceptId": "physics.quantum-mechanics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Eigenvalues",
+      "conceptId": "physics.quantum-mechanics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Eigenvectors",
+      "conceptId": "physics.quantum-mechanics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hermitian Operators",
+      "conceptId": "physics.quantum-mechanics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Commutators",
+      "conceptId": "physics.quantum-mechanics.chapter-04.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Recruitment & Selection",
+  "description": "Recruitment & Selection",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Job Analysis",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Recruitment",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Employee Selection",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interviews",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Aptitude & Personality Testing",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hiring Decisions",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Onboarding",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-02.topic-07"
+    }
+  ]
+}

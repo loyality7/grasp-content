@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Cell Death & Repair",
+  "description": "Cell Death & Repair",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Apoptosis",
+      "conceptId": "biology.cell-biology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Necrosis",
+      "conceptId": "biology.cell-biology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Autophagy",
+      "conceptId": "biology.cell-biology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cell Senescence",
+      "conceptId": "biology.cell-biology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Tissue Repair",
+      "conceptId": "biology.cell-biology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Stem Cells",
+      "conceptId": "biology.cell-biology.chapter-09.topic-06"
+    }
+  ]
+}

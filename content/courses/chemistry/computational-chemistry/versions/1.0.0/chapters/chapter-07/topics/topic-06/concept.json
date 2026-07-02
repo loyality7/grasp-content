@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-07.topic-06",
+  "name": "Trajectory Analysis",
+  "subject": "chemistry",
+  "definition": "Trajectory Analysis is a fundamental concept in chemistry.",
+  "explanation": "Learn about Trajectory Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "trajectory-analysis"
+  ]
+}

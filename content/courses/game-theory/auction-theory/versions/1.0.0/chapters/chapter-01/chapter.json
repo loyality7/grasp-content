@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Auction Theory",
+  "description": "Introduction to Auction Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is an Auction?",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Auction Objectives",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Buyers & Sellers",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bidders",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Valuations",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Auction Design",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Applications",
+      "conceptId": "game-theory.auction-theory.chapter-01.topic-07"
+    }
+  ]
+}

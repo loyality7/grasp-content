@@ -1,0 +1,32 @@
+{
+  "id": "chapter-10",
+  "name": "Polyprotic Acids & Amphoteric Compounds",
+  "description": "Polyprotic Acids & Amphoteric Compounds",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Diprotic Acids",
+      "conceptId": "chemistry.acids-bases.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Triprotic Acids",
+      "conceptId": "chemistry.acids-bases.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Successive Ionization",
+      "conceptId": "chemistry.acids-bases.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Amphiprotic Species",
+      "conceptId": "chemistry.acids-bases.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Amphoteric Oxides",
+      "conceptId": "chemistry.acids-bases.chapter-10.topic-05"
+    }
+  ]
+}

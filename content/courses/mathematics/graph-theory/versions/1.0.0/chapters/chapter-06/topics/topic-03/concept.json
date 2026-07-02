@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-06.topic-03",
+  "name": "Topological Sorting",
+  "subject": "mathematics",
+  "definition": "Topological Sorting is a fundamental concept in mathematics.",
+  "explanation": "Learn about Topological Sorting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "topological-sorting"
+  ]
+}

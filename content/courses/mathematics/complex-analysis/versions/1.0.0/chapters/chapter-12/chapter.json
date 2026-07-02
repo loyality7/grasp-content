@@ -1,0 +1,112 @@
+{
+  "id": "chapter-12",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Maximum Modulus Principle",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Liouville's Theorem",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Schwarz Lemma",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Argument Principle",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rouché's Theorem",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Open Mapping Theorem",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Topology",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Measure Theory",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Functional Analysis",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Differential Geometry",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Numerical Analysis",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Optimization",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Dynamical Systems",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Mathematical Logic",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Category Theory",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Algebraic Topology",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Algebraic Geometry",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Lie Groups & Lie Algebras",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Stochastic Processes",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-19"
+    },
+    {
+      "id": "topic-20",
+      "name": "Information Theory",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-20"
+    },
+    {
+      "id": "topic-21",
+      "name": "Operations Research",
+      "conceptId": "mathematics.complex-analysis.chapter-12.topic-21"
+    }
+  ]
+}

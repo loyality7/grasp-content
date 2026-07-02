@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.simultaneous-games.chapter-02.topic-05",
+  "name": "Utility",
+  "subject": "game-theory",
+  "definition": "Utility is a fundamental concept in game-theory.",
+  "explanation": "Learn about Utility and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "utility"
+  ]
+}

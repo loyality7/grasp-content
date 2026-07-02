@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-03.topic-01",
+  "name": "Logical Connectives",
+  "subject": "philosophy",
+  "definition": "Logical Connectives is a fundamental concept in philosophy.",
+  "explanation": "Learn about Logical Connectives and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "logical-connectives"
+  ]
+}

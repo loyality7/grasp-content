@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Early Universe Physics",
+  "description": "Early Universe Physics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Quantum Fluctuations",
+      "conceptId": "physics.cosmology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Inflationary Models",
+      "conceptId": "physics.cosmology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Matter-Antimatter Asymmetry",
+      "conceptId": "physics.cosmology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Primordial Nucleosynthesis",
+      "conceptId": "physics.cosmology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Neutrino Decoupling",
+      "conceptId": "physics.cosmology.chapter-09.topic-05"
+    }
+  ]
+}

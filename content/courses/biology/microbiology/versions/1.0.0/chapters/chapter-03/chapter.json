@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Archaea",
+  "description": "Archaea",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Archaeal Cell Structure",
+      "conceptId": "biology.microbiology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Differences from Bacteria",
+      "conceptId": "biology.microbiology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Extremophiles",
+      "conceptId": "biology.microbiology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Methanogens",
+      "conceptId": "biology.microbiology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Halophiles",
+      "conceptId": "biology.microbiology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Thermophiles",
+      "conceptId": "biology.microbiology.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Ecological Importance",
+      "conceptId": "biology.microbiology.chapter-03.topic-07"
+    }
+  ]
+}

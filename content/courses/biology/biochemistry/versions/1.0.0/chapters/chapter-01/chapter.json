@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Biochemistry",
+  "description": "Introduction to Biochemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Biochemistry?",
+      "conceptId": "biology.biochemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chemical Basis of Life",
+      "conceptId": "biology.biochemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Water in Biological Systems",
+      "conceptId": "biology.biochemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Biological Buffers",
+      "conceptId": "biology.biochemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "pH in Living Systems",
+      "conceptId": "biology.biochemistry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Biomolecular Interactions",
+      "conceptId": "biology.biochemistry.chapter-01.topic-06"
+    }
+  ]
+}

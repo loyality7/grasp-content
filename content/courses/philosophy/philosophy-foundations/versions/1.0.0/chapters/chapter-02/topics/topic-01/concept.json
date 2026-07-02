@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.philosophy-foundations.chapter-02.topic-01",
+  "name": "Ancient Philosophy",
+  "subject": "philosophy",
+  "definition": "Ancient Philosophy is a fundamental concept in philosophy.",
+  "explanation": "Learn about Ancient Philosophy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "ancient-philosophy"
+  ]
+}

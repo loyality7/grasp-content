@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-11.topic-05",
+  "name": "Docker Basics",
+  "subject": "computer-science",
+  "definition": "Docker Basics is a fundamental concept in computer-science.",
+  "explanation": "Learn about Docker Basics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "docker-basics"
+  ]
+}

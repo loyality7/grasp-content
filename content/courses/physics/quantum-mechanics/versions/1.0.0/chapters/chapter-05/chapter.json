@@ -1,0 +1,32 @@
+{
+  "id": "chapter-05",
+  "name": "Uncertainty Principle",
+  "description": "Uncertainty Principle",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Heisenberg Uncertainty Principle",
+      "conceptId": "physics.quantum-mechanics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Position-Momentum Uncertainty",
+      "conceptId": "physics.quantum-mechanics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Energy-Time Uncertainty",
+      "conceptId": "physics.quantum-mechanics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Measurement Limits",
+      "conceptId": "physics.quantum-mechanics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Wave Packet Interpretation",
+      "conceptId": "physics.quantum-mechanics.chapter-05.topic-05"
+    }
+  ]
+}

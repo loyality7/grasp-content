@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "String Algorithms",
+  "description": "String Algorithms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Pattern Matching",
+      "conceptId": "computer-science.algorithms.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Naive String Search",
+      "conceptId": "computer-science.algorithms.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Knuth-Morris-Pratt (KMP)",
+      "conceptId": "computer-science.algorithms.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rabin-Karp",
+      "conceptId": "computer-science.algorithms.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trie-Based Searching",
+      "conceptId": "computer-science.algorithms.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "String Hashing",
+      "conceptId": "computer-science.algorithms.chapter-10.topic-06"
+    }
+  ]
+}

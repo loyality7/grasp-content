@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Auction Mechanisms",
+  "description": "Auction Mechanisms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Vickrey Auctions",
+      "conceptId": "game-theory.mechanism-design.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Generalized Second-Price Auctions",
+      "conceptId": "game-theory.mechanism-design.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Revenue Maximization",
+      "conceptId": "game-theory.mechanism-design.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Reserve Prices",
+      "conceptId": "game-theory.mechanism-design.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Optimal Auctions",
+      "conceptId": "game-theory.mechanism-design.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Auction Design",
+      "conceptId": "game-theory.mechanism-design.chapter-05.topic-06"
+    }
+  ]
+}

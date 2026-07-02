@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-04.topic-01",
+  "name": "Sequence Basics",
+  "subject": "mathematics",
+  "definition": "Sequence Basics is a fundamental concept in mathematics.",
+  "explanation": "Learn about Sequence Basics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "sequence-basics"
+  ]
+}

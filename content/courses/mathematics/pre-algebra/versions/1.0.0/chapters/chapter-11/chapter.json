@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Coordinate Plane",
+  "description": "Coordinate Plane",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cartesian Plane",
+      "conceptId": "mathematics.pre-algebra.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ordered Pairs",
+      "conceptId": "mathematics.pre-algebra.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Quadrants",
+      "conceptId": "mathematics.pre-algebra.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Plotting Points",
+      "conceptId": "mathematics.pre-algebra.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Distance Between Points (Intro)",
+      "conceptId": "mathematics.pre-algebra.chapter-11.topic-05"
+    }
+  ]
+}

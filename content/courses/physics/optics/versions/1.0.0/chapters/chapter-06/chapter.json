@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Wave Optics",
+  "description": "Wave Optics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Huygens' Principle",
+      "conceptId": "physics.optics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Wavefronts",
+      "conceptId": "physics.optics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Principle of Superposition",
+      "conceptId": "physics.optics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Coherence",
+      "conceptId": "physics.optics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Optical Path Difference",
+      "conceptId": "physics.optics.chapter-06.topic-05"
+    }
+  ]
+}

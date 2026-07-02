@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-01.topic-03",
+  "name": "Browsers",
+  "subject": "computer-science",
+  "definition": "Browsers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Browsers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "browsers"
+  ]
+}

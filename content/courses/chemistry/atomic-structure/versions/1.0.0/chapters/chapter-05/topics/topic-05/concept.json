@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.atomic-structure.chapter-05.topic-05",
+  "name": "Heisenberg Uncertainty Principle",
+  "subject": "chemistry",
+  "definition": "Heisenberg Uncertainty Principle is a fundamental concept in chemistry.",
+  "explanation": "Learn about Heisenberg Uncertainty Principle and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "heisenberg-uncertainty-principle"
+  ]
+}

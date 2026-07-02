@@ -1,0 +1,27 @@
+{
+  "id": "chapter-08",
+  "name": "Systems of Differential Equations",
+  "description": "Systems of Differential Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Coupled Systems",
+      "conceptId": "mathematics.differential-equations.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Matrix Form",
+      "conceptId": "mathematics.differential-equations.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Eigenvalue Method",
+      "conceptId": "mathematics.differential-equations.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Stability Analysis",
+      "conceptId": "mathematics.differential-equations.chapter-08.topic-04"
+    }
+  ]
+}

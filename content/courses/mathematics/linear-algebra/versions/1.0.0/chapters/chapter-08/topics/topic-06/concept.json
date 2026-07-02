@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-08.topic-06",
+  "name": "Similar Matrices",
+  "subject": "mathematics",
+  "definition": "Similar Matrices is a fundamental concept in mathematics.",
+  "explanation": "Learn about Similar Matrices and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "similar-matrices"
+  ]
+}

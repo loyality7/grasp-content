@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Clinical Psychology Across the Lifespan",
+  "description": "Clinical Psychology Across the Lifespan",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Child Clinical Psychology",
+      "conceptId": "psychology.clinical-psychology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Adolescent Mental Health",
+      "conceptId": "psychology.clinical-psychology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Adult Mental Health",
+      "conceptId": "psychology.clinical-psychology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Geriatric Psychology",
+      "conceptId": "psychology.clinical-psychology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Developmental Considerations",
+      "conceptId": "psychology.clinical-psychology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Family Involvement",
+      "conceptId": "psychology.clinical-psychology.chapter-09.topic-06"
+    }
+  ]
+}

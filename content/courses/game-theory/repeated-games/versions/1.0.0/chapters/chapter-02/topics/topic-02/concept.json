@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.repeated-games.chapter-02.topic-02",
+  "name": "Stage Games",
+  "subject": "game-theory",
+  "definition": "Stage Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Stage Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "stage-games"
+  ]
+}

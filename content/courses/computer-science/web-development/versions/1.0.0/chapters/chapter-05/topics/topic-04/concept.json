@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-05.topic-04",
+  "name": "Promises",
+  "subject": "computer-science",
+  "definition": "Promises is a fundamental concept in computer-science.",
+  "explanation": "Learn about Promises and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "promises"
+  ]
+}

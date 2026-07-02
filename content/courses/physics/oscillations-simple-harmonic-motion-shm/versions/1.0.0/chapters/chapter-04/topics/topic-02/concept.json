@@ -1,0 +1,20 @@
+{
+  "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-02",
+  "name": "Physical Pendulum",
+  "subject": "physics",
+  "definition": "Physical Pendulum is a fundamental concept in physics.",
+  "explanation": "Learn about Physical Pendulum and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "physical-pendulum"
+  ]
+}

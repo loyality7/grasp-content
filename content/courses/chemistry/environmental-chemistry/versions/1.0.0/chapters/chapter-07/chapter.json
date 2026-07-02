@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Soil Chemistry",
+  "description": "Soil Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Soil Composition",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Soil pH",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Soil Nutrients",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Soil Contamination",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Heavy Metals",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fertilizers",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Pesticides",
+      "conceptId": "chemistry.environmental-chemistry.chapter-07.topic-07"
+    }
+  ]
+}

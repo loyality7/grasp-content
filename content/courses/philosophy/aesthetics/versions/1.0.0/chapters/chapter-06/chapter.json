@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Literature",
+  "description": "Literature",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Narrative",
+      "conceptId": "philosophy.aesthetics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Poetry",
+      "conceptId": "philosophy.aesthetics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Fiction",
+      "conceptId": "philosophy.aesthetics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Drama",
+      "conceptId": "philosophy.aesthetics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Literary Themes",
+      "conceptId": "philosophy.aesthetics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Literary Interpretation",
+      "conceptId": "philosophy.aesthetics.chapter-06.topic-06"
+    }
+  ]
+}

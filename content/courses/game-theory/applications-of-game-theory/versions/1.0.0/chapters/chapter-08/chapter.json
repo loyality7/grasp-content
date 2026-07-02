@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Biology & Evolution",
+  "description": "Biology & Evolution",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Evolutionary Competition",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cooperation",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Altruism",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Animal Behavior",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Population Dynamics",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Evolutionary Stability",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-08.topic-06"
+    }
+  ]
+}

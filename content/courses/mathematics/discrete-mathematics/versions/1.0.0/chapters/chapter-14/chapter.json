@@ -1,0 +1,37 @@
+{
+  "id": "chapter-14",
+  "name": "Discrete Probability",
+  "description": "Discrete Probability",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sample Space",
+      "conceptId": "mathematics.discrete-mathematics.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Events",
+      "conceptId": "mathematics.discrete-mathematics.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conditional Probability",
+      "conceptId": "mathematics.discrete-mathematics.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bayes' Theorem",
+      "conceptId": "mathematics.discrete-mathematics.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Random Variables",
+      "conceptId": "mathematics.discrete-mathematics.chapter-14.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Expected Value",
+      "conceptId": "mathematics.discrete-mathematics.chapter-14.topic-06"
+    }
+  ]
+}

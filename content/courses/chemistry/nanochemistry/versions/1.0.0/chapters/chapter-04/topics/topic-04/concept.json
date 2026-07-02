@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nanochemistry.chapter-04.topic-04",
+  "name": "Nanophotonics",
+  "subject": "chemistry",
+  "definition": "Nanophotonics is a fundamental concept in chemistry.",
+  "explanation": "Learn about Nanophotonics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "nanophotonics"
+  ]
+}

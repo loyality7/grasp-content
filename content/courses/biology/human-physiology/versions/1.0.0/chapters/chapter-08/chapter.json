@@ -1,0 +1,47 @@
+{
+  "id": "chapter-08",
+  "name": "Endocrine Physiology",
+  "description": "Endocrine Physiology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Hormones",
+      "conceptId": "biology.human-physiology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Endocrine Glands",
+      "conceptId": "biology.human-physiology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Hormone Receptors",
+      "conceptId": "biology.human-physiology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hypothalamus",
+      "conceptId": "biology.human-physiology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Pituitary Gland",
+      "conceptId": "biology.human-physiology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Thyroid Hormones",
+      "conceptId": "biology.human-physiology.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Insulin & Glucagon",
+      "conceptId": "biology.human-physiology.chapter-08.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Adrenal Hormones",
+      "conceptId": "biology.human-physiology.chapter-08.topic-08"
+    }
+  ]
+}

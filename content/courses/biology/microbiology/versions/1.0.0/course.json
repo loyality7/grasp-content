@@ -1,0 +1,596 @@
+{
+  "id": "microbiology",
+  "name": "Microbiology",
+  "description": "Microbiology",
+  "version": "1.0.0",
+  "domain": "biology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Microbiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Microbiology?",
+          "conceptId": "biology.microbiology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Microbiology",
+          "conceptId": "biology.microbiology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Types of Microorganisms",
+          "conceptId": "biology.microbiology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Importance of Microorganisms",
+          "conceptId": "biology.microbiology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Beneficial vs Harmful Microbes",
+          "conceptId": "biology.microbiology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Microbial Diversity",
+          "conceptId": "biology.microbiology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Bacteria",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bacterial Cell Structure",
+          "conceptId": "biology.microbiology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Shapes of Bacteria",
+          "conceptId": "biology.microbiology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gram-Positive Bacteria",
+          "conceptId": "biology.microbiology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gram-Negative Bacteria",
+          "conceptId": "biology.microbiology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bacterial Classification",
+          "conceptId": "biology.microbiology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bacterial Reproduction",
+          "conceptId": "biology.microbiology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Endospores",
+          "conceptId": "biology.microbiology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Archaea",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Archaeal Cell Structure",
+          "conceptId": "biology.microbiology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Differences from Bacteria",
+          "conceptId": "biology.microbiology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Extremophiles",
+          "conceptId": "biology.microbiology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Methanogens",
+          "conceptId": "biology.microbiology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Halophiles",
+          "conceptId": "biology.microbiology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thermophiles",
+          "conceptId": "biology.microbiology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ecological Importance",
+          "conceptId": "biology.microbiology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Viruses",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Virus Structure",
+          "conceptId": "biology.microbiology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Viral Genome",
+          "conceptId": "biology.microbiology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "DNA Viruses",
+          "conceptId": "biology.microbiology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "RNA Viruses",
+          "conceptId": "biology.microbiology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Viral Replication",
+          "conceptId": "biology.microbiology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bacteriophages",
+          "conceptId": "biology.microbiology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Emerging Viruses",
+          "conceptId": "biology.microbiology.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Fungi",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Yeasts",
+          "conceptId": "biology.microbiology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Molds",
+          "conceptId": "biology.microbiology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mushrooms",
+          "conceptId": "biology.microbiology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fungal Cell Structure",
+          "conceptId": "biology.microbiology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fungal Reproduction",
+          "conceptId": "biology.microbiology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pathogenic Fungi",
+          "conceptId": "biology.microbiology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Industrial Applications",
+          "conceptId": "biology.microbiology.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Protozoa & Parasites",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Protozoa",
+          "conceptId": "biology.microbiology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Amoebae",
+          "conceptId": "biology.microbiology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Flagellates",
+          "conceptId": "biology.microbiology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ciliates",
+          "conceptId": "biology.microbiology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Apicomplexans",
+          "conceptId": "biology.microbiology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Helminths",
+          "conceptId": "biology.microbiology.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Parasitic Life Cycles",
+          "conceptId": "biology.microbiology.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Microbial Growth",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Growth Curve",
+          "conceptId": "biology.microbiology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Binary Fission",
+          "conceptId": "biology.microbiology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Growth Requirements",
+          "conceptId": "biology.microbiology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Culture Media",
+          "conceptId": "biology.microbiology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Aerobic & Anaerobic Growth",
+          "conceptId": "biology.microbiology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biofilms",
+          "conceptId": "biology.microbiology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Microbial Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bacterial DNA",
+          "conceptId": "biology.microbiology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Plasmids",
+          "conceptId": "biology.microbiology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mutation",
+          "conceptId": "biology.microbiology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Transformation",
+          "conceptId": "biology.microbiology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transduction",
+          "conceptId": "biology.microbiology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Conjugation",
+          "conceptId": "biology.microbiology.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Horizontal Gene Transfer",
+          "conceptId": "biology.microbiology.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Infection & Disease",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pathogens",
+          "conceptId": "biology.microbiology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Infection Process",
+          "conceptId": "biology.microbiology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Virulence Factors",
+          "conceptId": "biology.microbiology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Toxins",
+          "conceptId": "biology.microbiology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Host-Pathogen Interaction",
+          "conceptId": "biology.microbiology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Epidemiology",
+          "conceptId": "biology.microbiology.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Emerging Infectious Diseases",
+          "conceptId": "biology.microbiology.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Antimicrobial Therapy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Antibiotics",
+          "conceptId": "biology.microbiology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Antiviral Drugs",
+          "conceptId": "biology.microbiology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Antifungal Drugs",
+          "conceptId": "biology.microbiology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Antiparasitic Drugs",
+          "conceptId": "biology.microbiology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Drug Resistance",
+          "conceptId": "biology.microbiology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Antibiotic Stewardship",
+          "conceptId": "biology.microbiology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Industrial & Environmental Microbiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fermentation",
+          "conceptId": "biology.microbiology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food Microbiology",
+          "conceptId": "biology.microbiology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Probiotics",
+          "conceptId": "biology.microbiology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Wastewater Treatment",
+          "conceptId": "biology.microbiology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bioremediation",
+          "conceptId": "biology.microbiology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Biotechnology",
+          "conceptId": "biology.microbiology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Laboratory Microbiology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sterilization",
+          "conceptId": "biology.microbiology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Aseptic Technique",
+          "conceptId": "biology.microbiology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Microscopy",
+          "conceptId": "biology.microbiology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gram Staining",
+          "conceptId": "biology.microbiology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Culture Techniques",
+          "conceptId": "biology.microbiology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Microbial Identification",
+          "conceptId": "biology.microbiology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "PCR in Microbiology",
+          "conceptId": "biology.microbiology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Human Microbiome",
+          "conceptId": "biology.microbiology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Metagenomics",
+          "conceptId": "biology.microbiology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Synthetic Microbiology",
+          "conceptId": "biology.microbiology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Phage Therapy",
+          "conceptId": "biology.microbiology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "CRISPR in Microbes",
+          "conceptId": "biology.microbiology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Emerging Microbial Technologies",
+          "conceptId": "biology.microbiology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 9: Immunology**",
+          "conceptId": "biology.microbiology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Immune System Overview",
+          "conceptId": "biology.microbiology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Innate Immunity",
+          "conceptId": "biology.microbiology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Adaptive Immunity",
+          "conceptId": "biology.microbiology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Antigens & Antibodies",
+          "conceptId": "biology.microbiology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "B Cells",
+          "conceptId": "biology.microbiology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "T Cells",
+          "conceptId": "biology.microbiology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Complement System",
+          "conceptId": "biology.microbiology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Vaccines",
+          "conceptId": "biology.microbiology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Autoimmune Diseases",
+          "conceptId": "biology.microbiology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Allergies",
+          "conceptId": "biology.microbiology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Immunodeficiency",
+          "conceptId": "biology.microbiology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Cancer Immunology",
+          "conceptId": "biology.microbiology.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Transplant Immunology",
+          "conceptId": "biology.microbiology.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "biology",
+      "microbiology"
+    ]
+  }
+}

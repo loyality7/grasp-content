@@ -1,0 +1,47 @@
+{
+  "id": "chapter-01",
+  "name": "Limits",
+  "description": "Limits",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Introduction to Limits",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Evaluating Limits",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "One-Sided Limits",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Infinite Limits",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Limits at Infinity",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Limit Laws",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Continuity",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Intermediate Value Theorem",
+      "conceptId": "mathematics.calculus-i.chapter-01.topic-08"
+    }
+  ]
+}

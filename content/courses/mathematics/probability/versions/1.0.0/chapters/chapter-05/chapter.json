@@ -1,0 +1,32 @@
+{
+  "id": "chapter-05",
+  "name": "Expected Value",
+  "description": "Expected Value",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Expectation",
+      "conceptId": "mathematics.probability.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Linearity of Expectation",
+      "conceptId": "mathematics.probability.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Variance",
+      "conceptId": "mathematics.probability.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Standard Deviation",
+      "conceptId": "mathematics.probability.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Moments",
+      "conceptId": "mathematics.probability.chapter-05.topic-05"
+    }
+  ]
+}

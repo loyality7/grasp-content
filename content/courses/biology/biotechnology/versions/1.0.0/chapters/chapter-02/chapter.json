@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Recombinant DNA Technology",
+  "description": "Recombinant DNA Technology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Recombinant DNA",
+      "conceptId": "biology.biotechnology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Restriction Enzymes",
+      "conceptId": "biology.biotechnology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "DNA Ligase",
+      "conceptId": "biology.biotechnology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cloning Vectors",
+      "conceptId": "biology.biotechnology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Plasmids",
+      "conceptId": "biology.biotechnology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Gene Cloning",
+      "conceptId": "biology.biotechnology.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Transformation",
+      "conceptId": "biology.biotechnology.chapter-02.topic-07"
+    }
+  ]
+}

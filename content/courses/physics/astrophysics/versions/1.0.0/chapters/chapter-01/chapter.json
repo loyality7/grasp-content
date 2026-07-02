@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Astrophysics",
+  "description": "Introduction to Astrophysics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Astrophysics?",
+      "conceptId": "physics.astrophysics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Scale of the Universe",
+      "conceptId": "physics.astrophysics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Astronomical Units",
+      "conceptId": "physics.astrophysics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Light-Year",
+      "conceptId": "physics.astrophysics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Parsec",
+      "conceptId": "physics.astrophysics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Celestial Coordinate Systems",
+      "conceptId": "physics.astrophysics.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Observational Astronomy",
+      "conceptId": "physics.astrophysics.chapter-01.topic-07"
+    }
+  ]
+}

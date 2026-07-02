@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.simultaneous-games.chapter-05.topic-04",
+  "name": "Multiple Equilibria",
+  "subject": "game-theory",
+  "definition": "Multiple Equilibria is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multiple Equilibria and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multiple-equilibria"
+  ]
+}

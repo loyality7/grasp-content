@@ -1,0 +1,37 @@
+{
+  "id": "chapter-12",
+  "name": "Major Philosophical Traditions",
+  "description": "Major Philosophical Traditions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Analytic Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Continental Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Indian Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Chinese Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Islamic Philosophy",
+      "conceptId": "philosophy.philosophy-foundations.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Pragmatism",
+      "conceptId": "philosophy.philosophy-foundations.chapter-12.topic-06"
+    }
+  ]
+}

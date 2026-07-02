@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Banking System",
+  "description": "Banking System",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Commercial Banks",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Central Banks",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Financial Intermediaries",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Deposits",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Loans",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bank Balance Sheets",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Credit Creation",
+      "conceptId": "economics.monetary-economics.chapter-03.topic-07"
+    }
+  ]
+}

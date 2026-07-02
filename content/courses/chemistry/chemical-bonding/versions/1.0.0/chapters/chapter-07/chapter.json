@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Molecular Orbital Theory",
+  "description": "Molecular Orbital Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Molecular Orbitals",
+      "conceptId": "chemistry.chemical-bonding.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Bonding Orbitals",
+      "conceptId": "chemistry.chemical-bonding.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Antibonding Orbitals",
+      "conceptId": "chemistry.chemical-bonding.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bond Order",
+      "conceptId": "chemistry.chemical-bonding.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sigma (σ) Bonds",
+      "conceptId": "chemistry.chemical-bonding.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Pi (π) Bonds",
+      "conceptId": "chemistry.chemical-bonding.chapter-07.topic-06"
+    }
+  ]
+}

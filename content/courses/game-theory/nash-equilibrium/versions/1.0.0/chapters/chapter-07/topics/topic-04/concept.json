@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-07.topic-04",
+  "name": "Perfect Bayesian Equilibrium",
+  "subject": "game-theory",
+  "definition": "Perfect Bayesian Equilibrium is a fundamental concept in game-theory.",
+  "explanation": "Learn about Perfect Bayesian Equilibrium and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "perfect-bayesian-equilibrium"
+  ]
+}

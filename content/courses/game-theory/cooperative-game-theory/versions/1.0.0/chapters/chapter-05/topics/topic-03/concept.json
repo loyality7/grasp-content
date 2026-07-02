@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-05.topic-03",
+  "name": "Fair Allocation",
+  "subject": "game-theory",
+  "definition": "Fair Allocation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Fair Allocation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "fair-allocation"
+  ]
+}

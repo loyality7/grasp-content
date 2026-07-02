@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-13.topic-07",
+  "name": "Information Theory",
+  "subject": "mathematics",
+  "definition": "Information Theory is a fundamental concept in mathematics.",
+  "explanation": "Learn about Information Theory and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "information-theory"
+  ]
+}

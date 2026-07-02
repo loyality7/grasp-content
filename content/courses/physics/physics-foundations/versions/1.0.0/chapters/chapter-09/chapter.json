@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Problem Solving",
+  "description": "Problem Solving",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Unit Checking",
+      "conceptId": "physics.physics-foundations.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dimensional Checking",
+      "conceptId": "physics.physics-foundations.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Estimation",
+      "conceptId": "physics.physics-foundations.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Order of Magnitude",
+      "conceptId": "physics.physics-foundations.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Approximation Techniques",
+      "conceptId": "physics.physics-foundations.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Physical Reasoning",
+      "conceptId": "physics.physics-foundations.chapter-09.topic-06"
+    }
+  ]
+}

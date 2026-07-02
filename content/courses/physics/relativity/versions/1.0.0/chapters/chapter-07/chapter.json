@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07",
+  "name": "Einstein Field Equations (Introduction)",
+  "description": "Einstein Field Equations (Introduction)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Einstein Field Equations",
+      "conceptId": "physics.relativity.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Stress-Energy Tensor",
+      "conceptId": "physics.relativity.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Curvature of Spacetime",
+      "conceptId": "physics.relativity.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Schwarzschild Solution (Overview)",
+      "conceptId": "physics.relativity.chapter-07.topic-04"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-08.topic-06",
+  "name": "Performance Tuning",
+  "subject": "computer-science",
+  "definition": "Performance Tuning is a fundamental concept in computer-science.",
+  "explanation": "Learn about Performance Tuning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "performance-tuning"
+  ]
+}

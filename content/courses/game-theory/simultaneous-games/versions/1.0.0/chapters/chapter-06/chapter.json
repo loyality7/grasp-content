@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Mixed Strategies",
+  "description": "Mixed Strategies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mixed Strategies",
+      "conceptId": "game-theory.simultaneous-games.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Randomization",
+      "conceptId": "game-theory.simultaneous-games.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Expected Payoffs",
+      "conceptId": "game-theory.simultaneous-games.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mixed Strategy Nash Equilibrium",
+      "conceptId": "game-theory.simultaneous-games.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strategic Unpredictability",
+      "conceptId": "game-theory.simultaneous-games.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "game-theory.simultaneous-games.chapter-06.topic-06"
+    }
+  ]
+}

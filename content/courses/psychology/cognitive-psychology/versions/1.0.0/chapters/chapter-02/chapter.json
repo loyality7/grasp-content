@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Attention",
+  "description": "Attention",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Selective Attention",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Divided Attention",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Sustained Attention",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Attentional Control",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cognitive Load",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Multitasking",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Attention Disorders",
+      "conceptId": "psychology.cognitive-psychology.chapter-02.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Propositional Logic",
+  "description": "Propositional Logic",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Logical Connectives",
+      "conceptId": "philosophy.logic.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Negation",
+      "conceptId": "philosophy.logic.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conjunction",
+      "conceptId": "philosophy.logic.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Disjunction",
+      "conceptId": "philosophy.logic.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Implication",
+      "conceptId": "philosophy.logic.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Biconditional",
+      "conceptId": "philosophy.logic.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Compound Propositions",
+      "conceptId": "philosophy.logic.chapter-03.topic-07"
+    }
+  ]
+}

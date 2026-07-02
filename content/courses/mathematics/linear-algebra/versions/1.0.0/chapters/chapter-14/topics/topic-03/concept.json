@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-14.topic-03",
+  "name": "Data Science",
+  "subject": "mathematics",
+  "definition": "Data Science is a fundamental concept in mathematics.",
+  "explanation": "Learn about Data Science and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "data-science"
+  ]
+}

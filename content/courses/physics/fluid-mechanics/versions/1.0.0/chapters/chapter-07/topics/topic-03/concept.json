@@ -1,0 +1,20 @@
+{
+  "id": "physics.fluid-mechanics.chapter-07.topic-03",
+  "name": "Darcy-Weisbach Equation",
+  "subject": "physics",
+  "definition": "Darcy-Weisbach Equation is a fundamental concept in physics.",
+  "explanation": "Learn about Darcy-Weisbach Equation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "darcy-weisbach-equation"
+  ]
+}

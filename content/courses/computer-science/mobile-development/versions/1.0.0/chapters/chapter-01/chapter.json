@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Mobile Development",
+  "description": "Introduction to Mobile Development",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mobile Computing",
+      "conceptId": "computer-science.mobile-development.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mobile Operating Systems",
+      "conceptId": "computer-science.mobile-development.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Native vs Cross-Platform Development",
+      "conceptId": "computer-science.mobile-development.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mobile App Architecture",
+      "conceptId": "computer-science.mobile-development.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Development Tools",
+      "conceptId": "computer-science.mobile-development.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "App Lifecycle",
+      "conceptId": "computer-science.mobile-development.chapter-01.topic-06"
+    }
+  ]
+}

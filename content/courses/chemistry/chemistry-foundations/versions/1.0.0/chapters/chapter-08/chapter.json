@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Chemical Equations",
+  "description": "Chemical Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Chemical Reactions",
+      "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Word Equations",
+      "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Skeleton Equations",
+      "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Balancing Equations",
+      "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Conservation of Mass",
+      "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Types of Chemical Reactions (Overview)",
+      "conceptId": "chemistry.chemistry-foundations.chapter-08.topic-06"
+    }
+  ]
+}

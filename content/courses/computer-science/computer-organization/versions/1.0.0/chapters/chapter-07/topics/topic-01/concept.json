@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-07.topic-01",
+  "name": "Input Devices",
+  "subject": "computer-science",
+  "definition": "Input Devices is a fundamental concept in computer-science.",
+  "explanation": "Learn about Input Devices and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "input-devices"
+  ]
+}

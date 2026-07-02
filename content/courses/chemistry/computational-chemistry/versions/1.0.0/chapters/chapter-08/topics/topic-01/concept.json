@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-08.topic-01",
+  "name": "Random Sampling",
+  "subject": "chemistry",
+  "definition": "Random Sampling is a fundamental concept in chemistry.",
+  "explanation": "Learn about Random Sampling and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "random-sampling"
+  ]
+}

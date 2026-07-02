@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Data Structures",
+  "description": "Introduction to Data Structures",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is a Data Structure?",
+      "conceptId": "computer-science.data-structures.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Abstract Data Types (ADTs)",
+      "conceptId": "computer-science.data-structures.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Static vs Dynamic Data Structures",
+      "conceptId": "computer-science.data-structures.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Time Complexity",
+      "conceptId": "computer-science.data-structures.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Space Complexity",
+      "conceptId": "computer-science.data-structures.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Choosing the Right Data Structure",
+      "conceptId": "computer-science.data-structures.chapter-01.topic-06"
+    }
+  ]
+}

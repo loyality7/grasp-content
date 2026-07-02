@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Mobile UI Development",
+  "description": "Mobile UI Development",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "UI Components",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Layouts",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Navigation",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Responsive Design",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Themes",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Accessibility",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Material Design & Human Interface Guidelines",
+      "conceptId": "computer-science.mobile-development.chapter-02.topic-07"
+    }
+  ]
+}

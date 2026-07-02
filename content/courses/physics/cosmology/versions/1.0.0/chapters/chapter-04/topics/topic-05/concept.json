@@ -1,0 +1,20 @@
+{
+  "id": "physics.cosmology.chapter-04.topic-05",
+  "name": "WMAP",
+  "subject": "physics",
+  "definition": "WMAP is a fundamental concept in physics.",
+  "explanation": "Learn about WMAP and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "wmap"
+  ]
+}

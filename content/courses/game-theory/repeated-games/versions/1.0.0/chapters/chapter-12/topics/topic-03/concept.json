@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.repeated-games.chapter-12.topic-03",
+  "name": "Repeated Decision Algorithms",
+  "subject": "game-theory",
+  "definition": "Repeated Decision Algorithms is a fundamental concept in game-theory.",
+  "explanation": "Learn about Repeated Decision Algorithms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "repeated-decision-algorithms"
+  ]
+}

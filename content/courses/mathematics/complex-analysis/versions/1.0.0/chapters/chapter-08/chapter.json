@@ -1,0 +1,27 @@
+{
+  "id": "chapter-08",
+  "name": "Residue Theory",
+  "description": "Residue Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Residues",
+      "conceptId": "mathematics.complex-analysis.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Residue Theorem",
+      "conceptId": "mathematics.complex-analysis.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Evaluating Real Integrals",
+      "conceptId": "mathematics.complex-analysis.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Contour Integration",
+      "conceptId": "mathematics.complex-analysis.chapter-08.topic-04"
+    }
+  ]
+}

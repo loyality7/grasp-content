@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Predicate Logic",
+  "description": "Predicate Logic",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Predicates",
+      "conceptId": "philosophy.logic.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Quantifiers",
+      "conceptId": "philosophy.logic.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Universal Quantifier",
+      "conceptId": "philosophy.logic.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Existential Quantifier",
+      "conceptId": "philosophy.logic.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Variables",
+      "conceptId": "philosophy.logic.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Domains of Discourse",
+      "conceptId": "philosophy.logic.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Logical Expressions",
+      "conceptId": "philosophy.logic.chapter-05.topic-07"
+    }
+  ]
+}

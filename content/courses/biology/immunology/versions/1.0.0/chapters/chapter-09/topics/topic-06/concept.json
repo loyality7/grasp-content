@@ -1,0 +1,20 @@
+{
+  "id": "biology.immunology.chapter-09.topic-06",
+  "name": "HIV/AIDS",
+  "subject": "biology",
+  "definition": "HIV/AIDS is a fundamental concept in biology.",
+  "explanation": "Learn about HIV/AIDS and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "hivaids"
+  ]
+}

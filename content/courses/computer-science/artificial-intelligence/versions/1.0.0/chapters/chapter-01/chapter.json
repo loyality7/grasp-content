@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Artificial Intelligence",
+  "description": "Introduction to Artificial Intelligence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Artificial Intelligence?",
+      "conceptId": "computer-science.artificial-intelligence.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "History of AI",
+      "conceptId": "computer-science.artificial-intelligence.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Types of AI",
+      "conceptId": "computer-science.artificial-intelligence.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "AI Applications",
+      "conceptId": "computer-science.artificial-intelligence.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rational Agents",
+      "conceptId": "computer-science.artificial-intelligence.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Workflow",
+      "conceptId": "computer-science.artificial-intelligence.chapter-01.topic-06"
+    }
+  ]
+}

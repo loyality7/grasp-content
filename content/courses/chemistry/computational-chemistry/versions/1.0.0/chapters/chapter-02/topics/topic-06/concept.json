@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.computational-chemistry.chapter-02.topic-06",
+  "name": "Error Analysis",
+  "subject": "chemistry",
+  "definition": "Error Analysis is a fundamental concept in chemistry.",
+  "explanation": "Learn about Error Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "error-analysis"
+  ]
+}

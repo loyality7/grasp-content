@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-07.topic-06",
+  "name": "Invertible Transformations",
+  "subject": "mathematics",
+  "definition": "Invertible Transformations is a fundamental concept in mathematics.",
+  "explanation": "Learn about Invertible Transformations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "invertible-transformations"
+  ]
+}

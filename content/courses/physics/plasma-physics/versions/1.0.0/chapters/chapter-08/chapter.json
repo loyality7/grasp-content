@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Fusion Physics",
+  "description": "Fusion Physics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nuclear Fusion",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fusion Reactions",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Lawson Criterion",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Deuterium-Tritium Fusion",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ignition",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Fusion Reactors",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "ITER (Introduction)",
+      "conceptId": "physics.plasma-physics.chapter-08.topic-07"
+    }
+  ]
+}

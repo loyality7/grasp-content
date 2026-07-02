@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Major Histocompatibility Complex (MHC)",
+  "description": "Major Histocompatibility Complex (MHC)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "MHC Class I",
+      "conceptId": "biology.immunology.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "MHC Class II",
+      "conceptId": "biology.immunology.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Antigen Presentation",
+      "conceptId": "biology.immunology.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dendritic Cells",
+      "conceptId": "biology.immunology.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Immune Recognition",
+      "conceptId": "biology.immunology.chapter-06.topic-05"
+    }
+  ]
+}

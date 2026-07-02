@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-03.topic-02",
+  "name": "Open Bidding",
+  "subject": "game-theory",
+  "definition": "Open Bidding is a fundamental concept in game-theory.",
+  "explanation": "Learn about Open Bidding and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "open-bidding"
+  ]
+}

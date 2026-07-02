@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-12.topic-01",
+  "name": "Agent-Based Models",
+  "subject": "game-theory",
+  "definition": "Agent-Based Models is a fundamental concept in game-theory.",
+  "explanation": "Learn about Agent-Based Models and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "agent-based-models"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-06",
+  "name": "Gaseous Equilibrium",
+  "description": "Gaseous Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Partial Pressure",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gas Equilibrium",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Equilibrium in Gas Mixtures",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Degree of Dissociation",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-06.topic-05"
+    }
+  ]
+}

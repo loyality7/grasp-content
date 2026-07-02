@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-13.topic-04",
+  "name": "Retail",
+  "subject": "computer-science",
+  "definition": "Retail is a fundamental concept in computer-science.",
+  "explanation": "Learn about Retail and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "retail"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-01.topic-08",
+  "name": "Extended Euclidean Algorithm",
+  "subject": "mathematics",
+  "definition": "Extended Euclidean Algorithm is a fundamental concept in mathematics.",
+  "explanation": "Learn about Extended Euclidean Algorithm and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "extended-euclidean-algorithm"
+  ]
+}

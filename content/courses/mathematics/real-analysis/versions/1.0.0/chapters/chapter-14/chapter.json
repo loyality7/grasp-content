@@ -1,0 +1,37 @@
+{
+  "id": "chapter-14",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Advanced Calculus",
+      "conceptId": "mathematics.real-analysis.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Differential Equations",
+      "conceptId": "mathematics.real-analysis.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Functional Analysis",
+      "conceptId": "mathematics.real-analysis.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Optimization",
+      "conceptId": "mathematics.real-analysis.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mathematical Physics",
+      "conceptId": "mathematics.real-analysis.chapter-14.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Machine Learning Theory",
+      "conceptId": "mathematics.real-analysis.chapter-14.topic-06"
+    }
+  ]
+}

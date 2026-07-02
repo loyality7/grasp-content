@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Aggregate Demand & Aggregate Supply",
+  "description": "Aggregate Demand & Aggregate Supply",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Aggregate Demand (AD)",
+      "conceptId": "economics.macroeconomics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Aggregate Supply (AS)",
+      "conceptId": "economics.macroeconomics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Short-Run Equilibrium",
+      "conceptId": "economics.macroeconomics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Long-Run Equilibrium",
+      "conceptId": "economics.macroeconomics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Demand Shocks",
+      "conceptId": "economics.macroeconomics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Supply Shocks",
+      "conceptId": "economics.macroeconomics.chapter-07.topic-06"
+    }
+  ]
+}

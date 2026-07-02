@@ -1,0 +1,37 @@
+{
+  "id": "chapter-19",
+  "name": "Capacitors in Circuits",
+  "description": "Capacitors in Circuits",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Capacitors",
+      "conceptId": "physics.electromagnetism.chapter-19.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Charging",
+      "conceptId": "physics.electromagnetism.chapter-19.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Discharging",
+      "conceptId": "physics.electromagnetism.chapter-19.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "RC Time Constant",
+      "conceptId": "physics.electromagnetism.chapter-19.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Energy Storage",
+      "conceptId": "physics.electromagnetism.chapter-19.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "RC Circuits",
+      "conceptId": "physics.electromagnetism.chapter-19.topic-06"
+    }
+  ]
+}

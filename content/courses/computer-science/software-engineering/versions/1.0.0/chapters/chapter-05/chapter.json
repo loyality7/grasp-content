@@ -1,0 +1,47 @@
+{
+  "id": "chapter-05",
+  "name": "Design Patterns",
+  "description": "Design Patterns",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Creational Patterns",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Structural Patterns",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Behavioral Patterns",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Singleton",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Factory",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Observer",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Strategy",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Dependency Injection (Introduction)",
+      "conceptId": "computer-science.software-engineering.chapter-05.topic-08"
+    }
+  ]
+}

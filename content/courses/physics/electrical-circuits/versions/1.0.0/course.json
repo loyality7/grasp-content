@@ -1,0 +1,17 @@
+{
+  "id": "electrical-circuits",
+  "name": "Electrical Circuits",
+  "description": "Electrical Circuits",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 0,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "electrical-circuits"
+    ]
+  }
+}

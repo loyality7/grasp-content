@@ -1,0 +1,47 @@
+{
+  "id": "chapter-04",
+  "name": "Paths & Connectivity",
+  "description": "Paths & Connectivity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Walks",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Trails",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Paths",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cycles",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Connected Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Components",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Strong Connectivity",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Weak Connectivity",
+      "conceptId": "mathematics.graph-theory.chapter-04.topic-08"
+    }
+  ]
+}

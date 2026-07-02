@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-01.topic-02",
+  "name": "Dynamic Strategic Interaction",
+  "subject": "game-theory",
+  "definition": "Dynamic Strategic Interaction is a fundamental concept in game-theory.",
+  "explanation": "Learn about Dynamic Strategic Interaction and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "dynamic-strategic-interaction"
+  ]
+}

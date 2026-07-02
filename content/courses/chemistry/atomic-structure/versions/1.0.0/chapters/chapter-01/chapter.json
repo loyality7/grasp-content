@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "History of Atomic Theory",
+  "description": "History of Atomic Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Early Ideas of Matter",
+      "conceptId": "chemistry.atomic-structure.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dalton's Atomic Theory",
+      "conceptId": "chemistry.atomic-structure.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Thomson's Atomic Model",
+      "conceptId": "chemistry.atomic-structure.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rutherford's Gold Foil Experiment",
+      "conceptId": "chemistry.atomic-structure.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bohr's Atomic Model",
+      "conceptId": "chemistry.atomic-structure.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Modern Atomic Theory",
+      "conceptId": "chemistry.atomic-structure.chapter-01.topic-06"
+    }
+  ]
+}

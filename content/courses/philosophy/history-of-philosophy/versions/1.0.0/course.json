@@ -1,0 +1,551 @@
+{
+  "id": "history-of-philosophy",
+  "name": "History of Philosophy",
+  "description": "History of Philosophy",
+  "version": "1.0.0",
+  "domain": "philosophy",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Origins of Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Myth to Reason",
+          "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pre-Socratic Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Milesian School",
+          "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Heraclitus",
+          "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Parmenides",
+          "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pythagorean Tradition",
+          "conceptId": "philosophy.history-of-philosophy.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Classical Greek Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Socrates",
+          "conceptId": "philosophy.history-of-philosophy.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Plato",
+          "conceptId": "philosophy.history-of-philosophy.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aristotle",
+          "conceptId": "philosophy.history-of-philosophy.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Socratic Method",
+          "conceptId": "philosophy.history-of-philosophy.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Academy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lyceum",
+          "conceptId": "philosophy.history-of-philosophy.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Hellenistic Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stoicism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Epicureanism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Skepticism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cynicism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Neoplatonism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Philosophy in the Roman World",
+          "conceptId": "philosophy.history-of-philosophy.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Eastern Philosophical Traditions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Indian Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hindu Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Buddhist Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Jain Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Confucianism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Daoism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Medieval Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Augustine",
+          "conceptId": "philosophy.history-of-philosophy.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Thomas Aquinas",
+          "conceptId": "philosophy.history-of-philosophy.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Islamic Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Jewish Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scholasticism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Faith & Reason",
+          "conceptId": "philosophy.history-of-philosophy.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Renaissance & Early Modern Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Humanism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "René Descartes",
+          "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Baruch Spinoza",
+          "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gottfried Wilhelm Leibniz",
+          "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rationalism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Revolution",
+          "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Empiricism & the Enlightenment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "John Locke",
+          "conceptId": "philosophy.history-of-philosophy.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "George Berkeley",
+          "conceptId": "philosophy.history-of-philosophy.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "David Hume",
+          "conceptId": "philosophy.history-of-philosophy.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Enlightenment Thought",
+          "conceptId": "philosophy.history-of-philosophy.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Political Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Progress",
+          "conceptId": "philosophy.history-of-philosophy.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "German Idealism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Immanuel Kant",
+          "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Johann Fichte",
+          "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Friedrich Schelling",
+          "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Georg Wilhelm Friedrich Hegel",
+          "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Idealism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dialectics",
+          "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Nineteenth-Century Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arthur Schopenhauer",
+          "conceptId": "philosophy.history-of-philosophy.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Søren Kierkegaard",
+          "conceptId": "philosophy.history-of-philosophy.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Karl Marx",
+          "conceptId": "philosophy.history-of-philosophy.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Friedrich Nietzsche",
+          "conceptId": "philosophy.history-of-philosophy.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Utilitarianism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pragmatism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Twentieth-Century Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Analytic Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bertrand Russell",
+          "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ludwig Wittgenstein",
+          "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Phenomenology",
+          "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Existentialism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Positivism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Contemporary Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy of Language",
+          "conceptId": "philosophy.history-of-philosophy.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Philosophy of Mind",
+          "conceptId": "philosophy.history-of-philosophy.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Philosophy of Science",
+          "conceptId": "philosophy.history-of-philosophy.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Feminist Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Postmodernism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applied Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Comparative Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Eastern & Western Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Comparative Ethics",
+          "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Comparative Metaphysics",
+          "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Comparative Epistemology",
+          "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Intercultural Dialogue",
+          "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Legacy & Influence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy & Science",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Philosophy & Politics",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Philosophy & Religion",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Philosophy & Technology",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Philosophy in Modern Society",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Directions of Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 12: Contemporary Philosophy**",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Analytic Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Continental Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Existentialism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Phenomenology",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Pragmatism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Structuralism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Poststructuralism",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Feminist Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Philosophy of Technology",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Environmental Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "AI & Information Ethics",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Future of Philosophy",
+          "conceptId": "philosophy.history-of-philosophy.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "philosophy",
+      "history-of-philosophy"
+    ]
+  }
+}

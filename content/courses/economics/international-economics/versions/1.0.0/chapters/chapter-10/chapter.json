@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Economic Development & Globalization",
+  "description": "Economic Development & Globalization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Developing Economies",
+      "conceptId": "economics.international-economics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Emerging Markets",
+      "conceptId": "economics.international-economics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Global Supply Chains",
+      "conceptId": "economics.international-economics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Outsourcing",
+      "conceptId": "economics.international-economics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Economic Inequality",
+      "conceptId": "economics.international-economics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sustainable Development",
+      "conceptId": "economics.international-economics.chapter-10.topic-06"
+    }
+  ]
+}

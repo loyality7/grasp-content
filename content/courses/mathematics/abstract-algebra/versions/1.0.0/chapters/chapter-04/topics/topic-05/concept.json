@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.abstract-algebra.chapter-04.topic-05",
+  "name": "Normal Subgroups",
+  "subject": "mathematics",
+  "definition": "Normal Subgroups is a fundamental concept in mathematics.",
+  "explanation": "Learn about Normal Subgroups and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "normal-subgroups"
+  ]
+}

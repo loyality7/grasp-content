@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Predictive Analytics",
+  "description": "Predictive Analytics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Regression Models",
+      "conceptId": "computer-science.data-science.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Classification Models",
+      "conceptId": "computer-science.data-science.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Time Series Forecasting",
+      "conceptId": "computer-science.data-science.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Recommendation Systems",
+      "conceptId": "computer-science.data-science.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Forecast Evaluation",
+      "conceptId": "computer-science.data-science.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Business Prediction",
+      "conceptId": "computer-science.data-science.chapter-07.topic-06"
+    }
+  ]
+}

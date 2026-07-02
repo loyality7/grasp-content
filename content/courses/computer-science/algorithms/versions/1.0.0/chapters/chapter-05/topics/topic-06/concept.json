@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-05.topic-06",
+  "name": "Master Theorem (Introduction)",
+  "subject": "computer-science",
+  "definition": "Master Theorem (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Master Theorem (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "master-theorem-introduction"
+  ]
+}

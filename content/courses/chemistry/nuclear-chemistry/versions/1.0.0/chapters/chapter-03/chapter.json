@@ -1,0 +1,42 @@
+{
+  "id": "chapter-03",
+  "name": "Radioactivity",
+  "description": "Radioactivity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Radioactive Decay",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Alpha Decay",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Beta Decay",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Gamma Decay",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Decay Series",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Half-Life",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Decay Constant",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-03.topic-07"
+    }
+  ]
+}

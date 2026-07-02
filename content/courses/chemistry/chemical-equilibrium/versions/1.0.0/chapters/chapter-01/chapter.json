@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Equilibrium",
+  "description": "Introduction to Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Reversible Reactions",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Irreversible Reactions",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Dynamic Equilibrium",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equilibrium State",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Characteristics of Equilibrium",
+      "conceptId": "chemistry.chemical-equilibrium.chapter-01.topic-05"
+    }
+  ]
+}

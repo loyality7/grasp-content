@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-13.topic-01",
+  "name": "Multi-Level Selection",
+  "subject": "game-theory",
+  "definition": "Multi-Level Selection is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multi-Level Selection and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multi-level-selection"
+  ]
+}

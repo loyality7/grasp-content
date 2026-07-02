@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Sleep & Consciousness",
+  "description": "Sleep & Consciousness",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sleep Stages",
+      "conceptId": "psychology.biological-psychology.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "REM Sleep",
+      "conceptId": "psychology.biological-psychology.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Circadian Rhythms",
+      "conceptId": "psychology.biological-psychology.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Sleep Disorders",
+      "conceptId": "psychology.biological-psychology.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Consciousness",
+      "conceptId": "psychology.biological-psychology.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Biological Rhythms",
+      "conceptId": "psychology.biological-psychology.chapter-09.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-07.topic-02",
+  "name": "Proof by Contradiction",
+  "subject": "philosophy",
+  "definition": "Proof by Contradiction is a fundamental concept in philosophy.",
+  "explanation": "Learn about Proof by Contradiction and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "proof-by-contradiction"
+  ]
+}

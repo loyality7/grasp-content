@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Personal Identity",
+  "description": "Personal Identity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Self",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Personal Identity",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Memory Theory",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Psychological Continuity",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Bodily Continuity",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Thought Experiments",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-06"
+    }
+  ]
+}

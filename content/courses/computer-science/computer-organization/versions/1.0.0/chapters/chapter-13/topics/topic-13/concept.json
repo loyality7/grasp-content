@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-13.topic-13",
+  "name": "Deadlocks",
+  "subject": "computer-science",
+  "definition": "Deadlocks is a fundamental concept in computer-science.",
+  "explanation": "Learn about Deadlocks and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "deadlocks"
+  ]
+}

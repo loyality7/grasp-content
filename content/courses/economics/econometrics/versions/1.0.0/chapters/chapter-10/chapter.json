@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Forecasting & Prediction",
+  "description": "Forecasting & Prediction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Forecasting Models",
+      "conceptId": "economics.econometrics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Economic Forecasting",
+      "conceptId": "economics.econometrics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Model Validation",
+      "conceptId": "economics.econometrics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Forecast Accuracy",
+      "conceptId": "economics.econometrics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Scenario Analysis",
+      "conceptId": "economics.econometrics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Risk Assessment",
+      "conceptId": "economics.econometrics.chapter-10.topic-06"
+    }
+  ]
+}

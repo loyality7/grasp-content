@@ -1,0 +1,601 @@
+{
+  "id": "polymers",
+  "name": "Polymers",
+  "description": "Polymers",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Polymers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What are Polymers?",
+          "conceptId": "chemistry.polymers.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Monomers",
+          "conceptId": "chemistry.polymers.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Degree of Polymerization",
+          "conceptId": "chemistry.polymers.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Molecular Weight",
+          "conceptId": "chemistry.polymers.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Classification of Polymers",
+          "conceptId": "chemistry.polymers.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Natural vs Synthetic Polymers",
+          "conceptId": "chemistry.polymers.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Polymerization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Addition Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Condensation Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chain-Growth Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Step-Growth Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Free Radical Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ionic Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Coordination Polymerization",
+          "conceptId": "chemistry.polymers.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Polymer Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Polymers",
+          "conceptId": "chemistry.polymers.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Branched Polymers",
+          "conceptId": "chemistry.polymers.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cross-Linked Polymers",
+          "conceptId": "chemistry.polymers.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Network Polymers",
+          "conceptId": "chemistry.polymers.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polymer Morphology",
+          "conceptId": "chemistry.polymers.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crystallinity",
+          "conceptId": "chemistry.polymers.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Amorphous Regions",
+          "conceptId": "chemistry.polymers.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Types of Polymers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Thermoplastics",
+          "conceptId": "chemistry.polymers.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Thermosetting Polymers",
+          "conceptId": "chemistry.polymers.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Elastomers",
+          "conceptId": "chemistry.polymers.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fibers",
+          "conceptId": "chemistry.polymers.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Engineering Plastics",
+          "conceptId": "chemistry.polymers.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Composite Polymers",
+          "conceptId": "chemistry.polymers.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Copolymers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Random Copolymers",
+          "conceptId": "chemistry.polymers.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Alternating Copolymers",
+          "conceptId": "chemistry.polymers.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Block Copolymers",
+          "conceptId": "chemistry.polymers.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Graft Copolymers",
+          "conceptId": "chemistry.polymers.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polymer Blends",
+          "conceptId": "chemistry.polymers.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Polymer Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mechanical Properties",
+          "conceptId": "chemistry.polymers.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Thermal Properties",
+          "conceptId": "chemistry.polymers.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrical Properties",
+          "conceptId": "chemistry.polymers.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Optical Properties",
+          "conceptId": "chemistry.polymers.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Chemical Resistance",
+          "conceptId": "chemistry.polymers.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Glass Transition Temperature (Tg)",
+          "conceptId": "chemistry.polymers.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Melting Temperature (Tm)",
+          "conceptId": "chemistry.polymers.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Polymer Processing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Extrusion",
+          "conceptId": "chemistry.polymers.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Injection Molding",
+          "conceptId": "chemistry.polymers.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Blow Molding",
+          "conceptId": "chemistry.polymers.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Compression Molding",
+          "conceptId": "chemistry.polymers.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "3D Printing",
+          "conceptId": "chemistry.polymers.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fiber Spinning",
+          "conceptId": "chemistry.polymers.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Biopolymers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cellulose",
+          "conceptId": "chemistry.polymers.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Starch",
+          "conceptId": "chemistry.polymers.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chitin",
+          "conceptId": "chemistry.polymers.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Proteins",
+          "conceptId": "chemistry.polymers.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "DNA",
+          "conceptId": "chemistry.polymers.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "RNA",
+          "conceptId": "chemistry.polymers.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Natural Rubber",
+          "conceptId": "chemistry.polymers.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Advanced Polymers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conductive Polymers",
+          "conceptId": "chemistry.polymers.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Smart Polymers",
+          "conceptId": "chemistry.polymers.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Shape Memory Polymers",
+          "conceptId": "chemistry.polymers.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hydrogels",
+          "conceptId": "chemistry.polymers.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Liquid Crystal Polymers",
+          "conceptId": "chemistry.polymers.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nanocomposites",
+          "conceptId": "chemistry.polymers.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Polymer Characterization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Weight Determination",
+          "conceptId": "chemistry.polymers.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gel Permeation Chromatography (GPC)",
+          "conceptId": "chemistry.polymers.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Differential Scanning Calorimetry (DSC)",
+          "conceptId": "chemistry.polymers.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Thermogravimetric Analysis (TGA)",
+          "conceptId": "chemistry.polymers.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "X-Ray Diffraction",
+          "conceptId": "chemistry.polymers.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electron Microscopy",
+          "conceptId": "chemistry.polymers.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Environmental Aspects",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plastic Pollution",
+          "conceptId": "chemistry.polymers.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Recycling",
+          "conceptId": "chemistry.polymers.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biodegradable Polymers",
+          "conceptId": "chemistry.polymers.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Green Polymer Chemistry",
+          "conceptId": "chemistry.polymers.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Circular Economy",
+          "conceptId": "chemistry.polymers.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Materials",
+          "conceptId": "chemistry.polymers.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Packaging",
+          "conceptId": "chemistry.polymers.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Textiles",
+          "conceptId": "chemistry.polymers.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aerospace",
+          "conceptId": "chemistry.polymers.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Automotive",
+          "conceptId": "chemistry.polymers.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biomedical Devices",
+          "conceptId": "chemistry.polymers.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Prosthetics",
+          "conceptId": "chemistry.polymers.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Electronics",
+          "conceptId": "chemistry.polymers.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Energy Storage",
+          "conceptId": "chemistry.polymers.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Construction",
+          "conceptId": "chemistry.polymers.chapter-12.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Polymer Nanotechnology",
+          "conceptId": "chemistry.polymers.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Self-Healing Polymers",
+          "conceptId": "chemistry.polymers.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Polymer Electrolytes",
+          "conceptId": "chemistry.polymers.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Organic Electronics",
+          "conceptId": "chemistry.polymers.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polymer-Based Drug Delivery",
+          "conceptId": "chemistry.polymers.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Polymer Materials",
+          "conceptId": "chemistry.polymers.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Organic Chemistry I",
+          "conceptId": "chemistry.polymers.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Organic Chemistry II",
+          "conceptId": "chemistry.polymers.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Biomolecules",
+          "conceptId": "chemistry.polymers.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Polymers",
+          "conceptId": "chemistry.polymers.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "*Course 18: Analytical Chemistry**",
+          "conceptId": "chemistry.polymers.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Qualitative Analysis",
+          "conceptId": "chemistry.polymers.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Quantitative Analysis",
+          "conceptId": "chemistry.polymers.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Sampling",
+          "conceptId": "chemistry.polymers.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Error Analysis",
+          "conceptId": "chemistry.polymers.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Titration Methods",
+          "conceptId": "chemistry.polymers.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Gravimetric Analysis",
+          "conceptId": "chemistry.polymers.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Chromatography",
+          "conceptId": "chemistry.polymers.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Electrochemical Analysis",
+          "conceptId": "chemistry.polymers.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Thermal Analysis",
+          "conceptId": "chemistry.polymers.chapter-13.topic-20"
+        },
+        {
+          "id": "topic-21",
+          "name": "Instrumental Methods",
+          "conceptId": "chemistry.polymers.chapter-13.topic-21"
+        },
+        {
+          "id": "topic-22",
+          "name": "Quality Control",
+          "conceptId": "chemistry.polymers.chapter-13.topic-22"
+        },
+        {
+          "id": "topic-23",
+          "name": "Laboratory Validation",
+          "conceptId": "chemistry.polymers.chapter-13.topic-23"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "polymers"
+    ]
+  }
+}

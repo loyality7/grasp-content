@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Energy in Chemistry",
+  "description": "Energy in Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Energy",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "System & Surroundings",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Internal Energy",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Heat",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Work",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "State Functions",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Path Functions",
+      "conceptId": "chemistry.thermochemistry.chapter-01.topic-07"
+    }
+  ]
+}

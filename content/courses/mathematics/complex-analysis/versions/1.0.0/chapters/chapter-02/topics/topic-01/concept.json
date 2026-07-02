@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.complex-analysis.chapter-02.topic-01",
+  "name": "Functions of a Complex Variable",
+  "subject": "mathematics",
+  "definition": "Functions of a Complex Variable is a fundamental concept in mathematics.",
+  "explanation": "Learn about Functions of a Complex Variable and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "functions-of-a-complex-variable"
+  ]
+}

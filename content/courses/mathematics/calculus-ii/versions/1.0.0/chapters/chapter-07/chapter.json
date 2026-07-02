@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07",
+  "name": "Power Series",
+  "description": "Power Series",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Power Series",
+      "conceptId": "mathematics.calculus-ii.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Radius of Convergence",
+      "conceptId": "mathematics.calculus-ii.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Interval of Convergence",
+      "conceptId": "mathematics.calculus-ii.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Operations on Power Series",
+      "conceptId": "mathematics.calculus-ii.chapter-07.topic-04"
+    }
+  ]
+}

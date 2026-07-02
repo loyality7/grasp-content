@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Agricultural Biotechnology",
+  "description": "Agricultural Biotechnology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Genetically Modified Crops",
+      "conceptId": "biology.biotechnology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Plant Tissue Culture",
+      "conceptId": "biology.biotechnology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Marker-Assisted Breeding",
+      "conceptId": "biology.biotechnology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Biofertilizers",
+      "conceptId": "biology.biotechnology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Biopesticides",
+      "conceptId": "biology.biotechnology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Crop Improvement",
+      "conceptId": "biology.biotechnology.chapter-08.topic-06"
+    }
+  ]
+}

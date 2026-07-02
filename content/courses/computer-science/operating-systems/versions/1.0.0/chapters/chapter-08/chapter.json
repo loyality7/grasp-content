@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "File Systems",
+  "description": "File Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Files",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Directories",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "File Allocation Methods",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "File System Structure",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Journaling",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Permissions",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Access Control",
+      "conceptId": "computer-science.operating-systems.chapter-08.topic-07"
+    }
+  ]
+}

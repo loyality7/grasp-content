@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-03",
+  "name": "Distance Formula",
+  "subject": "mathematics",
+  "definition": "Distance Formula is a fundamental concept in mathematics.",
+  "explanation": "Learn about Distance Formula and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "distance-formula"
+  ]
+}

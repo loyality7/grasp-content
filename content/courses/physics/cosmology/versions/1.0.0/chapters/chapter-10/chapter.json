@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Fate of the Universe",
+  "description": "Fate of the Universe",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Big Freeze",
+      "conceptId": "physics.cosmology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Big Crunch",
+      "conceptId": "physics.cosmology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Big Rip",
+      "conceptId": "physics.cosmology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Heat Death",
+      "conceptId": "physics.cosmology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cyclic Universe Models",
+      "conceptId": "physics.cosmology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Vacuum Decay (Introduction)",
+      "conceptId": "physics.cosmology.chapter-10.topic-06"
+    }
+  ]
+}

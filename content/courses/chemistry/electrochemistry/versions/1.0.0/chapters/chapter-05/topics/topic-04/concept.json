@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.electrochemistry.chapter-05.topic-04",
+  "name": "Cell EMF",
+  "subject": "chemistry",
+  "definition": "Cell EMF is a fundamental concept in chemistry.",
+  "explanation": "Learn about Cell EMF and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "cell-emf"
+  ]
+}

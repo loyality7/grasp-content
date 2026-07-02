@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Magnetic Flux",
+  "description": "Magnetic Flux",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Magnetic Flux",
+      "conceptId": "physics.magnetism.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Flux Density",
+      "conceptId": "physics.magnetism.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Magnetic Circuits",
+      "conceptId": "physics.magnetism.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Reluctance",
+      "conceptId": "physics.magnetism.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Magnetic Energy",
+      "conceptId": "physics.magnetism.chapter-07.topic-05"
+    }
+  ]
+}

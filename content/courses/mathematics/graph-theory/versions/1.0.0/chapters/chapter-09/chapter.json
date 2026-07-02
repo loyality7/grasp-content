@@ -1,0 +1,27 @@
+{
+  "id": "chapter-09",
+  "name": "Graph Coloring",
+  "description": "Graph Coloring",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Vertex Coloring",
+      "conceptId": "mathematics.graph-theory.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Edge Coloring",
+      "conceptId": "mathematics.graph-theory.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Chromatic Number",
+      "conceptId": "mathematics.graph-theory.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "mathematics.graph-theory.chapter-09.topic-04"
+    }
+  ]
+}

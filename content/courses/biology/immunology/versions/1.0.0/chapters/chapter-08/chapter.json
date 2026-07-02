@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Vaccines & Immunization",
+  "description": "Vaccines & Immunization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Active Immunity",
+      "conceptId": "biology.immunology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Passive Immunity",
+      "conceptId": "biology.immunology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vaccine Types",
+      "conceptId": "biology.immunology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Booster Doses",
+      "conceptId": "biology.immunology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Herd Immunity",
+      "conceptId": "biology.immunology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Vaccine Development",
+      "conceptId": "biology.immunology.chapter-08.topic-06"
+    }
+  ]
+}

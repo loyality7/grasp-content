@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-10.topic-02",
+  "name": "Continuous Deployment (CD)",
+  "subject": "computer-science",
+  "definition": "Continuous Deployment (CD) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Continuous Deployment (CD) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "continuous-deployment-cd"
+  ]
+}

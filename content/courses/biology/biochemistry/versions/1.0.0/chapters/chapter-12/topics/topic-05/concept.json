@@ -1,0 +1,20 @@
+{
+  "id": "biology.biochemistry.chapter-12.topic-05",
+  "name": "Nutrition",
+  "subject": "biology",
+  "definition": "Nutrition is a fundamental concept in biology.",
+  "explanation": "Learn about Nutrition and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "nutrition"
+  ]
+}

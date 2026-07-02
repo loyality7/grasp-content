@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Monetary Policy",
+  "description": "Monetary Policy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Central Banks",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Money Supply",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Interest Rates",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Open Market Operations",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Reserve Requirements",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Inflation Targeting",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Monetary Transmission",
+      "conceptId": "economics.macroeconomics.chapter-09.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-06.topic-07",
+  "name": "Code Reviews",
+  "subject": "computer-science",
+  "definition": "Code Reviews is a fundamental concept in computer-science.",
+  "explanation": "Learn about Code Reviews and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "code-reviews"
+  ]
+}

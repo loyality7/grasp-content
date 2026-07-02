@@ -1,0 +1,52 @@
+{
+  "id": "chapter-11",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Steel Production",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Stainless Steel",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Aerospace Alloys",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Coinage Metals",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Batteries",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Catalytic Converters",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Pigments",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Magnets",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Medical Applications",
+      "conceptId": "chemistry.transition-metals.chapter-11.topic-09"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-13.topic-02",
+  "name": "Financial Systems",
+  "subject": "computer-science",
+  "definition": "Financial Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Financial Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "financial-systems"
+  ]
+}

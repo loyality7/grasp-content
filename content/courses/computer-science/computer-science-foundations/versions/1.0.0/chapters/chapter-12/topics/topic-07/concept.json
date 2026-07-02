@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-12.topic-07",
+  "name": "Edge Computing",
+  "subject": "computer-science",
+  "definition": "Edge Computing is a fundamental concept in computer-science.",
+  "explanation": "Learn about Edge Computing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "edge-computing"
+  ]
+}

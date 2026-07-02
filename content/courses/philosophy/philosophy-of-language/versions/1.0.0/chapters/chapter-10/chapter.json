@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Language & Society",
+  "description": "Language & Society",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Social Meaning",
+      "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Language & Culture",
+      "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Language Change",
+      "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Multilingualism",
+      "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Political Language",
+      "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ethical Language",
+      "conceptId": "philosophy.philosophy-of-language.chapter-10.topic-06"
+    }
+  ]
+}

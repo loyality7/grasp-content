@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-08.topic-02",
+  "name": "X-Ray Diffraction (XRD)",
+  "subject": "chemistry",
+  "definition": "X-Ray Diffraction (XRD) is a fundamental concept in chemistry.",
+  "explanation": "Learn about X-Ray Diffraction (XRD) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "x-ray-diffraction-xrd"
+  ]
+}

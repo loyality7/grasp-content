@@ -1,0 +1,42 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Ecology",
+  "description": "Introduction to Ecology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Ecology?",
+      "conceptId": "biology.ecology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Levels of Ecological Organization",
+      "conceptId": "biology.ecology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Habitat",
+      "conceptId": "biology.ecology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Niche",
+      "conceptId": "biology.ecology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Biotic Factors",
+      "conceptId": "biology.ecology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Abiotic Factors",
+      "conceptId": "biology.ecology.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Ecosystem Overview",
+      "conceptId": "biology.ecology.chapter-01.topic-07"
+    }
+  ]
+}

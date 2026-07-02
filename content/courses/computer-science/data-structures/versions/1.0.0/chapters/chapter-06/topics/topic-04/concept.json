@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-06.topic-04",
+  "name": "Chaining",
+  "subject": "computer-science",
+  "definition": "Chaining is a fundamental concept in computer-science.",
+  "explanation": "Learn about Chaining and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "chaining"
+  ]
+}

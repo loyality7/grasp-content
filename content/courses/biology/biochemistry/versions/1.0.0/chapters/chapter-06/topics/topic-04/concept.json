@@ -1,0 +1,20 @@
+{
+  "id": "biology.biochemistry.chapter-06.topic-04",
+  "name": "DNA Replication",
+  "subject": "biology",
+  "definition": "DNA Replication is a fundamental concept in biology.",
+  "explanation": "Learn about DNA Replication and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "dna-replication"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Roller Coasters",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pendulums",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Springs",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Falling Objects",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Inclined Planes",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Engineering Systems",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Sports Physics",
+      "conceptId": "physics.work-energy-power.chapter-10.topic-07"
+    }
+  ]
+}

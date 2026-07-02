@@ -1,0 +1,37 @@
+{
+  "id": "chapter-05",
+  "name": "Interpretation",
+  "description": "Interpretation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Meaning in Art",
+      "conceptId": "philosophy.aesthetics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Artist's Intention",
+      "conceptId": "philosophy.aesthetics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Audience Interpretation",
+      "conceptId": "philosophy.aesthetics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Symbolism",
+      "conceptId": "philosophy.aesthetics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Context",
+      "conceptId": "philosophy.aesthetics.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Criticism",
+      "conceptId": "philosophy.aesthetics.chapter-05.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-11",
+  "name": "Sequences & Series",
+  "description": "Sequences & Series",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Arithmetic Sequences",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Geometric Sequences",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Arithmetic Series",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Geometric Series",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sigma Notation",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Recursive Sequences",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Mathematical Induction (Introduction)",
+      "conceptId": "mathematics.precalculus.chapter-11.topic-07"
+    }
+  ]
+}

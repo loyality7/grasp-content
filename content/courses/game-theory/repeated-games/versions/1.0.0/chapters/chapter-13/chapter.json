@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Stochastic Repeated Games",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Imperfect Monitoring",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Reputation Systems",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dynamic Networks",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Online Learning in Games",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Cooperative AI",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 7: Cooperative Game Theory**",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Cooperative Games",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Coalitions",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Coalition Formation",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Core",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Shapley Value",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Bargaining Solutions",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Fair Division",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Cost Sharing",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Voting Power",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Network Cooperation",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Resource Allocation",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Real-World Cooperative Systems",
+      "conceptId": "game-theory.repeated-games.chapter-13.topic-19"
+    }
+  ]
+}

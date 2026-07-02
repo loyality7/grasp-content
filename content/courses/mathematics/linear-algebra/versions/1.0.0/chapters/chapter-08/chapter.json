@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Eigenvalues & Eigenvectors",
+  "description": "Eigenvalues & Eigenvectors",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Eigenvalues",
+      "conceptId": "mathematics.linear-algebra.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Eigenvectors",
+      "conceptId": "mathematics.linear-algebra.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Characteristic Polynomial",
+      "conceptId": "mathematics.linear-algebra.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Eigenspaces",
+      "conceptId": "mathematics.linear-algebra.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Diagonalization",
+      "conceptId": "mathematics.linear-algebra.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Similar Matrices",
+      "conceptId": "mathematics.linear-algebra.chapter-08.topic-06"
+    }
+  ]
+}

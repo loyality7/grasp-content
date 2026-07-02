@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Electronic Structure",
+  "description": "Electronic Structure",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electron Configurations",
+      "conceptId": "chemistry.transition-metals.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "d-Orbitals",
+      "conceptId": "chemistry.transition-metals.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electron Filling",
+      "conceptId": "chemistry.transition-metals.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Exceptions in Electron Configuration",
+      "conceptId": "chemistry.transition-metals.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Valence Electrons",
+      "conceptId": "chemistry.transition-metals.chapter-02.topic-05"
+    }
+  ]
+}

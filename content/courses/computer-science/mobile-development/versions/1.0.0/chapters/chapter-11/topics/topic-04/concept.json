@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.mobile-development.chapter-11.topic-04",
+  "name": "Beta Testing",
+  "subject": "computer-science",
+  "definition": "Beta Testing is a fundamental concept in computer-science.",
+  "explanation": "Learn about Beta Testing and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "beta-testing"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-06.topic-03",
+  "name": "Dead Code Elimination",
+  "subject": "computer-science",
+  "definition": "Dead Code Elimination is a fundamental concept in computer-science.",
+  "explanation": "Learn about Dead Code Elimination and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "dead-code-elimination"
+  ]
+}

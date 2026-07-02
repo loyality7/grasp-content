@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-13.topic-19",
+  "name": "Computational Equilibrium",
+  "subject": "game-theory",
+  "definition": "Computational Equilibrium is a fundamental concept in game-theory.",
+  "explanation": "Learn about Computational Equilibrium and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "computational-equilibrium"
+  ]
+}

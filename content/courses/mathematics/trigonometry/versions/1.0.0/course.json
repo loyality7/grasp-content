@@ -1,0 +1,512 @@
+{
+  "id": "trigonometry",
+  "name": "Trigonometry",
+  "description": "Trigonometry",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Angle Measurement",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Angles",
+          "conceptId": "mathematics.trigonometry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Degrees",
+          "conceptId": "mathematics.trigonometry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Radians",
+          "conceptId": "mathematics.trigonometry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Degree–Radian Conversion",
+          "conceptId": "mathematics.trigonometry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coterminal Angles",
+          "conceptId": "mathematics.trigonometry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reference Angles",
+          "conceptId": "mathematics.trigonometry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Right Triangle Trigonometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sine",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cosine",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tangent",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cosecant",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Secant",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cotangent",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Finding Missing Sides",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Finding Missing Angles",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Applications",
+          "conceptId": "mathematics.trigonometry.chapter-02.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Unit Circle",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Unit Circle Basics",
+          "conceptId": "mathematics.trigonometry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Standard Position",
+          "conceptId": "mathematics.trigonometry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Special Angles",
+          "conceptId": "mathematics.trigonometry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Exact Trigonometric Values",
+          "conceptId": "mathematics.trigonometry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quadrants",
+          "conceptId": "mathematics.trigonometry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Signs of Trigonometric Functions",
+          "conceptId": "mathematics.trigonometry.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Trigonometric Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Domain & Range",
+          "conceptId": "mathematics.trigonometry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Period",
+          "conceptId": "mathematics.trigonometry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Amplitude",
+          "conceptId": "mathematics.trigonometry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Even & Odd Functions",
+          "conceptId": "mathematics.trigonometry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reciprocal Functions",
+          "conceptId": "mathematics.trigonometry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Co-Function Relationships",
+          "conceptId": "mathematics.trigonometry.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Graphs of Trigonometric Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Graph of Sine",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Graph of Cosine",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Graph of Tangent",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Graph of Cotangent",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graph of Secant",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Graph of Cosecant",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Phase Shift",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Vertical Shift",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Amplitude Changes",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Period Changes",
+          "conceptId": "mathematics.trigonometry.chapter-05.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Trigonometric Identities",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pythagorean Identities",
+          "conceptId": "mathematics.trigonometry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reciprocal Identities",
+          "conceptId": "mathematics.trigonometry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quotient Identities",
+          "conceptId": "mathematics.trigonometry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Even-Odd Identities",
+          "conceptId": "mathematics.trigonometry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Co-Function Identities",
+          "conceptId": "mathematics.trigonometry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Verifying Identities",
+          "conceptId": "mathematics.trigonometry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Sum & Difference Identities",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sine Sum Formula",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cosine Sum Formula",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tangent Sum Formula",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Double-Angle Identities",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Half-Angle Identities",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Product-to-Sum",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sum-to-Product",
+          "conceptId": "mathematics.trigonometry.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Inverse Trigonometric Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arcsine",
+          "conceptId": "mathematics.trigonometry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Arccosine",
+          "conceptId": "mathematics.trigonometry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Arctangent",
+          "conceptId": "mathematics.trigonometry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Domain & Range",
+          "conceptId": "mathematics.trigonometry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "conceptId": "mathematics.trigonometry.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Trigonometric Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Basic Trigonometric Equations",
+          "conceptId": "mathematics.trigonometry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "General Solutions",
+          "conceptId": "mathematics.trigonometry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multiple-Angle Equations",
+          "conceptId": "mathematics.trigonometry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Identity-Based Equations",
+          "conceptId": "mathematics.trigonometry.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Laws of Triangles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Law of Sines",
+          "conceptId": "mathematics.trigonometry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ambiguous Case (SSA)",
+          "conceptId": "mathematics.trigonometry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Law of Cosines",
+          "conceptId": "mathematics.trigonometry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Area of a Triangle",
+          "conceptId": "mathematics.trigonometry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Solving Oblique Triangles",
+          "conceptId": "mathematics.trigonometry.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Polar Coordinates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Polar Coordinate System",
+          "conceptId": "mathematics.trigonometry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polar Graphs",
+          "conceptId": "mathematics.trigonometry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Polar Equations",
+          "conceptId": "mathematics.trigonometry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Converting Polar ↔ Cartesian",
+          "conceptId": "mathematics.trigonometry.chapter-11.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Complex Numbers in Polar Form",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Polar Form",
+          "conceptId": "mathematics.trigonometry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Euler's Formula",
+          "conceptId": "mathematics.trigonometry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "De Moivre's Theorem",
+          "conceptId": "mathematics.trigonometry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Roots of Complex Numbers",
+          "conceptId": "mathematics.trigonometry.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Trigonometric Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Heights & Distances",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Navigation",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bearings",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Circular Motion",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Harmonic Motion",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Waves",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Physics Applications",
+          "conceptId": "mathematics.trigonometry.chapter-13.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Introduction to Fourier Ideas",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Periodic Functions",
+          "conceptId": "mathematics.trigonometry.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Harmonic Components",
+          "conceptId": "mathematics.trigonometry.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fourier Series (Introduction)",
+          "conceptId": "mathematics.trigonometry.chapter-14.topic-03"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "trigonometry"
+    ]
+  }
+}

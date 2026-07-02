@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Microbial Growth",
+  "description": "Microbial Growth",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Growth Curve",
+      "conceptId": "biology.microbiology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Binary Fission",
+      "conceptId": "biology.microbiology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Growth Requirements",
+      "conceptId": "biology.microbiology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Culture Media",
+      "conceptId": "biology.microbiology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Aerobic & Anaerobic Growth",
+      "conceptId": "biology.microbiology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Biofilms",
+      "conceptId": "biology.microbiology.chapter-07.topic-06"
+    }
+  ]
+}

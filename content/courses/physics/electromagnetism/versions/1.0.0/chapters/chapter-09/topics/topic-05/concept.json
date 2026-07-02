@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-09.topic-05",
+  "name": "Alternating Current",
+  "subject": "physics",
+  "definition": "Alternating Current is a fundamental concept in physics.",
+  "explanation": "Learn about Alternating Current and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "alternating-current"
+  ]
+}

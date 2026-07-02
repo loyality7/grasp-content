@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-13.topic-04",
+  "name": "Mean Field Games",
+  "subject": "game-theory",
+  "definition": "Mean Field Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Mean Field Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "mean-field-games"
+  ]
+}

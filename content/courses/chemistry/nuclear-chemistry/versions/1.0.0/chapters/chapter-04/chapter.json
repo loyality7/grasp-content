@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Nuclear Reactions",
+  "description": "Nuclear Reactions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Nuclear Equations",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Nuclear Transmutation",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Induced Radioactivity",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Conservation Laws",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Q-Value",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Reaction Cross Section",
+      "conceptId": "chemistry.nuclear-chemistry.chapter-04.topic-06"
+    }
+  ]
+}

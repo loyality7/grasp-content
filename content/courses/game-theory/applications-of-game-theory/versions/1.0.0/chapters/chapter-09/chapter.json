@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Cybersecurity",
+  "description": "Cybersecurity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Attacker vs Defender Games",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Intrusion Detection",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Security Investment",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Information Warfare",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cyber Deterrence",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Security Strategy",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-09.topic-06"
+    }
+  ]
+}

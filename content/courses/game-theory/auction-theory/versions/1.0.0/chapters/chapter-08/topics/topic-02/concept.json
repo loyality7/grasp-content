@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-08.topic-02",
+  "name": "Combinatorial Auctions",
+  "subject": "game-theory",
+  "definition": "Combinatorial Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Combinatorial Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "combinatorial-auctions"
+  ]
+}

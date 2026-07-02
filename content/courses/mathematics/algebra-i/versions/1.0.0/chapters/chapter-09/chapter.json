@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Factoring",
+  "description": "Factoring",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Greatest Common Factor",
+      "conceptId": "mathematics.algebra-i.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Factoring Trinomials",
+      "conceptId": "mathematics.algebra-i.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Difference of Squares",
+      "conceptId": "mathematics.algebra-i.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Perfect Square Trinomials",
+      "conceptId": "mathematics.algebra-i.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Factoring by Grouping",
+      "conceptId": "mathematics.algebra-i.chapter-09.topic-05"
+    }
+  ]
+}

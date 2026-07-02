@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "National Income Accounting",
+  "description": "National Income Accounting",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Gross Domestic Product (GDP)",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gross National Product (GNP)",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Net National Product (NNP)",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "National Income",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Personal Income",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Disposable Income",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Real vs Nominal GDP",
+      "conceptId": "economics.macroeconomics.chapter-02.topic-07"
+    }
+  ]
+}

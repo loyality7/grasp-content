@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "AI Ethics & Safety",
+  "description": "AI Ethics & Safety",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "AI Bias",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fairness",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Explainable AI",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Privacy",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Security",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Governance",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Responsible AI",
+      "conceptId": "computer-science.artificial-intelligence.chapter-12.topic-07"
+    }
+  ]
+}

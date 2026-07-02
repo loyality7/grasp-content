@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Utility Theory",
+  "description": "Utility Theory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Total Utility",
+      "conceptId": "economics.consumer-theory.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Marginal Utility",
+      "conceptId": "economics.consumer-theory.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Law of Diminishing Marginal Utility",
+      "conceptId": "economics.consumer-theory.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cardinal Utility",
+      "conceptId": "economics.consumer-theory.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ordinal Utility",
+      "conceptId": "economics.consumer-theory.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Utility Maximization",
+      "conceptId": "economics.consumer-theory.chapter-02.topic-06"
+    }
+  ]
+}

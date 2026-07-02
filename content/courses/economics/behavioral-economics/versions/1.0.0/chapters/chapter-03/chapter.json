@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Heuristics",
+  "description": "Heuristics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mental Shortcuts",
+      "conceptId": "economics.behavioral-economics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fast & Slow Thinking",
+      "conceptId": "economics.behavioral-economics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Rule of Thumb Decisions",
+      "conceptId": "economics.behavioral-economics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Satisficing",
+      "conceptId": "economics.behavioral-economics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Decision Making Under Uncertainty",
+      "conceptId": "economics.behavioral-economics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Everyday Applications",
+      "conceptId": "economics.behavioral-economics.chapter-03.topic-06"
+    }
+  ]
+}

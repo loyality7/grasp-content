@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-17.topic-01",
+  "name": "Kirchhoff's Current Law (KCL)",
+  "subject": "physics",
+  "definition": "Kirchhoff's Current Law (KCL) is a fundamental concept in physics.",
+  "explanation": "Learn about Kirchhoff's Current Law (KCL) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "kirchhoffs-current-law-kcl"
+  ]
+}

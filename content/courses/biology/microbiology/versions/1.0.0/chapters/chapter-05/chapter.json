@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Fungi",
+  "description": "Fungi",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Yeasts",
+      "conceptId": "biology.microbiology.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Molds",
+      "conceptId": "biology.microbiology.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mushrooms",
+      "conceptId": "biology.microbiology.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fungal Cell Structure",
+      "conceptId": "biology.microbiology.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fungal Reproduction",
+      "conceptId": "biology.microbiology.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Pathogenic Fungi",
+      "conceptId": "biology.microbiology.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Industrial Applications",
+      "conceptId": "biology.microbiology.chapter-05.topic-07"
+    }
+  ]
+}

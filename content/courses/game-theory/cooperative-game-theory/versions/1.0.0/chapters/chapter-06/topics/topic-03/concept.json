@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-06.topic-03",
+  "name": "Kalai-Smorodinsky Solution",
+  "subject": "game-theory",
+  "definition": "Kalai-Smorodinsky Solution is a fundamental concept in game-theory.",
+  "explanation": "Learn about Kalai-Smorodinsky Solution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "kalai-smorodinsky-solution"
+  ]
+}

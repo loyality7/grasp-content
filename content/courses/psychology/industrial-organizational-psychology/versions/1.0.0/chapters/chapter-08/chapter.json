@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Performance Management",
+  "description": "Performance Management",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Performance Appraisal",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Performance Metrics",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Feedback",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Goal Management",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Compensation",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Recognition Systems",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-08.topic-06"
+    }
+  ]
+}

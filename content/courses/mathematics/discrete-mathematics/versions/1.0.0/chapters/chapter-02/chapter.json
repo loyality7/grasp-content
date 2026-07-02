@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Proof Techniques",
+  "description": "Proof Techniques",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Direct Proof",
+      "conceptId": "mathematics.discrete-mathematics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Proof by Contradiction",
+      "conceptId": "mathematics.discrete-mathematics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Proof by Contrapositive",
+      "conceptId": "mathematics.discrete-mathematics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mathematical Induction",
+      "conceptId": "mathematics.discrete-mathematics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strong Induction",
+      "conceptId": "mathematics.discrete-mathematics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Counterexamples",
+      "conceptId": "mathematics.discrete-mathematics.chapter-02.topic-06"
+    }
+  ]
+}

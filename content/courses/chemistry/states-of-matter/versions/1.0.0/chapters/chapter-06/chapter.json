@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Kinetic Theory of Gases",
+  "description": "Kinetic Theory of Gases",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Assumptions of Kinetic Theory",
+      "conceptId": "chemistry.states-of-matter.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Molecular Motion",
+      "conceptId": "chemistry.states-of-matter.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Collision Theory",
+      "conceptId": "chemistry.states-of-matter.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Root Mean Square Speed",
+      "conceptId": "chemistry.states-of-matter.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mean Free Path",
+      "conceptId": "chemistry.states-of-matter.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Maxwell-Boltzmann Distribution",
+      "conceptId": "chemistry.states-of-matter.chapter-06.topic-06"
+    }
+  ]
+}

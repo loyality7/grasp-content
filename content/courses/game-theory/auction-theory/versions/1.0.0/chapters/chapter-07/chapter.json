@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Revenue Equivalence",
+  "description": "Revenue Equivalence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Revenue Equivalence Theorem",
+      "conceptId": "game-theory.auction-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Auction Efficiency",
+      "conceptId": "game-theory.auction-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Seller Revenue",
+      "conceptId": "game-theory.auction-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Bidder Utility",
+      "conceptId": "game-theory.auction-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Allocation Efficiency",
+      "conceptId": "game-theory.auction-theory.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Auction Comparison",
+      "conceptId": "game-theory.auction-theory.chapter-07.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-13.topic-17",
+  "name": "Feature Engineering",
+  "subject": "computer-science",
+  "definition": "Feature Engineering is a fundamental concept in computer-science.",
+  "explanation": "Learn about Feature Engineering and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "feature-engineering"
+  ]
+}

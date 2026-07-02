@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.spectroscopy.chapter-13.topic-01",
+  "name": "FTIR Spectroscopy",
+  "subject": "chemistry",
+  "definition": "FTIR Spectroscopy is a fundamental concept in chemistry.",
+  "explanation": "Learn about FTIR Spectroscopy and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "ftir-spectroscopy"
+  ]
+}

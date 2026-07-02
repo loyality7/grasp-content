@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Knowledge & Technology",
+  "description": "Knowledge & Technology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Digital Information",
+      "conceptId": "philosophy.epistemology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Search Engines",
+      "conceptId": "philosophy.epistemology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Artificial Intelligence",
+      "conceptId": "philosophy.epistemology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Algorithmic Knowledge",
+      "conceptId": "philosophy.epistemology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Information Reliability",
+      "conceptId": "philosophy.epistemology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Digital Epistemology",
+      "conceptId": "philosophy.epistemology.chapter-10.topic-06"
+    }
+  ]
+}

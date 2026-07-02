@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.simultaneous-games.chapter-05.topic-03",
+  "name": "Equilibrium Identification",
+  "subject": "game-theory",
+  "definition": "Equilibrium Identification is a fundamental concept in game-theory.",
+  "explanation": "Learn about Equilibrium Identification and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "equilibrium-identification"
+  ]
+}

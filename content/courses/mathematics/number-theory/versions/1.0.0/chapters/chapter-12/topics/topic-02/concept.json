@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-12.topic-02",
+  "name": "Orders",
+  "subject": "mathematics",
+  "definition": "Orders is a fundamental concept in mathematics.",
+  "explanation": "Learn about Orders and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "orders"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Psychology",
+  "description": "Introduction to Psychology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Psychology?",
+      "conceptId": "psychology.psychology-foundations.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "History of Psychology",
+      "conceptId": "psychology.psychology-foundations.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Goals of Psychology",
+      "conceptId": "psychology.psychology-foundations.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Branches of Psychology",
+      "conceptId": "psychology.psychology-foundations.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Careers in Psychology",
+      "conceptId": "psychology.psychology-foundations.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications of Psychology",
+      "conceptId": "psychology.psychology-foundations.chapter-01.topic-06"
+    }
+  ]
+}

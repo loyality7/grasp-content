@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Polarization",
+  "description": "Polarization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Polarized Light",
+      "conceptId": "physics.optics.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Polarizers",
+      "conceptId": "physics.optics.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Malus' Law",
+      "conceptId": "physics.optics.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Brewster's Law",
+      "conceptId": "physics.optics.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Circular Polarization",
+      "conceptId": "physics.optics.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "physics.optics.chapter-09.topic-06"
+    }
+  ]
+}

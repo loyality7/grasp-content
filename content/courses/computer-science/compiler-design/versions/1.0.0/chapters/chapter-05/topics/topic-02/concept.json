@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.compiler-design.chapter-05.topic-02",
+  "name": "Three-Address Code",
+  "subject": "computer-science",
+  "definition": "Three-Address Code is a fundamental concept in computer-science.",
+  "explanation": "Learn about Three-Address Code and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "three-address-code"
+  ]
+}

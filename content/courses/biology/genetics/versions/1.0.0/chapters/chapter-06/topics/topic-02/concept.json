@@ -1,0 +1,20 @@
+{
+  "id": "biology.genetics.chapter-06.topic-02",
+  "name": "Pedigree Analysis",
+  "subject": "biology",
+  "definition": "Pedigree Analysis is a fundamental concept in biology.",
+  "explanation": "Learn about Pedigree Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "pedigree-analysis"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-13",
+  "name": "Time Series",
+  "description": "Time Series",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Trend",
+      "conceptId": "mathematics.statistics.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Seasonality",
+      "conceptId": "mathematics.statistics.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Moving Average",
+      "conceptId": "mathematics.statistics.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Exponential Smoothing",
+      "conceptId": "mathematics.statistics.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Forecasting Basics",
+      "conceptId": "mathematics.statistics.chapter-13.topic-05"
+    }
+  ]
+}

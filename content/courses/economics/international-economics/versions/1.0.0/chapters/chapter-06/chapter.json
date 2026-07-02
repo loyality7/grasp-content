@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Balance of Payments",
+  "description": "Balance of Payments",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Current Account",
+      "conceptId": "economics.international-economics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Capital Account",
+      "conceptId": "economics.international-economics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Financial Account",
+      "conceptId": "economics.international-economics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Foreign Exchange Reserves",
+      "conceptId": "economics.international-economics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Balance of Payments Deficit",
+      "conceptId": "economics.international-economics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Balance of Payments Surplus",
+      "conceptId": "economics.international-economics.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "id": "waves-sound",
+  "name": "Waves & Sound",
+  "description": "Waves & Sound",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Wave Fundamentals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Wave?",
+          "conceptId": "physics.waves-sound.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Waves",
+          "conceptId": "physics.waves-sound.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mechanical Waves",
+          "conceptId": "physics.waves-sound.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electromagnetic Waves (Introduction)",
+          "conceptId": "physics.waves-sound.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transverse Waves",
+          "conceptId": "physics.waves-sound.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Longitudinal Waves",
+          "conceptId": "physics.waves-sound.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Wave Pulse",
+          "conceptId": "physics.waves-sound.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Wavefronts",
+          "conceptId": "physics.waves-sound.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Wave Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Wavelength",
+          "conceptId": "physics.waves-sound.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Frequency",
+          "conceptId": "physics.waves-sound.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Time Period",
+          "conceptId": "physics.waves-sound.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Wave Speed",
+          "conceptId": "physics.waves-sound.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Amplitude",
+          "conceptId": "physics.waves-sound.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Phase",
+          "conceptId": "physics.waves-sound.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Wave Equation",
+          "conceptId": "physics.waves-sound.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Energy Transport",
+          "conceptId": "physics.waves-sound.chapter-02.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Wave Propagation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Wave Motion",
+          "conceptId": "physics.waves-sound.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wave Medium",
+          "conceptId": "physics.waves-sound.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reflection",
+          "conceptId": "physics.waves-sound.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Transmission",
+          "conceptId": "physics.waves-sound.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Absorption",
+          "conceptId": "physics.waves-sound.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Wave Impedance (Introduction)",
+          "conceptId": "physics.waves-sound.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Superposition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Principle of Superposition",
+          "conceptId": "physics.waves-sound.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Constructive Interference",
+          "conceptId": "physics.waves-sound.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Destructive Interference",
+          "conceptId": "physics.waves-sound.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Phase Difference",
+          "conceptId": "physics.waves-sound.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coherence",
+          "conceptId": "physics.waves-sound.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Standing Waves",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Standing Waves",
+          "conceptId": "physics.waves-sound.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nodes",
+          "conceptId": "physics.waves-sound.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Antinodes",
+          "conceptId": "physics.waves-sound.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Harmonics",
+          "conceptId": "physics.waves-sound.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Overtones",
+          "conceptId": "physics.waves-sound.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Resonance in Strings",
+          "conceptId": "physics.waves-sound.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Resonance in Air Columns",
+          "conceptId": "physics.waves-sound.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Sound Waves",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nature of Sound",
+          "conceptId": "physics.waves-sound.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Speed of Sound",
+          "conceptId": "physics.waves-sound.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sound Intensity",
+          "conceptId": "physics.waves-sound.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Loudness",
+          "conceptId": "physics.waves-sound.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pitch",
+          "conceptId": "physics.waves-sound.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Timbre",
+          "conceptId": "physics.waves-sound.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Audible Range",
+          "conceptId": "physics.waves-sound.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Ultrasonic Waves",
+          "conceptId": "physics.waves-sound.chapter-06.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Infrasonic Waves",
+          "conceptId": "physics.waves-sound.chapter-06.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Doppler Effect",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Doppler Effect",
+          "conceptId": "physics.waves-sound.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Moving Source",
+          "conceptId": "physics.waves-sound.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moving Observer",
+          "conceptId": "physics.waves-sound.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Combined Motion",
+          "conceptId": "physics.waves-sound.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "conceptId": "physics.waves-sound.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Radar",
+          "conceptId": "physics.waves-sound.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Astronomy Applications",
+          "conceptId": "physics.waves-sound.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Reflection & Refraction of Sound",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Echo",
+          "conceptId": "physics.waves-sound.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reverberation",
+          "conceptId": "physics.waves-sound.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Refraction of Sound",
+          "conceptId": "physics.waves-sound.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Diffraction of Sound",
+          "conceptId": "physics.waves-sound.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Acoustic Shadow",
+          "conceptId": "physics.waves-sound.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Musical Acoustics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vibrating Strings",
+          "conceptId": "physics.waves-sound.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Open Pipes",
+          "conceptId": "physics.waves-sound.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Closed Pipes",
+          "conceptId": "physics.waves-sound.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resonance",
+          "conceptId": "physics.waves-sound.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Harmonics",
+          "conceptId": "physics.waves-sound.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Beats",
+          "conceptId": "physics.waves-sound.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Musical Scales (Introduction)",
+          "conceptId": "physics.waves-sound.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sonar",
+          "conceptId": "physics.waves-sound.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ultrasound Imaging",
+          "conceptId": "physics.waves-sound.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Noise Control",
+          "conceptId": "physics.waves-sound.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Architectural Acoustics",
+          "conceptId": "physics.waves-sound.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Earthquake Waves",
+          "conceptId": "physics.waves-sound.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ocean Waves",
+          "conceptId": "physics.waves-sound.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Communication Systems",
+          "conceptId": "physics.waves-sound.chapter-10.topic-07"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "waves-sound"
+    ]
+  }
+}

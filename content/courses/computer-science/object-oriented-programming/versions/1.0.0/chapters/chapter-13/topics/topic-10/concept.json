@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-13.topic-10",
+  "name": "Linked Lists",
+  "subject": "computer-science",
+  "definition": "Linked Lists is a fundamental concept in computer-science.",
+  "explanation": "Learn about Linked Lists and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "linked-lists"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Cardiovascular Physiology",
+  "description": "Cardiovascular Physiology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cardiac Cycle",
+      "conceptId": "biology.human-physiology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Electrical Conduction of the Heart",
+      "conceptId": "biology.human-physiology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Blood Pressure",
+      "conceptId": "biology.human-physiology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cardiac Output",
+      "conceptId": "biology.human-physiology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Blood Flow",
+      "conceptId": "biology.human-physiology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Regulation of Circulation",
+      "conceptId": "biology.human-physiology.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Microcirculation",
+      "conceptId": "biology.human-physiology.chapter-04.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Memory",
+  "description": "Memory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sensory Memory",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Working Memory",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Long-Term Memory",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Episodic Memory",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Semantic Memory",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Procedural Memory",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Memory Consolidation",
+      "conceptId": "psychology.cognitive-psychology.chapter-04.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-14.topic-08",
+  "name": "Differential Equations",
+  "subject": "mathematics",
+  "definition": "Differential Equations is a fundamental concept in mathematics.",
+  "explanation": "Learn about Differential Equations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "differential-equations"
+  ]
+}

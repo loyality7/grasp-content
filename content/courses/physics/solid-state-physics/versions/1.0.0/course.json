@@ -1,0 +1,567 @@
+{
+  "id": "solid-state-physics",
+  "name": "Solid State Physics",
+  "description": "Solid State Physics",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Crystal Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Solids",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Amorphous vs Crystalline Solids",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Crystal Lattices",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Unit Cells",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Crystal Systems",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bravais Lattices",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Miller Indices",
+          "conceptId": "physics.solid-state-physics.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Crystal Bonding",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ionic Bonding",
+          "conceptId": "physics.solid-state-physics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Covalent Bonding",
+          "conceptId": "physics.solid-state-physics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Metallic Bonding",
+          "conceptId": "physics.solid-state-physics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Van der Waals Bonding",
+          "conceptId": "physics.solid-state-physics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydrogen Bonding",
+          "conceptId": "physics.solid-state-physics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crystal Cohesion",
+          "conceptId": "physics.solid-state-physics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Crystal Defects",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Point Defects",
+          "conceptId": "physics.solid-state-physics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vacancy Defects",
+          "conceptId": "physics.solid-state-physics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Interstitial Defects",
+          "conceptId": "physics.solid-state-physics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dislocations",
+          "conceptId": "physics.solid-state-physics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Grain Boundaries",
+          "conceptId": "physics.solid-state-physics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Impurities",
+          "conceptId": "physics.solid-state-physics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Reciprocal Lattice & Diffraction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reciprocal Lattice",
+          "conceptId": "physics.solid-state-physics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bragg's Law",
+          "conceptId": "physics.solid-state-physics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "X-Ray Diffraction",
+          "conceptId": "physics.solid-state-physics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electron Diffraction",
+          "conceptId": "physics.solid-state-physics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Neutron Diffraction",
+          "conceptId": "physics.solid-state-physics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crystal Structure Determination",
+          "conceptId": "physics.solid-state-physics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Electron Theory of Solids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Free Electron Model",
+          "conceptId": "physics.solid-state-physics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Drude Model",
+          "conceptId": "physics.solid-state-physics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sommerfeld Model",
+          "conceptId": "physics.solid-state-physics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fermi Energy",
+          "conceptId": "physics.solid-state-physics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fermi Surface",
+          "conceptId": "physics.solid-state-physics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Density of States",
+          "conceptId": "physics.solid-state-physics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Energy Band Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Energy Bands",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Valence Band",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conduction Band",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Band Gap",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Conductors",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Semiconductors",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Insulators",
+          "conceptId": "physics.solid-state-physics.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Semiconductor Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intrinsic Semiconductors",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Extrinsic Semiconductors",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "N-Type Semiconductors",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "P-Type Semiconductors",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Charge Carriers",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Carrier Mobility",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Drift Current",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Diffusion Current",
+          "conceptId": "physics.solid-state-physics.chapter-07.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Semiconductor Devices",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "PN Junction",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diodes",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Zener Diodes",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "LEDs",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Photodiodes",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Solar Cells",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Bipolar Junction Transistors (BJT)",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "MOSFET (Introduction)",
+          "conceptId": "physics.solid-state-physics.chapter-08.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Magnetic Properties of Solids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diamagnetism",
+          "conceptId": "physics.solid-state-physics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paramagnetism",
+          "conceptId": "physics.solid-state-physics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ferromagnetism",
+          "conceptId": "physics.solid-state-physics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ferrimagnetism",
+          "conceptId": "physics.solid-state-physics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Antiferromagnetism",
+          "conceptId": "physics.solid-state-physics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Magnetic Domains",
+          "conceptId": "physics.solid-state-physics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Superconductivity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Superconductors",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Critical Temperature",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Meissner Effect",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Type I Superconductors",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Type II Superconductors",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "High-Temperature Superconductors",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "conceptId": "physics.solid-state-physics.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Dielectric Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Dielectric Materials",
+          "conceptId": "physics.solid-state-physics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polarization",
+          "conceptId": "physics.solid-state-physics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ferroelectric Materials",
+          "conceptId": "physics.solid-state-physics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Piezoelectric Materials",
+          "conceptId": "physics.solid-state-physics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pyroelectric Materials",
+          "conceptId": "physics.solid-state-physics.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Nanomaterials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nanostructures",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantum Wells",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Wires",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantum Dots",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Nanotubes",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Graphene",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "2D Materials",
+          "conceptId": "physics.solid-state-physics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Optical Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Optical Absorption",
+          "conceptId": "physics.solid-state-physics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Luminescence",
+          "conceptId": "physics.solid-state-physics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Photoconductivity",
+          "conceptId": "physics.solid-state-physics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Excitons",
+          "conceptId": "physics.solid-state-physics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electro-Optic Effects",
+          "conceptId": "physics.solid-state-physics.chapter-13.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Integrated Circuits",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Computer Processors",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Memory Devices",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "LEDs",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Solar Panels",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sensors",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Spintronics",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Quantum Materials",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Nanotechnology",
+          "conceptId": "physics.solid-state-physics.chapter-14.topic-09"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "solid-state-physics"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-08.topic-02",
+  "name": "Marginal Distributions",
+  "subject": "mathematics",
+  "definition": "Marginal Distributions is a fundamental concept in mathematics.",
+  "explanation": "Learn about Marginal Distributions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "marginal-distributions"
+  ]
+}

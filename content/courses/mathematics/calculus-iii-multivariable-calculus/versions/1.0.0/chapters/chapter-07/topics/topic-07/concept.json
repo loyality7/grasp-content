@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-07",
+  "name": "Lagrange Multipliers",
+  "subject": "mathematics",
+  "definition": "Lagrange Multipliers is a fundamental concept in mathematics.",
+  "explanation": "Learn about Lagrange Multipliers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "lagrange-multipliers"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Architecture & Design",
+  "description": "Architecture & Design",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Architecture",
+      "conceptId": "philosophy.aesthetics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Urban Design",
+      "conceptId": "philosophy.aesthetics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Functional Design",
+      "conceptId": "philosophy.aesthetics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Industrial Design",
+      "conceptId": "philosophy.aesthetics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Interior Design",
+      "conceptId": "philosophy.aesthetics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Sustainable Design",
+      "conceptId": "philosophy.aesthetics.chapter-10.topic-06"
+    }
+  ]
+}

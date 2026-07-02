@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Industrial & Organizational Psychology",
+  "description": "Introduction to Industrial & Organizational Psychology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Industrial & Organizational Psychology?",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "History of I/O Psychology",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Areas of Practice",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Workplace Behavior",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Organizational Effectiveness",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-06"
+    }
+  ]
+}

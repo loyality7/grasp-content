@@ -1,0 +1,47 @@
+{
+  "id": "chapter-07",
+  "name": "Circular Motion (Kinematics)",
+  "description": "Circular Motion (Kinematics)",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Circular Motion",
+      "conceptId": "physics.kinematics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Angular Displacement",
+      "conceptId": "physics.kinematics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Angular Velocity",
+      "conceptId": "physics.kinematics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Angular Acceleration",
+      "conceptId": "physics.kinematics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Tangential Velocity",
+      "conceptId": "physics.kinematics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Centripetal Acceleration",
+      "conceptId": "physics.kinematics.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Period",
+      "conceptId": "physics.kinematics.chapter-07.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Frequency",
+      "conceptId": "physics.kinematics.chapter-07.topic-08"
+    }
+  ]
+}

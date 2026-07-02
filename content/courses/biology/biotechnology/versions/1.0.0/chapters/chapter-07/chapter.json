@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Medical Biotechnology",
+  "description": "Medical Biotechnology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Biopharmaceuticals",
+      "conceptId": "biology.biotechnology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Monoclonal Antibodies",
+      "conceptId": "biology.biotechnology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Recombinant Proteins",
+      "conceptId": "biology.biotechnology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Vaccine Technology",
+      "conceptId": "biology.biotechnology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Molecular Diagnostics",
+      "conceptId": "biology.biotechnology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Precision Medicine",
+      "conceptId": "biology.biotechnology.chapter-07.topic-06"
+    }
+  ]
+}

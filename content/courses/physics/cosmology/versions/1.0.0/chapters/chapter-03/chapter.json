@@ -1,0 +1,52 @@
+{
+  "id": "chapter-03",
+  "name": "The Big Bang",
+  "description": "The Big Bang",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Big Bang Theory",
+      "conceptId": "physics.cosmology.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Planck Epoch",
+      "conceptId": "physics.cosmology.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inflation",
+      "conceptId": "physics.cosmology.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Quark Epoch",
+      "conceptId": "physics.cosmology.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hadron Epoch",
+      "conceptId": "physics.cosmology.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Lepton Epoch",
+      "conceptId": "physics.cosmology.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Photon Epoch",
+      "conceptId": "physics.cosmology.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Recombination",
+      "conceptId": "physics.cosmology.chapter-03.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Formation of Atoms",
+      "conceptId": "physics.cosmology.chapter-03.topic-09"
+    }
+  ]
+}

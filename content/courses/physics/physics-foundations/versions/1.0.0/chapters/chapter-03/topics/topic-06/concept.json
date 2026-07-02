@@ -1,0 +1,20 @@
+{
+  "id": "physics.physics-foundations.chapter-03.topic-06",
+  "name": "Relative Error",
+  "subject": "physics",
+  "definition": "Relative Error is a fundamental concept in physics.",
+  "explanation": "Learn about Relative Error and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "relative-error"
+  ]
+}

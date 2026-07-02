@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Feminist Philosophy",
+  "description": "Feminist Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Feminist Ethics",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gender",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Equality",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Justice",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Care Ethics",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Intersectionality",
+      "conceptId": "philosophy.contemporary-philosophy.chapter-06.topic-06"
+    }
+  ]
+}

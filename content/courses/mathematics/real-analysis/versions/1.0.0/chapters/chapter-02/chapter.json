@@ -1,0 +1,47 @@
+{
+  "id": "chapter-02",
+  "name": "Sets & Functions",
+  "description": "Sets & Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Sets",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Intervals",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Functions",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Injective Functions",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Surjective Functions",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Bijective Functions",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Inverse Functions",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Composition of Functions",
+      "conceptId": "mathematics.real-analysis.chapter-02.topic-08"
+    }
+  ]
+}

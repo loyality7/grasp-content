@@ -1,0 +1,42 @@
+{
+  "id": "chapter-05",
+  "name": "Optical Instruments",
+  "description": "Optical Instruments",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Human Eye",
+      "conceptId": "physics.optics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Eye Defects",
+      "conceptId": "physics.optics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Corrective Lenses",
+      "conceptId": "physics.optics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Magnifying Glass",
+      "conceptId": "physics.optics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Microscope",
+      "conceptId": "physics.optics.chapter-05.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Telescope",
+      "conceptId": "physics.optics.chapter-05.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Camera",
+      "conceptId": "physics.optics.chapter-05.topic-07"
+    }
+  ]
+}

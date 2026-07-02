@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-science.chapter-10.topic-02",
+  "name": "Business Metrics",
+  "subject": "computer-science",
+  "definition": "Business Metrics is a fundamental concept in computer-science.",
+  "explanation": "Learn about Business Metrics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "business-metrics"
+  ]
+}

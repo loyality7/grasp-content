@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nuclear-chemistry.chapter-10.topic-02",
+  "name": "SPECT Imaging",
+  "subject": "chemistry",
+  "definition": "SPECT Imaging is a fundamental concept in chemistry.",
+  "explanation": "Learn about SPECT Imaging and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "spect-imaging"
+  ]
+}

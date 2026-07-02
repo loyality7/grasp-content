@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Arrhenius Equation",
+  "description": "Arrhenius Equation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Arrhenius Equation",
+      "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Temperature Dependence",
+      "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Frequency Factor",
+      "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Arrhenius Plot",
+      "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Activation Energy Calculation",
+      "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "id": "graph-theory",
+  "name": "Graph Theory",
+  "description": "Graph Theory",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Graphs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Graph?",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vertices",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Edges",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Directed Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Undirected Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Weighted Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Simple Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Multigraphs",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Pseudographs",
+          "conceptId": "mathematics.graph-theory.chapter-01.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Graph Representation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Adjacency Matrix",
+          "conceptId": "mathematics.graph-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adjacency List",
+          "conceptId": "mathematics.graph-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Incidence Matrix",
+          "conceptId": "mathematics.graph-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Edge List",
+          "conceptId": "mathematics.graph-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graph Storage",
+          "conceptId": "mathematics.graph-theory.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Graph Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Degree of a Vertex",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "In-Degree",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Out-Degree",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Handshaking Lemma",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Isolated Vertices",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pendant Vertices",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Subgraphs",
+          "conceptId": "mathematics.graph-theory.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Paths & Connectivity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Walks",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Trails",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Paths",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cycles",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Connected Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Components",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Strong Connectivity",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Weak Connectivity",
+          "conceptId": "mathematics.graph-theory.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Trees",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Trees",
+          "conceptId": "mathematics.graph-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rooted Trees",
+          "conceptId": "mathematics.graph-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Binary Trees",
+          "conceptId": "mathematics.graph-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spanning Trees",
+          "conceptId": "mathematics.graph-theory.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Minimum Spanning Trees",
+          "conceptId": "mathematics.graph-theory.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Forests",
+          "conceptId": "mathematics.graph-theory.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Traversal Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Depth First Search (DFS)",
+          "conceptId": "mathematics.graph-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Breadth First Search (BFS)",
+          "conceptId": "mathematics.graph-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Topological Sorting",
+          "conceptId": "mathematics.graph-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cycle Detection",
+          "conceptId": "mathematics.graph-theory.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Shortest Path Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Shortest Path Problem",
+          "conceptId": "mathematics.graph-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dijkstra's Algorithm",
+          "conceptId": "mathematics.graph-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bellman-Ford Algorithm",
+          "conceptId": "mathematics.graph-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Floyd-Warshall Algorithm",
+          "conceptId": "mathematics.graph-theory.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "A* Search (Introduction)",
+          "conceptId": "mathematics.graph-theory.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Network Flow",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Flow Networks",
+          "conceptId": "mathematics.graph-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Maximum Flow",
+          "conceptId": "mathematics.graph-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Minimum Cut",
+          "conceptId": "mathematics.graph-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ford-Fulkerson Algorithm",
+          "conceptId": "mathematics.graph-theory.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Edmonds-Karp Algorithm",
+          "conceptId": "mathematics.graph-theory.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Graph Coloring",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vertex Coloring",
+          "conceptId": "mathematics.graph-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Edge Coloring",
+          "conceptId": "mathematics.graph-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chromatic Number",
+          "conceptId": "mathematics.graph-theory.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "conceptId": "mathematics.graph-theory.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Matching",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bipartite Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Matching",
+          "conceptId": "mathematics.graph-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Maximum Matching",
+          "conceptId": "mathematics.graph-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hall's Marriage Theorem",
+          "conceptId": "mathematics.graph-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hungarian Algorithm (Introduction)",
+          "conceptId": "mathematics.graph-theory.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Special Graphs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Complete Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bipartite Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Planar Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Euler Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hamiltonian Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regular Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "DAGs (Directed Acyclic Graphs)",
+          "conceptId": "mathematics.graph-theory.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Spectral Graph Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Graph Matrices",
+          "conceptId": "mathematics.graph-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Laplacian Matrix",
+          "conceptId": "mathematics.graph-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Eigenvalues of Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Graph Connectivity Measures",
+          "conceptId": "mathematics.graph-theory.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Random Graphs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Erdős–Rényi Model",
+          "conceptId": "mathematics.graph-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scale-Free Networks",
+          "conceptId": "mathematics.graph-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Small-World Networks",
+          "conceptId": "mathematics.graph-theory.chapter-13.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computer Networks",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Social Networks",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Route Planning",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Search Engines",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recommendation Systems",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dependency Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Knowledge Graphs",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Compiler Design",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Artificial Intelligence",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Bioinformatics",
+          "conceptId": "mathematics.graph-theory.chapter-14.topic-10"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "graph-theory"
+    ]
+  }
+}

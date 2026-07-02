@@ -1,0 +1,32 @@
+{
+  "id": "chapter-02",
+  "name": "Newton's First Law",
+  "description": "Newton's First Law",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Inertia",
+      "conceptId": "physics.newtonian-mechanics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mass",
+      "conceptId": "physics.newtonian-mechanics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Inertial Frames",
+      "conceptId": "physics.newtonian-mechanics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Non-Inertial Frames",
+      "conceptId": "physics.newtonian-mechanics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications of First Law",
+      "conceptId": "physics.newtonian-mechanics.chapter-02.topic-05"
+    }
+  ]
+}

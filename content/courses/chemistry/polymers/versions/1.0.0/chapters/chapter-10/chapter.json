@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Polymer Characterization",
+  "description": "Polymer Characterization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Molecular Weight Determination",
+      "conceptId": "chemistry.polymers.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gel Permeation Chromatography (GPC)",
+      "conceptId": "chemistry.polymers.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Differential Scanning Calorimetry (DSC)",
+      "conceptId": "chemistry.polymers.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Thermogravimetric Analysis (TGA)",
+      "conceptId": "chemistry.polymers.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "X-Ray Diffraction",
+      "conceptId": "chemistry.polymers.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electron Microscopy",
+      "conceptId": "chemistry.polymers.chapter-10.topic-06"
+    }
+  ]
+}

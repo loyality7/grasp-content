@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Classic Games",
+  "description": "Classic Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Prisoner's Dilemma",
+      "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Stag Hunt",
+      "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Battle of the Sexes",
+      "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Matching Pennies",
+      "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hawk-Dove Game",
+      "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Coordination Game",
+      "conceptId": "game-theory.game-theory-foundations.chapter-09.topic-06"
+    }
+  ]
+}

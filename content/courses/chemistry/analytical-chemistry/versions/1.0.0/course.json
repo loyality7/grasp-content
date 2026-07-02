@@ -1,0 +1,556 @@
+{
+  "id": "analytical-chemistry",
+  "name": "Analytical Chemistry",
+  "description": "Analytical Chemistry",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Analytical Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Analytical Chemistry?",
+          "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Qualitative Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantitative Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Analytical Workflow",
+          "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Accuracy & Precision",
+          "conceptId": "chemistry.analytical-chemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Sampling & Sample Preparation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sampling Methods",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Representative Samples",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sample Preservation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sample Digestion",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Extraction Techniques",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Filtration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Dilution",
+          "conceptId": "chemistry.analytical-chemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Measurement & Error Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Random Errors",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Systematic Errors",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gross Errors",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Significant Figures",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Precision",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Accuracy",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Standard Deviation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Confidence Intervals",
+          "conceptId": "chemistry.analytical-chemistry.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Classical Quantitative Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gravimetric Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Precipitation Methods",
+          "conceptId": "chemistry.analytical-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Volumetric Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Standard Solutions",
+          "conceptId": "chemistry.analytical-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Primary Standards",
+          "conceptId": "chemistry.analytical-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Secondary Standards",
+          "conceptId": "chemistry.analytical-chemistry.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Titration Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acid-Base Titration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Redox Titration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Complexometric Titration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Precipitation Titration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Indicators",
+          "conceptId": "chemistry.analytical-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "End Point vs Equivalence Point",
+          "conceptId": "chemistry.analytical-chemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Separation Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Filtration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distillation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Solvent Extraction",
+          "conceptId": "chemistry.analytical-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Crystallization",
+          "conceptId": "chemistry.analytical-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Centrifugation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dialysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Chromatography",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chromatography Principles",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paper Chromatography",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Thin Layer Chromatography (TLC)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Column Chromatography",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gas Chromatography (GC)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "High-Performance Liquid Chromatography (HPLC)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ion Exchange Chromatography",
+          "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Electroanalytical Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Potentiometry",
+          "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conductometry",
+          "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Voltammetry",
+          "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Polarography",
+          "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ion-Selective Electrodes",
+          "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "pH Meter",
+          "conceptId": "chemistry.analytical-chemistry.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Thermal Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Thermogravimetric Analysis (TGA)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Differential Scanning Calorimetry (DSC)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Differential Thermal Analysis (DTA)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "conceptId": "chemistry.analytical-chemistry.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Data Analysis & Validation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Calibration Curves",
+          "conceptId": "chemistry.analytical-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Standard Addition Method",
+          "conceptId": "chemistry.analytical-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Internal Standards",
+          "conceptId": "chemistry.analytical-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Detection Limit",
+          "conceptId": "chemistry.analytical-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantification Limit",
+          "conceptId": "chemistry.analytical-chemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Method Validation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Quality Assurance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Good Laboratory Practice (GLP)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quality Control",
+          "conceptId": "chemistry.analytical-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Instrument Calibration",
+          "conceptId": "chemistry.analytical-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Laboratory Documentation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "ISO Standards",
+          "conceptId": "chemistry.analytical-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regulatory Compliance",
+          "conceptId": "chemistry.analytical-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pharmaceutical Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food Quality Testing",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environmental Monitoring",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Clinical Diagnostics",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Forensic Chemistry",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Process Control",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Agricultural Testing",
+          "conceptId": "chemistry.analytical-chemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Automation in Analytical Chemistry",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lab-on-a-Chip Systems",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Microfluidics",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemometrics",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Intelligence in Chemical Analysis",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "High-Throughput Screening",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 19: Spectroscopy**",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "UV-Visible Spectroscopy",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Infrared (IR) Spectroscopy",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Raman Spectroscopy",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Fluorescence Spectroscopy",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Atomic Absorption Spectroscopy (AAS)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Atomic Emission Spectroscopy (AES)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Nuclear Magnetic Resonance (NMR)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Mass Spectrometry (MS)",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "X-Ray Spectroscopy",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Structure Elucidation",
+          "conceptId": "chemistry.analytical-chemistry.chapter-13.topic-17"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "analytical-chemistry"
+    ]
+  }
+}

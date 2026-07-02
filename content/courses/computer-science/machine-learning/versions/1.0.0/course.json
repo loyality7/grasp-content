@@ -1,0 +1,606 @@
+{
+  "id": "machine-learning",
+  "name": "Machine Learning",
+  "description": "Machine Learning",
+  "version": "1.0.0",
+  "domain": "computer-science",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Machine Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Machine Learning?",
+          "conceptId": "computer-science.machine-learning.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Machine Learning",
+          "conceptId": "computer-science.machine-learning.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "ML Workflow",
+          "conceptId": "computer-science.machine-learning.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Training, Validation & Test Sets",
+          "conceptId": "computer-science.machine-learning.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bias-Variance Tradeoff",
+          "conceptId": "computer-science.machine-learning.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of ML",
+          "conceptId": "computer-science.machine-learning.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Data Preparation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Collection",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Data Cleaning",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Missing Values",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Feature Scaling",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Encoding Categorical Data",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Feature Selection",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Train-Test Split",
+          "conceptId": "computer-science.machine-learning.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Supervised Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Regression",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classification",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Linear Regression",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Logistic Regression",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "k-Nearest Neighbors (k-NN)",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decision Trees",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Support Vector Machines (SVM)",
+          "conceptId": "computer-science.machine-learning.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Ensemble Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bagging",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Random Forest",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Boosting",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "AdaBoost",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gradient Boosting",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "XGBoost (Introduction)",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Model Ensembling",
+          "conceptId": "computer-science.machine-learning.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Unsupervised Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Clustering",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "K-Means",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hierarchical Clustering",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "DBSCAN",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dimensionality Reduction",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Principal Component Analysis (PCA)",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Anomaly Detection",
+          "conceptId": "computer-science.machine-learning.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Model Evaluation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Confusion Matrix",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Accuracy",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Precision",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Recall",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "F1 Score",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "ROC Curve",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cross Validation",
+          "conceptId": "computer-science.machine-learning.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Neural Networks",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Artificial Neurons",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Perceptron",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Feedforward Networks",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Activation Functions",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Backpropagation",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Loss Functions",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Gradient Descent",
+          "conceptId": "computer-science.machine-learning.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Deep Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Deep Neural Networks",
+          "conceptId": "computer-science.machine-learning.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Convolutional Neural Networks (CNNs)",
+          "conceptId": "computer-science.machine-learning.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Recurrent Neural Networks (RNNs)",
+          "conceptId": "computer-science.machine-learning.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "LSTM",
+          "conceptId": "computer-science.machine-learning.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transformers (Introduction)",
+          "conceptId": "computer-science.machine-learning.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Transfer Learning",
+          "conceptId": "computer-science.machine-learning.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Reinforcement Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reinforcement Learning",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Agents",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environments",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rewards",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Policies",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Q-Learning",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Deep Reinforcement Learning (Introduction)",
+          "conceptId": "computer-science.machine-learning.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Model Deployment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Model Serialization",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inference",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Model Serving",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "APIs for ML Models",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Edge Deployment",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Monitoring Models",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Model Drift",
+          "conceptId": "computer-science.machine-learning.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "MLOps",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "ML Pipelines",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Experiment Tracking",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Versioning",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Continuous Training",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Continuous Deployment",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Model Monitoring",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "ML Infrastructure",
+          "conceptId": "computer-science.machine-learning.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Large Language Models & Generative AI",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Foundation Models",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Transformer Architecture (Overview)",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Embeddings",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fine-Tuning",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Retrieval-Augmented Generation (RAG)",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Agents",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Multimodal Models",
+          "conceptId": "computer-science.machine-learning.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computer Vision",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Natural Language Processing",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Recommendation Systems",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fraud Detection",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Healthcare AI",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Autonomous Systems",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Machine Learning",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 19: Data Science**",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Data Science Workflow",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Data Collection",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Data Wrangling",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Exploratory Data Analysis (EDA)",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Statistics for Data Science",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Data Visualization",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Feature Engineering",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Predictive Analytics",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Big Data",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Business Intelligence",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Data Storytelling",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "End-to-End Data Science Projects",
+          "conceptId": "computer-science.machine-learning.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "computer-science",
+      "machine-learning"
+    ]
+  }
+}

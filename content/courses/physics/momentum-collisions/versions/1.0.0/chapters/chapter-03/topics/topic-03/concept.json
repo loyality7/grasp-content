@@ -1,0 +1,20 @@
+{
+  "id": "physics.momentum-collisions.chapter-03.topic-03",
+  "name": "Inelastic Collisions",
+  "subject": "physics",
+  "definition": "Inelastic Collisions is a fundamental concept in physics.",
+  "explanation": "Learn about Inelastic Collisions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "inelastic-collisions"
+  ]
+}

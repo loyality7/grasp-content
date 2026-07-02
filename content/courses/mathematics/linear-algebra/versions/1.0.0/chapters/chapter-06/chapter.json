@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Linear Independence",
+  "description": "Linear Independence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Linear Independence",
+      "conceptId": "mathematics.linear-algebra.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Linear Dependence",
+      "conceptId": "mathematics.linear-algebra.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Basis",
+      "conceptId": "mathematics.linear-algebra.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dimension",
+      "conceptId": "mathematics.linear-algebra.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Coordinate Systems",
+      "conceptId": "mathematics.linear-algebra.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Change of Basis",
+      "conceptId": "mathematics.linear-algebra.chapter-06.topic-06"
+    }
+  ]
+}

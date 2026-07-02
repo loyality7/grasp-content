@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nuclear-chemistry.chapter-12.topic-01",
+  "name": "Nuclear Astrophysics",
+  "subject": "chemistry",
+  "definition": "Nuclear Astrophysics is a fundamental concept in chemistry.",
+  "explanation": "Learn about Nuclear Astrophysics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "nuclear-astrophysics"
+  ]
+}

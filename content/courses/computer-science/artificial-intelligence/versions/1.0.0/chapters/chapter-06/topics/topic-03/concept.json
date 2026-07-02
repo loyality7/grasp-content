@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.artificial-intelligence.chapter-06.topic-03",
+  "name": "Goal Planning",
+  "subject": "computer-science",
+  "definition": "Goal Planning is a fundamental concept in computer-science.",
+  "explanation": "Learn about Goal Planning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "goal-planning"
+  ]
+}

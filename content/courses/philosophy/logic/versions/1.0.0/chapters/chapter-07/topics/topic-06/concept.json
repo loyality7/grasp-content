@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-07.topic-06",
+  "name": "Constructive Proofs",
+  "subject": "philosophy",
+  "definition": "Constructive Proofs is a fundamental concept in philosophy.",
+  "explanation": "Learn about Constructive Proofs and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "constructive-proofs"
+  ]
+}

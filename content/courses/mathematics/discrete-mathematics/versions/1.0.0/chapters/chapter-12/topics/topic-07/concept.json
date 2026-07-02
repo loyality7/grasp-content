@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-12.topic-07",
+  "name": "Dynamic Programming (Introduction)",
+  "subject": "mathematics",
+  "definition": "Dynamic Programming (Introduction) is a fundamental concept in mathematics.",
+  "explanation": "Learn about Dynamic Programming (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "dynamic-programming-introduction"
+  ]
+}

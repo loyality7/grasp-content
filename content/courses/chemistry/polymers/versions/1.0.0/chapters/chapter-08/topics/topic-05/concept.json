@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.polymers.chapter-08.topic-05",
+  "name": "DNA",
+  "subject": "chemistry",
+  "definition": "DNA is a fundamental concept in chemistry.",
+  "explanation": "Learn about DNA and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "dna"
+  ]
+}

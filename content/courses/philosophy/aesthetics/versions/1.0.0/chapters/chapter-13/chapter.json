@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Environmental Aesthetics",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Everyday Aesthetics",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Computational Creativity",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "AI-Generated Art",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cross-Cultural Aesthetics",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Art & Beauty",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 11: History of Philosophy**",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Pre-Socratic Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Socrates",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Plato",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Aristotle",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Hellenistic Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Medieval Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Renaissance Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Early Modern Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Enlightenment",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "19th Century Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "20th Century Philosophy",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Eastern Philosophical Traditions",
+      "conceptId": "philosophy.aesthetics.chapter-13.topic-19"
+    }
+  ]
+}

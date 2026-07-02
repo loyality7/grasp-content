@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Cloud Security",
+  "description": "Cloud Security",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cloud Security Models",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Shared Responsibility Model",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Cloud Identity",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Secrets Management",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Container Security",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Kubernetes Security",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Serverless Security",
+      "conceptId": "computer-science.cybersecurity.chapter-07.topic-07"
+    }
+  ]
+}

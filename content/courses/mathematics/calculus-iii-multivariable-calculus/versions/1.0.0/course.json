@@ -1,0 +1,558 @@
+{
+  "id": "calculus-iii-multivariable-calculus",
+  "name": "Calculus III (Multivariable Calculus)",
+  "description": "Calculus III (Multivariable Calculus)",
+  "version": "1.0.0",
+  "domain": "mathematics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "3D Coordinate Geometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Three-Dimensional Coordinate System",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Points in Space",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distance Formula",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Midpoint Formula",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spheres",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cylinders",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Quadric Surfaces",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Vectors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vectors in 2D & 3D",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnitude",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unit Vectors",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dot Product",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cross Product",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scalar Triple Product",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Vector Projections",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Lines & Planes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vector Equations of Lines",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parametric Equations",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Symmetric Equations",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equations of Planes",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Angles Between Lines & Planes",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Distance to a Plane",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Vector-Valued Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vector Functions",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Limits",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Derivatives",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Velocity",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Acceleration",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Curvature",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Arc Length",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Functions of Several Variables",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multivariable Functions",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Domain",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Range",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Level Curves",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Level Surfaces",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Contour Maps",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Partial Derivatives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Partial Derivatives",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Higher-Order Partial Derivatives",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chain Rule",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Directional Derivatives",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gradient Vector",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tangent Planes",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Linear Approximation",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Total Differential",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Optimization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Critical Points",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Local Maxima",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Local Minima",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Saddle Points",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hessian Matrix",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Constrained Optimization",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Lagrange Multipliers",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Multiple Integrals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Double Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Triple Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Iterated Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Change of Order of Integration",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polar Coordinates",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cylindrical Coordinates",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Spherical Coordinates",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Applications of Multiple Integrals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Area",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Volume",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mass",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Center of Mass",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Moments of Inertia",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Probability Density Functions",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Vector Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vector Fields",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gradient Fields",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conservative Fields",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Potential Functions",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Line Integrals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scalar Line Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vector Line Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Work",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Circulation",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Path Independence",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Surface Integrals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Parametric Surfaces",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Surface Area",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Flux Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Orientation",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Integral Theorems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Green's Theorem",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stokes' Theorem",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Divergence Theorem",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fundamental Theorem for Line Integrals",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-13.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Differential Operators",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gradient",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Divergence",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Curl",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Laplacian",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Physical Interpretation",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fluid Flow",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electromagnetism",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heat Transfer",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Optimization Problems",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Engineering Applications",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Physics Applications",
+          "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "prerequisites": [],
+    "tags": [
+      "mathematics",
+      "calculus-iii-multivariable-calculus"
+    ]
+  }
+}

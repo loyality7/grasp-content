@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-03.topic-05",
+  "name": "Object Initialization",
+  "subject": "computer-science",
+  "definition": "Object Initialization is a fundamental concept in computer-science.",
+  "explanation": "Learn about Object Initialization and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "object-initialization"
+  ]
+}

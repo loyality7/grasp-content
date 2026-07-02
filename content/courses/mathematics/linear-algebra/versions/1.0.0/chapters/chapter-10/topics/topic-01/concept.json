@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-10.topic-01",
+  "name": "Inner Product",
+  "subject": "mathematics",
+  "definition": "Inner Product is a fundamental concept in mathematics.",
+  "explanation": "Learn about Inner Product and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "inner-product"
+  ]
+}

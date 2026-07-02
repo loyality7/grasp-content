@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-08.topic-07",
+  "name": "Advanced Persistent Threats (APTs)",
+  "subject": "computer-science",
+  "definition": "Advanced Persistent Threats (APTs) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Advanced Persistent Threats (APTs) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "advanced-persistent-threats-apts"
+  ]
+}

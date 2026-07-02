@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "The Folk Theorem",
+  "description": "The Folk Theorem",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Folk Theorem",
+      "conceptId": "game-theory.repeated-games.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sustainable Cooperation",
+      "conceptId": "game-theory.repeated-games.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Discount Factor",
+      "conceptId": "game-theory.repeated-games.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Equilibrium in Repeated Games",
+      "conceptId": "game-theory.repeated-games.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Self-Enforcing Agreements",
+      "conceptId": "game-theory.repeated-games.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Long-Term Stability",
+      "conceptId": "game-theory.repeated-games.chapter-08.topic-06"
+    }
+  ]
+}

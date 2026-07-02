@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.system-design.chapter-07.topic-05",
+  "name": "Event Sourcing (Introduction)",
+  "subject": "computer-science",
+  "definition": "Event Sourcing (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Event Sourcing (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "event-sourcing-introduction"
+  ]
+}

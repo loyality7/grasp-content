@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-02.topic-06",
+  "name": "Participation Constraints",
+  "subject": "game-theory",
+  "definition": "Participation Constraints is a fundamental concept in game-theory.",
+  "explanation": "Learn about Participation Constraints and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "participation-constraints"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-science-foundations.chapter-09.topic-04",
+  "name": "Clients & Servers",
+  "subject": "computer-science",
+  "definition": "Clients & Servers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Clients & Servers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "clients-servers"
+  ]
+}

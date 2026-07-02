@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-08.topic-04",
+  "name": "Query Execution Plans",
+  "subject": "computer-science",
+  "definition": "Query Execution Plans is a fundamental concept in computer-science.",
+  "explanation": "Learn about Query Execution Plans and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "query-execution-plans"
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "id": "programming-fundamentals",
+  "name": "Programming Fundamentals",
+  "description": "Programming Fundamentals",
+  "version": "1.0.0",
+  "domain": "computer-science",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Programming",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Programming?",
+          "conceptId": "computer-science.programming-fundamentals.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "How Programs Work",
+          "conceptId": "computer-science.programming-fundamentals.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Programming Languages",
+          "conceptId": "computer-science.programming-fundamentals.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Source Code",
+          "conceptId": "computer-science.programming-fundamentals.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Compilation vs Interpretation",
+          "conceptId": "computer-science.programming-fundamentals.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Writing Your First Program",
+          "conceptId": "computer-science.programming-fundamentals.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Variables & Data Types",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Variables",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Constants",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Identifiers",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Primitive Data Types",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Type Conversion",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Type Casting",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Variable Scope (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Operators & Expressions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arithmetic Operators",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Assignment Operators",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Comparison Operators",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Logical Operators",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bitwise Operators (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Operator Precedence",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Expressions",
+          "conceptId": "computer-science.programming-fundamentals.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Input & Output",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Console Input",
+          "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Console Output",
+          "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Formatted Output",
+          "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reading User Input",
+          "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Basic File Input & Output",
+          "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Error Handling (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Control Flow",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Boolean Logic",
+          "conceptId": "computer-science.programming-fundamentals.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "if Statements",
+          "conceptId": "computer-science.programming-fundamentals.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "if-else Statements",
+          "conceptId": "computer-science.programming-fundamentals.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nested Conditions",
+          "conceptId": "computer-science.programming-fundamentals.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "switch / match Statements",
+          "conceptId": "computer-science.programming-fundamentals.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Conditional Expressions",
+          "conceptId": "computer-science.programming-fundamentals.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Loops",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "while Loop",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "do-while Loop",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "for Loop",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nested Loops",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "break",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "continue",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Loop Patterns",
+          "conceptId": "computer-science.programming-fundamentals.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functions",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parameters",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Arguments",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Return Values",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Local Variables",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Variables",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Function Scope",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Recursion (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Collections",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arrays",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multidimensional Arrays",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strings",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "String Operations",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Basic Lists",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Iteration",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Searching Arrays",
+          "conceptId": "computer-science.programming-fundamentals.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Basic Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Search",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Binary Search (Concept)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Counting",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Maximum & Minimum",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Swapping",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sorting (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Algorithm Efficiency (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Debugging & Testing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Syntax Errors",
+          "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Runtime Errors",
+          "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Logical Errors",
+          "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Debugging Techniques",
+          "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Assertions",
+          "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Basic Unit Testing",
+          "conceptId": "computer-science.programming-fundamentals.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Problem Solving",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Algorithm Design",
+          "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pseudocode",
+          "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Flowcharts",
+          "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pattern Problems",
+          "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mathematical Programming",
+          "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Practice Problems",
+          "conceptId": "computer-science.programming-fundamentals.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Good Programming Practices",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Code Readability",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Naming Conventions",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Comments",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Modular Programming",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Code Reuse",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Defensive Programming",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Version Control (Introduction)",
+          "conceptId": "computer-science.programming-fundamentals.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Command-Line Programs",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Simple Games",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "File Processing",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Automation Scripts",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data Processing",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mini Projects",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 3: Object-Oriented Programming**",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Classes",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Objects",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Constructors",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Encapsulation",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Inheritance",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Polymorphism",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Abstraction",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Interfaces",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Composition",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Exception Handling",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Generics",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Design Principles",
+          "conceptId": "computer-science.programming-fundamentals.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "computer-science",
+      "programming-fundamentals"
+    ]
+  }
+}

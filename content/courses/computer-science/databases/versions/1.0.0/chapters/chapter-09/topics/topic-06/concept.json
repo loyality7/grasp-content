@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-09.topic-06",
+  "name": "CAP Theorem (Introduction)",
+  "subject": "computer-science",
+  "definition": "CAP Theorem (Introduction) is a fundamental concept in computer-science.",
+  "explanation": "Learn about CAP Theorem (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "cap-theorem-introduction"
+  ]
+}

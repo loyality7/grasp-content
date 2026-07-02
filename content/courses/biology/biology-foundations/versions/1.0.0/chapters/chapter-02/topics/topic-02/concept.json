@@ -1,0 +1,20 @@
+{
+  "id": "biology.biology-foundations.chapter-02.topic-02",
+  "name": "Molecules",
+  "subject": "biology",
+  "definition": "Molecules is a fundamental concept in biology.",
+  "explanation": "Learn about Molecules and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "molecules"
+  ]
+}

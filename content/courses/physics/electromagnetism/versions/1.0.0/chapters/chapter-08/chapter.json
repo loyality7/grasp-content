@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Electromagnetic Induction",
+  "description": "Electromagnetic Induction",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Faraday's Law",
+      "conceptId": "physics.electromagnetism.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Lenz's Law",
+      "conceptId": "physics.electromagnetism.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Induced EMF",
+      "conceptId": "physics.electromagnetism.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Eddy Currents",
+      "conceptId": "physics.electromagnetism.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Self Inductance",
+      "conceptId": "physics.electromagnetism.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Mutual Inductance",
+      "conceptId": "physics.electromagnetism.chapter-08.topic-06"
+    }
+  ]
+}

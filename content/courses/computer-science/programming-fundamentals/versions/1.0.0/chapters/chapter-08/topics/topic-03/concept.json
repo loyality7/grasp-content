@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-08.topic-03",
+  "name": "Strings",
+  "subject": "computer-science",
+  "definition": "Strings is a fundamental concept in computer-science.",
+  "explanation": "Learn about Strings and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "strings"
+  ]
+}

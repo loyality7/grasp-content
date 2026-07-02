@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-13.topic-08",
+  "name": "Best Response Functions",
+  "subject": "game-theory",
+  "definition": "Best Response Functions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Best Response Functions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "best-response-functions"
+  ]
+}

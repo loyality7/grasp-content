@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-09.topic-04",
+  "name": "Sprint Planning",
+  "subject": "computer-science",
+  "definition": "Sprint Planning is a fundamental concept in computer-science.",
+  "explanation": "Learn about Sprint Planning and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "sprint-planning"
+  ]
+}

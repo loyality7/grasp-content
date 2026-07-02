@@ -1,0 +1,52 @@
+{
+  "id": "chapter-03",
+  "name": "SQL Fundamentals",
+  "description": "SQL Fundamentals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "SQL Basics",
+      "conceptId": "computer-science.databases.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "SELECT",
+      "conceptId": "computer-science.databases.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "INSERT",
+      "conceptId": "computer-science.databases.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "UPDATE",
+      "conceptId": "computer-science.databases.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "DELETE",
+      "conceptId": "computer-science.databases.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "WHERE",
+      "conceptId": "computer-science.databases.chapter-03.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "ORDER BY",
+      "conceptId": "computer-science.databases.chapter-03.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "GROUP BY",
+      "conceptId": "computer-science.databases.chapter-03.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "HAVING",
+      "conceptId": "computer-science.databases.chapter-03.topic-09"
+    }
+  ]
+}

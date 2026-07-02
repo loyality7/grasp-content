@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Commitment & Credibility",
+  "description": "Commitment & Credibility",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Commitment",
+      "conceptId": "game-theory.strategic-decision-making.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Credible Threats",
+      "conceptId": "game-theory.strategic-decision-making.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Credible Promises",
+      "conceptId": "game-theory.strategic-decision-making.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Reputation",
+      "conceptId": "game-theory.strategic-decision-making.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Strategic Commitment",
+      "conceptId": "game-theory.strategic-decision-making.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Deterrence",
+      "conceptId": "game-theory.strategic-decision-making.chapter-09.topic-06"
+    }
+  ]
+}

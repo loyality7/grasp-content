@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Motivation & Learning",
+  "description": "Motivation & Learning",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Intrinsic Motivation",
+      "conceptId": "psychology.learning-behavior.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Extrinsic Motivation",
+      "conceptId": "psychology.learning-behavior.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Goal Setting",
+      "conceptId": "psychology.learning-behavior.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Achievement Motivation",
+      "conceptId": "psychology.learning-behavior.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Self-Determination Theory",
+      "conceptId": "psychology.learning-behavior.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Expectancy Theory",
+      "conceptId": "psychology.learning-behavior.chapter-07.topic-06"
+    }
+  ]
+}

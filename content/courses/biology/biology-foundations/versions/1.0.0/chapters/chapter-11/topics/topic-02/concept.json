@@ -1,0 +1,20 @@
+{
+  "id": "biology.biology-foundations.chapter-11.topic-02",
+  "name": "Medicine",
+  "subject": "biology",
+  "definition": "Medicine is a fundamental concept in biology.",
+  "explanation": "Learn about Medicine and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "medicine"
+  ]
+}

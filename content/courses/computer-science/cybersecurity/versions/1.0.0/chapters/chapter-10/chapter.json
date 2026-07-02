@@ -1,0 +1,42 @@
+{
+  "id": "chapter-10",
+  "name": "Digital Forensics",
+  "description": "Digital Forensics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Digital Evidence",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Evidence Collection",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Disk Forensics",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Memory Forensics",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Network Forensics",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Malware Analysis (Introduction)",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Chain of Custody",
+      "conceptId": "computer-science.cybersecurity.chapter-10.topic-07"
+    }
+  ]
+}

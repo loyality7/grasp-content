@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.game-theory-foundations.chapter-09.topic-05",
+  "name": "Hawk-Dove Game",
+  "subject": "game-theory",
+  "definition": "Hawk-Dove Game is a fundamental concept in game-theory.",
+  "explanation": "Learn about Hawk-Dove Game and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "hawk-dove-game"
+  ]
+}

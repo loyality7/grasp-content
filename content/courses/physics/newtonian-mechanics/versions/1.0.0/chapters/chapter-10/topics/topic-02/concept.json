@@ -1,0 +1,20 @@
+{
+  "id": "physics.newtonian-mechanics.chapter-10.topic-02",
+  "name": "Pseudo Force",
+  "subject": "physics",
+  "definition": "Pseudo Force is a fundamental concept in physics.",
+  "explanation": "Learn about Pseudo Force and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "pseudo-force"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.fluid-mechanics.chapter-07.topic-01",
+  "name": "Pipe Flow",
+  "subject": "physics",
+  "definition": "Pipe Flow is a fundamental concept in physics.",
+  "explanation": "Learn about Pipe Flow and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "pipe-flow"
+  ]
+}

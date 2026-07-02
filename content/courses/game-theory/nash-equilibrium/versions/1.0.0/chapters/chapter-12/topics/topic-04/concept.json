@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-12.topic-04",
+  "name": "Simulation",
+  "subject": "game-theory",
+  "definition": "Simulation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Simulation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "simulation"
+  ]
+}

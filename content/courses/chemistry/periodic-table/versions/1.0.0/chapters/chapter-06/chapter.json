@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06",
+  "name": "Electron Affinity",
+  "description": "Electron Affinity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electron Affinity",
+      "conceptId": "chemistry.periodic-table.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Factors Affecting Electron Affinity",
+      "conceptId": "chemistry.periodic-table.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Periodic Trends",
+      "conceptId": "chemistry.periodic-table.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Exceptions",
+      "conceptId": "chemistry.periodic-table.chapter-06.topic-04"
+    }
+  ]
+}

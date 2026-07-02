@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-06.topic-03",
+  "name": "Vote Splitting",
+  "subject": "game-theory",
+  "definition": "Vote Splitting is a fundamental concept in game-theory.",
+  "explanation": "Learn about Vote Splitting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "vote-splitting"
+  ]
+}

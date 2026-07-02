@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "People Analytics",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Organizational Networks",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "AI in Human Resources",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Future of Work",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hybrid Workplaces",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Organizational Resilience",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 11: Research Methods & Statistics**",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Scientific Method",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Research Design",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Variables",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Sampling",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Measurement",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Experimental Methods",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Descriptive Statistics",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Inferential Statistics",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Hypothesis Testing",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Correlation",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Regression",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Ethics in Psychological Research",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-13.topic-19"
+    }
+  ]
+}

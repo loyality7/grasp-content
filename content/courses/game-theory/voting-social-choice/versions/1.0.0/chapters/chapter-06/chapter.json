@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Strategic Voting",
+  "description": "Strategic Voting",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Strategic Voting",
+      "conceptId": "game-theory.voting-social-choice.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Tactical Voting",
+      "conceptId": "game-theory.voting-social-choice.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vote Splitting",
+      "conceptId": "game-theory.voting-social-choice.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Manipulation",
+      "conceptId": "game-theory.voting-social-choice.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Gibbard-Satterthwaite Theorem",
+      "conceptId": "game-theory.voting-social-choice.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Incentive Compatibility",
+      "conceptId": "game-theory.voting-social-choice.chapter-06.topic-06"
+    }
+  ]
+}

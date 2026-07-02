@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Business Strategy",
+  "description": "Business Strategy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Competitive Strategy",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Pricing Wars",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Product Differentiation",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Market Entry",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Platform Competition",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Partnerships",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-01.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.cybersecurity.chapter-09.topic-03",
+  "name": "Security Information and Event Management (SIEM)",
+  "subject": "computer-science",
+  "definition": "Security Information and Event Management (SIEM) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Security Information and Event Management (SIEM) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "security-information-and-event-management-siem"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.game-theory-foundations.chapter-04.topic-02",
+  "name": "Preferences",
+  "subject": "game-theory",
+  "definition": "Preferences is a fundamental concept in game-theory.",
+  "explanation": "Learn about Preferences and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "preferences"
+  ]
+}

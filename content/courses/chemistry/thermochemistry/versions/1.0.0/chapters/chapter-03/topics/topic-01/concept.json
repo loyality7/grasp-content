@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.thermochemistry.chapter-03.topic-01",
+  "name": "Enthalpy (H)",
+  "subject": "chemistry",
+  "definition": "Enthalpy (H) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Enthalpy (H) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "enthalpy-h"
+  ]
+}

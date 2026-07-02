@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Simple Harmonic Motion",
+  "description": "Simple Harmonic Motion",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Definition of SHM",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Conditions for SHM",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Displacement",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Velocity",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Acceleration",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "SHM Equations",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Phase Relationships",
+      "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-07"
+    }
+  ]
+}

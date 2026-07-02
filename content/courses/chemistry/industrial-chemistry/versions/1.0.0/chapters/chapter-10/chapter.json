@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Industrial Quality Control",
+  "description": "Industrial Quality Control",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Process Monitoring",
+      "conceptId": "chemistry.industrial-chemistry.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Statistical Quality Control",
+      "conceptId": "chemistry.industrial-chemistry.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Process Validation",
+      "conceptId": "chemistry.industrial-chemistry.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Laboratory Testing",
+      "conceptId": "chemistry.industrial-chemistry.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "ISO Standards",
+      "conceptId": "chemistry.industrial-chemistry.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Six Sigma (Introduction)",
+      "conceptId": "chemistry.industrial-chemistry.chapter-10.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ontology",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mereology",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Persistence Theories",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Metaphysical Grounding",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Information as Reality",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Metaphysics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 5: Ethics**",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Moral Philosophy",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Virtue Ethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Deontology",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Consequentialism",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Rights",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Justice",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Applied Ethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Bioethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Business Ethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Environmental Ethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "AI Ethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Global Ethics",
+      "conceptId": "philosophy.metaphysics.chapter-13.topic-19"
+    }
+  ]
+}

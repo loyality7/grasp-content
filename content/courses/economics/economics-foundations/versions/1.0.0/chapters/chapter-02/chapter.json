@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Economic Systems",
+  "description": "Economic Systems",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Traditional Economy",
+      "conceptId": "economics.economics-foundations.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Market Economy",
+      "conceptId": "economics.economics-foundations.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Command Economy",
+      "conceptId": "economics.economics-foundations.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mixed Economy",
+      "conceptId": "economics.economics-foundations.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Role of Government",
+      "conceptId": "economics.economics-foundations.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Economic Institutions",
+      "conceptId": "economics.economics-foundations.chapter-02.topic-06"
+    }
+  ]
+}

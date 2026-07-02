@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-14.topic-06",
+  "name": "Dependency Graphs",
+  "subject": "mathematics",
+  "definition": "Dependency Graphs is a fundamental concept in mathematics.",
+  "explanation": "Learn about Dependency Graphs and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "dependency-graphs"
+  ]
+}

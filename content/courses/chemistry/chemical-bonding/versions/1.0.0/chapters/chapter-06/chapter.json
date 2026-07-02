@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Hybridization",
+  "description": "Hybridization",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atomic Orbitals Review",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Hybrid Orbitals",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "sp Hybridization",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "sp² Hybridization",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "sp³ Hybridization",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "sp³d Hybridization",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "sp³d² Hybridization",
+      "conceptId": "chemistry.chemical-bonding.chapter-06.topic-07"
+    }
+  ]
+}

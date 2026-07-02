@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Estimation",
+  "description": "Estimation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Point Estimation",
+      "conceptId": "mathematics.statistics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Confidence Intervals",
+      "conceptId": "mathematics.statistics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Margin of Error",
+      "conceptId": "mathematics.statistics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Confidence Levels",
+      "conceptId": "mathematics.statistics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Sample Size Determination",
+      "conceptId": "mathematics.statistics.chapter-07.topic-05"
+    }
+  ]
+}

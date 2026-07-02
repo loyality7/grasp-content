@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-13.topic-20",
+  "name": "Software Architecture",
+  "subject": "computer-science",
+  "definition": "Software Architecture is a fundamental concept in computer-science.",
+  "explanation": "Learn about Software Architecture and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "software-architecture"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-08",
+  "name": "Logical Fallacies",
+  "description": "Logical Fallacies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ad Hominem",
+      "conceptId": "philosophy.logic.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Straw Man",
+      "conceptId": "philosophy.logic.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "False Dilemma",
+      "conceptId": "philosophy.logic.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Slippery Slope",
+      "conceptId": "philosophy.logic.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Circular Reasoning",
+      "conceptId": "philosophy.logic.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Hasty Generalization",
+      "conceptId": "philosophy.logic.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Appeal to Authority",
+      "conceptId": "philosophy.logic.chapter-08.topic-07"
+    }
+  ]
+}

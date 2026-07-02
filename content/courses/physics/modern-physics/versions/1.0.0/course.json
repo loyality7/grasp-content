@@ -1,0 +1,486 @@
+{
+  "id": "modern-physics",
+  "name": "Modern Physics",
+  "description": "Modern Physics",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Modern Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Classical vs Modern Physics",
+          "conceptId": "physics.modern-physics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Revolutions",
+          "conceptId": "physics.modern-physics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Limits of Classical Physics",
+          "conceptId": "physics.modern-physics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Relativity",
+          "conceptId": "physics.modern-physics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Theory",
+          "conceptId": "physics.modern-physics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Experimental Foundations",
+          "conceptId": "physics.modern-physics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Special Relativity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Postulates of Relativity",
+          "conceptId": "physics.modern-physics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lorentz Transformations",
+          "conceptId": "physics.modern-physics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Time Dilation",
+          "conceptId": "physics.modern-physics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Length Contraction",
+          "conceptId": "physics.modern-physics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Relativistic Momentum",
+          "conceptId": "physics.modern-physics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mass-Energy Equivalence",
+          "conceptId": "physics.modern-physics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "General Relativity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Curved Spacetime",
+          "conceptId": "physics.modern-physics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gravity as Geometry",
+          "conceptId": "physics.modern-physics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Geodesics",
+          "conceptId": "physics.modern-physics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gravitational Time Dilation",
+          "conceptId": "physics.modern-physics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Black Holes",
+          "conceptId": "physics.modern-physics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gravitational Waves",
+          "conceptId": "physics.modern-physics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Wave-Particle Duality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Matter Waves",
+          "conceptId": "physics.modern-physics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "de Broglie Hypothesis",
+          "conceptId": "physics.modern-physics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electron Diffraction",
+          "conceptId": "physics.modern-physics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Wave Functions",
+          "conceptId": "physics.modern-physics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dual Nature of Matter",
+          "conceptId": "physics.modern-physics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Experimental Evidence",
+          "conceptId": "physics.modern-physics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Quantum Foundations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Planck's Quantum Hypothesis",
+          "conceptId": "physics.modern-physics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Photoelectric Effect",
+          "conceptId": "physics.modern-physics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Compton Scattering",
+          "conceptId": "physics.modern-physics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantization",
+          "conceptId": "physics.modern-physics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bohr Model",
+          "conceptId": "physics.modern-physics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quantum States",
+          "conceptId": "physics.modern-physics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Quantum Mechanics Overview",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Schrödinger Equation",
+          "conceptId": "physics.modern-physics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Probability Interpretation",
+          "conceptId": "physics.modern-physics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Operators",
+          "conceptId": "physics.modern-physics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Observables",
+          "conceptId": "physics.modern-physics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Measurement",
+          "conceptId": "physics.modern-physics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Superposition",
+          "conceptId": "physics.modern-physics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Atomic Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Models",
+          "conceptId": "physics.modern-physics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electron Orbitals",
+          "conceptId": "physics.modern-physics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Numbers",
+          "conceptId": "physics.modern-physics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electron Spin",
+          "conceptId": "physics.modern-physics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pauli Exclusion Principle",
+          "conceptId": "physics.modern-physics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Periodic Trends",
+          "conceptId": "physics.modern-physics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Nuclear Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Forces",
+          "conceptId": "physics.modern-physics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nuclear Stability",
+          "conceptId": "physics.modern-physics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Radioactivity",
+          "conceptId": "physics.modern-physics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Alpha Decay",
+          "conceptId": "physics.modern-physics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Beta Decay",
+          "conceptId": "physics.modern-physics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gamma Decay",
+          "conceptId": "physics.modern-physics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Particle Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fundamental Particles",
+          "conceptId": "physics.modern-physics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quarks",
+          "conceptId": "physics.modern-physics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Leptons",
+          "conceptId": "physics.modern-physics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bosons",
+          "conceptId": "physics.modern-physics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Standard Model",
+          "conceptId": "physics.modern-physics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Particle Interactions",
+          "conceptId": "physics.modern-physics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Modern Experimental Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Particle Accelerators",
+          "conceptId": "physics.modern-physics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Synchrotrons",
+          "conceptId": "physics.modern-physics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electron Microscopy",
+          "conceptId": "physics.modern-physics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spectroscopy",
+          "conceptId": "physics.modern-physics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Detectors",
+          "conceptId": "physics.modern-physics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Experimental Techniques",
+          "conceptId": "physics.modern-physics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Quantum Technologies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Lasers",
+          "conceptId": "physics.modern-physics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Semiconductors",
+          "conceptId": "physics.modern-physics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Computing",
+          "conceptId": "physics.modern-physics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantum Cryptography",
+          "conceptId": "physics.modern-physics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Sensors",
+          "conceptId": "physics.modern-physics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nanotechnology",
+          "conceptId": "physics.modern-physics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Modern Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "GPS Relativity",
+          "conceptId": "physics.modern-physics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nuclear Energy",
+          "conceptId": "physics.modern-physics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Medical Imaging",
+          "conceptId": "physics.modern-physics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Particle Colliders",
+          "conceptId": "physics.modern-physics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Space Science",
+          "conceptId": "physics.modern-physics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Advanced Materials",
+          "conceptId": "physics.modern-physics.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Frontiers of Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Dark Matter",
+          "conceptId": "physics.modern-physics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dark Energy",
+          "conceptId": "physics.modern-physics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Gravity",
+          "conceptId": "physics.modern-physics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "String Theory",
+          "conceptId": "physics.modern-physics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Multiverse Hypotheses",
+          "conceptId": "physics.modern-physics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Modern Physics",
+          "conceptId": "physics.modern-physics.chapter-13.topic-06"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "modern-physics"
+    ]
+  }
+}

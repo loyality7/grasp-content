@@ -1,0 +1,47 @@
+{
+  "id": "chapter-01",
+  "name": "Logic",
+  "description": "Logic",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Propositions",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Logical Connectives",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Truth Tables",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Logical Equivalence",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Tautologies",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Contradictions",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Quantifiers",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Predicate Logic",
+      "conceptId": "mathematics.discrete-mathematics.chapter-01.topic-08"
+    }
+  ]
+}

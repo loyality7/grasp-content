@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Cognitive Science",
+  "description": "Cognitive Science",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cognitive Science",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Computational Theory of Mind",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Connectionism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Neuroscience",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Language & Thought",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Cognitive Models",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-06"
+    }
+  ]
+}

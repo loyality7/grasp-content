@@ -1,0 +1,57 @@
+{
+  "id": "chapter-14",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Computer Networks",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Social Networks",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Route Planning",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Search Engines",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Recommendation Systems",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dependency Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Knowledge Graphs",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Compiler Design",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Artificial Intelligence",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Bioinformatics",
+      "conceptId": "mathematics.graph-theory.chapter-14.topic-10"
+    }
+  ]
+}

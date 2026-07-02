@@ -1,0 +1,20 @@
+{
+  "id": "physics.plasma-physics.chapter-04.topic-02",
+  "name": "Magnetohydrodynamics (MHD)",
+  "subject": "physics",
+  "definition": "Magnetohydrodynamics (MHD) is a fundamental concept in physics.",
+  "explanation": "Learn about Magnetohydrodynamics (MHD) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "magnetohydrodynamics-mhd"
+  ]
+}

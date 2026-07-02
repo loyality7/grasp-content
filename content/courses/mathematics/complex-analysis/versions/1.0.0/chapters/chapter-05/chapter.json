@@ -1,0 +1,32 @@
+{
+  "id": "chapter-05",
+  "name": "Complex Integration",
+  "description": "Complex Integration",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Contours",
+      "conceptId": "mathematics.complex-analysis.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Line Integrals",
+      "conceptId": "mathematics.complex-analysis.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Path Independence",
+      "conceptId": "mathematics.complex-analysis.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Antiderivatives",
+      "conceptId": "mathematics.complex-analysis.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Cauchy's Integral Theorem",
+      "conceptId": "mathematics.complex-analysis.chapter-05.topic-05"
+    }
+  ]
+}

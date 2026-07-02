@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-i.chapter-14.topic-05",
+  "name": "Data Analysis",
+  "subject": "mathematics",
+  "definition": "Data Analysis is a fundamental concept in mathematics.",
+  "explanation": "Learn about Data Analysis and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "data-analysis"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-04",
+  "name": "Triangles",
+  "description": "Triangles",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Types of Triangles",
+      "conceptId": "mathematics.geometry.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Triangle Congruence",
+      "conceptId": "mathematics.geometry.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Triangle Inequality",
+      "conceptId": "mathematics.geometry.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Isosceles Triangles",
+      "conceptId": "mathematics.geometry.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Equilateral Triangles",
+      "conceptId": "mathematics.geometry.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Right Triangles",
+      "conceptId": "mathematics.geometry.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Exterior Angle Theorem",
+      "conceptId": "mathematics.geometry.chapter-04.topic-07"
+    }
+  ]
+}

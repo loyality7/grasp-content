@@ -1,0 +1,32 @@
+{
+  "id": "chapter-03",
+  "name": "Linear Inequalities",
+  "description": "Linear Inequalities",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "One-Variable Inequalities",
+      "conceptId": "mathematics.algebra-i.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Compound Inequalities",
+      "conceptId": "mathematics.algebra-i.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Absolute Value Inequalities",
+      "conceptId": "mathematics.algebra-i.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Interval Notation",
+      "conceptId": "mathematics.algebra-i.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Graphing Inequalities",
+      "conceptId": "mathematics.algebra-i.chapter-03.topic-05"
+    }
+  ]
+}

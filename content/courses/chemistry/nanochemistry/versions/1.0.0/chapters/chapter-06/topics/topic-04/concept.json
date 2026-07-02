@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nanochemistry.chapter-06.topic-04",
+  "name": "Scanning Tunneling Microscopy (STM)",
+  "subject": "chemistry",
+  "definition": "Scanning Tunneling Microscopy (STM) is a fundamental concept in chemistry.",
+  "explanation": "Learn about Scanning Tunneling Microscopy (STM) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "scanning-tunneling-microscopy-stm"
+  ]
+}

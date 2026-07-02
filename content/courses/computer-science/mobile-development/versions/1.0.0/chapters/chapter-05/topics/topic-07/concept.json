@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.mobile-development.chapter-05.topic-07",
+  "name": "Offline Support",
+  "subject": "computer-science",
+  "definition": "Offline Support is a fundamental concept in computer-science.",
+  "explanation": "Learn about Offline Support and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "offline-support"
+  ]
+}

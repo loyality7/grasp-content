@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Population Games",
+  "description": "Population Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Population Games",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Random Matching",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Large Populations",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Mean Dynamics",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Social Norms",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Behavioral Evolution",
+      "conceptId": "game-theory.evolutionary-game-theory.chapter-08.topic-06"
+    }
+  ]
+}

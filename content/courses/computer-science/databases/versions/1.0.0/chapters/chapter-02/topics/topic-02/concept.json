@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-02.topic-02",
+  "name": "Tables",
+  "subject": "computer-science",
+  "definition": "Tables is a fundamental concept in computer-science.",
+  "explanation": "Learn about Tables and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "tables"
+  ]
+}

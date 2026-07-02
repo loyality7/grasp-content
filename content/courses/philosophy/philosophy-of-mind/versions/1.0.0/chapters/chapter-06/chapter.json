@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Perception & Experience",
+  "description": "Perception & Experience",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Perception",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sense Experience",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Qualia",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Illusions",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Hallucinations",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Direct vs Indirect Realism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-06"
+    }
+  ]
+}

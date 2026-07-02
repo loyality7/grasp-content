@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-14.topic-03",
+  "name": "Hidden Markov Models (Introduction)",
+  "subject": "mathematics",
+  "definition": "Hidden Markov Models (Introduction) is a fundamental concept in mathematics.",
+  "explanation": "Learn about Hidden Markov Models (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "hidden-markov-models-introduction"
+  ]
+}

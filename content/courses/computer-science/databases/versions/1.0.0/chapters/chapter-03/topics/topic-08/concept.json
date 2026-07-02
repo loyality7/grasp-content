@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-03.topic-08",
+  "name": "GROUP BY",
+  "subject": "computer-science",
+  "definition": "GROUP BY is a fundamental concept in computer-science.",
+  "explanation": "Learn about GROUP BY and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "group-by"
+  ]
+}

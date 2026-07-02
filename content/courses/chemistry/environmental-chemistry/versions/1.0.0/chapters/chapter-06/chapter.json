@@ -1,0 +1,47 @@
+{
+  "id": "chapter-06",
+  "name": "Water Treatment",
+  "description": "Water Treatment",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Coagulation",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Flocculation",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Filtration",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Disinfection",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Chlorination",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Ozonation",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Reverse Osmosis",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Desalination",
+      "conceptId": "chemistry.environmental-chemistry.chapter-06.topic-08"
+    }
+  ]
+}

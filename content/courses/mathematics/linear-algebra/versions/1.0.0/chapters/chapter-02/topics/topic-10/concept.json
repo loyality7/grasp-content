@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-02.topic-10",
+  "name": "Block Matrices",
+  "subject": "mathematics",
+  "definition": "Block Matrices is a fundamental concept in mathematics.",
+  "explanation": "Learn about Block Matrices and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "block-matrices"
+  ]
+}

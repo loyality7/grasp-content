@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Trees",
+  "description": "Trees",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Tree Terminology",
+      "conceptId": "computer-science.data-structures.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Binary Trees",
+      "conceptId": "computer-science.data-structures.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Binary Search Trees (BST)",
+      "conceptId": "computer-science.data-structures.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Tree Traversals",
+      "conceptId": "computer-science.data-structures.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Balanced Trees (Introduction)",
+      "conceptId": "computer-science.data-structures.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Tree Applications",
+      "conceptId": "computer-science.data-structures.chapter-07.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Organizational Change",
+  "description": "Organizational Change",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Change Management",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Organizational Development",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Innovation",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Resistance to Change",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Digital Transformation",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Change Leadership",
+      "conceptId": "psychology.industrial-organizational-psychology.chapter-10.topic-06"
+    }
+  ]
+}

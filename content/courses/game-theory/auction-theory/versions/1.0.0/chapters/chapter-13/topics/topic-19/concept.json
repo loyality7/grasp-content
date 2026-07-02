@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-13.topic-19",
+  "name": "Computational Social Choice",
+  "subject": "game-theory",
+  "definition": "Computational Social Choice is a fundamental concept in game-theory.",
+  "explanation": "Learn about Computational Social Choice and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "computational-social-choice"
+  ]
+}

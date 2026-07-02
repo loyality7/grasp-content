@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Universal Gravitation",
+  "description": "Universal Gravitation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Newton's Law of Universal Gravitation",
+      "conceptId": "physics.gravitation.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gravitational Constant (G)",
+      "conceptId": "physics.gravitation.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Gravitational Force",
+      "conceptId": "physics.gravitation.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Inverse Square Law",
+      "conceptId": "physics.gravitation.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Superposition Principle",
+      "conceptId": "physics.gravitation.chapter-01.topic-05"
+    }
+  ]
+}

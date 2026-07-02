@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-07.topic-05",
+  "name": "Cake-Cutting Problems",
+  "subject": "game-theory",
+  "definition": "Cake-Cutting Problems is a fundamental concept in game-theory.",
+  "explanation": "Learn about Cake-Cutting Problems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "cake-cutting-problems"
+  ]
+}

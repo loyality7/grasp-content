@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-12.topic-02",
+  "name": "Evolutionary Simulation",
+  "subject": "game-theory",
+  "definition": "Evolutionary Simulation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Evolutionary Simulation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "evolutionary-simulation"
+  ]
+}

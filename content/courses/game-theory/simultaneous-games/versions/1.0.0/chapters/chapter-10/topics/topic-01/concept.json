@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.simultaneous-games.chapter-10.topic-01",
+  "name": "Complete Information",
+  "subject": "game-theory",
+  "definition": "Complete Information is a fundamental concept in game-theory.",
+  "explanation": "Learn about Complete Information and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "complete-information"
+  ]
+}

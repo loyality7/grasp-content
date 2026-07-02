@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-10.topic-02",
+  "name": "Naive String Search",
+  "subject": "computer-science",
+  "definition": "Naive String Search is a fundamental concept in computer-science.",
+  "explanation": "Learn about Naive String Search and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "naive-string-search"
+  ]
+}

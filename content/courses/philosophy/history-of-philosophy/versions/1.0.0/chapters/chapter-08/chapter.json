@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "German Idealism",
+  "description": "German Idealism",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Immanuel Kant",
+      "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Johann Fichte",
+      "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Friedrich Schelling",
+      "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Idealism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Dialectics",
+      "conceptId": "philosophy.history-of-philosophy.chapter-08.topic-06"
+    }
+  ]
+}

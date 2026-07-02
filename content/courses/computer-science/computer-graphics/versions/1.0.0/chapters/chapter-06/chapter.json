@@ -1,0 +1,42 @@
+{
+  "id": "chapter-06",
+  "name": "Rendering Pipeline",
+  "description": "Rendering Pipeline",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Graphics Pipeline",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Vertex Processing",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Primitive Assembly",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rasterization",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Fragment Processing",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Frame Buffers",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Depth Buffer",
+      "conceptId": "computer-science.computer-graphics.chapter-06.topic-07"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Thinking",
+  "description": "Thinking",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mental Models",
+      "conceptId": "psychology.cognitive-psychology.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mental Imagery",
+      "conceptId": "psychology.cognitive-psychology.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Abstract Thinking",
+      "conceptId": "psychology.cognitive-psychology.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Critical Thinking",
+      "conceptId": "psychology.cognitive-psychology.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Analogical Reasoning",
+      "conceptId": "psychology.cognitive-psychology.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Metacognition",
+      "conceptId": "psychology.cognitive-psychology.chapter-07.topic-06"
+    }
+  ]
+}

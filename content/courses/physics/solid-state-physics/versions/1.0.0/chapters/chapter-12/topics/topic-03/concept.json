@@ -1,0 +1,20 @@
+{
+  "id": "physics.solid-state-physics.chapter-12.topic-03",
+  "name": "Quantum Wires",
+  "subject": "physics",
+  "definition": "Quantum Wires is a fundamental concept in physics.",
+  "explanation": "Learn about Quantum Wires and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "quantum-wires"
+  ]
+}

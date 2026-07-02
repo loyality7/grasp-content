@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.web-development.chapter-13.topic-07",
+  "name": "Full-Stack Project",
+  "subject": "computer-science",
+  "definition": "Full-Stack Project is a fundamental concept in computer-science.",
+  "explanation": "Learn about Full-Stack Project and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "full-stack-project"
+  ]
+}

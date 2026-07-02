@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Mixed Strategies",
+  "description": "Mixed Strategies",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Pure Strategies",
+      "conceptId": "game-theory.strategic-decision-making.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Mixed Strategies",
+      "conceptId": "game-theory.strategic-decision-making.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Randomization",
+      "conceptId": "game-theory.strategic-decision-making.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Strategic Unpredictability",
+      "conceptId": "game-theory.strategic-decision-making.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mixed Strategy Equilibrium",
+      "conceptId": "game-theory.strategic-decision-making.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "game-theory.strategic-decision-making.chapter-07.topic-06"
+    }
+  ]
+}

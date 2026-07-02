@@ -1,0 +1,42 @@
+{
+  "id": "chapter-15",
+  "name": "Statistics",
+  "description": "Statistics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mean",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Median",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mode",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Range",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Histograms",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Box Plots (Introduction)",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Scatter Plots (Introduction)",
+      "conceptId": "mathematics.pre-algebra.chapter-15.topic-07"
+    }
+  ]
+}

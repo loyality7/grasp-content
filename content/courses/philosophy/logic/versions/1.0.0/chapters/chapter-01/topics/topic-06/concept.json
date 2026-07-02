@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-01.topic-06",
+  "name": "Validity & Soundness",
+  "subject": "philosophy",
+  "definition": "Validity & Soundness is a fundamental concept in philosophy.",
+  "explanation": "Learn about Validity & Soundness and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "validity-soundness"
+  ]
+}

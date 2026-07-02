@@ -1,0 +1,22 @@
+{
+  "id": "chapter-14",
+  "name": "Introduction to Fourier Ideas",
+  "description": "Introduction to Fourier Ideas",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Periodic Functions",
+      "conceptId": "mathematics.trigonometry.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Harmonic Components",
+      "conceptId": "mathematics.trigonometry.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Fourier Series (Introduction)",
+      "conceptId": "mathematics.trigonometry.chapter-14.topic-03"
+    }
+  ]
+}

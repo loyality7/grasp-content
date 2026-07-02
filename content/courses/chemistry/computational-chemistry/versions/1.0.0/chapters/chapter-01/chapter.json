@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Computational Chemistry",
+  "description": "Introduction to Computational Chemistry",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Computational Chemistry?",
+      "conceptId": "chemistry.computational-chemistry.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "History of Computational Chemistry",
+      "conceptId": "chemistry.computational-chemistry.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Chemical Modeling",
+      "conceptId": "chemistry.computational-chemistry.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Computational Workflow",
+      "conceptId": "chemistry.computational-chemistry.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Applications",
+      "conceptId": "chemistry.computational-chemistry.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Limitations",
+      "conceptId": "chemistry.computational-chemistry.chapter-01.topic-06"
+    }
+  ]
+}

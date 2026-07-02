@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Metaphysics",
+  "description": "Introduction to Metaphysics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Metaphysics?",
+      "conceptId": "philosophy.metaphysics.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Being",
+      "conceptId": "philosophy.metaphysics.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Existence",
+      "conceptId": "philosophy.metaphysics.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Reality",
+      "conceptId": "philosophy.metaphysics.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Metaphysical Questions",
+      "conceptId": "philosophy.metaphysics.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Branches of Metaphysics",
+      "conceptId": "philosophy.metaphysics.chapter-01.topic-06"
+    }
+  ]
+}

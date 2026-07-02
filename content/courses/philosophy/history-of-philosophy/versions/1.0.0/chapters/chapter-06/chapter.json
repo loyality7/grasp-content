@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Renaissance & Early Modern Philosophy",
+  "description": "Renaissance & Early Modern Philosophy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Humanism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "René Descartes",
+      "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Baruch Spinoza",
+      "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Gottfried Wilhelm Leibniz",
+      "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Rationalism",
+      "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Scientific Revolution",
+      "conceptId": "philosophy.history-of-philosophy.chapter-06.topic-06"
+    }
+  ]
+}

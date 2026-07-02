@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-ii.chapter-13.topic-04",
+  "name": "Standard Deviation",
+  "subject": "mathematics",
+  "definition": "Standard Deviation is a fundamental concept in mathematics.",
+  "explanation": "Learn about Standard Deviation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "standard-deviation"
+  ]
+}

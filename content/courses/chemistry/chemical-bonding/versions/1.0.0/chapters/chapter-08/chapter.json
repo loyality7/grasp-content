@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Metallic Bonding",
+  "description": "Metallic Bonding",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Metallic Bond",
+      "conceptId": "chemistry.chemical-bonding.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Electron Sea Model",
+      "conceptId": "chemistry.chemical-bonding.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Conductivity",
+      "conceptId": "chemistry.chemical-bonding.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Malleability",
+      "conceptId": "chemistry.chemical-bonding.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ductility",
+      "conceptId": "chemistry.chemical-bonding.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Metallic Crystal Structure",
+      "conceptId": "chemistry.chemical-bonding.chapter-08.topic-06"
+    }
+  ]
+}

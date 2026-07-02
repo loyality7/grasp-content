@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-12.topic-01",
+  "name": "Proof of Correctness",
+  "subject": "computer-science",
+  "definition": "Proof of Correctness is a fundamental concept in computer-science.",
+  "explanation": "Learn about Proof of Correctness and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "proof-of-correctness"
+  ]
+}

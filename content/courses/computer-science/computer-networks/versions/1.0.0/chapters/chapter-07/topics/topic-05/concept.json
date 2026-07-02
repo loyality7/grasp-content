@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-networks.chapter-07.topic-05",
+  "name": "SMTP",
+  "subject": "computer-science",
+  "definition": "SMTP is a fundamental concept in computer-science.",
+  "explanation": "Learn about SMTP and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "smtp"
+  ]
+}

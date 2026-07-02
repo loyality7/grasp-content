@@ -1,0 +1,22 @@
+{
+  "id": "chapter-07",
+  "name": "Antiderivatives",
+  "description": "Antiderivatives",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Indefinite Integrals",
+      "conceptId": "mathematics.calculus-i.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Basic Integration Rules",
+      "conceptId": "mathematics.calculus-i.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Initial Value Problems",
+      "conceptId": "mathematics.calculus-i.chapter-07.topic-03"
+    }
+  ]
+}

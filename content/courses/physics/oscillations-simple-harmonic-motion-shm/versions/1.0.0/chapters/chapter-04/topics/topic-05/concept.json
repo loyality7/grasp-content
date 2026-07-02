@@ -1,0 +1,20 @@
+{
+  "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-05",
+  "name": "Small Angle Approximation",
+  "subject": "physics",
+  "definition": "Small Angle Approximation is a fundamental concept in physics.",
+  "explanation": "Learn about Small Angle Approximation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "small-angle-approximation"
+  ]
+}

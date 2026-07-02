@@ -1,0 +1,27 @@
+{
+  "id": "chapter-05",
+  "name": "Group Actions",
+  "description": "Group Actions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Group Actions",
+      "conceptId": "mathematics.abstract-algebra.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Orbits",
+      "conceptId": "mathematics.abstract-algebra.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Stabilizers",
+      "conceptId": "mathematics.abstract-algebra.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Burnside's Lemma (Introduction)",
+      "conceptId": "mathematics.abstract-algebra.chapter-05.topic-04"
+    }
+  ]
+}

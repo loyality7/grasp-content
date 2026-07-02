@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.thermochemistry.chapter-02.topic-06",
+  "name": "Energy Balance",
+  "subject": "chemistry",
+  "definition": "Energy Balance is a fundamental concept in chemistry.",
+  "explanation": "Learn about Energy Balance and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "energy-balance"
+  ]
+}

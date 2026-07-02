@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-13.topic-18",
+  "name": "Multi-Agent Evolution",
+  "subject": "game-theory",
+  "definition": "Multi-Agent Evolution is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multi-Agent Evolution and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multi-agent-evolution"
+  ]
+}

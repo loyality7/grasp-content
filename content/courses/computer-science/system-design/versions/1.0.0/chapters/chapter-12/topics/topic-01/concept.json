@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.system-design.chapter-12.topic-01",
+  "name": "URL Shortener",
+  "subject": "computer-science",
+  "definition": "URL Shortener is a fundamental concept in computer-science.",
+  "explanation": "Learn about URL Shortener and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "url-shortener"
+  ]
+}

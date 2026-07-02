@@ -1,0 +1,379 @@
+{
+  "id": "rotational-motion",
+  "name": "Rotational Motion",
+  "description": "Rotational Motion",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Rotational Kinematics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Angular Displacement",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Angular Velocity",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Angular Acceleration",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rotational Equations of Motion",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Angular Position-Time Graphs",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Angular Velocity-Time Graphs",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Angular Acceleration-Time Graphs",
+          "conceptId": "physics.rotational-motion.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Rotational Dynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rotational Motion",
+          "conceptId": "physics.rotational-motion.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Axis of Rotation",
+          "conceptId": "physics.rotational-motion.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Translational vs Rotational Motion",
+          "conceptId": "physics.rotational-motion.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rotational Inertia",
+          "conceptId": "physics.rotational-motion.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rotational Equilibrium",
+          "conceptId": "physics.rotational-motion.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Torque",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Torque",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lever Arm",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moment Arm",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Torque Direction",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Net Torque",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Couple",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "conceptId": "physics.rotational-motion.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Moment of Inertia",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Moment of Inertia",
+          "conceptId": "physics.rotational-motion.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Radius of Gyration",
+          "conceptId": "physics.rotational-motion.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Parallel Axis Theorem",
+          "conceptId": "physics.rotational-motion.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Perpendicular Axis Theorem",
+          "conceptId": "physics.rotational-motion.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Standard Moments of Inertia",
+          "conceptId": "physics.rotational-motion.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Composite Bodies",
+          "conceptId": "physics.rotational-motion.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Newton's Second Law for Rotation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rotational Form of Newton's Second Law",
+          "conceptId": "physics.rotational-motion.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Angular Acceleration",
+          "conceptId": "physics.rotational-motion.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Torque & Angular Acceleration",
+          "conceptId": "physics.rotational-motion.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rotational Equations",
+          "conceptId": "physics.rotational-motion.chapter-05.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Rotational Work & Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rotational Work",
+          "conceptId": "physics.rotational-motion.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rotational Kinetic Energy",
+          "conceptId": "physics.rotational-motion.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rotational Power",
+          "conceptId": "physics.rotational-motion.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conservation of Rotational Energy",
+          "conceptId": "physics.rotational-motion.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Rolling Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rolling Without Slipping",
+          "conceptId": "physics.rotational-motion.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rolling With Slipping",
+          "conceptId": "physics.rotational-motion.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Translational + Rotational Motion",
+          "conceptId": "physics.rotational-motion.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rolling Objects on Inclines",
+          "conceptId": "physics.rotational-motion.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy in Rolling Motion",
+          "conceptId": "physics.rotational-motion.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Angular Momentum",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Angular Momentum",
+          "conceptId": "physics.rotational-motion.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conservation of Angular Momentum",
+          "conceptId": "physics.rotational-motion.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rotating Systems",
+          "conceptId": "physics.rotational-motion.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gyroscopic Motion (Introduction)",
+          "conceptId": "physics.rotational-motion.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Everyday Applications",
+          "conceptId": "physics.rotational-motion.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Static Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conditions for Equilibrium",
+          "conceptId": "physics.rotational-motion.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Torque Balance",
+          "conceptId": "physics.rotational-motion.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Center of Gravity",
+          "conceptId": "physics.rotational-motion.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stability",
+          "conceptId": "physics.rotational-motion.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Beam Problems",
+          "conceptId": "physics.rotational-motion.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Rotational Oscillations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Physical Pendulum",
+          "conceptId": "physics.rotational-motion.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Torsional Pendulum",
+          "conceptId": "physics.rotational-motion.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rotational SHM (Introduction)",
+          "conceptId": "physics.rotational-motion.chapter-10.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Flywheels",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gears",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Engines",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Turbines",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rotating Machinery",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Robotics",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Satellite Rotation",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Sports Mechanics",
+          "conceptId": "physics.rotational-motion.chapter-11.topic-08"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "prerequisites": [],
+    "tags": [
+      "physics",
+      "rotational-motion"
+    ]
+  }
+}

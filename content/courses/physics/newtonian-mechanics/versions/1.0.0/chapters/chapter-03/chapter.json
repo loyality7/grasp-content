@@ -1,0 +1,32 @@
+{
+  "id": "chapter-03",
+  "name": "Newton's Second Law",
+  "description": "Newton's Second Law",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Force and Acceleration",
+      "conceptId": "physics.newtonian-mechanics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Net Force",
+      "conceptId": "physics.newtonian-mechanics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Momentum Form of Newton's Second Law",
+      "conceptId": "physics.newtonian-mechanics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "physics.newtonian-mechanics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Variable Mass Systems (Introduction)",
+      "conceptId": "physics.newtonian-mechanics.chapter-03.topic-05"
+    }
+  ]
+}

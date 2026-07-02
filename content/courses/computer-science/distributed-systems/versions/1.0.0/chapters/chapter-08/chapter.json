@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Fault Tolerance",
+  "description": "Fault Tolerance",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Failure Models",
+      "conceptId": "computer-science.distributed-systems.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Redundancy",
+      "conceptId": "computer-science.distributed-systems.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Heartbeats",
+      "conceptId": "computer-science.distributed-systems.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Failover",
+      "conceptId": "computer-science.distributed-systems.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Checkpointing",
+      "conceptId": "computer-science.distributed-systems.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Self-Healing Systems",
+      "conceptId": "computer-science.distributed-systems.chapter-08.topic-06"
+    }
+  ]
+}

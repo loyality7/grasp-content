@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.computer-organization.chapter-13.topic-20",
+  "name": "Virtualization & Containers",
+  "subject": "computer-science",
+  "definition": "Virtualization & Containers is a fundamental concept in computer-science.",
+  "explanation": "Learn about Virtualization & Containers and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "virtualization-containers"
+  ]
+}

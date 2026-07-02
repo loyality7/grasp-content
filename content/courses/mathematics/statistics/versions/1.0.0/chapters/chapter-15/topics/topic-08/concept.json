@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.statistics.chapter-15.topic-08",
+  "name": "**Number Theory**",
+  "subject": "mathematics",
+  "definition": "**Number Theory** is a fundamental concept in mathematics.",
+  "explanation": "Learn about **Number Theory** and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "number-theory"
+  ]
+}

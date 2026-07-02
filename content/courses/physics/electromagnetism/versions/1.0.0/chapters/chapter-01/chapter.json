@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Electric Fields",
+  "description": "Electric Fields",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Electric Charge",
+      "conceptId": "physics.electromagnetism.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Coulomb's Law",
+      "conceptId": "physics.electromagnetism.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electric Field",
+      "conceptId": "physics.electromagnetism.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Electric Field Lines",
+      "conceptId": "physics.electromagnetism.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Superposition Principle",
+      "conceptId": "physics.electromagnetism.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Continuous Charge Distributions",
+      "conceptId": "physics.electromagnetism.chapter-01.topic-06"
+    }
+  ]
+}

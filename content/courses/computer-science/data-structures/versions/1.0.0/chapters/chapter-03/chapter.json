@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Linked Lists",
+  "description": "Linked Lists",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Singly Linked Lists",
+      "conceptId": "computer-science.data-structures.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Doubly Linked Lists",
+      "conceptId": "computer-science.data-structures.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Circular Linked Lists",
+      "conceptId": "computer-science.data-structures.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "List Operations",
+      "conceptId": "computer-science.data-structures.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Advantages & Disadvantages",
+      "conceptId": "computer-science.data-structures.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Applications",
+      "conceptId": "computer-science.data-structures.chapter-03.topic-06"
+    }
+  ]
+}

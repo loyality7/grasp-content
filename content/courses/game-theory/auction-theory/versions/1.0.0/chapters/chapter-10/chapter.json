@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Public Auctions",
+  "description": "Public Auctions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Spectrum Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Government Procurement",
+      "conceptId": "game-theory.auction-theory.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Treasury Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Energy Markets",
+      "conceptId": "game-theory.auction-theory.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Carbon Credit Auctions",
+      "conceptId": "game-theory.auction-theory.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Public Resource Allocation",
+      "conceptId": "game-theory.auction-theory.chapter-10.topic-06"
+    }
+  ]
+}

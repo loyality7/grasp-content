@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-06.topic-03",
+  "name": "Huffman Coding",
+  "subject": "computer-science",
+  "definition": "Huffman Coding is a fundamental concept in computer-science.",
+  "explanation": "Learn about Huffman Coding and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "huffman-coding"
+  ]
+}

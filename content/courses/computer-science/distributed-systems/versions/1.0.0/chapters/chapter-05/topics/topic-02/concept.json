@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.distributed-systems.chapter-05.topic-02",
+  "name": "Eventual Consistency",
+  "subject": "computer-science",
+  "definition": "Eventual Consistency is a fundamental concept in computer-science.",
+  "explanation": "Learn about Eventual Consistency and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "eventual-consistency"
+  ]
+}

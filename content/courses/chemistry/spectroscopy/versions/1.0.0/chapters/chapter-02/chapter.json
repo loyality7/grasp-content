@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Atomic Spectroscopy",
+  "description": "Atomic Spectroscopy",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atomic Spectra",
+      "conceptId": "chemistry.spectroscopy.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Line Spectra",
+      "conceptId": "chemistry.spectroscopy.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Electronic Transitions",
+      "conceptId": "chemistry.spectroscopy.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Flame Emission Spectroscopy",
+      "conceptId": "chemistry.spectroscopy.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Atomic Absorption Spectroscopy (AAS)",
+      "conceptId": "chemistry.spectroscopy.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Atomic Emission Spectroscopy (AES)",
+      "conceptId": "chemistry.spectroscopy.chapter-02.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chapter-05",
+  "name": "Probability Review",
+  "description": "Probability Review",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Probability Basics",
+      "conceptId": "mathematics.statistics.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Random Variables",
+      "conceptId": "mathematics.statistics.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Common Distributions",
+      "conceptId": "mathematics.statistics.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Expected Value",
+      "conceptId": "mathematics.statistics.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Variance",
+      "conceptId": "mathematics.statistics.chapter-05.topic-05"
+    }
+  ]
+}

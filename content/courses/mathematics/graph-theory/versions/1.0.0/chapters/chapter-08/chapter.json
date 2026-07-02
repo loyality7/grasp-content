@@ -1,0 +1,32 @@
+{
+  "id": "chapter-08",
+  "name": "Network Flow",
+  "description": "Network Flow",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Flow Networks",
+      "conceptId": "mathematics.graph-theory.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Maximum Flow",
+      "conceptId": "mathematics.graph-theory.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Minimum Cut",
+      "conceptId": "mathematics.graph-theory.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Ford-Fulkerson Algorithm",
+      "conceptId": "mathematics.graph-theory.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Edmonds-Karp Algorithm",
+      "conceptId": "mathematics.graph-theory.chapter-08.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.data-structures.chapter-13.topic-19",
+  "name": "Approximation Algorithms",
+  "subject": "computer-science",
+  "definition": "Approximation Algorithms is a fundamental concept in computer-science.",
+  "explanation": "Learn about Approximation Algorithms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "approximation-algorithms"
+  ]
+}

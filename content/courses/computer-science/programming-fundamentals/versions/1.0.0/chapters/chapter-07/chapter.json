@@ -1,0 +1,47 @@
+{
+  "id": "chapter-07",
+  "name": "Functions",
+  "description": "Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Functions",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Parameters",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Arguments",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Return Values",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Local Variables",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Global Variables",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Function Scope",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Recursion (Introduction)",
+      "conceptId": "computer-science.programming-fundamentals.chapter-07.topic-08"
+    }
+  ]
+}

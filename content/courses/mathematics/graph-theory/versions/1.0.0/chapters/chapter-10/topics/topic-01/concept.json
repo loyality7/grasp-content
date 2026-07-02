@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.graph-theory.chapter-10.topic-01",
+  "name": "Bipartite Graphs",
+  "subject": "mathematics",
+  "definition": "Bipartite Graphs is a fundamental concept in mathematics.",
+  "explanation": "Learn about Bipartite Graphs and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "bipartite-graphs"
+  ]
+}

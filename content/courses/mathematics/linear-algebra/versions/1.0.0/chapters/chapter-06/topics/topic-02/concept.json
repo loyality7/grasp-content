@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-06.topic-02",
+  "name": "Linear Dependence",
+  "subject": "mathematics",
+  "definition": "Linear Dependence is a fundamental concept in mathematics.",
+  "explanation": "Learn about Linear Dependence and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "linear-dependence"
+  ]
+}

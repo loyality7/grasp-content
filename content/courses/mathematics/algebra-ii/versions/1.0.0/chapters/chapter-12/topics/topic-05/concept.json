@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-ii.chapter-12.topic-05",
+  "name": "Expected Value",
+  "subject": "mathematics",
+  "definition": "Expected Value is a fundamental concept in mathematics.",
+  "explanation": "Learn about Expected Value and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "expected-value"
+  ]
+}

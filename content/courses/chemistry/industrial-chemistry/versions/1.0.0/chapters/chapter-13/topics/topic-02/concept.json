@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.industrial-chemistry.chapter-13.topic-02",
+  "name": "Process Automation",
+  "subject": "chemistry",
+  "definition": "Process Automation is a fundamental concept in chemistry.",
+  "explanation": "Learn about Process Automation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "process-automation"
+  ]
+}

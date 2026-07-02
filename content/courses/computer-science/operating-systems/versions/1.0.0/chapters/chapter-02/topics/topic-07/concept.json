@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-02.topic-07",
+  "name": "Context Switching",
+  "subject": "computer-science",
+  "definition": "Context Switching is a fundamental concept in computer-science.",
+  "explanation": "Learn about Context Switching and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "context-switching"
+  ]
+}

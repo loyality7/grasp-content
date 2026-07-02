@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Function Transformations",
+  "description": "Function Transformations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Translations",
+      "conceptId": "mathematics.precalculus.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reflections",
+      "conceptId": "mathematics.precalculus.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Vertical Stretch",
+      "conceptId": "mathematics.precalculus.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Horizontal Stretch",
+      "conceptId": "mathematics.precalculus.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Compression",
+      "conceptId": "mathematics.precalculus.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Parent Functions",
+      "conceptId": "mathematics.precalculus.chapter-02.topic-06"
+    }
+  ]
+}

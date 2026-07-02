@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Amino Acids & Proteins",
+  "description": "Amino Acids & Proteins",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Amino Acids",
+      "conceptId": "biology.biochemistry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Peptide Bonds",
+      "conceptId": "biology.biochemistry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Protein Structure",
+      "conceptId": "biology.biochemistry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Protein Folding",
+      "conceptId": "biology.biochemistry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Protein Denaturation",
+      "conceptId": "biology.biochemistry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Protein Function",
+      "conceptId": "biology.biochemistry.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Protein Classification",
+      "conceptId": "biology.biochemistry.chapter-02.topic-07"
+    }
+  ]
+}

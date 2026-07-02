@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.analytical-chemistry.chapter-13.topic-04",
+  "name": "Chemometrics",
+  "subject": "chemistry",
+  "definition": "Chemometrics is a fundamental concept in chemistry.",
+  "explanation": "Learn about Chemometrics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "chemometrics"
+  ]
+}

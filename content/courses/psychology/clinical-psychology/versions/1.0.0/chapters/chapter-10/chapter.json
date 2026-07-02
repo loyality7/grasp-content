@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Ethics & Professional Practice",
+  "description": "Ethics & Professional Practice",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Confidentiality",
+      "conceptId": "psychology.clinical-psychology.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Informed Consent",
+      "conceptId": "psychology.clinical-psychology.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Professional Boundaries",
+      "conceptId": "psychology.clinical-psychology.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cultural Competence",
+      "conceptId": "psychology.clinical-psychology.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Ethical Decision Making",
+      "conceptId": "psychology.clinical-psychology.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Legal Issues",
+      "conceptId": "psychology.clinical-psychology.chapter-10.topic-06"
+    }
+  ]
+}

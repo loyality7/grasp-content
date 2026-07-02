@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "International Macroeconomics",
+  "description": "International Macroeconomics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Balance of Payments",
+      "conceptId": "economics.macroeconomics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Exchange Rates",
+      "conceptId": "economics.macroeconomics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Foreign Exchange Markets",
+      "conceptId": "economics.macroeconomics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "International Capital Flows",
+      "conceptId": "economics.macroeconomics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Trade Balance",
+      "conceptId": "economics.macroeconomics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Global Financial Systems",
+      "conceptId": "economics.macroeconomics.chapter-10.topic-06"
+    }
+  ]
+}

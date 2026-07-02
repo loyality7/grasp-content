@@ -1,0 +1,571 @@
+{
+  "id": "international-economics",
+  "name": "International Economics",
+  "description": "International Economics",
+  "version": "1.0.0",
+  "domain": "economics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to International Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scope of International Economics",
+          "conceptId": "economics.international-economics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Global Trade",
+          "conceptId": "economics.international-economics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "International Specialization",
+          "conceptId": "economics.international-economics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Globalization",
+          "conceptId": "economics.international-economics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trade Flows",
+          "conceptId": "economics.international-economics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Economic Integration",
+          "conceptId": "economics.international-economics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Comparative Advantage",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Absolute Advantage",
+          "conceptId": "economics.international-economics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Comparative Advantage",
+          "conceptId": "economics.international-economics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Opportunity Cost",
+          "conceptId": "economics.international-economics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Specialization",
+          "conceptId": "economics.international-economics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gains from Trade",
+          "conceptId": "economics.international-economics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Terms of Trade",
+          "conceptId": "economics.international-economics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Trade Efficiency",
+          "conceptId": "economics.international-economics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Trade Theories",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Classical Trade Theory",
+          "conceptId": "economics.international-economics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heckscher-Ohlin Model",
+          "conceptId": "economics.international-economics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Factor Endowments",
+          "conceptId": "economics.international-economics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "New Trade Theory",
+          "conceptId": "economics.international-economics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Competitive Advantage",
+          "conceptId": "economics.international-economics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Value Chains",
+          "conceptId": "economics.international-economics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Trade Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tariffs",
+          "conceptId": "economics.international-economics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Import Quotas",
+          "conceptId": "economics.international-economics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Subsidies",
+          "conceptId": "economics.international-economics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Tariff Barriers",
+          "conceptId": "economics.international-economics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Protectionism",
+          "conceptId": "economics.international-economics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Free Trade",
+          "conceptId": "economics.international-economics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Trade Liberalization",
+          "conceptId": "economics.international-economics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Exchange Rates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Foreign Exchange Market",
+          "conceptId": "economics.international-economics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exchange Rate Systems",
+          "conceptId": "economics.international-economics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fixed Exchange Rates",
+          "conceptId": "economics.international-economics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Floating Exchange Rates",
+          "conceptId": "economics.international-economics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Currency Appreciation",
+          "conceptId": "economics.international-economics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Currency Depreciation",
+          "conceptId": "economics.international-economics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Purchasing Power Parity (PPP)",
+          "conceptId": "economics.international-economics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Balance of Payments",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Current Account",
+          "conceptId": "economics.international-economics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Capital Account",
+          "conceptId": "economics.international-economics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Financial Account",
+          "conceptId": "economics.international-economics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Foreign Exchange Reserves",
+          "conceptId": "economics.international-economics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Balance of Payments Deficit",
+          "conceptId": "economics.international-economics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Balance of Payments Surplus",
+          "conceptId": "economics.international-economics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "International Finance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "International Capital Flows",
+          "conceptId": "economics.international-economics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Foreign Direct Investment (FDI)",
+          "conceptId": "economics.international-economics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Portfolio Investment",
+          "conceptId": "economics.international-economics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sovereign Debt",
+          "conceptId": "economics.international-economics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Global Financial Markets",
+          "conceptId": "economics.international-economics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "International Banking",
+          "conceptId": "economics.international-economics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Trade Agreements",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bilateral Agreements",
+          "conceptId": "economics.international-economics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Regional Trade Agreements",
+          "conceptId": "economics.international-economics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Customs Unions",
+          "conceptId": "economics.international-economics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Common Markets",
+          "conceptId": "economics.international-economics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Economic Unions",
+          "conceptId": "economics.international-economics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Free Trade Areas",
+          "conceptId": "economics.international-economics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Global Economic Institutions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "International Monetary Fund (IMF)",
+          "conceptId": "economics.international-economics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "World Bank",
+          "conceptId": "economics.international-economics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "World Trade Organization (WTO)",
+          "conceptId": "economics.international-economics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Regional Development Banks",
+          "conceptId": "economics.international-economics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Roles & Functions",
+          "conceptId": "economics.international-economics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Economic Governance",
+          "conceptId": "economics.international-economics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Economic Development & Globalization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Developing Economies",
+          "conceptId": "economics.international-economics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Emerging Markets",
+          "conceptId": "economics.international-economics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Global Supply Chains",
+          "conceptId": "economics.international-economics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Outsourcing",
+          "conceptId": "economics.international-economics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Economic Inequality",
+          "conceptId": "economics.international-economics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Development",
+          "conceptId": "economics.international-economics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "International Economic Issues",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Trade Wars",
+          "conceptId": "economics.international-economics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Currency Crises",
+          "conceptId": "economics.international-economics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Financial Crises",
+          "conceptId": "economics.international-economics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Global Inflation",
+          "conceptId": "economics.international-economics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Climate & Trade",
+          "conceptId": "economics.international-economics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Digital Trade",
+          "conceptId": "economics.international-economics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Export Strategy",
+          "conceptId": "economics.international-economics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Import Management",
+          "conceptId": "economics.international-economics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "International Business",
+          "conceptId": "economics.international-economics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multinational Corporations",
+          "conceptId": "economics.international-economics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Global Investment",
+          "conceptId": "economics.international-economics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trade Negotiation",
+          "conceptId": "economics.international-economics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Economic Policy",
+          "conceptId": "economics.international-economics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "International Macroeconomics",
+          "conceptId": "economics.international-economics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exchange Rate Models",
+          "conceptId": "economics.international-economics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "International Taxation",
+          "conceptId": "economics.international-economics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Global Financial Stability",
+          "conceptId": "economics.international-economics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Economic Sanctions",
+          "conceptId": "economics.international-economics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Global Trade",
+          "conceptId": "economics.international-economics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 8: Public Economics**",
+          "conceptId": "economics.international-economics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Role of Government",
+          "conceptId": "economics.international-economics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Public Goods",
+          "conceptId": "economics.international-economics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Externalities",
+          "conceptId": "economics.international-economics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Taxation",
+          "conceptId": "economics.international-economics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Government Expenditure",
+          "conceptId": "economics.international-economics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Budget Deficits",
+          "conceptId": "economics.international-economics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Public Debt",
+          "conceptId": "economics.international-economics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Cost-Benefit Analysis",
+          "conceptId": "economics.international-economics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Social Welfare",
+          "conceptId": "economics.international-economics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Income Redistribution",
+          "conceptId": "economics.international-economics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Public Choice Theory",
+          "conceptId": "economics.international-economics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Fiscal Federalism",
+          "conceptId": "economics.international-economics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "economics",
+      "international-economics"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-ii.chapter-10.topic-04",
+  "name": "Geometric Series",
+  "subject": "mathematics",
+  "definition": "Geometric Series is a fundamental concept in mathematics.",
+  "explanation": "Learn about Geometric Series and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "geometric-series"
+  ]
+}

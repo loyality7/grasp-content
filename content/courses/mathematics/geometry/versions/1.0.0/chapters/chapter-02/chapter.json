@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Angles",
+  "description": "Angles",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Types of Angles",
+      "conceptId": "mathematics.geometry.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Angle Relationships",
+      "conceptId": "mathematics.geometry.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Complementary Angles",
+      "conceptId": "mathematics.geometry.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Supplementary Angles",
+      "conceptId": "mathematics.geometry.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Vertical Angles",
+      "conceptId": "mathematics.geometry.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Adjacent Angles",
+      "conceptId": "mathematics.geometry.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Angle Bisectors",
+      "conceptId": "mathematics.geometry.chapter-02.topic-07"
+    }
+  ]
+}

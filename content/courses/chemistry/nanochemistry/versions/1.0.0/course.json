@@ -1,0 +1,586 @@
+{
+  "id": "nanochemistry",
+  "name": "Nanochemistry",
+  "description": "Nanochemistry",
+  "version": "1.0.0",
+  "domain": "chemistry",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Nanochemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Nanochemistry?",
+          "conceptId": "chemistry.nanochemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nanoscience vs Nanotechnology",
+          "conceptId": "chemistry.nanochemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nanoscale Dimensions",
+          "conceptId": "chemistry.nanochemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "History of Nanotechnology",
+          "conceptId": "chemistry.nanochemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Unique Properties of Nanomaterials",
+          "conceptId": "chemistry.nanochemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "conceptId": "chemistry.nanochemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Fundamentals of Nanomaterials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nanoparticles",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nanoclusters",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nanowires",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nanorods",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nanotubes",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nanofibers",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Thin Films",
+          "conceptId": "chemistry.nanochemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Carbon Nanomaterials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fullerenes",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Carbon Nanotubes (CNTs)",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Single-Walled CNTs",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multi-Walled CNTs",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graphene",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Graphene Oxide",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Carbon Quantum Dots",
+          "conceptId": "chemistry.nanochemistry.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Quantum Nanomaterials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quantum Dots",
+          "conceptId": "chemistry.nanochemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantum Confinement",
+          "conceptId": "chemistry.nanochemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Semiconductor Nanocrystals",
+          "conceptId": "chemistry.nanochemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nanophotonics",
+          "conceptId": "chemistry.nanochemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Optical Properties",
+          "conceptId": "chemistry.nanochemistry.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Nanomaterial Synthesis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Top-Down Methods",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bottom-Up Methods",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sol-Gel Process",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Vapor Deposition (CVD)",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydrothermal Synthesis",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Self-Assembly",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Green Synthesis",
+          "conceptId": "chemistry.nanochemistry.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Characterization Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scanning Electron Microscopy (SEM)",
+          "conceptId": "chemistry.nanochemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Transmission Electron Microscopy (TEM)",
+          "conceptId": "chemistry.nanochemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Atomic Force Microscopy (AFM)",
+          "conceptId": "chemistry.nanochemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scanning Tunneling Microscopy (STM)",
+          "conceptId": "chemistry.nanochemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dynamic Light Scattering (DLS)",
+          "conceptId": "chemistry.nanochemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "X-Ray Diffraction (XRD)",
+          "conceptId": "chemistry.nanochemistry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Surface Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Surface Area",
+          "conceptId": "chemistry.nanochemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Surface Energy",
+          "conceptId": "chemistry.nanochemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Surface Functionalization",
+          "conceptId": "chemistry.nanochemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Surface Modification",
+          "conceptId": "chemistry.nanochemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Colloidal Stability",
+          "conceptId": "chemistry.nanochemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nanoparticle Interactions",
+          "conceptId": "chemistry.nanochemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Nanocatalysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nanocatalysts",
+          "conceptId": "chemistry.nanochemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heterogeneous Nanocatalysis",
+          "conceptId": "chemistry.nanochemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Photocatalysis",
+          "conceptId": "chemistry.nanochemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electrocatalysis",
+          "conceptId": "chemistry.nanochemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Environmental Catalysis",
+          "conceptId": "chemistry.nanochemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Applications",
+          "conceptId": "chemistry.nanochemistry.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Nanomedicine",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Drug Delivery Systems",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Targeted Drug Delivery",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cancer Nanotherapy",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Medical Imaging",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biosensors",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tissue Engineering",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Nanotoxicology",
+          "conceptId": "chemistry.nanochemistry.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Nanoelectronics & Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nanoelectronics",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nanosensors",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Flexible Electronics",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Solar Cells",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Battery Nanomaterials",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Supercapacitors",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hydrogen Storage",
+          "conceptId": "chemistry.nanochemistry.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Environmental Nanotechnology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Water Purification",
+          "conceptId": "chemistry.nanochemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Air Filtration",
+          "conceptId": "chemistry.nanochemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environmental Sensors",
+          "conceptId": "chemistry.nanochemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pollution Remediation",
+          "conceptId": "chemistry.nanochemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Green Nanotechnology",
+          "conceptId": "chemistry.nanochemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainability",
+          "conceptId": "chemistry.nanochemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Medicine",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electronics",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aerospace",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Automotive",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Food Packaging",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cosmetics",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Textiles",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Agriculture",
+          "conceptId": "chemistry.nanochemistry.chapter-12.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Machines",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Nanotechnology",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Spintronics",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Plasmonics",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nanorobotics",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quantum Nanotechnology",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Future Directions",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 23: Nuclear Chemistry**",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Radioactivity",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Nuclear Structure",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Nuclear Reactions",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Radioactive Decay",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Nuclear Fission",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Nuclear Fusion",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Radiation Detection",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Nuclear Reactors",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Radioisotopes",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Medical Applications",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Environmental Radiation",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Nuclear Waste Management",
+          "conceptId": "chemistry.nanochemistry.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "chemistry",
+      "nanochemistry"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.quantum-mechanics.chapter-07.topic-01",
+  "name": "Quantum Harmonic Oscillator",
+  "subject": "physics",
+  "definition": "Quantum Harmonic Oscillator is a fundamental concept in physics.",
+  "explanation": "Learn about Quantum Harmonic Oscillator and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "quantum-harmonic-oscillator"
+  ]
+}

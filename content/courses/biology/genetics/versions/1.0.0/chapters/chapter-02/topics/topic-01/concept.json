@@ -1,0 +1,20 @@
+{
+  "id": "biology.genetics.chapter-02.topic-01",
+  "name": "Gregor Mendel",
+  "subject": "biology",
+  "definition": "Gregor Mendel is a fundamental concept in biology.",
+  "explanation": "Learn about Gregor Mendel and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "biology",
+    "gregor-mendel"
+  ]
+}

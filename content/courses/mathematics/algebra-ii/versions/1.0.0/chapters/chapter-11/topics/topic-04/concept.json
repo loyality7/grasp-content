@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.algebra-ii.chapter-11.topic-04",
+  "name": "Determinants",
+  "subject": "mathematics",
+  "definition": "Determinants is a fundamental concept in mathematics.",
+  "explanation": "Learn about Determinants and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "determinants"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-12.topic-01",
+  "name": "Art Auctions",
+  "subject": "game-theory",
+  "definition": "Art Auctions is a fundamental concept in game-theory.",
+  "explanation": "Learn about Art Auctions and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "art-auctions"
+  ]
+}

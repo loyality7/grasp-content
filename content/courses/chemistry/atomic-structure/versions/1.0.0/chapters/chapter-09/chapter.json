@@ -1,0 +1,42 @@
+{
+  "id": "chapter-09",
+  "name": "Periodic Trends",
+  "description": "Periodic Trends",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Atomic Radius",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Ionic Radius",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Ionization Energy",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Electron Affinity",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Electronegativity",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Shielding Effect",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Effective Nuclear Charge",
+      "conceptId": "chemistry.atomic-structure.chapter-09.topic-07"
+    }
+  ]
+}

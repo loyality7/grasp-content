@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.nanochemistry.chapter-04.topic-02",
+  "name": "Quantum Confinement",
+  "subject": "chemistry",
+  "definition": "Quantum Confinement is a fundamental concept in chemistry.",
+  "explanation": "Learn about Quantum Confinement and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "quantum-confinement"
+  ]
+}

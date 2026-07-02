@@ -1,0 +1,22 @@
+{
+  "id": "chapter-11",
+  "name": "Simulation",
+  "description": "Simulation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Monte Carlo Simulation",
+      "conceptId": "mathematics.probability.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Random Number Generation",
+      "conceptId": "mathematics.probability.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Sampling Methods",
+      "conceptId": "mathematics.probability.chapter-11.topic-03"
+    }
+  ]
+}

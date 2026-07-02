@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Gauge Bosons",
+  "description": "Gauge Bosons",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Photon",
+      "conceptId": "physics.particle-physics.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Gluon",
+      "conceptId": "physics.particle-physics.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "W Boson",
+      "conceptId": "physics.particle-physics.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Z Boson",
+      "conceptId": "physics.particle-physics.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Graviton (Theoretical)",
+      "conceptId": "physics.particle-physics.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Higgs Boson",
+      "conceptId": "physics.particle-physics.chapter-04.topic-06"
+    }
+  ]
+}

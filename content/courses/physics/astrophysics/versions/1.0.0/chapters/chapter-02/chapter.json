@@ -1,0 +1,42 @@
+{
+  "id": "chapter-02",
+  "name": "Telescopes & Observation",
+  "description": "Telescopes & Observation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Optical Telescopes",
+      "conceptId": "physics.astrophysics.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Radio Telescopes",
+      "conceptId": "physics.astrophysics.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Space Telescopes",
+      "conceptId": "physics.astrophysics.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Spectroscopy",
+      "conceptId": "physics.astrophysics.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Photometry",
+      "conceptId": "physics.astrophysics.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Interferometry",
+      "conceptId": "physics.astrophysics.chapter-02.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Adaptive Optics",
+      "conceptId": "physics.astrophysics.chapter-02.topic-07"
+    }
+  ]
+}

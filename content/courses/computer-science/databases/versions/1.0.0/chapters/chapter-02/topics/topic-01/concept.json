@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-02.topic-01",
+  "name": "Relational Model",
+  "subject": "computer-science",
+  "definition": "Relational Model is a fundamental concept in computer-science.",
+  "explanation": "Learn about Relational Model and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "relational-model"
+  ]
+}

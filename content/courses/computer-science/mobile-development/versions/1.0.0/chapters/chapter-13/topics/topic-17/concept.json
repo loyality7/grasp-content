@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.mobile-development.chapter-13.topic-17",
+  "name": "Consistency Models",
+  "subject": "computer-science",
+  "definition": "Consistency Models is a fundamental concept in computer-science.",
+  "explanation": "Learn about Consistency Models and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "consistency-models"
+  ]
+}

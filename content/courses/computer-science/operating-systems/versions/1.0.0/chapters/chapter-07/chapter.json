@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Virtual Memory",
+  "description": "Virtual Memory",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Virtual Memory",
+      "conceptId": "computer-science.operating-systems.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Demand Paging",
+      "conceptId": "computer-science.operating-systems.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Page Faults",
+      "conceptId": "computer-science.operating-systems.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Page Replacement Algorithms",
+      "conceptId": "computer-science.operating-systems.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Thrashing",
+      "conceptId": "computer-science.operating-systems.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Working Set Model",
+      "conceptId": "computer-science.operating-systems.chapter-07.topic-06"
+    }
+  ]
+}

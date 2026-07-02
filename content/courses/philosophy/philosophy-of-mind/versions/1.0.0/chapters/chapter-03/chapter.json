@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Mind & Brain",
+  "description": "Mind & Brain",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Physicalism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dualism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Idealism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Identity Theory",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Functionalism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Emergentism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-06"
+    }
+  ]
+}

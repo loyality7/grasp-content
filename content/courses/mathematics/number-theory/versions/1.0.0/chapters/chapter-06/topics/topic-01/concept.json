@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-06.topic-01",
+  "name": "Euler's Totient Function",
+  "subject": "mathematics",
+  "definition": "Euler's Totient Function is a fundamental concept in mathematics.",
+  "explanation": "Learn about Euler's Totient Function and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "eulers-totient-function"
+  ]
+}

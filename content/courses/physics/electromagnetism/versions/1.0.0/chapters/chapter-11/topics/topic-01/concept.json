@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-11.topic-01",
+  "name": "Wave Equation",
+  "subject": "physics",
+  "definition": "Wave Equation is a fundamental concept in physics.",
+  "explanation": "Learn about Wave Equation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "wave-equation"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-13.topic-05",
+  "name": "Congruence",
+  "subject": "mathematics",
+  "definition": "Congruence is a fundamental concept in mathematics.",
+  "explanation": "Learn about Congruence and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "congruence"
+  ]
+}

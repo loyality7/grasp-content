@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.repeated-games.chapter-01.topic-02",
+  "name": "One-Shot vs Repeated Games",
+  "subject": "game-theory",
+  "definition": "One-Shot vs Repeated Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about One-Shot vs Repeated Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "one-shot-vs-repeated-games"
+  ]
+}

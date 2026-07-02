@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.philosophy-of-language.chapter-12.topic-05",
+  "name": "Computer Science",
+  "subject": "philosophy",
+  "definition": "Computer Science is a fundamental concept in philosophy.",
+  "explanation": "Learn about Computer Science and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "computer-science"
+  ]
+}

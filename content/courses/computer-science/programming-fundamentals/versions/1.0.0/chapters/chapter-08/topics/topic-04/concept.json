@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-08.topic-04",
+  "name": "String Operations",
+  "subject": "computer-science",
+  "definition": "String Operations is a fundamental concept in computer-science.",
+  "explanation": "Learn about String Operations and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "string-operations"
+  ]
+}

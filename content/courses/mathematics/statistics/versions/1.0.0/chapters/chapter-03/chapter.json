@@ -1,0 +1,37 @@
+{
+  "id": "chapter-03",
+  "name": "Measures of Central Tendency",
+  "description": "Measures of Central Tendency",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mean",
+      "conceptId": "mathematics.statistics.chapter-03.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Median",
+      "conceptId": "mathematics.statistics.chapter-03.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Mode",
+      "conceptId": "mathematics.statistics.chapter-03.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Weighted Mean",
+      "conceptId": "mathematics.statistics.chapter-03.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Geometric Mean",
+      "conceptId": "mathematics.statistics.chapter-03.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Harmonic Mean",
+      "conceptId": "mathematics.statistics.chapter-03.topic-06"
+    }
+  ]
+}

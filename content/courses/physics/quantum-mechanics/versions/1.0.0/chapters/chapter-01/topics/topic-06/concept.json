@@ -1,0 +1,20 @@
+{
+  "id": "physics.quantum-mechanics.chapter-01.topic-06",
+  "name": "Hilbert Space (Introduction)",
+  "subject": "physics",
+  "definition": "Hilbert Space (Introduction) is a fundamental concept in physics.",
+  "explanation": "Learn about Hilbert Space (Introduction) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "hilbert-space-introduction"
+  ]
+}

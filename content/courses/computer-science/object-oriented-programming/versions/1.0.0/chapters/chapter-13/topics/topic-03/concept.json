@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.object-oriented-programming.chapter-13.topic-03",
+  "name": "Student Management Systems",
+  "subject": "computer-science",
+  "definition": "Student Management Systems is a fundamental concept in computer-science.",
+  "explanation": "Learn about Student Management Systems and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "student-management-systems"
+  ]
+}

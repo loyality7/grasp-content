@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.probability.chapter-09.topic-03",
+  "name": "Conditional Expectation",
+  "subject": "mathematics",
+  "definition": "Conditional Expectation is a fundamental concept in mathematics.",
+  "explanation": "Learn about Conditional Expectation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "conditional-expectation"
+  ]
+}

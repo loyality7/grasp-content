@@ -1,0 +1,42 @@
+{
+  "id": "chapter-12",
+  "name": "Research Methods & Applications",
+  "description": "Research Methods & Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "EEG",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "CT Scan",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "MRI",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "fMRI",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "PET Scan",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Neuropsychological Testing",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Brain Stimulation Techniques",
+      "conceptId": "psychology.biological-psychology.chapter-12.topic-07"
+    }
+  ]
+}

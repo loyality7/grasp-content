@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Transition Metals",
+  "description": "Introduction to Transition Metals",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Transition Elements",
+      "conceptId": "chemistry.transition-metals.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "d-Block Elements",
+      "conceptId": "chemistry.transition-metals.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "f-Block Elements (Overview)",
+      "conceptId": "chemistry.transition-metals.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Position in the Periodic Table",
+      "conceptId": "chemistry.transition-metals.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "General Characteristics",
+      "conceptId": "chemistry.transition-metals.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Electronic Configuration",
+      "conceptId": "chemistry.transition-metals.chapter-01.topic-06"
+    }
+  ]
+}

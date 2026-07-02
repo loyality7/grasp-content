@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.voting-social-choice.chapter-08.topic-03",
+  "name": "Proportional Allocation",
+  "subject": "game-theory",
+  "definition": "Proportional Allocation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Proportional Allocation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "proportional-allocation"
+  ]
+}

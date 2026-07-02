@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.software-engineering.chapter-13.topic-02",
+  "name": "Web Applications",
+  "subject": "computer-science",
+  "definition": "Web Applications is a fundamental concept in computer-science.",
+  "explanation": "Learn about Web Applications and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "web-applications"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "chapter-13",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Personality Neuroscience",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Personality Across the Lifespan",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Positive Personality Traits",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Dark Personality Traits",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Digital Personality",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Future of Personality Research",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "*Course 7: Learning & Behavior**",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Learning Theories",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Classical Conditioning",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-09"
+    },
+    {
+      "id": "topic-10",
+      "name": "Operant Conditioning",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-10"
+    },
+    {
+      "id": "topic-11",
+      "name": "Reinforcement",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-11"
+    },
+    {
+      "id": "topic-12",
+      "name": "Punishment",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-12"
+    },
+    {
+      "id": "topic-13",
+      "name": "Observational Learning",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-13"
+    },
+    {
+      "id": "topic-14",
+      "name": "Cognitive Learning",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-14"
+    },
+    {
+      "id": "topic-15",
+      "name": "Motivation",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-15"
+    },
+    {
+      "id": "topic-16",
+      "name": "Habit Formation",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-16"
+    },
+    {
+      "id": "topic-17",
+      "name": "Behavior Modification",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-17"
+    },
+    {
+      "id": "topic-18",
+      "name": "Applied Behavior Analysis",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-18"
+    },
+    {
+      "id": "topic-19",
+      "name": "Learning in Everyday Life",
+      "conceptId": "psychology.personality-psychology.chapter-13.topic-19"
+    }
+  ]
+}

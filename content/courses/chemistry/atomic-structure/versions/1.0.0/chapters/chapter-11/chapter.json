@@ -1,0 +1,27 @@
+{
+  "id": "chapter-11",
+  "name": "Advanced Topics",
+  "description": "Advanced Topics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multi-Electron Atoms",
+      "conceptId": "chemistry.atomic-structure.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Atomic Spectroscopy",
+      "conceptId": "chemistry.atomic-structure.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Spin-Orbit Coupling (Introduction)",
+      "conceptId": "chemistry.atomic-structure.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Relativistic Effects in Heavy Elements (Introduction)",
+      "conceptId": "chemistry.atomic-structure.chapter-11.topic-04"
+    }
+  ]
+}

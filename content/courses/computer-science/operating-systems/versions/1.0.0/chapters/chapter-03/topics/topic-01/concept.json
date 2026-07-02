@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-03.topic-01",
+  "name": "CPU Scheduler",
+  "subject": "computer-science",
+  "definition": "CPU Scheduler is a fundamental concept in computer-science.",
+  "explanation": "Learn about CPU Scheduler and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "cpu-scheduler"
+  ]
+}

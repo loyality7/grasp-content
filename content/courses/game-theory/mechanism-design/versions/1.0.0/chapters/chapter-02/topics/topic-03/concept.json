@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.mechanism-design.chapter-02.topic-03",
+  "name": "Truthful Reporting",
+  "subject": "game-theory",
+  "definition": "Truthful Reporting is a fundamental concept in game-theory.",
+  "explanation": "Learn about Truthful Reporting and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "truthful-reporting"
+  ]
+}

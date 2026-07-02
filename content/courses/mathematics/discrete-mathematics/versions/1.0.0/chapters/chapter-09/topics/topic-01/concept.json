@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.discrete-mathematics.chapter-09.topic-01",
+  "name": "Graph Basics",
+  "subject": "mathematics",
+  "definition": "Graph Basics is a fundamental concept in mathematics.",
+  "explanation": "Learn about Graph Basics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "graph-basics"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-10",
+  "name": "Heat Transfer",
+  "description": "Heat Transfer",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Conduction",
+      "conceptId": "physics.thermodynamics.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Convection",
+      "conceptId": "physics.thermodynamics.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Radiation",
+      "conceptId": "physics.thermodynamics.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Stefan-Boltzmann Law",
+      "conceptId": "physics.thermodynamics.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Newton's Law of Cooling",
+      "conceptId": "physics.thermodynamics.chapter-10.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Thermal Resistance",
+      "conceptId": "physics.thermodynamics.chapter-10.topic-06"
+    }
+  ]
+}

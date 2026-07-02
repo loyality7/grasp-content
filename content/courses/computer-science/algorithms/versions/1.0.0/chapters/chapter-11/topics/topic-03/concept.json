@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-11.topic-03",
+  "name": "Online Algorithms",
+  "subject": "computer-science",
+  "definition": "Online Algorithms is a fundamental concept in computer-science.",
+  "explanation": "Learn about Online Algorithms and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "online-algorithms"
+  ]
+}

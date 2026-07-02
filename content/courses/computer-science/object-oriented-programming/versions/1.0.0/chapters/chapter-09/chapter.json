@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Exception Handling",
+  "description": "Exception Handling",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Exceptions",
+      "conceptId": "computer-science.object-oriented-programming.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "try-catch",
+      "conceptId": "computer-science.object-oriented-programming.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "finally",
+      "conceptId": "computer-science.object-oriented-programming.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "throw",
+      "conceptId": "computer-science.object-oriented-programming.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Custom Exceptions",
+      "conceptId": "computer-science.object-oriented-programming.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Best Practices",
+      "conceptId": "computer-science.object-oriented-programming.chapter-09.topic-06"
+    }
+  ]
+}

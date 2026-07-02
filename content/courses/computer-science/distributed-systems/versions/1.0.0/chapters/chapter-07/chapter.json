@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Distributed Transactions",
+  "description": "Distributed Transactions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Two-Phase Commit (2PC)",
+      "conceptId": "computer-science.distributed-systems.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Three-Phase Commit (3PC)",
+      "conceptId": "computer-science.distributed-systems.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Sagas",
+      "conceptId": "computer-science.distributed-systems.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Atomicity",
+      "conceptId": "computer-science.distributed-systems.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Isolation",
+      "conceptId": "computer-science.distributed-systems.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Recovery",
+      "conceptId": "computer-science.distributed-systems.chapter-07.topic-06"
+    }
+  ]
+}

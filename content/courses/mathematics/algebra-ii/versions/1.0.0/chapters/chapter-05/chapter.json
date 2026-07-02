@@ -1,0 +1,32 @@
+{
+  "id": "chapter-05",
+  "name": "Radical Functions",
+  "description": "Radical Functions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Radical Expressions",
+      "conceptId": "mathematics.algebra-ii.chapter-05.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Radical Equations",
+      "conceptId": "mathematics.algebra-ii.chapter-05.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Simplifying Radicals",
+      "conceptId": "mathematics.algebra-ii.chapter-05.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Rational Exponents",
+      "conceptId": "mathematics.algebra-ii.chapter-05.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Extraneous Solutions",
+      "conceptId": "mathematics.algebra-ii.chapter-05.topic-05"
+    }
+  ]
+}

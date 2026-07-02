@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-05.topic-01",
+  "name": "Vectors",
+  "subject": "mathematics",
+  "definition": "Vectors is a fundamental concept in mathematics.",
+  "explanation": "Learn about Vectors and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "vectors"
+  ]
+}

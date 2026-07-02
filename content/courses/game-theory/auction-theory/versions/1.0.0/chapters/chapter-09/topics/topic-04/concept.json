@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-09.topic-04",
+  "name": "Real-Time Bidding",
+  "subject": "game-theory",
+  "definition": "Real-Time Bidding is a fundamental concept in game-theory.",
+  "explanation": "Learn about Real-Time Bidding and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "real-time-bidding"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-09",
+  "name": "Conformal Mapping",
+  "description": "Conformal Mapping",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Conformal Maps",
+      "conceptId": "mathematics.complex-analysis.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Möbius Transformations",
+      "conceptId": "mathematics.complex-analysis.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Bilinear Transformations",
+      "conceptId": "mathematics.complex-analysis.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Applications",
+      "conceptId": "mathematics.complex-analysis.chapter-09.topic-04"
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "id": "psychology-foundations",
+  "name": "Psychology Foundations",
+  "description": "Psychology Foundations",
+  "version": "1.0.0",
+  "domain": "psychology",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Psychology?",
+          "conceptId": "psychology.psychology-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Goals of Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Branches of Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Careers in Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Major Perspectives in Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biological Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Behavioral Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cognitive Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Psychodynamic Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Humanistic Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evolutionary Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sociocultural Perspective",
+          "conceptId": "psychology.psychology-foundations.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Research Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scientific Method",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Observation",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Surveys",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Case Studies",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Experiments",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Correlation",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ethics in Psychological Research",
+          "conceptId": "psychology.psychology-foundations.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Brain & Behavior",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nervous System",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brain Structure",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Neurons",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Neurotransmitters",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hormones",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Brain Plasticity",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Brain Imaging (Introduction)",
+          "conceptId": "psychology.psychology-foundations.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Sensation & Perception",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sensation",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Perception",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vision",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hearing",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Touch",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Taste",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Smell",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Perceptual Organization",
+          "conceptId": "psychology.psychology-foundations.chapter-05.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Consciousness",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Consciousness",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sleep",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dreams",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Circadian Rhythms",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Attention",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Meditation",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Altered States of Consciousness",
+          "conceptId": "psychology.psychology-foundations.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Classical Conditioning",
+          "conceptId": "psychology.psychology-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Operant Conditioning",
+          "conceptId": "psychology.psychology-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Observational Learning",
+          "conceptId": "psychology.psychology-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reinforcement",
+          "conceptId": "psychology.psychology-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Punishment",
+          "conceptId": "psychology.psychology-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Habit Formation",
+          "conceptId": "psychology.psychology-foundations.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Memory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Encoding",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Storage",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Retrieval",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Short-Term Memory",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Long-Term Memory",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Forgetting",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Memory Improvement",
+          "conceptId": "psychology.psychology-foundations.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Thinking & Intelligence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Thinking",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Problem Solving",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Decision Making",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Creativity",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Intelligence",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "IQ",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Emotional Intelligence",
+          "conceptId": "psychology.psychology-foundations.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Motivation & Emotion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Motivation",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Needs",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Goals",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Intrinsic Motivation",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Extrinsic Motivation",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Emotion",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Stress",
+          "conceptId": "psychology.psychology-foundations.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Personality & Individual Differences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Personality",
+          "conceptId": "psychology.psychology-foundations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Temperament",
+          "conceptId": "psychology.psychology-foundations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Traits",
+          "conceptId": "psychology.psychology-foundations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Self-Concept",
+          "conceptId": "psychology.psychology-foundations.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self-Esteem",
+          "conceptId": "psychology.psychology-foundations.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Individual Differences",
+          "conceptId": "psychology.psychology-foundations.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Psychology in Everyday Life",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mental Health",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Relationships",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Education",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Workplace Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Health Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Media & Technology",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Positive Well-Being",
+          "conceptId": "psychology.psychology-foundations.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Future of Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Artificial Intelligence & Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cognitive Science",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Behavioral Economics",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Neuroscience",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cross-Cultural Psychology",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Emerging Research Areas",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 2: Cognitive Psychology**",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Attention",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Perception",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Memory",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Language",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Thinking",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Problem Solving",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Decision Making",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Reasoning",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Intelligence",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Creativity",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Cognitive Biases",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Cognitive Neuroscience",
+          "conceptId": "psychology.psychology-foundations.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "psychology",
+      "psychology-foundations"
+    ]
+  }
+}

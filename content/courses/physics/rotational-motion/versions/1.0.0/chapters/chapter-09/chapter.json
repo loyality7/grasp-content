@@ -1,0 +1,32 @@
+{
+  "id": "chapter-09",
+  "name": "Static Equilibrium",
+  "description": "Static Equilibrium",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Conditions for Equilibrium",
+      "conceptId": "physics.rotational-motion.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Torque Balance",
+      "conceptId": "physics.rotational-motion.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Center of Gravity",
+      "conceptId": "physics.rotational-motion.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Stability",
+      "conceptId": "physics.rotational-motion.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Beam Problems",
+      "conceptId": "physics.rotational-motion.chapter-09.topic-05"
+    }
+  ]
+}

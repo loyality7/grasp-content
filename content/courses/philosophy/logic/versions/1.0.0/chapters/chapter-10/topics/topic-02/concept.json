@@ -1,0 +1,20 @@
+{
+  "id": "philosophy.logic.chapter-10.topic-02",
+  "name": "Logic Gates",
+  "subject": "philosophy",
+  "definition": "Logic Gates is a fundamental concept in philosophy.",
+  "explanation": "Learn about Logic Gates and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "philosophy",
+    "logic-gates"
+  ]
+}

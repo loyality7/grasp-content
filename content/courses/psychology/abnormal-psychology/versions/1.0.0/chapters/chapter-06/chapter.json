@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Schizophrenia Spectrum Disorders",
+  "description": "Schizophrenia Spectrum Disorders",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Schizophrenia",
+      "conceptId": "psychology.abnormal-psychology.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Positive Symptoms",
+      "conceptId": "psychology.abnormal-psychology.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Negative Symptoms",
+      "conceptId": "psychology.abnormal-psychology.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cognitive Symptoms",
+      "conceptId": "psychology.abnormal-psychology.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Psychosis",
+      "conceptId": "psychology.abnormal-psychology.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Treatment & Rehabilitation",
+      "conceptId": "psychology.abnormal-psychology.chapter-06.topic-06"
+    }
+  ]
+}

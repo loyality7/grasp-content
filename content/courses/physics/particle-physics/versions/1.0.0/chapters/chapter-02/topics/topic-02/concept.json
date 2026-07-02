@@ -1,0 +1,20 @@
+{
+  "id": "physics.particle-physics.chapter-02.topic-02",
+  "name": "Leptons",
+  "subject": "physics",
+  "definition": "Leptons is a fundamental concept in physics.",
+  "explanation": "Learn about Leptons and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "leptons"
+  ]
+}

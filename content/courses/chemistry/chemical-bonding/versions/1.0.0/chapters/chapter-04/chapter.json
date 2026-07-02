@@ -1,0 +1,37 @@
+{
+  "id": "chapter-04",
+  "name": "Lewis Structures",
+  "description": "Lewis Structures",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Lewis Dot Structures",
+      "conceptId": "chemistry.chemical-bonding.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Formal Charge",
+      "conceptId": "chemistry.chemical-bonding.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Resonance Structures",
+      "conceptId": "chemistry.chemical-bonding.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Expanded Octet",
+      "conceptId": "chemistry.chemical-bonding.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Incomplete Octet",
+      "conceptId": "chemistry.chemical-bonding.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Exceptions to the Octet Rule",
+      "conceptId": "chemistry.chemical-bonding.chapter-04.topic-06"
+    }
+  ]
+}

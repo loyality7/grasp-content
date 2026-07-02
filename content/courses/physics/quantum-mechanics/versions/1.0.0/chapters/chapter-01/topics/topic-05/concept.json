@@ -1,0 +1,20 @@
+{
+  "id": "physics.quantum-mechanics.chapter-01.topic-05",
+  "name": "State Vectors",
+  "subject": "physics",
+  "definition": "State Vectors is a fundamental concept in physics.",
+  "explanation": "Learn about State Vectors and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "state-vectors"
+  ]
+}

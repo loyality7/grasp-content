@@ -1,0 +1,27 @@
+{
+  "id": "chapter-12",
+  "name": "Categorical Data Analysis",
+  "description": "Categorical Data Analysis",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Contingency Tables",
+      "conceptId": "mathematics.statistics.chapter-12.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Chi-Square Independence Test",
+      "conceptId": "mathematics.statistics.chapter-12.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Odds Ratio",
+      "conceptId": "mathematics.statistics.chapter-12.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Relative Risk",
+      "conceptId": "mathematics.statistics.chapter-12.topic-04"
+    }
+  ]
+}

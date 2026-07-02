@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-05.topic-02",
+  "name": "Euclidean Spaces",
+  "subject": "mathematics",
+  "definition": "Euclidean Spaces is a fundamental concept in mathematics.",
+  "explanation": "Learn about Euclidean Spaces and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "euclidean-spaces"
+  ]
+}

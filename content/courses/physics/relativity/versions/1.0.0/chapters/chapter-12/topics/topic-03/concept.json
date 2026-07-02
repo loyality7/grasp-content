@@ -1,0 +1,20 @@
+{
+  "id": "physics.relativity.chapter-12.topic-03",
+  "name": "Black Hole Astrophysics",
+  "subject": "physics",
+  "definition": "Black Hole Astrophysics is a fundamental concept in physics.",
+  "explanation": "Learn about Black Hole Astrophysics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "black-hole-astrophysics"
+  ]
+}

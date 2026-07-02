@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Cell Division",
+  "description": "Cell Division",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Mitosis",
+      "conceptId": "biology.cell-biology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cytokinesis",
+      "conceptId": "biology.cell-biology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Meiosis",
+      "conceptId": "biology.cell-biology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Gamete Formation",
+      "conceptId": "biology.cell-biology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Comparison of Mitosis & Meiosis",
+      "conceptId": "biology.cell-biology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Chromosome Behavior",
+      "conceptId": "biology.cell-biology.chapter-08.topic-06"
+    }
+  ]
+}

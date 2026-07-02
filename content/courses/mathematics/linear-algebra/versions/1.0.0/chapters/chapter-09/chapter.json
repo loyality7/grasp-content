@@ -1,0 +1,37 @@
+{
+  "id": "chapter-09",
+  "name": "Orthogonality",
+  "description": "Orthogonality",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Dot Product",
+      "conceptId": "mathematics.linear-algebra.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Orthogonal Vectors",
+      "conceptId": "mathematics.linear-algebra.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Orthogonal Basis",
+      "conceptId": "mathematics.linear-algebra.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Gram-Schmidt Process",
+      "conceptId": "mathematics.linear-algebra.chapter-09.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Orthogonal Projection",
+      "conceptId": "mathematics.linear-algebra.chapter-09.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Least Squares",
+      "conceptId": "mathematics.linear-algebra.chapter-09.topic-06"
+    }
+  ]
+}

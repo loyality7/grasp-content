@@ -1,0 +1,20 @@
+{
+  "id": "physics.relativity.chapter-08.topic-01",
+  "name": "Schwarzschild Black Hole",
+  "subject": "physics",
+  "definition": "Schwarzschild Black Hole is a fundamental concept in physics.",
+  "explanation": "Learn about Schwarzschild Black Hole and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "schwarzschild-black-hole"
+  ]
+}

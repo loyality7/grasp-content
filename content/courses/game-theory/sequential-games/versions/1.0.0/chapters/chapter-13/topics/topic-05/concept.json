@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.sequential-games.chapter-13.topic-05",
+  "name": "Multi-Stage Games",
+  "subject": "game-theory",
+  "definition": "Multi-Stage Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Multi-Stage Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "multi-stage-games"
+  ]
+}

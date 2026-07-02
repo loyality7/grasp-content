@@ -1,0 +1,52 @@
+{
+  "id": "chapter-04",
+  "name": "Brain Structure",
+  "description": "Brain Structure",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cerebrum",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Cerebral Cortex",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Frontal Lobe",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Parietal Lobe",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Temporal Lobe",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Occipital Lobe",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Cerebellum",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Brainstem",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-08"
+    },
+    {
+      "id": "topic-09",
+      "name": "Limbic System",
+      "conceptId": "psychology.biological-psychology.chapter-04.topic-09"
+    }
+  ]
+}

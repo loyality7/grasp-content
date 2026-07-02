@@ -1,0 +1,20 @@
+{
+  "id": "physics.rotational-motion.chapter-02.topic-04",
+  "name": "Rotational Inertia",
+  "subject": "physics",
+  "definition": "Rotational Inertia is a fundamental concept in physics.",
+  "explanation": "Learn about Rotational Inertia and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "rotational-inertia"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-12.topic-06",
+  "name": "Large Strategic Games",
+  "subject": "game-theory",
+  "definition": "Large Strategic Games is a fundamental concept in game-theory.",
+  "explanation": "Learn about Large Strategic Games and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "large-strategic-games"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.relativity.chapter-05.topic-01",
+  "name": "Minkowski Space",
+  "subject": "physics",
+  "definition": "Minkowski Space is a fundamental concept in physics.",
+  "explanation": "Learn about Minkowski Space and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "minkowski-space"
+  ]
+}

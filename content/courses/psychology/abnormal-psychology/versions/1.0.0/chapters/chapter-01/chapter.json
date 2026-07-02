@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Abnormal Psychology",
+  "description": "Introduction to Abnormal Psychology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Abnormal Psychology?",
+      "conceptId": "psychology.abnormal-psychology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Defining Psychological Disorders",
+      "conceptId": "psychology.abnormal-psychology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Historical Perspectives",
+      "conceptId": "psychology.abnormal-psychology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Models of Mental Illness",
+      "conceptId": "psychology.abnormal-psychology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Mental Health & Well-Being",
+      "conceptId": "psychology.abnormal-psychology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Stigma",
+      "conceptId": "psychology.abnormal-psychology.chapter-01.topic-06"
+    }
+  ]
+}

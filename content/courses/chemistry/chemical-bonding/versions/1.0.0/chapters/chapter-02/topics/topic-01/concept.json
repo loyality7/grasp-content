@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.chemical-bonding.chapter-02.topic-01",
+  "name": "Ionic Bond",
+  "subject": "chemistry",
+  "definition": "Ionic Bond is a fundamental concept in chemistry.",
+  "explanation": "Learn about Ionic Bond and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "ionic-bond"
+  ]
+}

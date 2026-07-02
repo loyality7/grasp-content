@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Extensive-Form Representation",
+  "description": "Extensive-Form Representation",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Extensive Form Games",
+      "conceptId": "game-theory.sequential-games.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Game Trees",
+      "conceptId": "game-theory.sequential-games.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Decision Nodes",
+      "conceptId": "game-theory.sequential-games.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Branches",
+      "conceptId": "game-theory.sequential-games.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Terminal Nodes",
+      "conceptId": "game-theory.sequential-games.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Paths Through a Game",
+      "conceptId": "game-theory.sequential-games.chapter-02.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-02",
+  "name": "Finite Repeated Games",
+  "description": "Finite Repeated Games",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Finite Horizon",
+      "conceptId": "game-theory.repeated-games.chapter-02.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Stage Games",
+      "conceptId": "game-theory.repeated-games.chapter-02.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Backward Induction",
+      "conceptId": "game-theory.repeated-games.chapter-02.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Endgame Effect",
+      "conceptId": "game-theory.repeated-games.chapter-02.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Equilibrium Analysis",
+      "conceptId": "game-theory.repeated-games.chapter-02.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Strategic Consequences",
+      "conceptId": "game-theory.repeated-games.chapter-02.topic-06"
+    }
+  ]
+}

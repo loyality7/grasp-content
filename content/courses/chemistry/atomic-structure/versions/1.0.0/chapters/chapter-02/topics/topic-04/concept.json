@@ -1,0 +1,20 @@
+{
+  "id": "chemistry.atomic-structure.chapter-02.topic-04",
+  "name": "Proton",
+  "subject": "chemistry",
+  "definition": "Proton is a fundamental concept in chemistry.",
+  "explanation": "Learn about Proton and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "chemistry",
+    "proton"
+  ]
+}

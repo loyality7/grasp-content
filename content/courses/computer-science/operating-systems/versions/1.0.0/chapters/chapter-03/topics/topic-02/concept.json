@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-03.topic-02",
+  "name": "Scheduling Criteria",
+  "subject": "computer-science",
+  "definition": "Scheduling Criteria is a fundamental concept in computer-science.",
+  "explanation": "Learn about Scheduling Criteria and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "scheduling-criteria"
+  ]
+}

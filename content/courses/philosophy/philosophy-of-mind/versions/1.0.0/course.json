@@ -1,0 +1,556 @@
+{
+  "id": "philosophy-of-mind",
+  "name": "Philosophy of Mind",
+  "description": "Philosophy of Mind",
+  "version": "1.0.0",
+  "domain": "philosophy",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Philosophy of Mind",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Philosophy of Mind?",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mental States",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "The Mind-Body Problem",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mental Representation",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Major Theories of Mind",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Consciousness",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conscious Experience",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Awareness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Self-Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Levels of Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "The Hard Problem of Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Altered States of Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Mind & Brain",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Physicalism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dualism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Idealism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Identity Theory",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Functionalism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Emergentism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Personal Identity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Self",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Personal Identity",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Memory Theory",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Psychological Continuity",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bodily Continuity",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thought Experiments",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Intentionality & Mental Representation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intentionality",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Beliefs",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Desires",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mental Representation",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Concepts",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Meaning",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Perception & Experience",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Perception",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sense Experience",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Qualia",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Illusions",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hallucinations",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Direct vs Indirect Realism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Free Will & Agency",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Free Will",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Agency",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Determinism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Compatibilism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Moral Responsibility",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decision Making",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Emotion & Cognition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Emotions",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rationality",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Emotional Intelligence",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Motivation",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cognitive Architecture",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Embodied Cognition",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Artificial Intelligence & Mind",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Artificial Intelligence",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Machine Intelligence",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strong AI",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Weak AI",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Chinese Room Argument",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Turing Test",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Cognitive Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cognitive Science",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Computational Theory of Mind",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Connectionism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Neuroscience",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Language & Thought",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cognitive Models",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Philosophy of Neuroscience",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Brain Imaging",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Neural Correlates of Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Neuroplasticity",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Brain Disorders",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reductionism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Brain Enhancement",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mental Health",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brain-Computer Interfaces",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Robotics",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human-Computer Interaction",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "AI Ethics",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Education",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Law",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Panpsychism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Extended Mind Theory",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Predictive Processing",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Machine Consciousness",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Minds",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Consciousness Research",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 8: Philosophy of Science**",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Scientific Method",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Scientific Explanation",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Observation",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Experimentation",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Scientific Theories",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Falsifiability",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Paradigm Shifts",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Realism vs Instrumentalism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Reductionism",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Complexity",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Philosophy of Physics",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Philosophy of Biology",
+          "conceptId": "philosophy.philosophy-of-mind.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "prerequisites": [],
+    "tags": [
+      "philosophy",
+      "philosophy-of-mind"
+    ]
+  }
+}

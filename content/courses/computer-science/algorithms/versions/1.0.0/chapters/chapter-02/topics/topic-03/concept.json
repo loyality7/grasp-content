@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.algorithms.chapter-02.topic-03",
+  "name": "Recursive Case",
+  "subject": "computer-science",
+  "definition": "Recursive Case is a fundamental concept in computer-science.",
+  "explanation": "Learn about Recursive Case and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "recursive-case"
+  ]
+}

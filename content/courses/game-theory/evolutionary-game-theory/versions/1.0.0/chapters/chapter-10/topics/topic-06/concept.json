@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.evolutionary-game-theory.chapter-10.topic-06",
+  "name": "Optimization",
+  "subject": "game-theory",
+  "definition": "Optimization is a fundamental concept in game-theory.",
+  "explanation": "Learn about Optimization and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "optimization"
+  ]
+}

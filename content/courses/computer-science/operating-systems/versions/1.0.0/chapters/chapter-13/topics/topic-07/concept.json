@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.operating-systems.chapter-13.topic-07",
+  "name": "System Monitoring & Diagnostics",
+  "subject": "computer-science",
+  "definition": "System Monitoring & Diagnostics is a fundamental concept in computer-science.",
+  "explanation": "Learn about System Monitoring & Diagnostics and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "system-monitoring-diagnostics"
+  ]
+}

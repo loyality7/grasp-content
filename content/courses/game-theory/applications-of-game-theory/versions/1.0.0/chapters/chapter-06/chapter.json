@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Artificial Intelligence",
+  "description": "Artificial Intelligence",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Multi-Agent Systems",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Reinforcement Learning",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Autonomous Negotiation",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Cooperative AI",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Competitive AI",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "AI Safety",
+      "conceptId": "game-theory.applications-of-game-theory.chapter-06.topic-06"
+    }
+  ]
+}

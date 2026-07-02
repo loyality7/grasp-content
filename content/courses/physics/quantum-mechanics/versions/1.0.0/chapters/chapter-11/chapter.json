@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Identical Particles",
+  "description": "Identical Particles",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bosons",
+      "conceptId": "physics.quantum-mechanics.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Fermions",
+      "conceptId": "physics.quantum-mechanics.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Pauli Exclusion Principle",
+      "conceptId": "physics.quantum-mechanics.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Spin Statistics",
+      "conceptId": "physics.quantum-mechanics.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Exchange Symmetry",
+      "conceptId": "physics.quantum-mechanics.chapter-11.topic-05"
+    }
+  ]
+}

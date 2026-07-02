@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Biological Diversity",
+  "description": "Biological Diversity",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Bacteria",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Archaea",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Protists",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Fungi",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Plants",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Animals",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Viruses (Introduction)",
+      "conceptId": "biology.biology-foundations.chapter-07.topic-07"
+    }
+  ]
+}

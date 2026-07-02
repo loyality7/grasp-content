@@ -1,0 +1,32 @@
+{
+  "id": "chapter-11",
+  "name": "Graphing Quadratics",
+  "description": "Graphing Quadratics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Parabolas",
+      "conceptId": "mathematics.algebra-i.chapter-11.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Vertex",
+      "conceptId": "mathematics.algebra-i.chapter-11.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Axis of Symmetry",
+      "conceptId": "mathematics.algebra-i.chapter-11.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Maximum & Minimum",
+      "conceptId": "mathematics.algebra-i.chapter-11.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Transformations",
+      "conceptId": "mathematics.algebra-i.chapter-11.topic-05"
+    }
+  ]
+}

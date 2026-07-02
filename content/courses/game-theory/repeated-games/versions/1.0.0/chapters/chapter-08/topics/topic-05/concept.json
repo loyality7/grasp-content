@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.repeated-games.chapter-08.topic-05",
+  "name": "Self-Enforcing Agreements",
+  "subject": "game-theory",
+  "definition": "Self-Enforcing Agreements is a fundamental concept in game-theory.",
+  "explanation": "Learn about Self-Enforcing Agreements and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "self-enforcing-agreements"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chapter-14",
+  "name": "Applications",
+  "description": "Applications",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cryptography",
+      "conceptId": "mathematics.number-theory.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Blockchain",
+      "conceptId": "mathematics.number-theory.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Coding Theory",
+      "conceptId": "mathematics.number-theory.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Error-Correcting Codes",
+      "conceptId": "mathematics.number-theory.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Computer Algorithms",
+      "conceptId": "mathematics.number-theory.chapter-14.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Security Systems",
+      "conceptId": "mathematics.number-theory.chapter-14.topic-06"
+    }
+  ]
+}

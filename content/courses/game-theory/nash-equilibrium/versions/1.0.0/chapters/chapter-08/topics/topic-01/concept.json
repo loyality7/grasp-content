@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.nash-equilibrium.chapter-08.topic-01",
+  "name": "Correlated Strategies",
+  "subject": "game-theory",
+  "definition": "Correlated Strategies is a fundamental concept in game-theory.",
+  "explanation": "Learn about Correlated Strategies and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "correlated-strategies"
+  ]
+}

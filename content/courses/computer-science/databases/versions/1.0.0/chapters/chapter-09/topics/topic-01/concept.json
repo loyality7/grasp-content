@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-09.topic-01",
+  "name": "NoSQL Overview",
+  "subject": "computer-science",
+  "definition": "NoSQL Overview is a fundamental concept in computer-science.",
+  "explanation": "Learn about NoSQL Overview and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "nosql-overview"
+  ]
+}

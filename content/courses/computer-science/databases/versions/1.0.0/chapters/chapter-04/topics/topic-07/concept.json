@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.databases.chapter-04.topic-07",
+  "name": "Common Table Expressions (CTEs)",
+  "subject": "computer-science",
+  "definition": "Common Table Expressions (CTEs) is a fundamental concept in computer-science.",
+  "explanation": "Learn about Common Table Expressions (CTEs) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "common-table-expressions-ctes"
+  ]
+}

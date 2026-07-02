@@ -1,0 +1,37 @@
+{
+  "id": "chapter-07",
+  "name": "Free Will & Agency",
+  "description": "Free Will & Agency",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Free Will",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Agency",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Determinism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Compatibilism",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Moral Responsibility",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Decision Making",
+      "conceptId": "philosophy.philosophy-of-mind.chapter-07.topic-06"
+    }
+  ]
+}

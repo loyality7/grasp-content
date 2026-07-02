@@ -1,0 +1,32 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Biomolecules",
+  "description": "Introduction to Biomolecules",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What are Biomolecules?",
+      "conceptId": "chemistry.biomolecules.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Classification of Biomolecules",
+      "conceptId": "chemistry.biomolecules.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Biological Importance",
+      "conceptId": "chemistry.biomolecules.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Chemical Composition of Living Organisms",
+      "conceptId": "chemistry.biomolecules.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Water in Biological Systems",
+      "conceptId": "chemistry.biomolecules.chapter-01.topic-05"
+    }
+  ]
+}

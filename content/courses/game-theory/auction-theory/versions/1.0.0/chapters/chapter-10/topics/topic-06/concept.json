@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.auction-theory.chapter-10.topic-06",
+  "name": "Public Resource Allocation",
+  "subject": "game-theory",
+  "definition": "Public Resource Allocation is a fundamental concept in game-theory.",
+  "explanation": "Learn about Public Resource Allocation and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "public-resource-allocation"
+  ]
+}

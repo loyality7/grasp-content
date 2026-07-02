@@ -1,0 +1,20 @@
+{
+  "id": "computer-science.programming-fundamentals.chapter-04.topic-01",
+  "name": "Console Input",
+  "subject": "computer-science",
+  "definition": "Console Input is a fundamental concept in computer-science.",
+  "explanation": "Learn about Console Input and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "computer-science",
+    "console-input"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.linear-algebra.chapter-11.topic-03",
+  "name": "Cholesky Decomposition",
+  "subject": "mathematics",
+  "definition": "Cholesky Decomposition is a fundamental concept in mathematics.",
+  "explanation": "Learn about Cholesky Decomposition and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "cholesky-decomposition"
+  ]
+}

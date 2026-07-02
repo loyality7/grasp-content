@@ -1,0 +1,37 @@
+{
+  "id": "chapter-06",
+  "name": "Regression Diagnostics",
+  "description": "Regression Diagnostics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Heteroscedasticity",
+      "conceptId": "economics.econometrics.chapter-06.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Autocorrelation",
+      "conceptId": "economics.econometrics.chapter-06.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Endogeneity",
+      "conceptId": "economics.econometrics.chapter-06.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Omitted Variable Bias",
+      "conceptId": "economics.econometrics.chapter-06.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Model Assumptions",
+      "conceptId": "economics.econometrics.chapter-06.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Diagnostic Tests",
+      "conceptId": "economics.econometrics.chapter-06.topic-06"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.electromagnetism.chapter-17.topic-02",
+  "name": "Kirchhoff's Voltage Law (KVL)",
+  "subject": "physics",
+  "definition": "Kirchhoff's Voltage Law (KVL) is a fundamental concept in physics.",
+  "explanation": "Learn about Kirchhoff's Voltage Law (KVL) and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "kirchhoffs-voltage-law-kvl"
+  ]
+}

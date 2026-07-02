@@ -1,0 +1,20 @@
+{
+  "id": "game-theory.cooperative-game-theory.chapter-13.topic-19",
+  "name": "Mechanism Design",
+  "subject": "game-theory",
+  "definition": "Mechanism Design is a fundamental concept in game-theory.",
+  "explanation": "Learn about Mechanism Design and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "game-theory",
+    "mechanism-design"
+  ]
+}

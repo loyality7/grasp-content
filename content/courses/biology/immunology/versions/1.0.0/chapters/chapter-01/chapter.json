@@ -1,0 +1,37 @@
+{
+  "id": "chapter-01",
+  "name": "Introduction to Immunology",
+  "description": "Introduction to Immunology",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Immunology?",
+      "conceptId": "biology.immunology.chapter-01.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Functions of the Immune System",
+      "conceptId": "biology.immunology.chapter-01.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Immune Organs",
+      "conceptId": "biology.immunology.chapter-01.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Immune Cells",
+      "conceptId": "biology.immunology.chapter-01.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Immune Responses",
+      "conceptId": "biology.immunology.chapter-01.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Self vs Non-Self Recognition",
+      "conceptId": "biology.immunology.chapter-01.topic-06"
+    }
+  ]
+}

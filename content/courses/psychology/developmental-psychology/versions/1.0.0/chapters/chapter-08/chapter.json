@@ -1,0 +1,37 @@
+{
+  "id": "chapter-08",
+  "name": "Middle Adulthood",
+  "description": "Middle Adulthood",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Cognitive Changes",
+      "conceptId": "psychology.developmental-psychology.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Career Growth",
+      "conceptId": "psychology.developmental-psychology.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Family Dynamics",
+      "conceptId": "psychology.developmental-psychology.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Health",
+      "conceptId": "psychology.developmental-psychology.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Stress",
+      "conceptId": "psychology.developmental-psychology.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Midlife Transitions",
+      "conceptId": "psychology.developmental-psychology.chapter-08.topic-06"
+    }
+  ]
+}

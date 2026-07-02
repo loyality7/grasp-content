@@ -1,0 +1,32 @@
+{
+  "id": "chapter-07",
+  "name": "Shortest Path Algorithms",
+  "description": "Shortest Path Algorithms",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Shortest Path Problem",
+      "conceptId": "mathematics.graph-theory.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Dijkstra's Algorithm",
+      "conceptId": "mathematics.graph-theory.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Bellman-Ford Algorithm",
+      "conceptId": "mathematics.graph-theory.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Floyd-Warshall Algorithm",
+      "conceptId": "mathematics.graph-theory.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "A* Search (Introduction)",
+      "conceptId": "mathematics.graph-theory.chapter-07.topic-05"
+    }
+  ]
+}

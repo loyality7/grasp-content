@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.real-analysis.chapter-14.topic-01",
+  "name": "Advanced Calculus",
+  "subject": "mathematics",
+  "definition": "Advanced Calculus is a fundamental concept in mathematics.",
+  "explanation": "Learn about Advanced Calculus and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "advanced-calculus"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chapter-07",
+  "name": "Inferential Statistics",
+  "description": "Inferential Statistics",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Probability",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Sampling Distributions",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Confidence Intervals",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Hypothesis Testing",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "p-Values",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Statistical Significance",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Effect Size",
+      "conceptId": "psychology.research-methods-statistics.chapter-07.topic-07"
+    }
+  ]
+}

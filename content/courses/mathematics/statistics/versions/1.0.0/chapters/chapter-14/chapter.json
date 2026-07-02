@@ -1,0 +1,32 @@
+{
+  "id": "chapter-14",
+  "name": "Statistical Computing",
+  "description": "Statistical Computing",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Data Cleaning",
+      "conceptId": "mathematics.statistics.chapter-14.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Exploratory Data Analysis (EDA)",
+      "conceptId": "mathematics.statistics.chapter-14.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Visualization",
+      "conceptId": "mathematics.statistics.chapter-14.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Outlier Detection",
+      "conceptId": "mathematics.statistics.chapter-14.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Missing Data",
+      "conceptId": "mathematics.statistics.chapter-14.topic-05"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "physics.fluid-mechanics.chapter-04.topic-05",
+  "name": "Turbulent Flow",
+  "subject": "physics",
+  "definition": "Turbulent Flow is a fundamental concept in physics.",
+  "explanation": "Learn about Turbulent Flow and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "physics",
+    "turbulent-flow"
+  ]
+}

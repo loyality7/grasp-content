@@ -1,0 +1,27 @@
+{
+  "id": "chapter-09",
+  "name": "Parametric Equations",
+  "description": "Parametric Equations",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Parametric Curves",
+      "conceptId": "mathematics.calculus-ii.chapter-09.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Derivatives of Parametric Curves",
+      "conceptId": "mathematics.calculus-ii.chapter-09.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Arc Length",
+      "conceptId": "mathematics.calculus-ii.chapter-09.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Tangent Lines",
+      "conceptId": "mathematics.calculus-ii.chapter-09.topic-04"
+    }
+  ]
+}

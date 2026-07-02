@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.number-theory.chapter-10.topic-03",
+  "name": "Public-Key Cryptography",
+  "subject": "mathematics",
+  "definition": "Public-Key Cryptography is a fundamental concept in mathematics.",
+  "explanation": "Learn about Public-Key Cryptography and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "public-key-cryptography"
+  ]
+}

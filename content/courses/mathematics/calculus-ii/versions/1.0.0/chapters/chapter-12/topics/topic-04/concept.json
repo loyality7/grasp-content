@@ -1,0 +1,20 @@
+{
+  "id": "mathematics.calculus-ii.chapter-12.topic-04",
+  "name": "Engineering Applications",
+  "subject": "mathematics",
+  "definition": "Engineering Applications is a fundamental concept in mathematics.",
+  "explanation": "Learn about Engineering Applications and its applications.",
+  "prerequisites": [],
+  "relatedConcepts": [],
+  "visualizationIds": [],
+  "quizIds": [],
+  "flashcardIds": [],
+  "exampleIds": [],
+  "exerciseIds": [],
+  "difficulty": "beginner",
+  "estimatedMinutes": 10,
+  "tags": [
+    "mathematics",
+    "engineering-applications"
+  ]
+}
