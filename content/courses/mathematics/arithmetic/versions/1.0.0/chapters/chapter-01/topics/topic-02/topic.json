@@ -7,9 +7,9 @@
     "overview": "Whole numbers represent the set of non-negative integers, created by adding zero to the set of natural numbers.",
     "explanation": "### Definition and Set Notation\n\nIn mathematics, **Whole Numbers** extend the natural numbers by including the number zero ($0$). The set of whole numbers is denoted by the symbol $\\mathbb{W}$:\n\n{{viz:formula-01}}\n\nAlgebraically, the whole numbers can be represented as the union of the set of natural numbers and the singleton set containing zero:\n$$\\mathbb{W} = \\mathbb{N} \\cup \\{0\\}$$\n\n### The Mathematical Significance of Zero\n\nThe introduction of $0$ provides a critical algebraic property that does not exist in the set of natural numbers:\n\n- **Additive Identity**: The number $0$ is the additive identity because adding $0$ to any whole number does not change its value: $a + 0 = a$ for all $a \\in \\mathbb{W}$.\n- **Multiplication by Zero**: Multiplying any whole number by $0$ yields $0$: $a \\times 0 = 0$.\n\n### Predecessor and Successor Rules\n\nIn the set of whole numbers:\n- Every whole number $n$ has a unique successor $S(n) = n + 1$.\n- Every whole number $n$ except $0$ has a unique predecessor $n - 1$ within the set. Since $0$ is the starting element of $\\mathbb{W}$, it has no predecessor in $\\mathbb{W}$.\n\nObserve how zero acts as the starting origin of the non-negative number line in this timeline visualization:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "The set $\\mathbb{W}$ consists of all natural numbers plus zero: $\{0, 1, 2, 3, \\dots\}$.",
+      "The set $\\\\mathbb{W}$ consists of all natural numbers plus zero: $\\\\{0, 1, 2, 3, \\\\dots\\\\}$.",
       "Zero ($0$) serves as the additive identity element in the set of whole numbers.",
-      "While every whole number has a successor, $0$ is unique because it has no predecessor in $\\mathbb{W}$."
+      "While every whole number has a successor, $0$ is unique because it has no predecessor in $\\\\mathbb{W}$."
     ],
     "whyItMatters": "Whole numbers are fundamental to algebra because they introduce the concept of identity elements. In computer programming, indexing typically starts at $0$, mirroring the structure of the whole number set."
   }

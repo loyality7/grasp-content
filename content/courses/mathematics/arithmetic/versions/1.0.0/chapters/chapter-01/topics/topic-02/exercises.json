@@ -1,35 +1,30 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Whole Numbers.",
-      "solution": "Step-by-step solution for Whole Numbers problem.",
+      "id": "exercise-01",
+      "prompt": "Given that $x \\in \\mathbb{W}$ and $y \\in \\mathbb{W}$, determine whether the expression $x - y$ is always a whole number. If not, provide the conditions under which the result remains in $\\mathbb{W}$.",
+      "solution": "The expression $x - y$ is **not always** a whole number.\n\n**Analysis**:\nFor the result to remain in $\\mathbb{W}$, we require $x - y \\geq 0$, which means $x \\geq y$.\n\n**Conditions for closure**:\n- If $x \\geq y$, then $x - y \\in \\mathbb{W}$\n- If $x < y$, then $x - y < 0$, and the result is a negative integer, which is not in $\\mathbb{W}$\n\n**Example satisfying the condition**:\nLet $x = 10$ and $y = 3$:\n$$x - y = 10 - 3 = 7 \\in \\mathbb{W}$$\n\n**Counterexample**:\nLet $x = 3$ and $y = 10$:\n$$x - y = 3 - 10 = -7 \\notin \\mathbb{W}$$\n\nTherefore, subtraction is only closed in $\\mathbb{W}$ when the minuend is greater than or equal to the subtrahend.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Consider what happens when you subtract a larger number from a smaller number.",
+        "Recall that whole numbers cannot be negative.",
+        "Think about the condition: when is $x - y \\geq 0$?"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 8,
+      "tags": ["Arithmetic", "Closure Properties", "Whole Numbers"]
+    },
+    {
+      "id": "exercise-02",
+      "prompt": "A school library starts with $0$ books on a new shelf. Each day, the librarian adds $5$ books to the shelf. Write an expression for the total number of books after $n$ days, and explain why this scenario perfectly models the set of Whole Numbers.",
+      "solution": "**Expression**:\nLet $B(n)$ represent the total number of books after $n$ days, where $n \\in \\mathbb{W}$:\n$$B(n) = 5n$$\n\n**Verification**:\n- Day 0: $B(0) = 5 \\times 0 = 0$ books\n- Day 1: $B(1) = 5 \\times 1 = 5$ books\n- Day 2: $B(2) = 5 \\times 2 = 10$ books\n- Day 3: $B(3) = 5 \\times 3 = 15$ books\n\n**Why this models Whole Numbers**:\n1. **Starting at zero**: The initial state has $0$ books, which is the starting element of $\\mathbb{W}$.\n2. **Non-negative values**: Since $n \\in \\mathbb{W}$ and the coefficient is positive, $B(n) \\geq 0$ for all valid inputs.\n3. **Discrete increments**: Each day produces a whole number count, never fractions or decimals.\n4. **Successor property**: Each day represents moving to the next whole number in a sequence.\n\nThis scenario demonstrates why whole numbers (starting from $0$) are natural for counting discrete objects over time.",
+      "hints": [
+        "Start with the initial condition: how many books are there on day 0?",
+        "Multiply the number of days by the rate of addition.",
+        "Consider why zero is essential as a starting point in real-world counting."
       ],
       "difficulty": "intermediate",
       "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "whole-numbers"
-      ]
-    },
-    {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Whole Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "whole-numbers"
-      ]
+      "tags": ["Arithmetic", "Real-World Applications", "Whole Numbers", "Linear Functions"]
     }
   ]
 }

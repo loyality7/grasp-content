@@ -1,0 +1,314 @@
+========================================================================
+                    GRASP CONTENT SYSTEM OVERVIEW
+========================================================================
+
+Grasp Content is a structured CDN-ready content delivery system that powers
+the Learn Center in the Grasp mobile app. It organizes educational courses
+across multiple domains with rich visualizations and learning materials.
+
+------------------------------------------------------------------------
+1. CONTENT ARCHITECTURE
+------------------------------------------------------------------------
+
+* Hierarchical Structure:
+  Domain → Course → Version → Chapter → Topic
+
+* 9 Active Domains:
+  - Mathematics (20 courses: Arithmetic, Algebra, Calculus, etc.)
+  - Physics (24 courses: Kinematics, Thermodynamics, Quantum, etc.)
+  - Chemistry (25 courses: Organic, Inorganic, Analytical, etc.)
+  - Biology (11 courses: Cell Biology, Genetics, Ecology, etc.)
+  - Computer Science (20 courses: Algorithms, AI, Web Dev, etc.)
+  - Economics (12 courses: Micro, Macro, Behavioral, etc.)
+  - Game Theory (12 courses: Nash Equilibrium, Auctions, etc.)
+  - Philosophy (12 courses: Ethics, Logic, Metaphysics, etc.)
+  - Psychology (12 courses: Cognitive, Social, Clinical, etc.)
+
+* Version Control:
+  Each course supports multiple versions (currently 1.0.0) with latest.json
+  tracking to allow content updates without breaking mobile apps.
+
+------------------------------------------------------------------------
+2. FOLDER STRUCTURE
+------------------------------------------------------------------------
+
+grasp-content/
+├── content/                    # Main content repository
+│   ├── courses/               # Domain/Course/Version hierarchy
+│   │   └── [domain]/
+│   │       └── [course-id]/
+│   │           ├── index.json          # Course discovery metadata
+│   │           ├── latest.json         # Version tracker
+│   │           └── versions/
+│   │               └── 1.0.0/
+│   │                   ├── course.json # Full course structure
+│   │                   └── chapters/
+│   │                       └── chapter-01/
+│   │                           ├── chapter.json
+│   │                           └── topics/
+│   │                               └── topic-01/
+│   │                                   ├── topic.json
+│   │                                   ├── examples.json
+│   │                                   ├── flashcards.json
+│   │                                   ├── quiz.json
+│   │                                   ├── exercises.json
+│   │                                   └── visualizations.json
+│   ├── domains/               # Domain metadata files
+│   └── learning/              # Shared learning materials
+├── indexes/                   # Generated search indexes
+│   ├── courses.json          # Course catalog index
+│   ├── domains.json          # Domain listing
+│   ├── concepts.json         # Concept mapping
+│   └── versions.json         # Version tracking
+├── schemas/                   # JSON validation schemas
+│   ├── course.schema.json
+│   ├── topic.schema.json
+│   ├── visualization.schema.json
+│   └── ...
+├── scripts/                   # Build automation
+│   ├── build-all.js          # Main content generator
+│   └── build-physics.js      # Domain-specific builder
+├── assets/                    # Media files
+│   ├── 3d/                   # Three.js models
+│   ├── audio/                # Audio files
+│   ├── diagram/              # SVG diagrams
+│   ├── formula/              # LaTeX formulas
+│   ├── images/               # Static images
+│   └── video/                # Video files
+├── meta/                      # Metadata definitions
+│   ├── authors.json          # Content authors
+│   ├── tags.json             # Topic tags
+│   ├── difficulties.json     # Difficulty levels
+│   └── licenses.json         # Content licenses
+├── localization/              # Multi-language support
+│   ├── en/                   # English
+│   ├── es/                   # Spanish
+│   ├── fr/                   # French
+│   ├── de/                   # German
+│   ├── hi/                   # Hindi
+│   └── ja/                   # Japanese
+└── search/                    # Search indexes
+    ├── search.json           # Full-text search
+    ├── keywords.json         # Keyword index
+    └── tags.json             # Tag index
+
+------------------------------------------------------------------------
+3. CONTENT FILES PER TOPIC
+------------------------------------------------------------------------
+
+Each topic folder contains 6 JSON files:
+
+* topic.json (Main Content):
+  - Topic metadata (id, name, topicId, description)
+  - Content sections with inline visualization references:
+    · overview: Brief introduction
+    · explanation: Detailed content with {{viz:id}} inline refs
+    · keyPoints: Bulleted summary list
+    · whyItMatters: Relevance and importance
+
+* examples.json (Practical Examples):
+  - Real-world applications
+  - Step-by-step demonstrations
+  - Difficulty levels: beginner, intermediate, advanced
+  - Estimated completion time
+
+* flashcards.json (Study Cards):
+  - Front/back card pairs
+  - Difficulty levels: easy, medium, hard
+  - Quick review and memorization
+
+* quiz.json (Assessment Questions):
+  - Multiple-choice questions
+  - True/false questions
+  - Correct answers with explanations
+  - Difficulty levels and scoring
+
+* exercises.json (Practice Problems):
+  - Problem prompts
+  - Step-by-step solutions
+  - Hints for guidance
+  - Difficulty and estimated time
+
+* visualizations.json (Visual Library):
+  - 9 visualization types (see section 4)
+  - Referenced inline in content via {{viz:diagram-01}}
+  - Each viz has id, type, title, description, spec
+
+------------------------------------------------------------------------
+4. VISUALIZATION SYSTEM
+------------------------------------------------------------------------
+
+Content uses inline references like {{viz:diagram-01}} that map to entries
+in visualizations.json.
+
+* 9 Supported Visualization Types:
+
+1. diagram - Flowcharts, mindmaps, concept maps
+   · Uses nodes (id, label, type) and edges (from, to)
+   · Types: flowchart, mindmap, sequence, network
+
+2. formula - LaTeX mathematical equations
+   · main_latex: Primary formula
+   · steps: Step-by-step breakdown with explanations
+
+3. 3d - Interactive Three.js 3D models
+   · setup_code: JavaScript to create geometry/materials
+   · Interactive rotation and manipulation
+
+4. 2d-anim - Canvas-based animations
+   · setup_code: JavaScript draw function
+   · Real-time rendering with time parameter
+
+5. d3 - Data visualizations and charts
+   · chart_type: function, bar, line, scatter, etc.
+   · data_json: Chart data configuration
+   · x_label, y_label: Axis labels
+
+6. 2d-text - Rich markdown text blocks
+   · body_markdown: Formatted text content
+   · citations: Reference list
+
+7. simulation - Interactive physics simulations
+   · simulationType: physics, chemistry, biology
+   · config: Simulation parameters
+
+8. lottie - Animated icons and illustrations
+   · lottieUrl: JSON animation file URL
+   · autoplay, loop settings
+
+9. custom - Extensible for future types
+   · customType: Specific renderer name
+   · config: Custom parameters
+
+------------------------------------------------------------------------
+5. BUILD SYSTEM (scripts/build-all.js)
+------------------------------------------------------------------------
+
+* Input Source:
+  Plain text files in D:\Projects\Grasp\notes\
+  - Maths.txt, physics.txt, biology.txt, chemistry.txt, etc.
+
+* Text Format Parser:
+  Detects structured markdown-style headers:
+  - Course headers: # Course 1: [Title] or ## Course 1: [Title]
+  - Chapter headers: # Chapter 1: [Title] or ## Chapter 1: [Title]
+  - Topic bullets: * Topic Name
+
+* Generation Process:
+  1. Reads .txt files from notes/ folder
+  2. Parses course/chapter/topic hierarchy
+  3. Generates complete JSON structure for each topic:
+     · topic.json with placeholder content
+     · examples.json with 2 examples
+     · flashcards.json with 3 cards (easy/medium/hard)
+     · quiz.json with 3 questions
+     · exercises.json with 2 exercises
+     · visualizations.json with 9 sample visualizations
+  4. Creates course.json with full structure
+  5. Generates index files for discovery
+
+* Running the Build:
+  node scripts/build-all.js
+  
+  Output: Generates all JSON files in content/courses/[domain]/[course]/
+
+* Manual Content Enhancement:
+  After generation, manually edit JSON files to add:
+  - Rich explanations with proper LaTeX formulas
+  - Accurate visualization specs
+  - Real examples and exercises
+  - Proper quiz questions and solutions
+
+------------------------------------------------------------------------
+6. CONTENT WORKFLOW
+------------------------------------------------------------------------
+
+Step 1: Create Source Notes
+  Write structured course outline in notes/[domain].txt:
+  
+  # Course 1: Arithmetic
+  This course covers basic arithmetic operations.
+  
+  ## Chapter 1: Number System
+  * Natural Numbers
+  * Whole Numbers
+  * Integers
+
+Step 2: Run Build Script
+  cd grasp-content
+  node scripts/build-all.js
+  
+  Generates skeleton JSON structure with placeholders.
+
+Step 3: Enhance Content
+  Manually edit the generated JSON files:
+  - topic.json: Add detailed explanations with {{viz:id}} refs
+  - examples.json: Create real-world examples
+  - flashcards.json: Write accurate study cards
+  - quiz.json: Design assessment questions
+  - exercises.json: Add practice problems
+  - visualizations.json: Define visualization specs
+
+Step 4: Test Content
+  Use mobile app to preview the course and verify:
+  - Content renders correctly
+  - Visualizations display properly
+  - Navigation works smoothly
+
+Step 5: Deploy to CDN
+  Upload content/ folder to CDN
+  Mobile app fetches from: https://cdn.grasp.app/courses/
+
+------------------------------------------------------------------------
+7. MOBILE APP INTEGRATION
+------------------------------------------------------------------------
+
+* Content Fetching:
+  The mobile app (mobile/src/features/course/lib/remote-courses.ts) 
+  fetches JSON directly from the CDN using the hierarchy:
+  
+  1. Fetch domain list from indexes/domains.json
+  2. Fetch course catalog from indexes/courses.json
+  3. On course enrollment, fetch course.json
+  4. On topic view, fetch topic files dynamically
+
+* Local Tracking:
+  SQLite database stores:
+  - Enrolled courses
+  - Downloaded topics
+  - Progress states (completed, in_progress, locked)
+  - Last accessed timestamps
+
+* Visualization Rendering:
+  TopicViewer.tsx component parses {{viz:id}} inline references
+  and renders appropriate visualization components based on type.
+
+------------------------------------------------------------------------
+8. KEY DESIGN PRINCIPLES
+------------------------------------------------------------------------
+
+* Topic-Level Granularity:
+  Each topic is self-contained with all learning materials.
+  Allows selective downloading and offline access.
+
+* Version Control:
+  Courses support multiple versions via versions/ folder.
+  latest.json tracks current version for backward compatibility.
+
+* Inline Visualization References:
+  Content uses {{viz:id}} syntax to embed visualizations naturally
+  within text flow, not as separate sections.
+
+* CDN-First Architecture:
+  Content lives on CDN, mobile app fetches on-demand.
+  Reduces app bundle size and enables instant updates.
+
+* Rich Learning Materials:
+  Every topic includes multiple study modalities:
+  reading, examples, flashcards, quizzes, exercises.
+
+* Multi-Language Ready:
+  Localization folder structure prepared for translations.
+  Currently supports 6 languages (en, es, fr, de, hi, ja).
+
+========================================================================
