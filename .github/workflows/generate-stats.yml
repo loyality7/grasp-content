@@ -3,6 +3,8 @@ name: Generate Live Statistics
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'content/**'
   workflow_dispatch:
 
 permissions:
