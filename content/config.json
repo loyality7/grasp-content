@@ -1,0 +1,7 @@
+{
+  "cdns": [
+    "https://raw.githubusercontent.com/loyality7/grasp-content/main/",
+    "https://cdn.jsdelivr.net/gh/loyality7/grasp-content@main/",
+    "https://fastly.jsdelivr.net/gh/loyality7/grasp-content@main/"
+  ]
+}
