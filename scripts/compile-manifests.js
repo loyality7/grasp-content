@@ -58,7 +58,8 @@ function buildManifests() {
           version: version,
           difficulty: indexData.difficulty || 'intermediate',
           estimatedHours: indexData.estimatedHours || 10,
-          chaptersCount: indexData.chapters || 0
+          chaptersCount: indexData.chapters || 0,
+          illustration: indexData.illustration || 'illustration.svg'
         });
       }
     }
