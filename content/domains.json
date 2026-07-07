@@ -1,0 +1,83 @@
+[
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "description": "The study of numbers, quantities, shapes, structures, and change.",
+    "courseCount": 20,
+    "icon": "calculator",
+    "color": "#2563EB",
+    "order": 1
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "description": "The natural science that studies matter, motion, energy, and force.",
+    "courseCount": 25,
+    "icon": "atom",
+    "color": "#DC2626",
+    "order": 2
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "description": "The scientific study of the properties and behavior of matter.",
+    "courseCount": 25,
+    "icon": "flask-conical",
+    "color": "#16A34A",
+    "order": 3
+  },
+  {
+    "id": "biology",
+    "name": "Biology",
+    "description": "The study of life and living organisms.",
+    "courseCount": 11,
+    "icon": "activity",
+    "color": "#059669",
+    "order": 4
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science",
+    "description": "The study of computation, information, and automation.",
+    "courseCount": 20,
+    "icon": "cpu",
+    "color": "#7C3AED",
+    "order": 5
+  },
+  {
+    "id": "economics",
+    "name": "Economics",
+    "description": "The study of production, distribution, and consumption of goods and services.",
+    "courseCount": 12,
+    "icon": "trending-up",
+    "color": "#CA8A04",
+    "order": 6
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "description": "The scientific study of mind and behavior.",
+    "courseCount": 12,
+    "icon": "brain",
+    "color": "#EC4899",
+    "order": 7
+  },
+  {
+    "id": "philosophy",
+    "name": "Philosophy",
+    "description": "The study of fundamental questions about existence, knowledge, values, reason, mind, and language.",
+    "courseCount": 12,
+    "icon": "book-open",
+    "color": "#C2410C",
+    "order": 8
+  },
+  {
+    "id": "game-theory",
+    "name": "Game Theory",
+    "description": "The study of mathematical models of strategic interaction among rational decision-makers.",
+    "courseCount": 12,
+    "icon": "gamepad-2",
+    "color": "#0891B2",
+    "order": 9
+  }
+]

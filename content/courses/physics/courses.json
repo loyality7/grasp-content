@@ -1,0 +1,227 @@
+[
+  {
+    "id": "physics-foundations",
+    "title": "Physics Foundations",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "kinematics",
+    "title": "Kinematics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "newtonian-mechanics",
+    "title": "Newtonian Mechanics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "chaptersCount": 11
+  },
+  {
+    "id": "work-energy-power",
+    "title": "Work, Energy & Power",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "momentum-collisions",
+    "title": "Momentum & Collisions",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "rotational-motion",
+    "title": "Rotational Motion",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "chaptersCount": 11
+  },
+  {
+    "id": "gravitation",
+    "title": "Gravitation",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "oscillations-simple-harmonic-motion-shm",
+    "title": "Oscillations & Simple Harmonic Motion (SHM)",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "waves-sound",
+    "title": "Waves & Sound",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "thermodynamics",
+    "title": "Thermodynamics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "fluid-mechanics",
+    "title": "Fluid Mechanics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "electricity-electrostatics",
+    "title": "Electricity (Electrostatics)",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "magnetism",
+    "title": "Magnetism",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "chaptersCount": 10
+  },
+  {
+    "id": "electromagnetism",
+    "title": "Electromagnetism",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 50,
+    "chaptersCount": 25
+  },
+  {
+    "id": "optics",
+    "title": "Optics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "chaptersCount": 11
+  },
+  {
+    "id": "modern-physics",
+    "title": "Modern Physics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "electrical-circuits",
+    "title": "Electrical Circuits",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 10,
+    "chaptersCount": 0
+  },
+  {
+    "id": "quantum-mechanics",
+    "title": "Quantum Mechanics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "atomic-nuclear-physics",
+    "title": "Atomic & Nuclear Physics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "solid-state-physics",
+    "title": "Solid State Physics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "particle-physics",
+    "title": "Particle Physics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "relativity",
+    "title": "Relativity",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "plasma-physics",
+    "title": "Plasma Physics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "astrophysics",
+    "title": "Astrophysics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "cosmology",
+    "title": "Cosmology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  }
+]

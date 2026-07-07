@@ -1,0 +1,182 @@
+[
+  {
+    "id": "arithmetic",
+    "title": "Arithmetic",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "pre-algebra",
+    "title": "Pre-Algebra",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 32,
+    "chaptersCount": 16
+  },
+  {
+    "id": "algebra-i",
+    "title": "Algebra I",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "chaptersCount": 15
+  },
+  {
+    "id": "algebra-ii",
+    "title": "Algebra II",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "chaptersCount": 15
+  },
+  {
+    "id": "geometry",
+    "title": "Geometry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 32,
+    "chaptersCount": 16
+  },
+  {
+    "id": "trigonometry",
+    "title": "Trigonometry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "precalculus",
+    "title": "Precalculus",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "chaptersCount": 15
+  },
+  {
+    "id": "calculus-i",
+    "title": "Calculus I",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "calculus-ii",
+    "title": "Calculus II",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "calculus-iii-multivariable-calculus",
+    "title": "Calculus III (Multivariable Calculus)",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "chaptersCount": 15
+  },
+  {
+    "id": "linear-algebra",
+    "title": "Linear Algebra",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "differential-equations",
+    "title": "Differential Equations",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "discrete-mathematics",
+    "title": "Discrete Mathematics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "chaptersCount": 15
+  },
+  {
+    "id": "probability",
+    "title": "Probability",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "statistics",
+    "title": "Statistics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "chaptersCount": 15
+  },
+  {
+    "id": "number-theory",
+    "title": "Number Theory",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "graph-theory",
+    "title": "Graph Theory",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "real-analysis",
+    "title": "Real Analysis",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 28,
+    "chaptersCount": 14
+  },
+  {
+    "id": "abstract-algebra",
+    "title": "Abstract Algebra",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "complex-analysis",
+    "title": "Complex Analysis",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "psychology-foundations",
+    "title": "Psychology Foundations",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "cognitive-psychology",
+    "title": "Cognitive Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "biological-psychology",
+    "title": "Biological Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "developmental-psychology",
+    "title": "Developmental Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "social-psychology",
+    "title": "Social Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "personality-psychology",
+    "title": "Personality Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "learning-behavior",
+    "title": "Learning & Behavior",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "abnormal-psychology",
+    "title": "Abnormal Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "clinical-psychology",
+    "title": "Clinical Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "industrial-organizational-psychology",
+    "title": "Industrial & Organizational Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "research-methods-statistics",
+    "title": "Research Methods & Statistics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "positive-psychology",
+    "title": "Positive Psychology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  }
+]

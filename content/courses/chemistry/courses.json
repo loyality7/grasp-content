@@ -1,0 +1,227 @@
+[
+  {
+    "id": "chemistry-foundations",
+    "title": "Chemistry Foundations",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "chaptersCount": 11
+  },
+  {
+    "id": "atomic-structure",
+    "title": "Atomic Structure",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 22,
+    "chaptersCount": 11
+  },
+  {
+    "id": "periodic-table",
+    "title": "Periodic Table",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "chemical-bonding",
+    "title": "Chemical Bonding",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "states-of-matter",
+    "title": "States of Matter",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "thermochemistry",
+    "title": "Thermochemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "chemical-equilibrium",
+    "title": "Chemical Equilibrium",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "acids-bases",
+    "title": "Acids & Bases",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "electrochemistry",
+    "title": "Electrochemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "chemical-kinetics",
+    "title": "Chemical Kinetics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "main-group-chemistry",
+    "title": "Main Group Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "transition-metals",
+    "title": "Transition Metals",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "coordination-chemistry",
+    "title": "Coordination Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "organic-chemistry-i",
+    "title": "Organic Chemistry I",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "organic-chemistry-ii",
+    "title": "Organic Chemistry II",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "biomolecules",
+    "title": "Biomolecules",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "polymers",
+    "title": "Polymers",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "analytical-chemistry",
+    "title": "Analytical Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "spectroscopy",
+    "title": "Spectroscopy",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "environmental-chemistry",
+    "title": "Environmental Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "materials-chemistry",
+    "title": "Materials Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "nanochemistry",
+    "title": "Nanochemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "nuclear-chemistry",
+    "title": "Nuclear Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "industrial-chemistry",
+    "title": "Industrial Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "computational-chemistry",
+    "title": "Computational Chemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  }
+]

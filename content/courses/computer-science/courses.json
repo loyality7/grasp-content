@@ -1,0 +1,182 @@
+[
+  {
+    "id": "computer-science-foundations",
+    "title": "Computer Science Foundations",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "programming-fundamentals",
+    "title": "Programming Fundamentals",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "object-oriented-programming",
+    "title": "Object-Oriented Programming",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "data-structures",
+    "title": "Data Structures",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "algorithms",
+    "title": "Algorithms",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "computer-organization",
+    "title": "Computer Organization",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "operating-systems",
+    "title": "Operating Systems",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "computer-networks",
+    "title": "Computer Networks",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "databases",
+    "title": "Databases",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "software-engineering",
+    "title": "Software Engineering",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "web-development",
+    "title": "Web Development",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "mobile-development",
+    "title": "Mobile Development",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "system-design",
+    "title": "System Design",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "distributed-systems",
+    "title": "Distributed Systems",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "compiler-design",
+    "title": "Compiler Design",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "computer-graphics",
+    "title": "Computer Graphics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "artificial-intelligence",
+    "title": "Artificial Intelligence",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "machine-learning",
+    "title": "Machine Learning",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "data-science",
+    "title": "Data Science",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "cybersecurity",
+    "title": "Cybersecurity",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  }
+]

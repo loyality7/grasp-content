@@ -1,0 +1,101 @@
+[
+  {
+    "id": "biology-foundations",
+    "title": "Biology Foundations",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "cell-biology",
+    "title": "Cell Biology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "molecular-biology",
+    "title": "Molecular Biology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "genetics",
+    "title": "Genetics",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "evolution",
+    "title": "Evolution",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 24,
+    "chaptersCount": 12
+  },
+  {
+    "id": "human-physiology",
+    "title": "Human Physiology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "microbiology",
+    "title": "Microbiology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "immunology",
+    "title": "Immunology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "ecology",
+    "title": "Ecology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "biotechnology",
+    "title": "Biotechnology",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  },
+  {
+    "id": "biochemistry",
+    "title": "Biochemistry",
+    "description": "",
+    "version": "1.0.0",
+    "difficulty": "beginner",
+    "estimatedHours": 26,
+    "chaptersCount": 13
+  }
+]
