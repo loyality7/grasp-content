@@ -553,5 +553,6 @@
       "mechanism-design"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

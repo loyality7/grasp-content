@@ -315,5 +315,6 @@
       "momentum-collisions"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

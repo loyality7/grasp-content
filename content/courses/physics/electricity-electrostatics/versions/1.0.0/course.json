@@ -360,5 +360,6 @@
       "electricity-electrostatics"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

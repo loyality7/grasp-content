@@ -548,5 +548,6 @@
       "distributed-systems"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

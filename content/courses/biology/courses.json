@@ -6,7 +6,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12
+    "chaptersCount": 12,
+    "illustration": "illustration.svg"
   },
   {
     "id": "cell-biology",
@@ -15,7 +16,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "molecular-biology",
@@ -24,7 +26,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "genetics",
@@ -33,7 +36,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "evolution",
@@ -42,7 +46,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12
+    "chaptersCount": 12,
+    "illustration": "illustration.svg"
   },
   {
     "id": "human-physiology",
@@ -51,7 +56,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "microbiology",
@@ -60,7 +66,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "immunology",
@@ -69,7 +76,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "ecology",
@@ -78,7 +86,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "biotechnology",
@@ -87,7 +96,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "biochemistry",
@@ -96,6 +106,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   }
 ]

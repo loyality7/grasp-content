@@ -6,7 +6,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "cognitive-psychology",
@@ -15,7 +16,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "biological-psychology",
@@ -24,7 +26,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "developmental-psychology",
@@ -33,7 +36,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "social-psychology",
@@ -42,7 +46,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "personality-psychology",
@@ -51,7 +56,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "learning-behavior",
@@ -60,7 +66,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "abnormal-psychology",
@@ -69,7 +76,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "clinical-psychology",
@@ -78,7 +86,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "industrial-organizational-psychology",
@@ -87,7 +96,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "research-methods-statistics",
@@ -96,7 +106,8 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   },
   {
     "id": "positive-psychology",
@@ -105,6 +116,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13
+    "chaptersCount": 13,
+    "illustration": "illustration.svg"
   }
 ]

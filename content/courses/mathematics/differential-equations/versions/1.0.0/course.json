@@ -499,5 +499,6 @@
       "differential-equations"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

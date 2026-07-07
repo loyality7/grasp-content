@@ -553,5 +553,6 @@
       "repeated-games"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

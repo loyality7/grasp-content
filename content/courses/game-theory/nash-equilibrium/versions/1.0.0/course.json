@@ -548,5 +548,6 @@
       "nash-equilibrium"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

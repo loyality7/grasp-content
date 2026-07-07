@@ -539,5 +539,6 @@
       "linear-algebra"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

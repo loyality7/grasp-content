@@ -477,5 +477,6 @@
       "chemical-kinetics"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

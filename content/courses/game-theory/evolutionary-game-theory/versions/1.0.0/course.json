@@ -553,5 +553,6 @@
       "evolutionary-game-theory"
     ],
     "learningOutcomes": []
-  }
+  },
+  "illustration": "illustration.svg"
 }

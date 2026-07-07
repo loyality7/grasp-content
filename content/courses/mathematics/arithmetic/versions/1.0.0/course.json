@@ -4,6 +4,7 @@
   "description": "Arithmetic",
   "version": "1.0.0",
   "domain": "mathematics",
+  "illustration": "illustration.svg",
   "chapters": [
     {
       "id": "chapter-01",
