@@ -1,7 +1,7 @@
 {
   "id": "algorithms",
   "name": "Algorithms",
-  "description": "This course teaches the methods used to solve computational problems efficiently and is the natural continuation after Data Structures.",
+  "description": "This course studies **how to design, analyze, and optimize algorithms** for solving computational problems efficiently. It builds directly on Data Structures.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

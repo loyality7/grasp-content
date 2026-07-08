@@ -2,7 +2,7 @@
   {
     "id": "computer-science-foundations",
     "title": "Computer Science Foundations",
-    "description": "Learn and master the concepts of Computer Science Foundations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course introduces **the fundamental ideas of computer science**, including how computers represent information, solve problems, execute programs, and impact society. It prepares students for programming and all later CS courses.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "programming-fundamentals",
     "title": "Programming Fundamentals",
-    "description": "This course serves as the gateway to all software development and programming.",
+    "description": "This course teaches **how to write programs to solve problems**. Students learn programming concepts that apply to almost every programming language (Python, Java, C++, JavaScript, Go, Rust, etc.).",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "object-oriented-programming",
     "title": "Object-Oriented Programming",
-    "description": "This course teaches the programming paradigm used by Java, C++, C#, Kotlin, Swift, and many large-scale software systems.",
+    "description": "This course teaches the **Object-Oriented Programming (OOP)** paradigm, where software is modeled as interacting objects. The concepts apply across Java, C++, C#, Kotlin, Swift, Python, and many modern languages.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "data-structures",
     "title": "Data Structures",
-    "description": "This is one of the most important courses in computer science because nearly every efficient algorithm relies on choosing the right data structure.",
+    "description": "This course studies **how data is organized, stored, and manipulated efficiently**. Choosing the right data structure is fundamental to writing fast, scalable software.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "algorithms",
     "title": "Algorithms",
-    "description": "This course teaches the methods used to solve computational problems efficiently and is the natural continuation after Data Structures.",
+    "description": "This course studies **how to design, analyze, and optimize algorithms** for solving computational problems efficiently. It builds directly on Data Structures.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "computer-organization",
     "title": "Computer Organization",
-    "description": "This course explains **how computers actually execute programs**, connecting software with hardware.",
+    "description": "This course studies **how a computer is built and how it executes programs**, bridging the gap between software and hardware.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "operating-systems",
     "title": "Operating Systems",
-    "description": "This course explains how an operating system manages hardware resources and provides the environment in which applications run.",
+    "description": "This course studies **how an operating system manages computer hardware and software resources**. It explains how modern operating systems run programs, manage memory, coordinate devices, and provide secure, efficient execution.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "computer-networks",
     "title": "Computer Networks",
-    "description": "This course explains **how computers communicate**, from local networks to the global Internet.",
+    "description": "This course studies **how computers communicate over networks**, from small local networks to the global Internet. It covers network architecture, protocols, routing, switching, wireless communication, and network security.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "databases",
     "title": "Databases",
-    "description": "This course teaches how modern applications store, organize, retrieve, and manage data efficiently.",
+    "description": "This course studies **how data is stored, organized, queried, and managed efficiently**. It covers relational databases, SQL, NoSQL, transactions, indexing, and modern database systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "software-engineering",
     "title": "Software Engineering",
-    "description": "This course focuses on **building reliable, maintainable, and scalable software systems** using industry best practices.",
+    "description": "This course studies **how to design, build, test, deploy, and maintain software systems** using engineering principles and industry best practices.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "web-development",
     "title": "Web Development",
-    "description": "This course teaches how modern websites and web applications are built from front end to back end.",
+    "description": "This course teaches **how modern websites and web applications are built**, covering both frontend and backend development, databases, APIs, authentication, and deployment.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "mobile-development",
     "title": "Mobile Development",
-    "description": "This course focuses on building modern mobile applications for Android and iOS using both native and cross-platform approaches.",
+    "description": "This course teaches **how to build mobile applications** for Android and iOS, covering native concepts, cross-platform development, networking, storage, and publishing.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -122,7 +122,7 @@
   {
     "id": "system-design",
     "title": "System Design",
-    "description": "This course teaches how to design software systems that can reliably serve millions of users.",
+    "description": "This course studies **how to design scalable, reliable, and maintainable software systems**. It focuses on architecture rather than implementation and prepares students to build applications that can serve thousands or millions of users.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -132,7 +132,7 @@
   {
     "id": "distributed-systems",
     "title": "Distributed Systems",
-    "description": "This course explores how multiple computers work together as a single reliable system.",
+    "description": "This course studies **how multiple computers work together as one system**. It covers communication, coordination, consistency, fault tolerance, and the design of large-scale distributed applications.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -142,7 +142,7 @@
   {
     "id": "compiler-design",
     "title": "Compiler Design",
-    "description": "This course explains **how programming languages are translated into executable machine code**.",
+    "description": "This course studies **how programming languages are translated into executable programs**. It covers the complete compiler pipeline, from source code to optimized machine code.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -152,7 +152,7 @@
   {
     "id": "computer-graphics",
     "title": "Computer Graphics",
-    "description": "This course explains how computers create and render visual images, animations, and interactive 3D worlds.",
+    "description": "This course studies **how computers create, manipulate, and render images and 3D scenes**. It covers the mathematics, algorithms, and GPU techniques behind games, simulations, CAD software, and visual effects.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -162,7 +162,7 @@
   {
     "id": "artificial-intelligence",
     "title": "Artificial Intelligence",
-    "description": "This course introduces the foundations of intelligent systems before moving into **Machine Learning**.",
+    "description": "This course studies **how intelligent systems perceive, reason, learn, and make decisions**. It covers the core ideas of AI beyond machine learning, including search, planning, reasoning, knowledge representation, robotics, and modern generative AI.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -172,7 +172,7 @@
   {
     "id": "machine-learning",
     "title": "Machine Learning",
-    "description": "This course focuses on **teaching computers to learn from data**, building on the broader AI concepts learned here.",
+    "description": "This course studies **how computers learn patterns from data** to make predictions, classifications, recommendations, and decisions. It covers both classical machine learning and modern deep learning.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -182,7 +182,7 @@
   {
     "id": "data-science",
     "title": "Data Science",
-    "description": "This course focuses on **extracting insights and value from data** by combining statistics, machine learning, programming, and visualization.",
+    "description": "This course studies **how to extract knowledge, insights, and predictions from data** using statistics, programming, machine learning, and visualization.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -192,7 +192,7 @@
   {
     "id": "cybersecurity",
     "title": "Cybersecurity",
-    "description": "This is the final course and completes the **Computer Science curriculum**.",
+    "description": "This course studies **how to protect computers, networks, applications, and data from cyber threats**. It covers defensive security, secure system design, incident response, and ethical security practices.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

@@ -1,7 +1,7 @@
 {
   "id": "cosmology",
   "name": "Cosmology",
-  "description": "It serves as the capstone course for the entire physics curriculum.",
+  "description": "Cosmology is the study of the **origin, evolution, structure, and ultimate fate of the Universe**. It brings together everything learned in physics—mechanics, relativity, quantum mechanics, particle physics, and astrophysics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

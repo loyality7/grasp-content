@@ -1,7 +1,7 @@
 {
   "id": "cooperative-game-theory",
   "name": "Cooperative Game Theory",
-  "description": "This course explores **how groups of players cooperate, share resources, and divide rewards in a fair and stable manner.**",
+  "description": "This course studies **how groups of players cooperate to achieve shared goals and fairly distribute the resulting benefits or costs**. It introduces coalition formation, bargaining, fairness, and cooperative decision-making.",
   "version": "1.0.0",
   "domain": "game-theory",
   "chapters": [

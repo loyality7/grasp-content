@@ -1,7 +1,7 @@
 {
   "id": "rotational-motion",
   "name": "Rotational Motion",
-  "description": "Learn and master the concepts of Rotational Motion with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course extends linear mechanics to rotating objects. It's one of the most important courses in classical physics and engineering.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

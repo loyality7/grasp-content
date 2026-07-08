@@ -1,7 +1,7 @@
 {
   "id": "gravitation",
   "name": "Gravitation",
-  "description": "Learn and master the concepts of Gravitation with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies gravity—from falling objects on Earth to planetary motion, satellites, and orbital mechanics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

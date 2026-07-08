@@ -2,7 +2,7 @@
   {
     "id": "game-theory-foundations",
     "title": "Game Theory Foundations",
-    "description": "Learn and master the concepts of Game Theory Foundations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course introduces **the science of strategic decision-making**. Students learn how rational individuals, organizations, and nations make decisions when the outcome depends on the actions of others.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "strategic-decision-making",
     "title": "Strategic Decision Making",
-    "description": "This course develops the mindset and analytical tools needed to think strategically in competitive and cooperative situations.",
+    "description": "This course studies **how rational agents make strategic decisions** when outcomes depend on uncertainty, risk, and the choices of others. It develops the analytical tools used in economics, AI, business, politics, and negotiation.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "simultaneous-games",
     "title": "Simultaneous Games",
-    "description": "This course explores **games where all players make decisions at the same time without knowing the choices of others**, introducing the core analytical framework of classical game theory.",
+    "description": "This course studies **games in which all players choose their strategies at the same time**, without knowing the decisions of the other players. It introduces the core analytical tools of classical game theory.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "sequential-games",
     "title": "Sequential Games",
-    "description": "This course explores **games where players make decisions one after another**, allowing strategy to evolve over time based on previous actions.",
+    "description": "This course studies **games in which players make decisions over time**, observing previous actions before making their own choices. It introduces game trees, backward induction, and dynamic strategic reasoning.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "nash-equilibrium",
     "title": "Nash Equilibrium",
-    "description": "This course explores **the central solution concept of game theory—Nash Equilibrium—and how stable strategic outcomes emerge from rational decision-making.**",
+    "description": "This course studies **Nash Equilibrium**, the central concept of game theory. It explains how stable outcomes emerge when every player chooses the best strategy given the choices of everyone else.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "repeated-games",
     "title": "Repeated Games",
-    "description": "This course explores **how repeated interactions allow cooperation, trust, and reputation to emerge even among self-interested players.**",
+    "description": "This course studies **games that are played multiple times**, showing how repeated interactions can lead to cooperation, trust, reputation, and long-term strategic behavior.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "cooperative-game-theory",
     "title": "Cooperative Game Theory",
-    "description": "This course explores **how groups of players cooperate, share resources, and divide rewards in a fair and stable manner.**",
+    "description": "This course studies **how groups of players cooperate to achieve shared goals and fairly distribute the resulting benefits or costs**. It introduces coalition formation, bargaining, fairness, and cooperative decision-making.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "auction-theory",
     "title": "Auction Theory",
-    "description": "This course explores **how auctions are designed, how bidders behave strategically, and why auctions are among the most important real-world applications of game theory.**",
+    "description": "This course studies **how auctions allocate goods and determine prices through strategic bidding**. It explores bidder behavior, auction design, and the economics behind modern marketplaces.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "voting-social-choice",
     "title": "Voting & Social Choice",
-    "description": "This course explores **how groups make collective decisions and why designing fair voting systems is one of the most fascinating problems in game theory and economics.**",
+    "description": "This course studies **how groups combine individual preferences into collective decisions**. It explores voting systems, fairness, strategic voting, and the mathematical limits of collective decision-making.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "evolutionary-game-theory",
     "title": "Evolutionary Game Theory",
-    "description": "This course explores **how strategies evolve over time in populations, explaining cooperation, competition, and adaptation in biology, economics, and artificial intelligence.**",
+    "description": "This course studies **how strategies evolve over time within populations**, rather than assuming perfectly rational players. It explains how cooperation, competition, and adaptation emerge in biology, economics, sociology, and artificial intelligence.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "mechanism-design",
     "title": "Mechanism Design",
-    "description": "This course explores **how to design rules and systems so that individually rational behavior leads to desirable collective outcomes**, often called *reverse game theory*.",
+    "description": "This course studies **how to design rules, incentives, and institutions that produce desirable outcomes when individuals act in their own self-interest**. Unlike game theory, which analyzes existing games, mechanism design **creates the game**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "applications-of-game-theory",
     "title": "Applications of Game Theory",
-    "description": "This capstone course brings together the entire curriculum, showing **how game theory is used to solve real-world problems across science, technology, business, and society.**",
+    "description": "This capstone course studies **how game theory is applied across economics, business, politics, biology, computer science, artificial intelligence, and everyday decision-making**. It integrates the concepts from the previous courses through real-world systems and case studies.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

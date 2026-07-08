@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 102,
   "updatedAt": "2026-07-03T14:23:42.054Z",
-  "description": "This course explains how an operating system manages hardware resources and provides the environment in which applications run."
+  "description": "This course studies **how an operating system manages computer hardware and software resources**. It explains how modern operating systems run programs, manage memory, coordinate devices, and provide secure, efficient execution."
 }

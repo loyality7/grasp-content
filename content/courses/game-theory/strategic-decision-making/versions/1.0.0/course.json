@@ -1,7 +1,7 @@
 {
   "id": "strategic-decision-making",
   "name": "Strategic Decision Making",
-  "description": "This course develops the mindset and analytical tools needed to think strategically in competitive and cooperative situations.",
+  "description": "This course studies **how rational agents make strategic decisions** when outcomes depend on uncertainty, risk, and the choices of others. It develops the analytical tools used in economics, AI, business, politics, and negotiation.",
   "version": "1.0.0",
   "domain": "game-theory",
   "chapters": [

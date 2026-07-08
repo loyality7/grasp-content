@@ -1,7 +1,7 @@
 {
   "id": "real-analysis",
   "name": "Real Analysis",
-  "description": "Learn and master the concepts of Real Analysis with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This is the course where mathematics becomes **rigorous**. Instead of just calculating derivatives and integrals, students prove *why* calculus works.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

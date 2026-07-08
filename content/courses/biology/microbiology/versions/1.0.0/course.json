@@ -1,7 +1,7 @@
 {
   "id": "microbiology",
   "name": "Microbiology",
-  "description": "This course covers the fascinating world of microorganisms and their roles in health, disease, industry, and the environment.",
+  "description": "This course studies **microorganisms**—organisms too small to be seen with the naked eye. It covers bacteria, viruses, fungi, protozoa, parasites, and their roles in health, disease, biotechnology, and the environment.",
   "version": "1.0.0",
   "domain": "biology",
   "chapters": [

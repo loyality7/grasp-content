@@ -1,7 +1,7 @@
 {
   "id": "epistemology",
   "name": "Epistemology",
-  "description": "This course explores **how we know what we know**, one of the central questions of philosophy.",
+  "description": "This course studies **the nature, sources, limits, and justification of knowledge**. It explores questions about truth, belief, evidence, skepticism, and how humans acquire reliable knowledge.",
   "version": "1.0.0",
   "domain": "philosophy",
   "chapters": [

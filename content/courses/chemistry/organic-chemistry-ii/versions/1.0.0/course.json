@@ -1,7 +1,7 @@
 {
   "id": "organic-chemistry-ii",
   "name": "Organic Chemistry II",
-  "description": "This is where students learn the chemistry of the major functional groups in depth and begin designing organic syntheses.",
+  "description": "This course builds on Organic Chemistry I by exploring the **chemistry of functional groups**, reaction mechanisms, organic synthesis, and spectroscopic identification. It is the core course for pharmaceuticals, medicinal chemistry, and chemical synthesis.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

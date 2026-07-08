@@ -32,7 +32,7 @@
   {
     "id": "algebra-ii",
     "title": "Algebra II",
-    "description": "Learn and master the concepts of Algebra II with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This builds on Algebra I and prepares students for Precalculus and Calculus.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -62,7 +62,7 @@
   {
     "id": "precalculus",
     "title": "Precalculus",
-    "description": "This is a university-level **Trigonometry** course. It takes students from basic right-triangle trigonometry all the way to polar coordinates, complex numbers in polar form, and introductory Fourier concepts, making it a solid foundation for **Precalculus** and **Calculus**.",
+    "description": "This course bridges **Algebra II + Trigonometry → Calculus I**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -72,7 +72,7 @@
   {
     "id": "calculus-i",
     "title": "Calculus I",
-    "description": "This is a **complete Precalculus** course. Its only purpose is to make students fully prepared for **Calculus I**, where limits, derivatives, and integrals are developed rigorously.",
+    "description": "This is the first true calculus course.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -82,7 +82,7 @@
   {
     "id": "calculus-ii",
     "title": "Calculus II",
-    "description": "Everything in **Calculus II** builds directly on these topics.",
+    "description": "Calculus II focuses on **advanced integration, sequences & series, and parametric/polar calculus**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -92,7 +92,7 @@
   {
     "id": "calculus-iii-multivariable-calculus",
     "title": "Calculus III (Multivariable Calculus)",
-    "description": "This is the standard **Calculus II** curriculum. It prepares students for **Calculus III**, where the focus shifts to **multivariable calculus**—functions of several variables, partial derivatives, multiple integrals, vector calculus, and line/surface integrals.",
+    "description": "This course extends calculus from **one variable** to **multiple variables**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -102,7 +102,7 @@
   {
     "id": "linear-algebra",
     "title": "Linear Algebra",
-    "description": "Learn and master the concepts of Linear Algebra with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This is one of the most important mathematics courses for engineering, computer science, AI, graphics, robotics, physics, and data science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -112,7 +112,7 @@
   {
     "id": "differential-equations",
     "title": "Differential Equations",
-    "description": "Learn and master the concepts of Differential Equations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies equations involving derivatives and models real-world systems such as population growth, circuits, mechanics, and control systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -122,7 +122,7 @@
   {
     "id": "discrete-mathematics",
     "title": "Discrete Mathematics",
-    "description": "These are advanced standalone subjects rather than direct continuations of the calculus sequence.",
+    "description": "This is the foundation of **Computer Science**, **Algorithms**, **Cryptography**, and **Logic**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -132,7 +132,7 @@
   {
     "id": "probability",
     "title": "Probability",
-    "description": "This is the standard **Discrete Mathematics** curriculum used in Computer Science degrees. It serves as the mathematical backbone for algorithms, data structures, automata theory, cryptography, databases, and many advanced CS subjects.",
+    "description": "This course is the mathematical foundation for **Statistics, Machine Learning, AI, Data Science, Finance, Risk Analysis, and Scientific Research**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -142,7 +142,7 @@
   {
     "id": "statistics",
     "title": "Statistics",
-    "description": "Learn and master the concepts of Statistics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This is the standard university-level Statistics course and follows naturally after Probability.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -152,7 +152,7 @@
   {
     "id": "number-theory",
     "title": "Number Theory",
-    "description": "These are advanced pure mathematics subjects rather than applied statistics.",
+    "description": "Number Theory is the study of **integers**. It is fundamental to **cryptography**, **computer science**, and **pure mathematics**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -162,7 +162,7 @@
   {
     "id": "graph-theory",
     "title": "Graph Theory",
-    "description": "Learn and master the concepts of Graph Theory with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "Graph Theory is one of the most important subjects in **Computer Science, AI, Networking, Optimization, and Mathematics**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -172,7 +172,7 @@
   {
     "id": "real-analysis",
     "title": "Real Analysis",
-    "description": "Learn and master the concepts of Real Analysis with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This is the course where mathematics becomes **rigorous**. Instead of just calculating derivatives and integrals, students prove *why* calculus works.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -182,7 +182,7 @@
   {
     "id": "abstract-algebra",
     "title": "Abstract Algebra",
-    "description": "This is the standard undergraduate **Real Analysis** curriculum. It provides the rigorous mathematical foundation for advanced calculus, topology, measure theory, and functional analysis. It's one of the core pure mathematics courses after the introductory calculus sequence.",
+    "description": "Abstract Algebra studies **algebraic structures** such as groups, rings, and fields. It is foundational for modern mathematics, cryptography, coding theory, and theoretical computer science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -192,7 +192,7 @@
   {
     "id": "complex-analysis",
     "title": "Complex Analysis",
-    "description": "This is the standard undergraduate **Abstract Algebra** course. It is much more proof-oriented than earlier mathematics courses and provides the algebraic foundation for advanced mathematics, cryptography, and theoretical computer science. The final major course in your core math sequence would be **Complex Analysis**.",
+    "description": "This is the study of **functions of complex numbers**. It is one of the most elegant areas of mathematics and has applications in physics, electrical engineering, fluid dynamics, signal processing, and quantum mechanics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,

@@ -1,7 +1,7 @@
 {
   "id": "newtonian-mechanics",
   "name": "Newtonian Mechanics",
-  "description": "Learn and master the concepts of Newtonian Mechanics with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course explains **why objects move** by introducing forces and Newton's Laws.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

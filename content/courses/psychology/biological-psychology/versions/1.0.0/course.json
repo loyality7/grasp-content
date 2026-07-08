@@ -1,7 +1,7 @@
 {
   "id": "biological-psychology",
   "name": "Biological Psychology",
-  "description": "This course explains **how the brain, nervous system, and biology shape thoughts, emotions, and behavior.**",
+  "description": "This course studies **the biological basis of behavior**, exploring how the brain, nervous system, hormones, and genetics influence thoughts, emotions, learning, and behavior.",
   "version": "1.0.0",
   "domain": "psychology",
   "chapters": [

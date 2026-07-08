@@ -1,7 +1,7 @@
 {
   "id": "software-engineering",
   "name": "Software Engineering",
-  "description": "This course focuses on **building reliable, maintainable, and scalable software systems** using industry best practices.",
+  "description": "This course studies **how to design, build, test, deploy, and maintain software systems** using engineering principles and industry best practices.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

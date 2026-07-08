@@ -1,7 +1,7 @@
 {
   "id": "industrial-chemistry",
   "name": "Industrial Chemistry",
-  "description": "This course focuses on how chemistry is applied at large industrial scales to manufacture products used every day.",
+  "description": "This course studies **how chemistry is applied in large-scale manufacturing**. It covers chemical process industries, industrial production methods, process optimization, quality control, sustainability, and safety.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

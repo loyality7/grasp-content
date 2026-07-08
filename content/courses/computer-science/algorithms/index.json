@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 102,
   "updatedAt": "2026-07-03T14:23:41.578Z",
-  "description": "This course teaches the methods used to solve computational problems efficiently and is the natural continuation after Data Structures."
+  "description": "This course studies **how to design, analyze, and optimize algorithms** for solving computational problems efficiently. It builds directly on Data Structures."
 }

@@ -1,7 +1,7 @@
 {
   "id": "polymers",
   "name": "Polymers",
-  "description": "This course explains the chemistry behind plastics, rubbers, fibers, composites, and modern materials.",
+  "description": "This course studies **polymers—large molecules made of repeating units (monomers)**. It covers natural and synthetic polymers, polymer synthesis, properties, processing, and applications in materials science, medicine, and engineering.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

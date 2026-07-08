@@ -1,7 +1,7 @@
 {
   "id": "linear-algebra",
   "name": "Linear Algebra",
-  "description": "Learn and master the concepts of Linear Algebra with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This is one of the most important mathematics courses for engineering, computer science, AI, graphics, robotics, physics, and data science.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

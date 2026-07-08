@@ -1,7 +1,7 @@
 {
   "id": "momentum-collisions",
   "name": "Momentum & Collisions",
-  "description": "Learn and master the concepts of Momentum & Collisions with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies interactions between objects using **momentum**, which is essential for mechanics, engineering, astronomy, and particle physics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

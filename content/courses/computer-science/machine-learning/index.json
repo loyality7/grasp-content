@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 102,
   "updatedAt": "2026-07-03T14:23:44.589Z",
-  "description": "This course focuses on **teaching computers to learn from data**, building on the broader AI concepts learned here."
+  "description": "This course studies **how computers learn patterns from data** to make predictions, classifications, recommendations, and decisions. It covers both classical machine learning and modern deep learning."
 }

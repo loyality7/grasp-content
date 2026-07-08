@@ -1,7 +1,7 @@
 {
   "id": "monetary-economics",
   "name": "Monetary Economics",
-  "description": "This course explains **how money is created, how financial systems operate, and how central banks influence economic activity.**",
+  "description": "This course studies **money, banking, financial systems, and monetary policy**. It explains how money is created, how central banks influence the economy, and how financial stability is maintained.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

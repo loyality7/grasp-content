@@ -1,7 +1,7 @@
 {
   "id": "particle-physics",
   "name": "Particle Physics",
-  "description": "Learn and master the concepts of Particle Physics with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "Particle Physics studies the **fundamental particles and forces** that make up the universe. It is the foundation of modern high-energy physics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

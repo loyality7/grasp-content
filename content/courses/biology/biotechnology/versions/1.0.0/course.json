@@ -1,7 +1,7 @@
 {
   "id": "biotechnology",
   "name": "Biotechnology",
-  "description": "This course brings together biology, chemistry, and technology to show how living systems are engineered for medicine, agriculture, industry, and environmental applications.",
+  "description": "This course studies **the application of biological systems and living organisms to develop technologies and products** for medicine, agriculture, industry, and environmental science.",
   "version": "1.0.0",
   "domain": "biology",
   "chapters": [

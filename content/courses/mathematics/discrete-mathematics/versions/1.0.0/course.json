@@ -1,7 +1,7 @@
 {
   "id": "discrete-mathematics",
   "name": "Discrete Mathematics",
-  "description": "These are advanced standalone subjects rather than direct continuations of the calculus sequence.",
+  "description": "This is the foundation of **Computer Science**, **Algorithms**, **Cryptography**, and **Logic**.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

@@ -1,7 +1,7 @@
 {
   "id": "computer-graphics",
   "name": "Computer Graphics",
-  "description": "This course explains how computers create and render visual images, animations, and interactive 3D worlds.",
+  "description": "This course studies **how computers create, manipulate, and render images and 3D scenes**. It covers the mathematics, algorithms, and GPU techniques behind games, simulations, CAD software, and visual effects.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

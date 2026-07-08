@@ -1,7 +1,7 @@
 {
   "id": "coordination-chemistry",
   "name": "Coordination Chemistry",
-  "description": "It is one of the most important advanced inorganic chemistry courses.",
+  "description": "This course studies **coordination compounds (metal complexes)**—molecules in which a central metal atom or ion is surrounded by ligands. It is a major branch of inorganic chemistry with applications in medicine, catalysis, biology, and materials science.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

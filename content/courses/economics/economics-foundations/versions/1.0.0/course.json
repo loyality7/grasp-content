@@ -1,7 +1,7 @@
 {
   "id": "economics-foundations",
   "name": "Economics Foundations",
-  "description": "This covers virtually every core undergraduate economics topic without becoming overly specialized.",
+  "description": "This course introduces **the fundamental principles of economics**, explaining how individuals, businesses, and governments make decisions under conditions of scarcity.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

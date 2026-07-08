@@ -35,53 +35,84 @@ function parseNotes(content) {
   const courses = [];
   let cur = null;
   let lastLines = [];
-
+  
   for (const raw of content.split('\n')) {
     const t = raw.trim();
     if (!t) continue;
-
+    
     // Match course headers
     const cm = t.match(/^#+\s*Course\s+\d+:\s*(.+)$/i);
     if (cm) {
-      if (cur) courses.push(cur);
-
-      // Look for a description in lastLines (from before the course header)
-      let desc = '';
-      for (let i = lastLines.length - 1; i >= 0; i--) {
-        const line = lastLines[i];
-        if (line.startsWith('*') || line.startsWith('#') || /^[-*_=]+$/.test(line)) {
-          continue;
+      if (cur) {
+        // Resolve description fallback for the finished course before pushing
+        if (!cur.description) {
+          let desc = '';
+          for (let i = cur.precedingLines.length - 1; i >= 0; i--) {
+            const line = cur.precedingLines[i];
+            if (line.startsWith('*') || line.startsWith('#') || /^[-*_=]+$/.test(line)) {
+              continue;
+            }
+            desc = line;
+            break;
+          }
+          cur.description = desc;
         }
-        desc = line;
-        break;
+        delete cur.precedingLines;
+        courses.push(cur);
       }
-
-      cur = { title: cm[1].trim(), description: desc, chaptersCount: 0 };
+      
+      cur = { 
+        title: cm[1].trim(), 
+        chaptersCount: 0, 
+        description: '', 
+        precedingLines: [...lastLines] 
+      };
       lastLines = [];
       continue;
     }
-
+    
     // Match chapter headers to stop description capture
     const chm = t.match(/^#+\s*Chapter\s+\d+:\s*(.+)$/i);
     if (chm && cur) {
       cur.chaptersCount++;
       continue;
     }
-
+    
+    // Match topics: lines starting with *
+    if (t.startsWith('*') && cur) {
+      continue;
+    }
+    
     // If we have a course but no chapters yet, and it's not a list, header, or divider, it's the description after the header
     if (cur && cur.chaptersCount === 0 && !t.startsWith('*') && !t.startsWith('#') && !/^[-*_=]+$/.test(t)) {
       if (!cur.description) {
         cur.description = t;
       }
     }
-
+    
     // Accumulate other text lines to help find description for the next course
     if (!t.startsWith('*') && !t.startsWith('#') && !/^[-*_=]+$/.test(t)) {
       lastLines.push(t);
     }
   }
-
-  if (cur) courses.push(cur);
+  
+  if (cur) {
+    if (!cur.description) {
+      let desc = '';
+      for (let i = cur.precedingLines.length - 1; i >= 0; i--) {
+        const line = cur.precedingLines[i];
+        if (line.startsWith('*') || line.startsWith('#') || /^[-*_=]+$/.test(line)) {
+          continue;
+        }
+        desc = line;
+        break;
+      }
+      cur.description = desc;
+    }
+    delete cur.precedingLines;
+    courses.push(cur);
+  }
+  
   return courses;
 }
 

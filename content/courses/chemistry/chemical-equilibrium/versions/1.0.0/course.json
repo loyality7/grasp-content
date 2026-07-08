@@ -1,7 +1,7 @@
 {
   "id": "chemical-equilibrium",
   "name": "Chemical Equilibrium",
-  "description": "This is another major pillar of physical chemistry.",
+  "description": "Chemical Equilibrium explains **why most chemical reactions never go to completion** and how reaction conditions affect the balance between reactants and products.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

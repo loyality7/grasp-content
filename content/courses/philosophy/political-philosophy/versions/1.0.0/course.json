@@ -1,7 +1,7 @@
 {
   "id": "political-philosophy",
   "name": "Political Philosophy",
-  "description": "This course explores **how societies should be organized and governed, and the philosophical foundations of political systems.**",
+  "description": "This course studies **the philosophical foundations of politics, government, law, and society**. It explores questions about justice, liberty, equality, rights, authority, and the ideal political order.",
   "version": "1.0.0",
   "domain": "philosophy",
   "chapters": [

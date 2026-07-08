@@ -1,7 +1,7 @@
 {
   "id": "astrophysics",
   "name": "Astrophysics",
-  "description": "These final two courses complete the physics curriculum by moving from **stars, galaxies, and black holes** to the **origin, evolution, and fate of the universe itself**.",
+  "description": "Astrophysics applies the laws of physics to understand **stars, planets, galaxies, black holes, and the large-scale universe**. It combines mechanics, electromagnetism, thermodynamics, relativity, quantum mechanics, and nuclear physics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

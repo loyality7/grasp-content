@@ -1,7 +1,7 @@
 {
   "id": "public-economics",
   "name": "Public Economics",
-  "description": "This course explores **how governments influence economic outcomes through taxation, spending, regulation, and public policy.**",
+  "description": "This course studies **the role of government in the economy**, including taxation, public spending, regulation, and policies designed to improve economic efficiency and social welfare.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

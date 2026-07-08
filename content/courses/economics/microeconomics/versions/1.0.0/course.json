@@ -1,7 +1,7 @@
 {
   "id": "microeconomics",
   "name": "Microeconomics",
-  "description": "This course focuses on **how individuals and firms make economic decisions**.",
+  "description": "This course studies **how individuals, households, and firms make decisions** and how these decisions determine prices, production, and resource allocation in markets.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

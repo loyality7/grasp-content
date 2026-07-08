@@ -1,7 +1,7 @@
 {
   "id": "market-structures",
   "name": "Market Structures",
-  "description": "This course explains **how different market structures influence pricing, competition, efficiency, and firm behavior.**",
+  "description": "This course studies **how different types of markets influence competition, pricing, production, and consumer welfare**. It examines how firms behave under different competitive conditions.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

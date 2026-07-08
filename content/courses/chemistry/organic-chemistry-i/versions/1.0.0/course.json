@@ -1,7 +1,7 @@
 {
   "id": "organic-chemistry-i",
   "name": "Organic Chemistry I",
-  "description": "This marks the beginning of the **Organic Chemistry** sequence, one of the largest and most important areas of chemistry.",
+  "description": "This course introduces the **chemistry of carbon compounds**. Students learn how organic molecules are structured, named, classified, and how they react. It forms the foundation for pharmaceuticals, biochemistry, polymers, and materials science.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

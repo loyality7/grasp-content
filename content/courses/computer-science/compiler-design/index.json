@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 94,
   "updatedAt": "2026-07-03T14:23:43.886Z",
-  "description": "This course explains **how programming languages are translated into executable machine code**."
+  "description": "This course studies **how programming languages are translated into executable programs**. It covers the complete compiler pipeline, from source code to optimized machine code."
 }

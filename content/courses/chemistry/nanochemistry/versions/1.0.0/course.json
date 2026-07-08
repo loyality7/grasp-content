@@ -1,7 +1,7 @@
 {
   "id": "nanochemistry",
   "name": "Nanochemistry",
-  "description": "This course focuses on chemistry at the **1–100 nanometer scale**, where materials exhibit unique physical and chemical properties.",
+  "description": "This course studies **chemistry at the nanoscale (1–100 nm)**, where materials exhibit unique physical, chemical, optical, electrical, and biological properties. It is foundational to nanotechnology, medicine, electronics, and advanced materials.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

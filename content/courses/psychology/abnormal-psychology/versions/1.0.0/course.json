@@ -1,7 +1,7 @@
 {
   "id": "abnormal-psychology",
   "name": "Abnormal Psychology",
-  "description": "This course explores **psychological disorders, their causes, symptoms, diagnosis, and evidence-based approaches to treatment.**",
+  "description": "This course studies **psychological disorders**, including their causes, symptoms, diagnosis, and treatment. It examines mental health through biological, psychological, and social perspectives.",
   "version": "1.0.0",
   "domain": "psychology",
   "chapters": [

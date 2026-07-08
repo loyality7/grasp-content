@@ -1,7 +1,7 @@
 {
   "id": "algebra-ii",
   "name": "Algebra II",
-  "description": "Learn and master the concepts of Algebra II with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This builds on Algebra I and prepares students for Precalculus and Calculus.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

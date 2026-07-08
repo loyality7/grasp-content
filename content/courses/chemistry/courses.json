@@ -2,7 +2,7 @@
   {
     "id": "chemistry-foundations",
     "title": "Chemistry Foundations",
-    "description": "Learn and master the concepts of Chemistry Foundations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course teaches the language, measurements, and core principles of chemistry before students study atoms, molecules, and reactions.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -12,7 +12,7 @@
   {
     "id": "atomic-structure",
     "title": "Atomic Structure",
-    "description": "Learn and master the concepts of Atomic Structure with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course explains **what atoms are made of**, how electrons are arranged, and how modern atomic theory developed. It is the foundation of all chemistry.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -22,7 +22,7 @@
   {
     "id": "periodic-table",
     "title": "Periodic Table",
-    "description": "Learn and master the concepts of Periodic Table with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course explains **why the Periodic Table is organized the way it is** and how it predicts the physical and chemical behavior of every element.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -32,7 +32,7 @@
   {
     "id": "chemical-bonding",
     "title": "Chemical Bonding",
-    "description": "Learn and master the concepts of Chemical Bonding with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This is one of the most important chemistry courses. It explains **why atoms bond, how molecules form, and why substances have different physical and chemical properties**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "states-of-matter",
     "title": "States of Matter",
-    "description": "Learn and master the concepts of States of Matter with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course explains **why matter exists as solids, liquids, gases, and plasma**, and how temperature, pressure, and intermolecular forces determine their behavior.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "thermochemistry",
     "title": "Thermochemistry",
-    "description": "It forms the bridge between chemistry and thermodynamics and is one of the core physical chemistry courses.",
+    "description": "This course studies **how energy changes during chemical reactions**. It is one of the core subjects of physical chemistry and explains why reactions release or absorb heat.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -62,7 +62,7 @@
   {
     "id": "chemical-equilibrium",
     "title": "Chemical Equilibrium",
-    "description": "This is another major pillar of physical chemistry.",
+    "description": "Chemical Equilibrium explains **why most chemical reactions never go to completion** and how reaction conditions affect the balance between reactants and products.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -72,7 +72,7 @@
   {
     "id": "acids-bases",
     "title": "Acids & Bases",
-    "description": "This is one of the most important chemistry courses because it connects equilibrium with real-world chemical systems.",
+    "description": "This course studies **acid-base chemistry**, one of the most important areas of chemistry. It explains pH, neutralization, buffers, titrations, and the behavior of acids and bases in biological, environmental, and industrial systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -82,7 +82,7 @@
   {
     "id": "electrochemistry",
     "title": "Electrochemistry",
-    "description": "This is one of the most practical chemistry courses, connecting chemistry with electricity, energy storage, and modern battery technology.",
+    "description": "This course studies **the relationship between chemical reactions and electricity**. It forms the foundation of batteries, fuel cells, electrolysis, corrosion, and modern energy storage.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -92,7 +92,7 @@
   {
     "id": "chemical-kinetics",
     "title": "Chemical Kinetics",
-    "description": "This is the final major **Physical Chemistry** course before moving into **Inorganic Chemistry**.",
+    "description": "This course studies **how fast chemical reactions occur, what controls their speed, and how reactions proceed step by step**. It is fundamental to chemistry, biology, pharmaceuticals, and chemical engineering.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -102,7 +102,7 @@
   {
     "id": "main-group-chemistry",
     "title": "Main Group Chemistry",
-    "description": "From this point onward, the curriculum shifts from physical principles to the chemistry of the elements themselves.",
+    "description": "This course studies the **chemistry of the main group elements (Groups 1, 2, and 13–18)**, including their properties, compounds, reactions, and industrial importance.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "transition-metals",
     "title": "Transition Metals",
-    "description": "This naturally leads into **Coordination Chemistry**, where transition metal complexes are explored in depth.",
+    "description": "This course studies the **d-block and f-block elements**, their unique properties, variable oxidation states, colored compounds, magnetic behavior, catalytic activity, and industrial importance.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -122,7 +122,7 @@
   {
     "id": "coordination-chemistry",
     "title": "Coordination Chemistry",
-    "description": "It is one of the most important advanced inorganic chemistry courses.",
+    "description": "This course studies **coordination compounds (metal complexes)**—molecules in which a central metal atom or ion is surrounded by ligands. It is a major branch of inorganic chemistry with applications in medicine, catalysis, biology, and materials science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -132,7 +132,7 @@
   {
     "id": "organic-chemistry-i",
     "title": "Organic Chemistry I",
-    "description": "This marks the beginning of the **Organic Chemistry** sequence, one of the largest and most important areas of chemistry.",
+    "description": "This course introduces the **chemistry of carbon compounds**. Students learn how organic molecules are structured, named, classified, and how they react. It forms the foundation for pharmaceuticals, biochemistry, polymers, and materials science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -142,7 +142,7 @@
   {
     "id": "organic-chemistry-ii",
     "title": "Organic Chemistry II",
-    "description": "This is where students learn the chemistry of the major functional groups in depth and begin designing organic syntheses.",
+    "description": "This course builds on Organic Chemistry I by exploring the **chemistry of functional groups**, reaction mechanisms, organic synthesis, and spectroscopic identification. It is the core course for pharmaceuticals, medicinal chemistry, and chemical synthesis.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -152,7 +152,7 @@
   {
     "id": "biomolecules",
     "title": "Biomolecules",
-    "description": "Learn and master the concepts of Biomolecules with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies the **chemical molecules of life**. It bridges chemistry and biology, explaining the structure, function, and interactions of carbohydrates, proteins, lipids, nucleic acids, enzymes, vitamins, and biomolecular metabolism.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -162,7 +162,7 @@
   {
     "id": "polymers",
     "title": "Polymers",
-    "description": "This course explains the chemistry behind plastics, rubbers, fibers, composites, and modern materials.",
+    "description": "This course studies **polymers—large molecules made of repeating units (monomers)**. It covers natural and synthetic polymers, polymer synthesis, properties, processing, and applications in materials science, medicine, and engineering.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -172,7 +172,7 @@
   {
     "id": "analytical-chemistry",
     "title": "Analytical Chemistry",
-    "description": "This course teaches **how chemists determine what substances are present and how much is present**, making it essential for research, medicine, environmental science, and industry.",
+    "description": "This course studies **how chemists identify, separate, and quantify chemical substances**. It is the foundation of laboratory science, pharmaceuticals, environmental testing, forensic science, and quality control.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -182,7 +182,7 @@
   {
     "id": "spectroscopy",
     "title": "Spectroscopy",
-    "description": "This is one of the most important courses for chemistry research, pharmaceuticals, and molecular identification.",
+    "description": "This course studies **how light and electromagnetic radiation interact with matter** to identify atoms, molecules, and materials. It is one of the most important tools in chemistry, biology, medicine, and materials science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -192,7 +192,7 @@
   {
     "id": "environmental-chemistry",
     "title": "Environmental Chemistry",
-    "description": "This course connects chemistry with environmental science and sustainability.",
+    "description": "This course studies **the chemistry of Earth's environment**, including the atmosphere, water, soil, pollution, climate change, and sustainable chemical practices. It connects chemistry with ecology, public health, and environmental engineering.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -202,7 +202,7 @@
   {
     "id": "materials-chemistry",
     "title": "Materials Chemistry",
-    "description": "These final five courses focus on modern materials, nanotechnology, nuclear science, large-scale manufacturing, and computer-assisted chemistry, completing a comprehensive university-level chemistry curriculum.",
+    "description": "This course studies **how the composition, structure, and bonding of materials determine their properties and applications**. It bridges chemistry, physics, engineering, and nanotechnology.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -212,7 +212,7 @@
   {
     "id": "nanochemistry",
     "title": "Nanochemistry",
-    "description": "This course focuses on chemistry at the **1–100 nanometer scale**, where materials exhibit unique physical and chemical properties.",
+    "description": "This course studies **chemistry at the nanoscale (1–100 nm)**, where materials exhibit unique physical, chemical, optical, electrical, and biological properties. It is foundational to nanotechnology, medicine, electronics, and advanced materials.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -222,7 +222,7 @@
   {
     "id": "nuclear-chemistry",
     "title": "Nuclear Chemistry",
-    "description": "This course connects chemistry with nuclear physics and energy science.",
+    "description": "This course studies **the chemistry of atomic nuclei**, radioactive materials, nuclear reactions, and their applications in medicine, energy, industry, and scientific research.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -232,7 +232,7 @@
   {
     "id": "industrial-chemistry",
     "title": "Industrial Chemistry",
-    "description": "This course focuses on how chemistry is applied at large industrial scales to manufacture products used every day.",
+    "description": "This course studies **how chemistry is applied in large-scale manufacturing**. It covers chemical process industries, industrial production methods, process optimization, quality control, sustainability, and safety.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -242,7 +242,7 @@
   {
     "id": "computational-chemistry",
     "title": "Computational Chemistry",
-    "description": "This is the final course and completes a comprehensive university-level chemistry curriculum.",
+    "description": "This course studies **how computers are used to model, simulate, predict, and design chemical systems**. It combines chemistry, mathematics, physics, computer science, and artificial intelligence to solve problems that are difficult or impossible to study experimentally.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

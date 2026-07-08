@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 101,
   "updatedAt": "2026-07-03T14:23:44.149Z",
-  "description": "This course explains how computers create and render visual images, animations, and interactive 3D worlds."
+  "description": "This course studies **how computers create, manipulate, and render images and 3D scenes**. It covers the mathematics, algorithms, and GPU techniques behind games, simulations, CAD software, and visual effects."
 }

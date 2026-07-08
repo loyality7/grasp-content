@@ -1,7 +1,7 @@
 {
   "id": "graph-theory",
   "name": "Graph Theory",
-  "description": "Learn and master the concepts of Graph Theory with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "Graph Theory is one of the most important subjects in **Computer Science, AI, Networking, Optimization, and Mathematics**.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

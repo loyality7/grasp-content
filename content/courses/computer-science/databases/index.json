@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 101,
   "updatedAt": "2026-07-03T14:23:42.589Z",
-  "description": "This course teaches how modern applications store, organize, retrieve, and manage data efficiently."
+  "description": "This course studies **how data is stored, organized, queried, and managed efficiently**. It covers relational databases, SQL, NoSQL, transactions, indexing, and modern database systems."
 }

@@ -1,7 +1,7 @@
 {
   "id": "logic",
   "name": "Logic",
-  "description": "This course develops **formal reasoning skills**, making it one of the most valuable courses in the entire Philosophy curriculum.",
+  "description": "This course studies **the principles of correct reasoning and argumentation**. It covers both informal and formal logic, providing the tools to evaluate arguments, identify fallacies, and construct rigorous proofs.",
   "version": "1.0.0",
   "domain": "philosophy",
   "chapters": [

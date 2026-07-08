@@ -1,7 +1,7 @@
 {
   "id": "optics",
   "name": "Optics",
-  "description": "At this point, you've completed the entire **Classical Physics** sequence. The remaining courses are the **Modern Physics** sequence, covering 20th-century and contemporary physics.",
+  "description": "This course studies **the behavior of light**, from mirrors and lenses to interference, diffraction, polarization, lasers, and fiber optics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

@@ -2,7 +2,7 @@
   {
     "id": "biology-foundations",
     "title": "Biology Foundations",
-    "description": "I would merge topics like this:",
+    "description": "This course introduces the **fundamental principles of biology**, the science of life. Students learn what living organisms are, how they are classified, and the core concepts that underpin all of biology.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -12,7 +12,7 @@
   {
     "id": "cell-biology",
     "title": "Cell Biology",
-    "description": "This is one of the most important biology courses because **everything in biology ultimately happens at the cellular level.**",
+    "description": "This course studies the **cell**, the fundamental unit of life. Students learn how cells are structured, how they function, how they communicate, and how they divide to support growth, repair, and reproduction.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "molecular-biology",
     "title": "Molecular Biology",
-    "description": "This course explains **how genetic information is stored, copied, and expressed**, forming the foundation of modern genetics and biotechnology.",
+    "description": "This course studies **how genetic information is stored, replicated, expressed, and regulated**. It forms the foundation of genetics, biotechnology, genomics, and modern medicine.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "genetics",
     "title": "Genetics",
-    "description": "This course focuses on **how traits are inherited and how genetic variation shapes life**.",
+    "description": "This course studies **how traits are inherited, how genes are passed between generations, and how genetic variation shapes living organisms**. It forms the bridge between molecular biology and evolution.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "evolution",
     "title": "Evolution",
-    "description": "This course explains **how life changes over time and how the diversity of living organisms arose.**",
+    "description": "This course studies **how life changes over time**, explaining the origin of biological diversity through natural selection, genetic variation, speciation, and evolutionary processes.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -52,7 +52,7 @@
   {
     "id": "human-physiology",
     "title": "Human Physiology",
-    "description": "This course focuses on **body structure**, while the following course, **Human Physiology**, explains **how each system functions**.",
+    "description": "This course studies **how the human body functions**. It explains how organs and organ systems work together to maintain life and homeostasis.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "microbiology",
     "title": "Microbiology",
-    "description": "This course covers the fascinating world of microorganisms and their roles in health, disease, industry, and the environment.",
+    "description": "This course studies **microorganisms**—organisms too small to be seen with the naked eye. It covers bacteria, viruses, fungi, protozoa, parasites, and their roles in health, disease, biotechnology, and the environment.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "immunology",
     "title": "Immunology",
-    "description": "This course explains **how the body defends itself against disease** and is one of the most clinically important areas of biology.",
+    "description": "This course studies **the immune system**, how it protects the body from pathogens, how vaccines work, and why immune disorders such as allergies, autoimmune diseases, and immunodeficiencies occur.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "ecology",
     "title": "Ecology",
-    "description": "This course explores **how organisms interact with each other and with their environment**, from local ecosystems to the entire biosphere.",
+    "description": "This course studies **how organisms interact with each other and their environment**, from individual organisms to the entire biosphere. It explains ecosystems, biodiversity, climate, and conservation.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "biotechnology",
     "title": "Biotechnology",
-    "description": "This course brings together biology, chemistry, and technology to show how living systems are engineered for medicine, agriculture, industry, and environmental applications.",
+    "description": "This course studies **the application of biological systems and living organisms to develop technologies and products** for medicine, agriculture, industry, and environmental science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "biochemistry",
     "title": "Biochemistry",
-    "description": "This course serves as the bridge between biology, chemistry, medicine, and biotechnology, completing the Biology curriculum.",
+    "description": "This course studies **the chemical processes of living organisms**. It explains how biomolecules are built, how cells obtain and use energy, and how biochemical pathways regulate life.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

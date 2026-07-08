@@ -1,7 +1,7 @@
 {
   "id": "fluid-mechanics",
   "name": "Fluid Mechanics",
-  "description": "Learn and master the concepts of Fluid Mechanics with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies **liquids and gases at rest and in motion**. It is fundamental to civil engineering, mechanical engineering, aerospace, medicine, and environmental science.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

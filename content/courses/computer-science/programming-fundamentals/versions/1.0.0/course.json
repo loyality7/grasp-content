@@ -1,7 +1,7 @@
 {
   "id": "programming-fundamentals",
   "name": "Programming Fundamentals",
-  "description": "This course serves as the gateway to all software development and programming.",
+  "description": "This course teaches **how to write programs to solve problems**. Students learn programming concepts that apply to almost every programming language (Python, Java, C++, JavaScript, Go, Rust, etc.).",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

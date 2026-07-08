@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 100,
   "updatedAt": "2026-07-03T14:23:44.361Z",
-  "description": "This course introduces the foundations of intelligent systems before moving into **Machine Learning**."
+  "description": "This course studies **how intelligent systems perceive, reason, learn, and make decisions**. It covers the core ideas of AI beyond machine learning, including search, planning, reasoning, knowledge representation, robotics, and modern generative AI."
 }

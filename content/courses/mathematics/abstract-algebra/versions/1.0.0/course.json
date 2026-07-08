@@ -1,7 +1,7 @@
 {
   "id": "abstract-algebra",
   "name": "Abstract Algebra",
-  "description": "This is the standard undergraduate **Real Analysis** curriculum. It provides the rigorous mathematical foundation for advanced calculus, topology, measure theory, and functional analysis. It's one of the core pure mathematics courses after the introductory calculus sequence.",
+  "description": "Abstract Algebra studies **algebraic structures** such as groups, rings, and fields. It is foundational for modern mathematics, cryptography, coding theory, and theoretical computer science.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

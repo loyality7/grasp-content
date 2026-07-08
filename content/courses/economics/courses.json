@@ -2,7 +2,7 @@
   {
     "id": "economics-foundations",
     "title": "Economics Foundations",
-    "description": "This covers virtually every core undergraduate economics topic without becoming overly specialized.",
+    "description": "This course introduces **the fundamental principles of economics**, explaining how individuals, businesses, and governments make decisions under conditions of scarcity.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -12,7 +12,7 @@
   {
     "id": "microeconomics",
     "title": "Microeconomics",
-    "description": "This course focuses on **how individuals and firms make economic decisions**.",
+    "description": "This course studies **how individuals, households, and firms make decisions** and how these decisions determine prices, production, and resource allocation in markets.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "macroeconomics",
     "title": "Macroeconomics",
-    "description": "This course explains **how entire economies function**, including growth, inflation, employment, and government policy.",
+    "description": "This course studies **the economy as a whole**, including national income, inflation, unemployment, economic growth, and the policies governments and central banks use to stabilize the economy.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "consumer-theory",
     "title": "Consumer Theory",
-    "description": "This course explores **how consumers make choices to maximize satisfaction under limited resources.**",
+    "description": "This course studies **how consumers make decisions** under limited income, explaining how preferences, prices, and budgets determine demand for goods and services.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "producer-theory",
     "title": "Producer Theory",
-    "description": "This course explains **how firms transform resources into goods and services while maximizing profits.**",
+    "description": "This course studies **how firms make production decisions**, combining labor, capital, and technology to produce goods and services while minimizing costs and maximizing profits.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "market-structures",
     "title": "Market Structures",
-    "description": "This course explains **how different market structures influence pricing, competition, efficiency, and firm behavior.**",
+    "description": "This course studies **how different types of markets influence competition, pricing, production, and consumer welfare**. It examines how firms behave under different competitive conditions.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "international-economics",
     "title": "International Economics",
-    "description": "This course explains **why nations trade, how global markets operate, and how international policies shape the world economy.**",
+    "description": "This course studies **how countries trade, invest, and interact economically**. It explains the principles of international trade, exchange rates, trade policies, and the global financial system.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "public-economics",
     "title": "Public Economics",
-    "description": "This course explores **how governments influence economic outcomes through taxation, spending, regulation, and public policy.**",
+    "description": "This course studies **the role of government in the economy**, including taxation, public spending, regulation, and policies designed to improve economic efficiency and social welfare.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "monetary-economics",
     "title": "Monetary Economics",
-    "description": "This course explains **how money is created, how financial systems operate, and how central banks influence economic activity.**",
+    "description": "This course studies **money, banking, financial systems, and monetary policy**. It explains how money is created, how central banks influence the economy, and how financial stability is maintained.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "development-economics",
     "title": "Development Economics",
-    "description": "This course examines **why some countries become prosperous while others remain underdeveloped, and the policies that promote long-term development.**",
+    "description": "This course studies **how economies grow and develop over time**, focusing on poverty reduction, inequality, industrialization, human development, and sustainable economic progress.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "behavioral-economics",
     "title": "Behavioral Economics",
-    "description": "This course explores **how real people make economic decisions, often deviating from the predictions of traditional economic theory.**",
+    "description": "This course studies **how psychology influences economic decision-making**. It explains why people often make choices that differ from the predictions of traditional economics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "econometrics",
     "title": "Econometrics",
-    "description": "This is the capstone course of the Economics curriculum, teaching students **how economists use data and statistical methods to test theories and make evidence-based decisions.**",
+    "description": "This course studies **how statistical and mathematical methods are used to analyze economic data**, test economic theories, estimate relationships, and make forecasts.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

@@ -1,7 +1,7 @@
 {
   "id": "differential-equations",
   "name": "Differential Equations",
-  "description": "Learn and master the concepts of Differential Equations with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies equations involving derivatives and models real-world systems such as population growth, circuits, mechanics, and control systems.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

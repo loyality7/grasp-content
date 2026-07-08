@@ -1,7 +1,7 @@
 {
   "id": "macroeconomics",
   "name": "Macroeconomics",
-  "description": "This course explains **how entire economies function**, including growth, inflation, employment, and government policy.",
+  "description": "This course studies **the economy as a whole**, including national income, inflation, unemployment, economic growth, and the policies governments and central banks use to stabilize the economy.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

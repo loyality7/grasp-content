@@ -1,7 +1,7 @@
 {
   "id": "operating-systems",
   "name": "Operating Systems",
-  "description": "This course explains how an operating system manages hardware resources and provides the environment in which applications run.",
+  "description": "This course studies **how an operating system manages computer hardware and software resources**. It explains how modern operating systems run programs, manage memory, coordinate devices, and provide secure, efficient execution.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

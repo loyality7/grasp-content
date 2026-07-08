@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 92,
   "updatedAt": "2026-07-03T14:23:55.001Z",
-  "description": "This course explores **how to design rules and systems so that individually rational behavior leads to desirable collective outcomes**, often called *reverse game theory*."
+  "description": "This course studies **how to design rules, incentives, and institutions that produce desirable outcomes when individuals act in their own self-interest**. Unlike game theory, which analyzes existing games, mechanism design **creates the game**."
 }

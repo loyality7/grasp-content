@@ -2,7 +2,7 @@
   {
     "id": "physics-foundations",
     "title": "Physics Foundations",
-    "description": "Learn and master the concepts of Physics Foundations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course teaches the language of physics before students learn mechanics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -12,7 +12,7 @@
   {
     "id": "kinematics",
     "title": "Kinematics",
-    "description": "This course prepares students for **Course 2: Kinematics**, where they'll begin studying motion mathematically. It ensures everyone has the measurement, vector, and mathematical foundations needed before diving into equations of motion.",
+    "description": "Kinematics is the study of **motion without considering the forces that cause it**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -22,7 +22,7 @@
   {
     "id": "newtonian-mechanics",
     "title": "Newtonian Mechanics",
-    "description": "Learn and master the concepts of Newtonian Mechanics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course explains **why objects move** by introducing forces and Newton's Laws.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -32,7 +32,7 @@
   {
     "id": "work-energy-power",
     "title": "Work, Energy & Power",
-    "description": "Learn and master the concepts of Work, Energy & Power with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course teaches how to analyze motion using **energy**, often making problems much simpler than using Newton's laws alone.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -42,7 +42,7 @@
   {
     "id": "momentum-collisions",
     "title": "Momentum & Collisions",
-    "description": "Learn and master the concepts of Momentum & Collisions with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies interactions between objects using **momentum**, which is essential for mechanics, engineering, astronomy, and particle physics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -52,7 +52,7 @@
   {
     "id": "rotational-motion",
     "title": "Rotational Motion",
-    "description": "Learn and master the concepts of Rotational Motion with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course extends linear mechanics to rotating objects. It's one of the most important courses in classical physics and engineering.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -62,7 +62,7 @@
   {
     "id": "gravitation",
     "title": "Gravitation",
-    "description": "Learn and master the concepts of Gravitation with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies gravity—from falling objects on Earth to planetary motion, satellites, and orbital mechanics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -72,7 +72,7 @@
   {
     "id": "oscillations-simple-harmonic-motion-shm",
     "title": "Oscillations & Simple Harmonic Motion (SHM)",
-    "description": "Learn and master the concepts of Oscillations & Simple Harmonic Motion (SHM) with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies **repetitive motion** and forms the foundation for **waves, sound, electronics, and quantum mechanics**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -82,7 +82,7 @@
   {
     "id": "waves-sound",
     "title": "Waves & Sound",
-    "description": "Learn and master the concepts of Waves & Sound with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies how **disturbances propagate through matter and space**, covering everything from musical instruments to earthquakes and communication systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -92,7 +92,7 @@
   {
     "id": "thermodynamics",
     "title": "Thermodynamics",
-    "description": "Learn and master the concepts of Thermodynamics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies **heat, temperature, energy transfer, and the behavior of matter**. It is fundamental to physics, chemistry, mechanical engineering, and aerospace engineering.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -102,7 +102,7 @@
   {
     "id": "fluid-mechanics",
     "title": "Fluid Mechanics",
-    "description": "Learn and master the concepts of Fluid Mechanics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies **liquids and gases at rest and in motion**. It is fundamental to civil engineering, mechanical engineering, aerospace, medicine, and environmental science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -112,7 +112,7 @@
   {
     "id": "electricity-electrostatics",
     "title": "Electricity (Electrostatics)",
-    "description": "Learn and master the concepts of Electricity (Electrostatics) with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course focuses on **electric charge and electric fields**. It does **not** cover electric circuits—that comes later.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -122,7 +122,7 @@
   {
     "id": "magnetism",
     "title": "Magnetism",
-    "description": "Learn and master the concepts of Magnetism with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies **magnetic fields, magnetic forces, and magnetic materials**. It builds directly on electrostatics and prepares students for electromagnetism.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -132,7 +132,7 @@
   {
     "id": "electromagnetism",
     "title": "Electromagnetism",
-    "description": "Here are the two missing courses in the same format as the rest of your curriculum.",
+    "description": "This course studies **electric and magnetic fields, their interactions, and the unified theory of electromagnetism**. Students learn the principles governing electric charges, magnetic fields, electromagnetic induction, and electromagnetic waves.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 50,
@@ -142,7 +142,7 @@
   {
     "id": "optics",
     "title": "Optics",
-    "description": "At this point, you've completed the entire **Classical Physics** sequence. The remaining courses are the **Modern Physics** sequence, covering 20th-century and contemporary physics.",
+    "description": "This course studies **the behavior of light**, from mirrors and lenses to interference, diffraction, polarization, lasers, and fiber optics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -152,7 +152,7 @@
   {
     "id": "modern-physics",
     "title": "Modern Physics",
-    "description": "Learn and master the concepts of Modern Physics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies **the revolutionary discoveries of twentieth-century physics that transformed our understanding of matter, energy, space, and time**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -162,7 +162,7 @@
   {
     "id": "electrical-circuits",
     "title": "Electrical Circuits",
-    "description": "These two courses complete your **25-course Physics curriculum** in a consistent style with the other courses.",
+    "description": "This course focuses on **analyzing and designing electrical circuits**. While Electromagnetism explains *why* electricity behaves the way it does, this course teaches *how to analyze real electrical networks*.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 10,
@@ -172,7 +172,7 @@
   {
     "id": "quantum-mechanics",
     "title": "Quantum Mechanics",
-    "description": "This course focuses on **analyzing and designing electrical circuits**. While Electromagnetism explains *why* electricity behaves the way it does, this course teaches *how to analyze real electrical networks*.",
+    "description": "Quantum Mechanics is the mathematical framework that describes the behavior of matter and energy at atomic and subatomic scales. It is one of the most important courses in all of physics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -182,7 +182,7 @@
   {
     "id": "atomic-nuclear-physics",
     "title": "Atomic & Nuclear Physics",
-    "description": "At this stage, you've essentially completed the full undergraduate core of physics. The remaining courses focus on specialized domains built on quantum mechanics, electromagnetism, and relativity.",
+    "description": "This course explores the structure of atoms, atomic nuclei, radioactivity, nuclear reactions, and the principles behind nuclear energy and radiation.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -192,7 +192,7 @@
   {
     "id": "solid-state-physics",
     "title": "Solid State Physics",
-    "description": "Learn and master the concepts of Solid State Physics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course studies the physics of **solids and crystalline materials**. It is the foundation of **electronics, semiconductors, nanotechnology, materials science, and modern computing**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -202,7 +202,7 @@
   {
     "id": "particle-physics",
     "title": "Particle Physics",
-    "description": "Learn and master the concepts of Particle Physics with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "Particle Physics studies the **fundamental particles and forces** that make up the universe. It is the foundation of modern high-energy physics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -212,7 +212,7 @@
   {
     "id": "relativity",
     "title": "Relativity",
-    "description": "You're now into the final four advanced physics courses. **Relativity** is next, covering Einstein's Special and General Relativity, spacetime, black holes, gravitational waves, and the geometry of the universe.",
+    "description": "This course studies **Einstein's theories of Special and General Relativity**, explaining space, time, gravity, black holes, and the structure of spacetime.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -222,7 +222,7 @@
   {
     "id": "plasma-physics",
     "title": "Plasma Physics",
-    "description": "After this, the final three courses explore large-scale and high-energy phenomena—from ionized gases and stars to galaxies and the evolution of the entire universe.",
+    "description": "Plasma Physics studies the **fourth state of matter**—ionized gases. It underpins fusion energy, space physics, astrophysics, and many industrial technologies.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -232,7 +232,7 @@
   {
     "id": "astrophysics",
     "title": "Astrophysics",
-    "description": "These final two courses complete the physics curriculum by moving from **stars, galaxies, and black holes** to the **origin, evolution, and fate of the universe itself**.",
+    "description": "Astrophysics applies the laws of physics to understand **stars, planets, galaxies, black holes, and the large-scale universe**. It combines mechanics, electromagnetism, thermodynamics, relativity, quantum mechanics, and nuclear physics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -242,7 +242,7 @@
   {
     "id": "cosmology",
     "title": "Cosmology",
-    "description": "It serves as the capstone course for the entire physics curriculum.",
+    "description": "Cosmology is the study of the **origin, evolution, structure, and ultimate fate of the Universe**. It brings together everything learned in physics—mechanics, relativity, quantum mechanics, particle physics, and astrophysics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,

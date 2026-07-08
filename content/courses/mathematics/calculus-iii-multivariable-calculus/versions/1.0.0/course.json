@@ -1,7 +1,7 @@
 {
   "id": "calculus-iii-multivariable-calculus",
   "name": "Calculus III (Multivariable Calculus)",
-  "description": "This is the standard **Calculus II** curriculum. It prepares students for **Calculus III**, where the focus shifts to **multivariable calculus**—functions of several variables, partial derivatives, multiple integrals, vector calculus, and line/surface integrals.",
+  "description": "This course extends calculus from **one variable** to **multiple variables**.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

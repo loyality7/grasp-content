@@ -1,7 +1,7 @@
 {
   "id": "atomic-nuclear-physics",
   "name": "Atomic & Nuclear Physics",
-  "description": "At this stage, you've essentially completed the full undergraduate core of physics. The remaining courses focus on specialized domains built on quantum mechanics, electromagnetism, and relativity.",
+  "description": "This course explores the structure of atoms, atomic nuclei, radioactivity, nuclear reactions, and the principles behind nuclear energy and radiation.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

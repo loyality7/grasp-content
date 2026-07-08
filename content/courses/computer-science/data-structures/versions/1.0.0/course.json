@@ -1,7 +1,7 @@
 {
   "id": "data-structures",
   "name": "Data Structures",
-  "description": "This is one of the most important courses in computer science because nearly every efficient algorithm relies on choosing the right data structure.",
+  "description": "This course studies **how data is organized, stored, and manipulated efficiently**. Choosing the right data structure is fundamental to writing fast, scalable software.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

@@ -1,7 +1,7 @@
 {
   "id": "solid-state-physics",
   "name": "Solid State Physics",
-  "description": "Learn and master the concepts of Solid State Physics with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies the physics of **solids and crystalline materials**. It is the foundation of **electronics, semiconductors, nanotechnology, materials science, and modern computing**.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

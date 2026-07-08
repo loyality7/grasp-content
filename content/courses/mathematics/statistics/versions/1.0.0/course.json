@@ -1,7 +1,7 @@
 {
   "id": "statistics",
   "name": "Statistics",
-  "description": "Learn and master the concepts of Statistics with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This is the standard university-level Statistics course and follows naturally after Probability.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

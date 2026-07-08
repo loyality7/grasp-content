@@ -1,7 +1,7 @@
 {
   "id": "philosophy-of-science",
   "name": "Philosophy of Science",
-  "description": "This course explores **the foundations, methods, and limits of scientific knowledge.**",
+  "description": "This course studies **the nature of scientific knowledge, scientific reasoning, and the methods used to investigate the natural world**. It explores what distinguishes science from non-science and how scientific knowledge evolves.",
   "version": "1.0.0",
   "domain": "philosophy",
   "chapters": [

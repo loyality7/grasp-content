@@ -1,7 +1,7 @@
 {
   "id": "acids-bases",
   "name": "Acids & Bases",
-  "description": "This is one of the most important chemistry courses because it connects equilibrium with real-world chemical systems.",
+  "description": "This course studies **acid-base chemistry**, one of the most important areas of chemistry. It explains pH, neutralization, buffers, titrations, and the behavior of acids and bases in biological, environmental, and industrial systems.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

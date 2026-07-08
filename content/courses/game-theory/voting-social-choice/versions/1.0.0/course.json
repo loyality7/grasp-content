@@ -1,7 +1,7 @@
 {
   "id": "voting-social-choice",
   "name": "Voting & Social Choice",
-  "description": "This course explores **how groups make collective decisions and why designing fair voting systems is one of the most fascinating problems in game theory and economics.**",
+  "description": "This course studies **how groups combine individual preferences into collective decisions**. It explores voting systems, fairness, strategic voting, and the mathematical limits of collective decision-making.",
   "version": "1.0.0",
   "domain": "game-theory",
   "chapters": [

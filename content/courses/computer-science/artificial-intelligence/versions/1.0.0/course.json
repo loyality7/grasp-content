@@ -1,7 +1,7 @@
 {
   "id": "artificial-intelligence",
   "name": "Artificial Intelligence",
-  "description": "This course introduces the foundations of intelligent systems before moving into **Machine Learning**.",
+  "description": "This course studies **how intelligent systems perceive, reason, learn, and make decisions**. It covers the core ideas of AI beyond machine learning, including search, planning, reasoning, knowledge representation, robotics, and modern generative AI.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

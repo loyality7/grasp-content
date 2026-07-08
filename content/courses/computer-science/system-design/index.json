@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 96,
   "updatedAt": "2026-07-03T14:23:43.487Z",
-  "description": "This course teaches how to design software systems that can reliably serve millions of users."
+  "description": "This course studies **how to design scalable, reliable, and maintainable software systems**. It focuses on architecture rather than implementation and prepares students to build applications that can serve thousands or millions of users."
 }

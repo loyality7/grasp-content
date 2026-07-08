@@ -1,7 +1,7 @@
 {
   "id": "evolution",
   "name": "Evolution",
-  "description": "This course explains **how life changes over time and how the diversity of living organisms arose.**",
+  "description": "This course studies **how life changes over time**, explaining the origin of biological diversity through natural selection, genetic variation, speciation, and evolutionary processes.",
   "version": "1.0.0",
   "domain": "biology",
   "chapters": [

@@ -1,7 +1,7 @@
 {
   "id": "machine-learning",
   "name": "Machine Learning",
-  "description": "This course focuses on **teaching computers to learn from data**, building on the broader AI concepts learned here.",
+  "description": "This course studies **how computers learn patterns from data** to make predictions, classifications, recommendations, and decisions. It covers both classical machine learning and modern deep learning.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

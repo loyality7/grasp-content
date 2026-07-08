@@ -1,7 +1,7 @@
 {
   "id": "calculus-i",
   "name": "Calculus I",
-  "description": "This is a **complete Precalculus** course. Its only purpose is to make students fully prepared for **Calculus I**, where limits, derivatives, and integrals are developed rigorously.",
+  "description": "This is the first true calculus course.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

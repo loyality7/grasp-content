@@ -1,7 +1,7 @@
 {
   "id": "auction-theory",
   "name": "Auction Theory",
-  "description": "This course explores **how auctions are designed, how bidders behave strategically, and why auctions are among the most important real-world applications of game theory.**",
+  "description": "This course studies **how auctions allocate goods and determine prices through strategic bidding**. It explores bidder behavior, auction design, and the economics behind modern marketplaces.",
   "version": "1.0.0",
   "domain": "game-theory",
   "chapters": [

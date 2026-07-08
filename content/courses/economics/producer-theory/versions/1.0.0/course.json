@@ -1,7 +1,7 @@
 {
   "id": "producer-theory",
   "name": "Producer Theory",
-  "description": "This course explains **how firms transform resources into goods and services while maximizing profits.**",
+  "description": "This course studies **how firms make production decisions**, combining labor, capital, and technology to produce goods and services while minimizing costs and maximizing profits.",
   "version": "1.0.0",
   "domain": "economics",
   "chapters": [

@@ -2,7 +2,7 @@
   {
     "id": "philosophy-foundations",
     "title": "Philosophy Foundations",
-    "description": "Learn and master the concepts of Philosophy Foundations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course introduces **the study of fundamental questions about reality, knowledge, morality, reasoning, and human existence**. It provides the conceptual foundation for all later philosophy courses.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "logic",
     "title": "Logic",
-    "description": "This course develops **formal reasoning skills**, making it one of the most valuable courses in the entire Philosophy curriculum.",
+    "description": "This course studies **the principles of correct reasoning and argumentation**. It covers both informal and formal logic, providing the tools to evaluate arguments, identify fallacies, and construct rigorous proofs.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "epistemology",
     "title": "Epistemology",
-    "description": "This course explores **how we know what we know**, one of the central questions of philosophy.",
+    "description": "This course studies **the nature, sources, limits, and justification of knowledge**. It explores questions about truth, belief, evidence, skepticism, and how humans acquire reliable knowledge.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "metaphysics",
     "title": "Metaphysics",
-    "description": "This course explores **the fundamental nature of reality and existence**, asking what kinds of things exist and how they relate to one another.",
+    "description": "This course studies **the fundamental nature of reality, existence, and being**. It explores questions about what exists, how things persist through time, the nature of causation, and the structure of reality itself.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "ethics",
     "title": "Ethics",
-    "description": "This course explores **how we should act, what makes actions right or wrong, and how ethical principles apply to modern society.**",
+    "description": "This course studies **moral philosophy**, exploring what makes actions right or wrong, what people ought to do, and how ethical principles apply to personal life, society, science, business, and technology.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "political-philosophy",
     "title": "Political Philosophy",
-    "description": "This course explores **how societies should be organized and governed, and the philosophical foundations of political systems.**",
+    "description": "This course studies **the philosophical foundations of politics, government, law, and society**. It explores questions about justice, liberty, equality, rights, authority, and the ideal political order.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "philosophy-of-mind",
     "title": "Philosophy of Mind",
-    "description": "This course explores **the nature of the mind, consciousness, and the relationship between mental processes and the physical brain.**",
+    "description": "This course studies **the nature of the mind, consciousness, and mental states**, exploring how thoughts, emotions, perception, and intelligence relate to the brain, the body, and artificial systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "philosophy-of-science",
     "title": "Philosophy of Science",
-    "description": "This course explores **the foundations, methods, and limits of scientific knowledge.**",
+    "description": "This course studies **the nature of scientific knowledge, scientific reasoning, and the methods used to investigate the natural world**. It explores what distinguishes science from non-science and how scientific knowledge evolves.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "philosophy-of-language",
     "title": "Philosophy of Language",
-    "description": "This course explores **how language conveys meaning, shapes thought, and enables communication.**",
+    "description": "This course studies **the nature of language, meaning, and communication**. It explores how words refer to the world, how meaning is constructed, and how language relates to thought, logic, and reality.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "aesthetics",
     "title": "Aesthetics",
-    "description": "This course explores **the philosophy of beauty, art, creativity, and aesthetic experience.**",
+    "description": "This course studies **the philosophy of beauty, art, and aesthetic experience**. It explores what makes something beautiful, what distinguishes art, how creativity works, and how people interpret artistic works.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "history-of-philosophy",
     "title": "History of Philosophy",
-    "description": "This course traces **the evolution of philosophical thought across civilizations and historical periods.**",
+    "description": "This course studies **the development of philosophical thought across different civilizations and historical periods**. It examines the major philosophers, schools of thought, and the evolution of philosophical ideas.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "contemporary-philosophy",
     "title": "Contemporary Philosophy",
-    "description": "This capstone course explores **the major philosophical movements and challenges shaping the modern world.**",
+    "description": "This course studies **the major philosophical movements, ideas, and debates from the late 19th century to the present**. It examines how philosophy addresses modern issues in science, technology, society, politics, and human existence.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

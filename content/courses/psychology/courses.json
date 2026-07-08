@@ -2,7 +2,7 @@
   {
     "id": "psychology-foundations",
     "title": "Psychology Foundations",
-    "description": "Learn and master the concepts of Psychology Foundations with structured lessons, interactive visualizations, and practice exercises.",
+    "description": "This course introduces **the scientific study of mind and behavior**. Students learn the major branches of psychology, research methods, biological foundations, and the core concepts that underpin the field.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "cognitive-psychology",
     "title": "Cognitive Psychology",
-    "description": "This course explores **how the mind processes information**, making it one of the central branches of psychology.",
+    "description": "This course studies **how the mind acquires, processes, stores, and uses information**. It explores perception, attention, memory, language, reasoning, problem solving, and decision making.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "biological-psychology",
     "title": "Biological Psychology",
-    "description": "This course explains **how the brain, nervous system, and biology shape thoughts, emotions, and behavior.**",
+    "description": "This course studies **the biological basis of behavior**, exploring how the brain, nervous system, hormones, and genetics influence thoughts, emotions, learning, and behavior.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "developmental-psychology",
     "title": "Developmental Psychology",
-    "description": "This course explores **how humans grow and change physically, cognitively, emotionally, and socially throughout life.**",
+    "description": "This course studies **how people grow and change throughout the lifespan**, from conception to old age. It explores physical, cognitive, emotional, and social development.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "social-psychology",
     "title": "Social Psychology",
-    "description": "This course explores **how people think about, influence, and relate to one another in social situations.**",
+    "description": "This course studies **how people's thoughts, feelings, and behaviors are influenced by the presence of others**. It explores social perception, attitudes, relationships, groups, and social influence.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "personality-psychology",
     "title": "Personality Psychology",
-    "description": "This course explores **what makes each person unique and how personality develops, is measured, and influences behavior.**",
+    "description": "This course studies **personality**—the enduring patterns of thoughts, emotions, and behaviors that make individuals unique. It explores major theories of personality, personality assessment, development, and applications.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "learning-behavior",
     "title": "Learning & Behavior",
-    "description": "This course explains **how humans and animals learn new behaviors and how behavior can be shaped and changed.**",
+    "description": "This course studies **how humans and animals acquire, modify, and maintain behavior** through experience. It covers the major theories of learning and their practical applications in education, therapy, and everyday life.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "abnormal-psychology",
     "title": "Abnormal Psychology",
-    "description": "This course explores **psychological disorders, their causes, symptoms, diagnosis, and evidence-based approaches to treatment.**",
+    "description": "This course studies **psychological disorders**, including their causes, symptoms, diagnosis, and treatment. It examines mental health through biological, psychological, and social perspectives.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "clinical-psychology",
     "title": "Clinical Psychology",
-    "description": "This course focuses on **the assessment, treatment, and prevention of psychological disorders using scientific and evidence-based approaches.**",
+    "description": "This course studies **the assessment, diagnosis, treatment, and prevention of psychological disorders**. It focuses on evidence-based clinical practice and therapeutic approaches.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "industrial-organizational-psychology",
     "title": "Industrial & Organizational Psychology",
-    "description": "This course explores **how psychological principles improve performance, leadership, teamwork, and well-being in organizations.**",
+    "description": "This course studies **how psychology is applied in workplaces and organizations**. It explores employee behavior, leadership, teamwork, motivation, organizational culture, and workplace well-being.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "research-methods-statistics",
     "title": "Research Methods & Statistics",
-    "description": "This course teaches **how psychological knowledge is generated, tested, and validated through scientific research.**",
+    "description": "This course studies **how psychological research is designed, conducted, analyzed, and interpreted**. It provides the scientific foundation for evaluating evidence and conducting psychological research.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "positive-psychology",
     "title": "Positive Psychology",
-    "description": "This course serves as the capstone of the Psychology curriculum, focusing on **what helps individuals and communities thrive rather than simply treating mental illness.**",
+    "description": "This course studies **the science of human flourishing**, focusing on the strengths, habits, relationships, and experiences that contribute to happiness, resilience, meaning, and well-being.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

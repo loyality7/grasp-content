@@ -1,7 +1,7 @@
 {
   "id": "repeated-games",
   "name": "Repeated Games",
-  "description": "This course explores **how repeated interactions allow cooperation, trust, and reputation to emerge even among self-interested players.**",
+  "description": "This course studies **games that are played multiple times**, showing how repeated interactions can lead to cooperation, trust, reputation, and long-term strategic behavior.",
   "version": "1.0.0",
   "domain": "game-theory",
   "chapters": [

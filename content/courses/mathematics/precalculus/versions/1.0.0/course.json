@@ -1,7 +1,7 @@
 {
   "id": "precalculus",
   "name": "Precalculus",
-  "description": "This is a university-level **Trigonometry** course. It takes students from basic right-triangle trigonometry all the way to polar coordinates, complex numbers in polar form, and introductory Fourier concepts, making it a solid foundation for **Precalculus** and **Calculus**.",
+  "description": "This course bridges **Algebra II + Trigonometry → Calculus I**.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

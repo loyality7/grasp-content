@@ -1,7 +1,7 @@
 {
   "id": "web-development",
   "name": "Web Development",
-  "description": "This course teaches how modern websites and web applications are built from front end to back end.",
+  "description": "This course teaches **how modern websites and web applications are built**, covering both frontend and backend development, databases, APIs, authentication, and deployment.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

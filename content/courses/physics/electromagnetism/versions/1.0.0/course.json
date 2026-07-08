@@ -1,7 +1,7 @@
 {
   "id": "electromagnetism",
   "name": "Electromagnetism",
-  "description": "Here are the two missing courses in the same format as the rest of your curriculum.",
+  "description": "This course studies **electric and magnetic fields, their interactions, and the unified theory of electromagnetism**. Students learn the principles governing electric charges, magnetic fields, electromagnetic induction, and electromagnetic waves.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

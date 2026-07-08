@@ -1,7 +1,7 @@
 {
   "id": "cognitive-psychology",
   "name": "Cognitive Psychology",
-  "description": "This course explores **how the mind processes information**, making it one of the central branches of psychology.",
+  "description": "This course studies **how the mind acquires, processes, stores, and uses information**. It explores perception, attention, memory, language, reasoning, problem solving, and decision making.",
   "version": "1.0.0",
   "domain": "psychology",
   "chapters": [

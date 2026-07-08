@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 101,
   "updatedAt": "2026-07-03T14:23:42.328Z",
-  "description": "This course explains **how computers communicate**, from local networks to the global Internet."
+  "description": "This course studies **how computers communicate over networks**, from small local networks to the global Internet. It covers network architecture, protocols, routing, switching, wireless communication, and network security."
 }

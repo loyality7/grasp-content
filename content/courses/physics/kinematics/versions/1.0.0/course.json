@@ -1,7 +1,7 @@
 {
   "id": "kinematics",
   "name": "Kinematics",
-  "description": "This course prepares students for **Course 2: Kinematics**, where they'll begin studying motion mathematically. It ensures everyone has the measurement, vector, and mathematical foundations needed before diving into equations of motion.",
+  "description": "Kinematics is the study of **motion without considering the forces that cause it**.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

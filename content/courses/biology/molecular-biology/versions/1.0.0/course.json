@@ -1,7 +1,7 @@
 {
   "id": "molecular-biology",
   "name": "Molecular Biology",
-  "description": "This course explains **how genetic information is stored, copied, and expressed**, forming the foundation of modern genetics and biotechnology.",
+  "description": "This course studies **how genetic information is stored, replicated, expressed, and regulated**. It forms the foundation of genetics, biotechnology, genomics, and modern medicine.",
   "version": "1.0.0",
   "domain": "biology",
   "chapters": [

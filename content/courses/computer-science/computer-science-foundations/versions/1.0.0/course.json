@@ -1,7 +1,7 @@
 {
   "id": "computer-science-foundations",
   "name": "Computer Science Foundations",
-  "description": "Learn and master the concepts of Computer Science Foundations with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course introduces **the fundamental ideas of computer science**, including how computers represent information, solve problems, execute programs, and impact society. It prepares students for programming and all later CS courses.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

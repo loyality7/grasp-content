@@ -1,7 +1,7 @@
 {
   "id": "states-of-matter",
   "name": "States of Matter",
-  "description": "Learn and master the concepts of States of Matter with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course explains **why matter exists as solids, liquids, gases, and plasma**, and how temperature, pressure, and intermolecular forces determine their behavior.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

@@ -1,7 +1,7 @@
 {
   "id": "chemical-kinetics",
   "name": "Chemical Kinetics",
-  "description": "This is the final major **Physical Chemistry** course before moving into **Inorganic Chemistry**.",
+  "description": "This course studies **how fast chemical reactions occur, what controls their speed, and how reactions proceed step by step**. It is fundamental to chemistry, biology, pharmaceuticals, and chemical engineering.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

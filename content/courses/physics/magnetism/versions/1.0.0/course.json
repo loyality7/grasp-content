@@ -1,7 +1,7 @@
 {
   "id": "magnetism",
   "name": "Magnetism",
-  "description": "Learn and master the concepts of Magnetism with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies **magnetic fields, magnetic forces, and magnetic materials**. It builds directly on electrostatics and prepares students for electromagnetism.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

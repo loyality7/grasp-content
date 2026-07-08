@@ -1,7 +1,7 @@
 {
   "id": "physics-foundations",
   "name": "Physics Foundations",
-  "description": "Learn and master the concepts of Physics Foundations with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course teaches the language of physics before students learn mechanics.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

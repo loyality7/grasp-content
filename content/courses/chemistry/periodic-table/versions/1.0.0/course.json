@@ -1,7 +1,7 @@
 {
   "id": "periodic-table",
   "name": "Periodic Table",
-  "description": "Learn and master the concepts of Periodic Table with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course explains **why the Periodic Table is organized the way it is** and how it predicts the physical and chemical behavior of every element.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

@@ -1,7 +1,7 @@
 {
   "id": "electricity-electrostatics",
   "name": "Electricity (Electrostatics)",
-  "description": "Learn and master the concepts of Electricity (Electrostatics) with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course focuses on **electric charge and electric fields**. It does **not** cover electric circuits—that comes later.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

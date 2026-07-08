@@ -1,7 +1,7 @@
 {
   "id": "object-oriented-programming",
   "name": "Object-Oriented Programming",
-  "description": "This course teaches the programming paradigm used by Java, C++, C#, Kotlin, Swift, and many large-scale software systems.",
+  "description": "This course teaches the **Object-Oriented Programming (OOP)** paradigm, where software is modeled as interacting objects. The concepts apply across Java, C++, C#, Kotlin, Swift, Python, and many modern languages.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

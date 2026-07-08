@@ -1,7 +1,7 @@
 {
   "id": "computational-chemistry",
   "name": "Computational Chemistry",
-  "description": "This is the final course and completes a comprehensive university-level chemistry curriculum.",
+  "description": "This course studies **how computers are used to model, simulate, predict, and design chemical systems**. It combines chemistry, mathematics, physics, computer science, and artificial intelligence to solve problems that are difficult or impossible to study experimentally.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

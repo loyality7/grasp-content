@@ -1,7 +1,7 @@
 {
   "id": "databases",
   "name": "Databases",
-  "description": "This course teaches how modern applications store, organize, retrieve, and manage data efficiently.",
+  "description": "This course studies **how data is stored, organized, queried, and managed efficiently**. It covers relational databases, SQL, NoSQL, transactions, indexing, and modern database systems.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

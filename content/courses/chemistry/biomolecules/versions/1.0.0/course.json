@@ -1,7 +1,7 @@
 {
   "id": "biomolecules",
   "name": "Biomolecules",
-  "description": "Learn and master the concepts of Biomolecules with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies the **chemical molecules of life**. It bridges chemistry and biology, explaining the structure, function, and interactions of carbohydrates, proteins, lipids, nucleic acids, enzymes, vitamins, and biomolecular metabolism.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

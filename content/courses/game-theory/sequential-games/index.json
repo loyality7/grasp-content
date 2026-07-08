@@ -8,5 +8,5 @@
   "chapters": 13,
   "topics": 92,
   "updatedAt": "2026-07-03T14:23:53.551Z",
-  "description": "This course explores **games where players make decisions one after another**, allowing strategy to evolve over time based on previous actions."
+  "description": "This course studies **games in which players make decisions over time**, observing previous actions before making their own choices. It introduces game trees, backward induction, and dynamic strategic reasoning."
 }

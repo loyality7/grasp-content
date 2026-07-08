@@ -1,7 +1,7 @@
 {
   "id": "chemistry-foundations",
   "name": "Chemistry Foundations",
-  "description": "Learn and master the concepts of Chemistry Foundations with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course teaches the language, measurements, and core principles of chemistry before students study atoms, molecules, and reactions.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

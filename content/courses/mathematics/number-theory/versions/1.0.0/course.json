@@ -1,7 +1,7 @@
 {
   "id": "number-theory",
   "name": "Number Theory",
-  "description": "These are advanced pure mathematics subjects rather than applied statistics.",
+  "description": "Number Theory is the study of **integers**. It is fundamental to **cryptography**, **computer science**, and **pure mathematics**.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [

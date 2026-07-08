@@ -1,7 +1,7 @@
 {
   "id": "waves-sound",
   "name": "Waves & Sound",
-  "description": "Learn and master the concepts of Waves & Sound with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "This course studies how **disturbances propagate through matter and space**, covering everything from musical instruments to earthquakes and communication systems.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

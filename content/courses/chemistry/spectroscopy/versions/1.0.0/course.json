@@ -1,7 +1,7 @@
 {
   "id": "spectroscopy",
   "name": "Spectroscopy",
-  "description": "This is one of the most important courses for chemistry research, pharmaceuticals, and molecular identification.",
+  "description": "This course studies **how light and electromagnetic radiation interact with matter** to identify atoms, molecules, and materials. It is one of the most important tools in chemistry, biology, medicine, and materials science.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

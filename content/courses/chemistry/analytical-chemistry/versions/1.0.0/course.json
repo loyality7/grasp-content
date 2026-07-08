@@ -1,7 +1,7 @@
 {
   "id": "analytical-chemistry",
   "name": "Analytical Chemistry",
-  "description": "This course teaches **how chemists determine what substances are present and how much is present**, making it essential for research, medicine, environmental science, and industry.",
+  "description": "This course studies **how chemists identify, separate, and quantify chemical substances**. It is the foundation of laboratory science, pharmaceuticals, environmental testing, forensic science, and quality control.",
   "version": "1.0.0",
   "domain": "chemistry",
   "chapters": [

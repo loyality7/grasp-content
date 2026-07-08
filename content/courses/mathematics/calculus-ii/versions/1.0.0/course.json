@@ -1,7 +1,7 @@
 {
   "id": "calculus-ii",
   "name": "Calculus II",
-  "description": "Everything in **Calculus II** builds directly on these topics.",
+  "description": "Calculus II focuses on **advanced integration, sequences & series, and parametric/polar calculus**.",
   "version": "1.0.0",
   "domain": "mathematics",
   "chapters": [
