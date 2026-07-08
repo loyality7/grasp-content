@@ -41,7 +41,7 @@
     "description": "The study of computation, information, and automation.",
     "courseCount": 20,
     "icon": "cpu",
-    "color": "#7C3AED",
+    "color": "#0891B2",
     "order": 5
   },
   {
@@ -77,7 +77,7 @@
     "description": "The study of mathematical models of strategic interaction among rational decision-makers.",
     "courseCount": 12,
     "icon": "gamepad-2",
-    "color": "#0891B2",
+    "color": "#D946EF",
     "order": 9
   }
 ]

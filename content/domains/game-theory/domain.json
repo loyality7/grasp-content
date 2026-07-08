@@ -3,5 +3,5 @@
   "name": "Game Theory",
   "description": "The study of mathematical models of strategic interaction among rational decision-makers.",
   "courses": ["game-theory-foundations","strategic-decision-making","simultaneous-games","sequential-games","nash-equilibrium","repeated-games","cooperative-game-theory","auction-theory","voting-social-choice","evolutionary-game-theory","mechanism-design","applications-of-game-theory"],
-  "metadata": { "icon": "gamepad-2", "color": "#0891B2", "order": 9 }
+  "metadata": { "icon": "gamepad-2", "color": "#D946EF", "order": 9 }
 }

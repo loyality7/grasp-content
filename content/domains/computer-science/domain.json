@@ -3,5 +3,5 @@
   "name": "Computer Science",
   "description": "The study of computation, information, and automation.",
   "courses": ["computer-science-foundations","programming-fundamentals","object-oriented-programming","data-structures","algorithms","computer-organization","operating-systems","computer-networks","databases","software-engineering","web-development","mobile-development","system-design","distributed-systems","compiler-design","computer-graphics","artificial-intelligence","machine-learning","data-science","cybersecurity"],
-  "metadata": { "icon": "cpu", "color": "#7C3AED", "order": 5 }
+  "metadata": { "icon": "cpu", "color": "#0891B2", "order": 5 }
 }
