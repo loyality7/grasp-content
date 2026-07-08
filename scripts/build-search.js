@@ -49,8 +49,20 @@ function buildSearchIndexes() {
         const courseData = safeReadJson(courseJsonPath);
         if (!courseData) return;
 
-        // Add Course Item
-        const courseItem = {
+        // Add Course Item (for search.json schema compliance)
+        const courseItemSchema = {
+          id: courseData.id,
+          type: 'course',
+          title: courseData.name || courseData.title || '',
+          tags: (courseData.metadata && courseData.metadata.tags) || [],
+          difficulty: courseData.difficulty || 'intermediate',
+          estimatedMinutes: (courseData.estimatedHours || 0) * 60,
+          subject: courseData.domain || '',
+        };
+        searchItems.push(courseItemSchema);
+
+        // Add Course Item (legacy for courses.json compatibility)
+        const courseItemLegacy = {
           id: courseData.id,
           type: 'course',
           name: courseData.name,
@@ -59,8 +71,7 @@ function buildSearchIndexes() {
           version: courseData.version,
           path: `/course/${courseData.id}`
         };
-        searchItems.push(courseItem);
-        coursesList.push(courseItem);
+        coursesList.push(courseItemLegacy);
 
         if (courseData.metadata && Array.isArray(courseData.metadata.tags)) {
           courseData.metadata.tags.forEach(tag => {
@@ -89,7 +100,23 @@ function buildSearchIndexes() {
 
             if (!topicData) return;
 
-            const conceptItem = {
+            // Concept Item (for search.json schema compliance)
+            const conceptItemSchema = {
+              id: topicData.topicId,
+              type: 'concept',
+              title: topicData.name || '',
+              tags: topicData.tags || [],
+              difficulty: topicData.difficulty || 'intermediate',
+              estimatedMinutes: topicData.estimatedMinutes || 15,
+              subject: courseData.domain || '',
+              course: courseData.id,
+              chapter: chId,
+              topic: tId,
+            };
+            searchItems.push(conceptItemSchema);
+
+            // Concept Item (legacy for concepts.json compatibility)
+            const conceptItemLegacy = {
               id: topicData.topicId,
               type: 'concept',
               name: topicData.name,
@@ -100,8 +127,7 @@ function buildSearchIndexes() {
               domain: courseData.domain,
               path: `/course/${courseData.id}/player?topic=${topicData.topicId}`
             };
-            searchItems.push(conceptItem);
-            conceptsList.push(conceptItem);
+            conceptsList.push(conceptItemLegacy);
 
             // Add examples/exercises tags to keyword set
             const examplesData = safeReadJson(path.join(topicPath, 'examples.json'));
@@ -122,14 +148,21 @@ function buildSearchIndexes() {
   });
 
   // Write outputs
-  fs.writeFileSync(path.join(SEARCH_DIR, 'search.json'), JSON.stringify(searchItems, null, 2));
+  const searchIndexData = {
+    version: '1.0.0',
+    updatedAt: new Date().toISOString(),
+    totalItems: searchItems.length,
+    items: searchItems
+  };
+
+  fs.writeFileSync(path.join(SEARCH_DIR, 'search.json'), JSON.stringify(searchIndexData, null, 2));
   fs.writeFileSync(path.join(SEARCH_DIR, 'courses.json'), JSON.stringify(coursesList, null, 2));
   fs.writeFileSync(path.join(SEARCH_DIR, 'concepts.json'), JSON.stringify(conceptsList, null, 2));
   fs.writeFileSync(path.join(SEARCH_DIR, 'tags.json'), JSON.stringify(Array.from(tagsSet), null, 2));
   fs.writeFileSync(path.join(SEARCH_DIR, 'keywords.json'), JSON.stringify(Array.from(keywordsSet), null, 2));
 
   console.log(`\n✅ Generated search index targets in "${SEARCH_DIR}":`);
-  console.log(`   - search.json (${searchItems.length} items)`);
+  console.log(`   - search.json (${searchItems.length} items schema-compliant)`);
   console.log(`   - courses.json (${coursesList.length} courses)`);
   console.log(`   - concepts.json (${conceptsList.length} concepts)`);
 }
