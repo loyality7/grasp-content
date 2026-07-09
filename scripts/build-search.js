@@ -40,10 +40,24 @@ function buildSearchIndexes() {
       const versionsPath = path.join(coursePath, 'versions');
       if (!fs.existsSync(versionsPath)) return;
 
-      const versions = fs.readdirSync(versionsPath);
-      versions.forEach(version => {
-        const versionPath = path.join(versionsPath, version);
-        if (!fs.statSync(versionPath).isDirectory()) return;
+      let activeVersion = null;
+      const latestJsonPath = path.join(coursePath, 'latest.json');
+      const latestData = safeReadJson(latestJsonPath);
+      if (latestData && latestData.latest) {
+        activeVersion = latestData.latest;
+      } else {
+        const versions = fs.readdirSync(versionsPath).filter(f => {
+          return fs.statSync(path.join(versionsPath, f)).isDirectory();
+        });
+        if (versions.length === 0) return;
+        versions.sort((a, b) => b.localeCompare(a, undefined, { numeric: true }));
+        activeVersion = versions[0];
+      }
+
+      if (!activeVersion) return;
+
+      const versionPath = path.join(versionsPath, activeVersion);
+      if (!fs.existsSync(versionPath) || !fs.statSync(versionPath).isDirectory()) return;
 
         const courseJsonPath = path.join(versionPath, 'course.json');
         const courseData = safeReadJson(courseJsonPath);
@@ -145,7 +159,6 @@ function buildSearchIndexes() {
         });
       });
     });
-  });
 
   // Write outputs
   const searchIndexData = {
