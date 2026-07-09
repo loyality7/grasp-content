@@ -81,6 +81,28 @@ function updateAvailableLanguages() {
                 fs.writeFileSync(mainTopicJsonPath, JSON.stringify(topicData, null, 2) + '\n', 'utf8');
                 updatedCount++;
               }
+
+              // Also write availableLanguages to all localized topic.json files if they exist!
+              availableLanguages.forEach(langCode => {
+                if (langCode === 'en') return;
+                const localizedJsonPath = path.join(langsDirPath, langCode, 'topic.json');
+                if (fs.existsSync(localizedJsonPath)) {
+                  try {
+                    const locContent = fs.readFileSync(localizedJsonPath, 'utf8');
+                    const locData = JSON.parse(locContent);
+                    const locLangs = locData.availableLanguages || [];
+                    const isLocSame = locLangs.length === availableLanguages.length &&
+                                      locLangs.every(l => availableLanguages.includes(l));
+                    if (!isLocSame) {
+                      locData.availableLanguages = availableLanguages;
+                      fs.writeFileSync(localizedJsonPath, JSON.stringify(locData, null, 2) + '\n', 'utf8');
+                      updatedCount++;
+                    }
+                  } catch (e) {
+                    console.error(`Error processing localized topic ${localizedJsonPath}:`, e);
+                  }
+                }
+              });
             } catch (err) {
               console.error(`Error processing topic ${mainTopicJsonPath}:`, err);
             }
