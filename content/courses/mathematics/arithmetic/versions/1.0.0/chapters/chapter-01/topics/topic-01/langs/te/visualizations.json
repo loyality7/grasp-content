@@ -1,0 +1,36 @@
+{
+  "visualizations": [
+    {
+      "id": "formula-01",
+      "type": "formula",
+      "title": "సమితి మరియు తదుపరి సంఖ్య ప్రాతినిధ్యం",
+      "description": "సహజ సంఖ్యల సమితి యొక్క గణిత ప్రాతినిధ్యం.",
+      "spec": {
+        "main_latex": "\\mathbb{N} = \\{1, 2, 3, 4, \\dots\\}",
+        "steps": [
+          {
+            "latex": "\\mathbb{N}",
+            "explanation": "సహజ సంఖ్యల అనంత సమితిని సూచించే ప్రామాణిక గుర్తు."
+          },
+          {
+            "latex": "\\{1, 2, 3, 4, \\dots\\}",
+            "explanation": "1 నుండి ప్రారంభమయ్యే సంఖ్యా క్రమం, ఇది వివిక్త (discrete) మరియు క్రమబద్ధమైన సమితి అని చూపిస్తుంది."
+          },
+          {
+            "latex": "\\forall n \\in \\mathbb{N}, \\quad S(n) = n + 1 \\in \\mathbb{N}",
+            "explanation": "పీనో తదుపరి ప్రమేయం: ప్రతి సహజ సంఖ్య n కి ఒక ప్రత్యేక తదుపరి సంఖ్య S(n) ఉంటుంది, ఇది కూడా సహజ సంఖ్యే."
+          }
+        ]
+      }
+    },
+    {
+      "id": "anim-01",
+      "type": "2d-anim",
+      "title": "2D వివిక్త తదుపరి సంఖ్యల యానిమేషన్",
+      "description": "సంఖ్యా రేఖపై ఒక్కొక్కటిగా సంఖ్యలు ఎలా పెరుగుతాయో చూపే దృశ్యరూపం.",
+      "spec": {
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n    \n    ctx.strokeStyle = '#374151';\n    ctx.lineWidth = 4;\n    ctx.beginPath();\n    ctx.moveTo(50, H / 2);\n    ctx.lineTo(W - 50, H / 2);\n    ctx.stroke();\n    \n    var numPoints = 5;\n    var spacing = (W - 100) / (numPoints - 1);\n    for (var i = 0; i < numPoints; i++) {\n      var val = i + 1;\n      var x = 50 + i * spacing;\n      var y = H / 2;\n      \n      var activeIdx = Math.floor(t * 0.03) % numPoints;\n      var isActive = (i === activeIdx);\n      var r = isActive ? 16 + Math.sin(t * 0.15) * 3 : 10;\n      \n      ctx.fillStyle = isActive ? '#EC4899' : '#4B5563';\n      ctx.beginPath();\n      ctx.arc(x, y, r, 0, Math.PI * 2);\n      ctx.fill();\n      \n      ctx.font = 'bold 16px -apple-system, sans-serif';\n      ctx.fillStyle = isActive ? '#F3F4F6' : '#9CA3AF';\n      ctx.textAlign = 'center';\n      ctx.fillText(val.toString(), x, y - 25);\n      \n      if (isActive && i > 0) {\n        ctx.font = '12px -apple-system, sans-serif';\n        ctx.fillStyle = '#10B981';\n        ctx.fillText('+1', x - spacing / 2, y - 10);\n      }\n    }\n  }\n};"
+      }
+    }
+  ]
+}

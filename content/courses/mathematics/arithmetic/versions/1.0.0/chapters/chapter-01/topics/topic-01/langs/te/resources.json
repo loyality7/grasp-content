@@ -1,0 +1,12 @@
+{
+  "resources": [
+    {
+      "id": "resource-01",
+      "title": "నమూనా వనరు శీర్షిక",
+      "url": "https://example.com/resource",
+      "type": "website",
+      "description": "ఈ టెంప్లేట్‌ను మార్చండి. మద్దతు ఉన్న రకాలు: 'video', 'pdf', 'article', 'website'.",
+      "source": "గ్రాస్ప్ అకాడమీ"
+    }
+  ]
+}
