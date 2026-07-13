@@ -2,16 +2,16 @@
   "id": "topic-03",
   "name": "Integers",
   "topicId": "mathematics.arithmetic.chapter-01.topic-03",
-  "description": "Learn about Integers and its applications in mathematics.",
+  "description": "Understanding Integers: extending whole numbers with negative values, order on the number line, and algebraic properties.",
   "content": {
-    "overview": "Integers is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Integers. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Integers requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Integers extend whole numbers by including negative values, forming a complete system for representing gain, loss, and direction in mathematics and the real world.",
+    "explanation": "### Definition and Set Notation\n\nIn mathematics, **Integers** are the set of all positive whole numbers, their negative counterparts, and zero. The set of integers is denoted by the double-struck letter $\\mathbb{Z}$:\n\n{{viz:formula-01}}\n\nThe symbol $\\mathbb{Z}$ comes from the German word *Zahlen*, meaning \"numbers.\" Formally:\n$$\\mathbb{Z} = \\{\\ldots, -3, -2, -1, 0, 1, 2, 3, \\ldots\\}$$\n\n### The Number Line and Ordering\n\nUnlike Natural Numbers and Whole Numbers, which live only on the positive side of zero, Integers extend infinitely in both directions. This gives us a complete picture of the number line:\n\n{{viz:anim-01}}\n\nOn the integer number line:\n- **Left of zero**: negative integers ($-1, -2, -3, \\ldots$) represent deficit or opposite direction.\n- **At zero**: the origin, neither positive nor negative.\n- **Right of zero**: positive integers ($+1, +2, +3, \\ldots$) represent surplus or forward direction.\n\n**Ordering**: For any two integers $a$ and $b$, we write:\n- $a < b$ if $a$ lies to the left of $b$ on the number line.\n- $a > b$ if $a$ lies to the right of $b$ on the number line.\n\n### Absolute Value and Additive Inverse\n\nTwo critical concepts emerge with integers:\n\n1. **Absolute Value** (denoted $|a|$): The distance of an integer from zero, always non-negative:\n   - $|5| = 5$ (distance of 5 from zero is 5 units)\n   - $|-5| = 5$ (distance of $-5$ from zero is also 5 units)\n   - $|0| = 0$ (zero is zero distance from itself)\n\n2. **Additive Inverse**: For each integer $a$, there exists a unique integer $-a$ such that:\n   $$a + (-a) = 0$$\n   This property does not exist in Natural Numbers or Whole Numbers. For example, $7 + (-7) = 0$, but there is no negative in $\\mathbb{N}$ that adds with $7$ to yield zero.\n\n### Closure and Algebraic Properties\n\nUnlike Natural Numbers, the set of Integers is **closed** under subtraction:\n- If $a, b \\in \\mathbb{Z}$, then $a - b \\in \\mathbb{Z}$.\n- **Example**: $3 - 8 = -5$, and $-5$ is an integer.\n\nIntegers retain closure under addition and multiplication:\n- **Addition**: $a + b \\in \\mathbb{Z}$ for all $a, b \\in \\mathbb{Z}$.\n- **Multiplication**: $a \\times b \\in \\mathbb{Z}$ for all $a, b \\in \\mathbb{Z}$.\n\nHowever, Integers are **not closed** under division:\n- **Example**: $7 \\div 2 = 3.5$, which is not an integer. This motivates the extension to Rational Numbers ($\\mathbb{Q}$).",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The set $\\\\mathbb{Z} = \\\\{\\\\ldots, -3, -2, -1, 0, 1, 2, 3, \\\\ldots\\\\}$ includes all positive and negative whole numbers plus zero.",
+      "Integers are closed under addition, subtraction, and multiplication, but not under division.",
+      "Every integer $a$ has an additive inverse $-a$ such that $a + (-a) = 0$, a property absent in Natural or Whole Numbers."
     ],
-    "whyItMatters": "Integers is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Integers are essential for modeling real-world scenarios involving gain/loss (finances), elevation changes (geography), temperature variation (physics), and directional movement. They form the foundation for algebraic reasoning and are the first number system fully closed under subtraction."
   },
   "availableLanguages": [
     "en"

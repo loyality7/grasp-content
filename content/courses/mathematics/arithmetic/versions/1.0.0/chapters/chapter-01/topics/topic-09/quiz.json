@@ -3,28 +3,58 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Absolute Value?",
+      "question": "What is |−8|?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "-8",
+        "8",
+        "0",
+        "Undefined"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "|−8| = 8 because absolute value is the distance from zero. −8 is 8 units away from zero, so |−8| = 8.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Absolute Value is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which pair has the same absolute value?",
       "options": [
-        "True",
-        "False"
+        "5 and 10",
+        "-3 and 3",
+        "-2 and 4",
+        "0 and 1"
       ],
       "correctIndex": 1,
-      "explanation": "Absolute Value has many practical applications.",
+      "explanation": "|-3| = 3 and |3| = 3. Opposite numbers always have the same absolute value because they are equidistant from zero.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Solve: |x| = 0.",
+      "options": [
+        "x = 1",
+        "x = −1",
+        "x = 0",
+        "No solution"
+      ],
+      "correctIndex": 2,
+      "explanation": "|x| = 0 means the distance from x to zero is zero. Only x = 0 satisfies this.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Why does |x| = −5 have no solution?",
+      "options": [
+        "Negative numbers are not allowed in equations",
+        "Absolute value is always non-negative, so it cannot equal a negative number",
+        "The equation is too complicated",
+        "x must be positive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absolute value represents distance, which is always ≥ 0. A negative number can never be a distance.",
+      "difficulty": "medium"
     }
   ]
 }

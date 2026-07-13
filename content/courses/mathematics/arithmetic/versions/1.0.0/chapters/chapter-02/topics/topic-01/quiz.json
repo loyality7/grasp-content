@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Digits?",
+      "question": "How many digits are used in the base-10 (decimal) number system?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "8 digits",
+        "9 digits",
+        "10 digits",
+        "11 digits"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "The base-10 system uses exactly 10 digits: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. This is why it's called \"base-10.\"",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Digits is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What are the ten digits?",
       "options": [
-        "True",
-        "False"
+        "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+        "{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}",
+        "{0, 1, 2, 3, 4, 5, 6, 7, 8}",
+        "{1, 2, 3, 4, 5, 6, 7, 8, 9}"
       ],
       "correctIndex": 1,
-      "explanation": "Digits has many practical applications.",
+      "explanation": "The ten digits are {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Note that 0 is a digit and 10 is a number (not a digit).",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "How many digits does the number 5,042 contain?",
+      "options": [
+        "2 digits",
+        "3 digits",
+        "4 digits",
+        "5 digits"
+      ],
+      "correctIndex": 2,
+      "explanation": "The number 5,042 contains 4 digits: 5, 0, 4, 2. The comma is punctuation, not a digit.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "What is the difference between a digit and a number?",
+      "options": [
+        "There is no difference",
+        "A digit is a single symbol; a number can be composed of one or more digits",
+        "A number is a single symbol; a digit is composed of multiple numbers",
+        "Digits are only for counting, numbers are for measuring"
+      ],
+      "correctIndex": 1,
+      "explanation": "A digit is one of the ten symbols {0–9}. A number is a value that can be represented using one or more digits. For example, 3 is both a digit and a number, but 42 is a number composed of two digits (4 and 2).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Why is the digit 0 important in the number system?",
+      "options": [
+        "It makes numbers look bigger",
+        "It acts as a placeholder, showing where there are no tens, hundreds, etc.",
+        "It is the largest digit",
+        "It is never used in real numbers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zero serves as a placeholder in position notation. Without it, we couldn't distinguish between numbers like 101 and 11, or write numbers with missing place values clearly.",
+      "difficulty": "medium"
     }
   ]
 }

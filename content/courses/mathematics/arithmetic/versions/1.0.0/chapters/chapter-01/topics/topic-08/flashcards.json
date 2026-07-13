@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Number Line?",
-      "back": "Number Line is a fundamental concept in mathematics.",
+      "front": "What is a number line?",
+      "back": "A one-dimensional line where every real number is represented at a unique position, with negatives left of zero and positives right of zero.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Number Line important?",
-      "back": "Number Line is essential for understanding Arithmetic.",
+      "front": "How do you add on a number line?",
+      "back": "Start at the first number, then move RIGHT by the second number. The distance you move right is the amount you're adding.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you subtract on a number line?",
+      "back": "Start at the first number, then move LEFT by the second number. The distance you move left is the amount you're subtracting.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What does the distance from -5 to 5 represent?",
+      "back": "The distance is 10 units. This also shows that -5 and 5 are symmetric around zero, both at distance 5 from zero.",
       "difficulty": "medium"
     }
   ]

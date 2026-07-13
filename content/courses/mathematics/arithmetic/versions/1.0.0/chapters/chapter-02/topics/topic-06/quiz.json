@@ -3,28 +3,42 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Comparing Numbers?",
+      "question": "Which symbol correctly compares 458 and 485?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$458 > 485$",
+        "$458 = 485$",
+        "$458 < 485$",
+        "None of the above"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Since 458 and 485 have the same hundreds digit, we compare the tens place: 5 < 8, so $458 < 485$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Comparing Numbers is only applicable in theoretical contexts.",
+      "question": "The symbol < means \"is greater than\".",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Comparing Numbers has many practical applications.",
+      "explanation": "The symbol < means \"is less than\". The symbol > means \"is greater than\".",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which number is the smallest among 234, 243, 324, and 342?",
+      "options": [
+        "243",
+        "234",
+        "342",
+        "324"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comparing the hundreds places: 2 < 3, so 234 and 243 are smaller. Between 234 and 243, the tens place: 3 < 4, so 234 is smallest.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Face Value?",
-      "back": "Face Value is a fundamental concept in mathematics.",
+      "front": "What is face value?",
+      "back": "The value of the digit itself (0–9), independent of its position in the number.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Face Value important?",
-      "back": "Face Value is essential for understanding Arithmetic.",
+      "front": "What is the difference between face value and place value?",
+      "back": "Face value is the digit itself; place value is the digit multiplied by its power of 10 (which depends on position).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the face value of the digit 7 in 7,123?",
+      "back": "7. Face value is always just the digit itself, regardless of position.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "In the number 333, do all three 3's have the same face value?",
+      "back": "Yes. All three 3's have a face value of 3, but different place values (300, 30, and 3).",
       "difficulty": "medium"
     }
   ]

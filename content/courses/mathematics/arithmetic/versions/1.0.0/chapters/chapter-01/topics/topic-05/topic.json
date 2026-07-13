@@ -2,16 +2,16 @@
   "id": "topic-05",
   "name": "Irrational Numbers",
   "topicId": "mathematics.arithmetic.chapter-01.topic-05",
-  "description": "Learn about Irrational Numbers and its applications in mathematics.",
+  "description": "Understanding Irrational Numbers: numbers that cannot be expressed as fractions and their non-repeating decimal representations.",
   "content": {
-    "overview": "Irrational Numbers is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Irrational Numbers. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Irrational Numbers requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Irrational Numbers are numbers that cannot be expressed as the ratio of two integers. They fill the gaps in the rational number line with non-terminating, non-repeating decimal expansions.",
+    "explanation": "### Definition and Contrast with Rational Numbers\n\n**Irrational Numbers** are real numbers that are **not** rational. They cannot be expressed in the form $\\frac{p}{q}$ where $p$ and $q$ are integers with $q \\neq 0$.\n\nThe key characteristic: an irrational number has a decimal representation that **neither terminates nor repeats**. Compare:\n- **Rational**: $\\frac{1}{3} = 0.\\overline{3} = 0.333\\ldots$ (repeating pattern: 3 repeats forever)\n- **Irrational**: $\\sqrt{2} = 1.41421356\\ldots$ (no repeating pattern, never terminates)\n\n### Famous Examples\n\n1. **Square Roots of Non-Perfect Squares**:\n   - $\\sqrt{2} \\approx 1.414213...$\n   - $\\sqrt{3} \\approx 1.732050...$\n   - $\\sqrt{5} \\approx 2.236067...$\n\n   These are irrational because no rational number squared yields exactly 2, 3, or 5.\n\n2. **Mathematical Constants**:\n   - **Pi** ($\\pi$): The ratio of a circle's circumference to its diameter. $\\pi \\approx 3.14159265358979...$\n   - **Euler's Number** ($e$): The base of natural logarithms. $e \\approx 2.71828182845904...$\n   - **The Golden Ratio** ($\\phi$): $\\phi = \\frac{1 + \\sqrt{5}}{2} \\approx 1.618033...$\n\n### Proof that $\\sqrt{2}$ is Irrational\n\nAssume $\\sqrt{2} = \\frac{p}{q}$ where $p$ and $q$ are integers in lowest terms (GCD$(p,q) = 1$).\n\nSquaring both sides: $2 = \\frac{p^2}{q^2}$, so $2q^2 = p^2$.\n\nThis means $p^2$ is even, which implies $p$ is even. Let $p = 2k$ for some integer $k$.\n\nSubstituting: $2q^2 = (2k)^2 = 4k^2$, so $q^2 = 2k^2$.\n\nThis means $q^2$ is even, so $q$ is even.\n\nBut if both $p$ and $q$ are even, their GCD is at least 2, contradicting our assumption. Therefore, $\\sqrt{2}$ cannot be rational and must be irrational. $\\blacksquare$\n\n### The Number Hierarchy\n\n{{viz:formula-01}}\n\nThe relationship between all number sets we've studied:\n$$\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$$\n\nwhere $\\mathbb{R}$ (Real Numbers) = $\\mathbb{Q}$ ∪ {irrational numbers}.\n\n**Key point**: Irrational numbers form the \"complement\" of rational numbers within the real number system. Together, they complete the continuum of the number line.\n\n### Decimal Expansion as a Test\n\nThe decimal representation is the practical way to distinguish:\n- If a decimal **terminates** or **repeats** → rational\n- If a decimal **never repeats and never terminates** → irrational\n\nExample:\n- $0.5 = \\frac{1}{2}$ (terminates) → rational\n- $0.\\overline{142857} = \\frac{1}{7}$ (repeats) → rational\n- $\\pi = 3.14159265358979...$ (neither terminates nor repeats) → irrational",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Irrational numbers cannot be expressed as $\\\\frac{p}{q}$ where $p, q \\\\in \\\\mathbb{Z}, q \\\\neq 0$.",
+      "Irrational numbers have non-terminating, non-repeating decimal representations.",
+      "Famous examples: $\\\\sqrt{2}$, $\\\\pi$, $e$, and the golden ratio $\\\\phi = \\\\frac{1+\\\\sqrt{5}}{2}$."
     ],
-    "whyItMatters": "Irrational Numbers is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Irrational numbers are essential in geometry (π for circles), calculus (e for exponentials), finance (golden ratio for growth), and physics. They demonstrate that numbers extend beyond simple fractions and reveal the richness of the real number system."
   },
   "availableLanguages": [
     "en"

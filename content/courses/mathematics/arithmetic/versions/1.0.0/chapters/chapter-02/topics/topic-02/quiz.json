@@ -3,28 +3,44 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Place Value?",
+      "question": "What is the place value of the 7 in 2,743?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "7",
+        "70",
+        "700",
+        "7,000"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "The 7 is in the hundreds place, so its place value is 7 × 100 = 700.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Place Value is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "In the number 9,506, which digit is in the tens place?",
       "options": [
-        "True",
-        "False"
+        "9",
+        "5",
+        "0",
+        "6"
       ],
-      "correctIndex": 1,
-      "explanation": "Place Value has many practical applications.",
+      "correctIndex": 2,
+      "explanation": "Counting from the right: ones (6), tens (0), hundreds (5), thousands (9). The tens place contains 0.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the place value of the 4 in the number 12.4?",
+      "options": [
+        "0.4",
+        "0.04",
+        "4",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 4 is in the tenths place (one decimal place), so its place value is 4 × 0.1 = 0.4.",
+      "difficulty": "medium"
     }
   ]
 }

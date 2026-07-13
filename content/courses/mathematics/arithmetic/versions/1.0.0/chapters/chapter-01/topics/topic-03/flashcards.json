@@ -2,15 +2,51 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Integers?",
-      "back": "Integers is a fundamental concept in mathematics.",
+      "front": "What is the set-theoretic notation for the set of Integers (ℤ)?",
+      "back": "ℤ = {..., -3, -2, -1, 0, 1, 2, 3, ...} (all positive and negative whole numbers plus zero).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Integers important?",
-      "back": "Integers is essential for understanding Arithmetic.",
+      "front": "Define absolute value |a| for an integer a.",
+      "back": "|a| is the distance of the integer a from zero on the number line, always non-negative. For example, |5| = 5 and |-5| = 5.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the additive inverse of an integer a?",
+      "back": "The additive inverse of a is -a, such that a + (-a) = 0. For example, the additive inverse of 7 is -7, since 7 + (-7) = 0.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Are Integers closed under subtraction? Provide an example.",
+      "back": "Yes. For any two integers a and b, a - b is also an integer. Example: 3 - 8 = -5, and -5 ∈ ℤ. (Natural Numbers are NOT closed under subtraction.)",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Are Integers closed under division? Explain with an example.",
+      "back": "No. For example, 7 ÷ 2 = 3.5, which is not an integer. Division of integers can produce non-integer rational numbers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-06",
+      "front": "Compare the ordering of -3 and -7 on the number line. Which is larger?",
+      "back": "-3 is larger than -7 because -3 is to the right of -7 on the number line. Among negative integers, the one with smaller absolute value is larger (closer to zero).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-07",
+      "front": "Distinguish Integers (ℤ) from Natural Numbers (ℕ) in terms of algebraic closure.",
+      "back": "Natural Numbers are closed under addition and multiplication, but NOT subtraction or division. Integers are closed under addition, subtraction, and multiplication, but NOT division. Only Integers have additive inverses within the set.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "card-08",
+      "front": "Explain why Integers are necessary in practical applications.",
+      "back": "Integers model real-world scenarios with direction or gain/loss: temperature change (below zero), financial debt (negative), elevation change, and directional movement. They are the first number system where subtraction is always possible within the set.",
+      "difficulty": "hard"
     }
   ]
 }

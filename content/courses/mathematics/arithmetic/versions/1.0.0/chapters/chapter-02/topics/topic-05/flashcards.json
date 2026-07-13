@@ -2,15 +2,27 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Standard Form?",
-      "back": "Standard Form is a fundamental concept in mathematics.",
+      "front": "What is standard form?",
+      "back": "The regular way we write numbers using digits in their place value positions. Example: 456 is in standard form.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Standard Form important?",
-      "back": "Standard Form is essential for understanding Arithmetic.",
+      "front": "What is the standard form of $3,000 + 600 + 8$?",
+      "back": "3,608",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Why are zeros important in standard form?",
+      "back": "Zeros are placeholders that show which place values are empty. Example: 5,009 has zeros in the hundreds and tens places.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Is 30 + 4 the same as 34 in standard form?",
+      "back": "Yes. Both equal 34. The expanded form $30 + 4$ converts to the standard form 34.",
+      "difficulty": "easy"
     }
   ]
 }

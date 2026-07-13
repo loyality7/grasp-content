@@ -2,16 +2,16 @@
   "id": "topic-03",
   "name": "Face Value",
   "topicId": "mathematics.arithmetic.chapter-02.topic-03",
-  "description": "Learn about Face Value and its applications in mathematics.",
+  "description": "Understanding Face Value: the numerical value of a digit itself, independent of its position.",
   "content": {
-    "overview": "Face Value is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Face Value. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Face Value requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Face value is the intrinsic numerical value of a digit, regardless of its position in a number. It is simply the digit's own value from 0 to 9.",
+    "explanation": "### Definition of Face Value\n\n**Face value** is the value of the digit itself. It is constant no matter where the digit appears in a number. Every digit has only one face value:\n\n$$\\text{Face Value} = \\text{the digit itself (0, 1, 2, 3, 4, 5, 6, 7, 8, or 9)}$$\n\n### Understanding Face Value\n\nThe digit 5, for example, always has a face value of 5:\n- In 54, the digit 5 has face value **5**\n- In 257, the digit 5 has face value **5**\n- In 5,000, the digit 5 has face value **5**\n\nThe face value does **not** change based on position. Only the place value changes.\n\n### Face Value vs. Place Value\n\nThese two concepts are often confused but are fundamentally different:\n\n**Place Value** = digit × (power of 10) — depends on position\n\n**Face Value** = the digit itself — independent of position\n\n**Example with 342:**\n\n| Digit | Face Value | Place Value | Calculation |\n|-------|-----------|-------------|-------------|\n| 3 | 3 | 300 | $3 \\times 100$ |\n| 4 | 4 | 40 | $4 \\times 10$ |\n| 2 | 2 | 2 | $2 \\times 1$ |\n\n### Key Formula\n\n$$\\text{Place Value} = \\text{Face Value} \\times (10^{\\text{position}})$$\n\nThis shows how face value and place value relate: place value is face value multiplied by a power of 10 based on position.\n\n### Face Value in Decimals\n\nFace value also applies to decimal places:\n- In 23.456:\n  - The digit 4 has face value **4** (and place value 0.4, since $4 \\times 0.1 = 0.4$)\n  - The digit 5 has face value **5** (and place value 0.05, since $5 \\times 0.01 = 0.05$)\n  - The digit 6 has face value **6** (and place value 0.006, since $6 \\times 0.001 = 0.006$)\n\n### Why This Distinction Matters\n\nUnderstanding the difference between face value and place value is crucial for:\n- Decomposing numbers correctly\n- Performing arithmetic operations\n- Comparing and ordering numbers\n- Working with decimals and fractions",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Face value is the digit itself (0–9), always constant.",
+      "Place value depends on position and changes with the power of 10.",
+      "In 5,432: face value of 5 is 5; place value of 5 is 5,000."
     ],
-    "whyItMatters": "Face Value is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Distinguishing between face value and place value is essential for understanding how our number system works. This foundation enables correct arithmetic, number sense, and decimal operations."
   },
   "availableLanguages": [
     "en"

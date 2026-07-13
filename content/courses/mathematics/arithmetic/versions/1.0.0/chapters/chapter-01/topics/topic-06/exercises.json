@@ -2,34 +2,43 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Real Numbers.",
-      "solution": "Step-by-step solution for Real Numbers problem.",
+      "prompt": "Determine which number sets each value belongs to: $7$, $-2$, $0.5$, $\\sqrt{3}$. Write ✓ or ✗ for each: ℕ, ℤ, ℚ, ℝ.",
+      "solution": "| Value | ℕ | ℤ | ℚ | ℝ |\n|-------|---|---|---|---|\n| 7     | ✓ | ✓ | ✓ | ✓ |\n| -2    | ✗ | ✓ | ✓ | ✓ |\n| 0.5   | ✗ | ✗ | ✓ | ✓ |\n| √3    | ✗ | ✗ | ✗ | ✓ |\n\nNotice how each successive set includes the previous one, with real numbers at the top.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "ℕ: positive counting numbers (1,2,3,...)",
+        "ℤ: all integers including negatives",
+        "ℚ: ratios of integers (includes decimals)",
+        "ℝ: every point on the number line"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "real-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Classification", "Number Sets"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Real Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Between the real numbers 1 and 2, list at least 5 different real numbers (try mixing rationals and irrationals).",
+      "solution": "Possible answers (infinitely many exist):\n- Rationals: $1.1$, $1.5$, $1.25$, $\\frac{11}{10}$, $1.99$\n- Irrationals: $\\sqrt{2} \\approx 1.414$, $\\sqrt{3} - 0.7 \\approx 1.032$, $\\frac{\\pi - 1}{2} \\approx 1.071$\n- Any value $x$ where $1 < x < 2$ works!\n\nThis demonstrates the **density property**: between any two distinct real numbers, there exist infinitely many others.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Rational numbers between 1 and 2: try 1.1, 1.2, 1.5, etc.",
+        "Irrational numbers: think of √2 ≈ 1.414",
+        "The number line is completely filled with real numbers—no gaps!"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Density", "Real Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why real numbers are closed under all four arithmetic operations (excluding division by zero).",
+      "solution": "Real numbers form a **closed system** for arithmetic:\n\n1. **Addition**: Rational + Rational = Rational; Irrational ± Rational can be Irrational; Irrational ± Irrational = either (e.g., (√2) + (-√2) = 0, or (√2) + (√3) = irrational)\n2. **Subtraction**: Same closure as addition\n3. **Multiplication**: Rational × Rational = Rational; Rational × Irrational = either (0 × π = 0, but 2 × √2 = 2√2, still real); Irrational × Irrational = either\n4. **Division**: Real ÷ Real (non-zero) = Real. For example, π ÷ 2 is still real (even if irrational ÷ rational = irrational)\n\n**Key**: No operation on two real numbers produces anything outside ℝ (assuming non-zero denominator).",
+      "hints": [
+        "Check that the result is still a real number in each case.",
+        "Remember: irrationals can combine to give rationals or irrationals.",
+        "Division by zero is excluded because it's undefined for all number sets."
       ],
       "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "real-numbers"
-      ]
+      "estimatedMinutes": 8,
+      "tags": ["Arithmetic", "Closure", "Properties", "Real Numbers"]
     }
   ]
 }

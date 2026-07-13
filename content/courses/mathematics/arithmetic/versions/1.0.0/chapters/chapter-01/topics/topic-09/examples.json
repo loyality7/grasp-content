@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Absolute Value",
-      "content": "A practical example demonstrating Absolute Value",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Evaluating Absolute Values",
+      "content": "Evaluate: $|7|$, $|-7|$, $|0|$, $|-2.5|$.\n\n- $|7| = 7$ (7 is already positive, distance from zero is 7)\n- $|-7| = 7$ (7 is negative; take its opposite: $-(-7) = 7$)\n- $|0| = 0$ (zero is zero distance from itself)\n- $|-2.5| = 2.5$ (take opposite of negative: $-(-2.5) = 2.5$)",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "absolute-value"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Distance on a Number Line",
+      "content": "Find the distance between -3 and 5 on a number line.\n\n**Solution**: Distance $= |-3 - 5| = |-8| = 8$ units.\n\nAlternatively: $|5 - (-3)| = |8| = 8$ units.\n\nBoth give the same answer because $|a - b| = |b - a|$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Absolute Value", "Distance"]
     }
   ]
 }

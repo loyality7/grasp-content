@@ -1,16 +1,31 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Digits",
-      "content": "A practical example demonstrating Digits",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Identifying Digits in a Number",
+      "content": "List all the digits in the number 38,457.\n\n**Solution**: The digits are: **3**, **8**, **4**, **5**, **7**\n\nNotice:\n- We have five digits total\n- Each digit is a single symbol from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\n- The position of each digit matters: 3 is in the ten-thousands place, 8 is in the thousands place, etc.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "digits"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Digits", "Place Value"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Understanding Digits vs. Numbers",
+      "content": "Explain the difference between the digit 5 and the number 555.\n\n**Solution**:\n- **The digit 5**: A single symbol from 0–9. It represents the quantity \"five.\"\n- **The number 555**: Composed of three copies of the digit 5, each in a different position.\n  - First 5 (hundreds place) = 500\n  - Second 5 (tens place) = 50\n  - Third 5 (ones place) = 5\n  - Total value = 555\n\nSame digit, different positions, different values!",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Digits", "Concept"]
+    },
+    {
+      "id": "ex-03",
+      "title": "The Role of Zero as a Digit",
+      "content": "Compare the numbers 101 and 11. Why is the zero important?\n\n**Solution**:\n- **101**: Contains the digits 1, 0, 1. The zero acts as a placeholder, showing there are NO tens.\n- **11**: Contains the digits 1, 1. This number has no hundreds place and no ones place—it's only eleven.\n- **Difference**: 101 = one hundred and one, while 11 = eleven. The zero makes a huge difference!\n\nWithout the digit 0 as a placeholder, we couldn't distinguish between these numbers clearly.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Digits", "Zero"]
     }
   ]
 }

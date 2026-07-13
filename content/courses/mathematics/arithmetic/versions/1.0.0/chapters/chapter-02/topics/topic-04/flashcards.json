@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Expanded Form?",
-      "back": "Expanded Form is a fundamental concept in mathematics.",
+      "front": "What is expanded form?",
+      "back": "A way of writing a number as the sum of its place values. Example: $456 = 400 + 50 + 6$.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Expanded Form important?",
-      "back": "Expanded Form is essential for understanding Arithmetic.",
+      "front": "How do you write 789 in expanded form?",
+      "back": "$789 = 700 + 80 + 9$",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Can expanded form be used with decimal numbers?",
+      "back": "Yes. Example: $23.45 = 20 + 3 + 0.4 + 0.05$",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "In expanded form, how do you show a zero in a number like 506?",
+      "back": "You can write $506 = 500 + 6$ (omit the zero) or include it as $500 + 0 + 6$ (both are correct).",
       "difficulty": "medium"
     }
   ]

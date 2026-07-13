@@ -2,34 +2,56 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Integers.",
-      "solution": "Step-by-step solution for Integers problem.",
+      "prompt": "Order the following integers from smallest to largest: $-5, 12, -2, 0, 8, -10, 3$.",
+      "solution": "To order integers, place them on a number line and read from left to right (smallest to largest):\n$$-10, -5, -2, 0, 3, 8, 12$$\n\nKey: integers further left are smaller; integers further right are larger.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Visualize a number line with negative numbers on the left of zero and positive numbers on the right.",
+        "Start by identifying which numbers are negative and which are positive.",
+        "Among negative numbers, the one with the larger absolute value is smaller (e.g., $-10 < -5$)."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "integers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": ["Arithmetic", "Ordering", "Integers"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Integers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Find the additive inverse of each integer: $-7, 0, 5, -13$.",
+      "solution": "The additive inverse of an integer $a$ is $-a$, such that $a + (-a) = 0$.\n\n- Additive inverse of $-7$ is $-(-7) = 7$. Check: $-7 + 7 = 0$. ✓\n- Additive inverse of $0$ is $-(0) = 0$. Check: $0 + 0 = 0$. ✓\n- Additive inverse of $5$ is $-(5) = -5$. Check: $5 + (-5) = 0$. ✓\n- Additive inverse of $-13$ is $-(-13) = 13$. Check: $-13 + 13 = 0$. ✓",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "The additive inverse of a positive integer is its negative counterpart.",
+        "The additive inverse of a negative integer is its positive counterpart.",
+        "The additive inverse of zero is zero.",
+        "Check: the integer and its additive inverse should always sum to zero."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "integers"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": ["Arithmetic", "Additive Inverse", "Integers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Evaluate $|-8| + |3| - |-5|$ and explain your steps.",
+      "solution": "Evaluate absolute values first, then perform arithmetic:\n\n1. $|-8| = 8$ (distance of $-8$ from zero is 8 units)\n2. $|3| = 3$ (distance of $3$ from zero is 3 units)\n3. $|-5| = 5$ (distance of $-5$ from zero is 5 units)\n4. Substitute: $8 + 3 - 5$\n5. Calculate: $8 + 3 = 11$, then $11 - 5 = 6$\n\n**Answer**: $6$",
+      "hints": [
+        "Absolute value always gives a non-negative result; it represents distance from zero.",
+        "Evaluate absolute values of each term before performing addition and subtraction.",
+        "Remember: $|a| = a$ if $a \\geq 0$, and $|a| = -a$ if $a < 0$."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": ["Arithmetic", "Absolute Value", "Integers"]
+    },
+    {
+      "id": "ex-04",
+      "prompt": "Verify closure: compute $(-12) - 7$ and confirm the result is an integer.",
+      "solution": "Compute: $(-12) - 7 = -19$.\n\nSince $-19$ is in the set of integers $\\mathbb{Z} = \\{\\ldots, -19, \\ldots\\}$, the result is indeed an integer. This demonstrates that the set of Integers is closed under subtraction: subtracting any two integers always yields an integer.",
+      "hints": [
+        "Subtracting a positive number moves left on the number line.",
+        "Starting at $-12$ and moving 7 more units to the left gives $-12 - 7 = -(12 + 7) = -19$.",
+        "Any result from integer subtraction will be an integer; this is the closure property."
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Closure", "Subtraction", "Integers"]
     }
   ]
 }

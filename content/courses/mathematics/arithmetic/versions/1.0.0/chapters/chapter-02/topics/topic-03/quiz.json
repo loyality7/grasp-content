@@ -3,28 +3,42 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Face Value?",
+      "question": "What is the face value of the digit 6 in the number 6,234?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "6",
+        "60",
+        "600",
+        "6,000"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Face value is the digit itself, independent of position. The digit 6 always has a face value of 6.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Face Value is only applicable in theoretical contexts.",
+      "question": "The face value of a digit changes depending on its position in a number.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Face Value has many practical applications.",
+      "explanation": "Face value is constant — it's always just the digit itself. Position affects place value, not face value.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "In the number 444, which of the following is true?",
+      "options": [
+        "All three 4's have different face values",
+        "All three 4's have the same face value but different place values",
+        "All three 4's have the same face value and the same place value",
+        "Face value and place value are the same for the first 4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each digit 4 has a face value of 4, but different place values: 400 (hundreds), 40 (tens), and 4 (ones).",
+      "difficulty": "medium"
     }
   ]
 }

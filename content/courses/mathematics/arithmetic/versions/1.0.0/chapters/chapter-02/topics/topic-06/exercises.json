@@ -2,34 +2,41 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Comparing Numbers.",
-      "solution": "Step-by-step solution for Comparing Numbers problem.",
+      "prompt": "Write the correct symbol (<, =, or >) between 342 and 324.",
+      "solution": "$342 > 324$. Since 342 and 324 both have 3 digits, we compare left to right. The hundreds digits are equal (3 = 3), but the tens place: 4 > 2, so 342 is greater.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Both numbers have 3 digits, so compare place by place",
+        "Start with the hundreds place",
+        "Then compare the tens place"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "comparing-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Comparing Numbers"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Comparing Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Order the numbers from smallest to largest: 567, 576, 657, 567",
+      "solution": "$567 = 567 < 576 < 657$. The two 567's are equal. 576 is next because 576 > 567. 657 is largest because its hundreds digit (6) is larger than the others.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Look for equal numbers first",
+        "Compare hundreds digits for the remaining numbers",
+        "If hundreds are equal, compare tens, then ones"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "comparing-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Comparing Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Compare 7.3 and 7.8. Which is greater?",
+      "solution": "$7.8 > 7.3$. The whole number parts are equal (7 = 7), so we compare the decimal parts. 0.8 > 0.3, so 7.8 is greater.",
+      "hints": [
+        "When the whole number parts are equal, compare the decimal parts",
+        "8 tenths is more than 3 tenths"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Comparing Numbers", "Decimals"]
     }
   ]
 }

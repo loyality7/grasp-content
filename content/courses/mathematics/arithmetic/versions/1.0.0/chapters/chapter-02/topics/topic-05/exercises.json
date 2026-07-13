@@ -2,34 +2,42 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Standard Form.",
-      "solution": "Step-by-step solution for Standard Form problem.",
+      "prompt": "Convert $4,000 + 500 + 20 + 1$ to standard form.",
+      "solution": "$4,000 + 500 + 20 + 1 = 4,521$",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Add all the terms together",
+        "4,000 + 500 = 4,500",
+        "4,500 + 20 = 4,520",
+        "4,520 + 1 = 4,521"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "standard-form"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Standard Form"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Standard Form to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Convert $8,000 + 0 + 5$ to standard form. (Notice the missing tens and hundreds)",
+      "solution": "$8,000 + 5 = 8,005$. The zeros in the hundreds and tens places must be written to show the proper place values.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Place the digits in their correct positions",
+        "Use zeros as placeholders for missing places"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "standard-form"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Standard Form"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Convert $20 + 5 + 0.3 + 0.08$ to standard form.",
+      "solution": "$20 + 5 + 0.3 + 0.08 = 25.38$",
+      "hints": [
+        "Group the whole number parts: 20 + 5 = 25",
+        "Group the decimal parts: 0.3 + 0.08 = 0.38",
+        "Combine: 25.38"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Standard Form", "Decimals"]
     }
   ]
 }

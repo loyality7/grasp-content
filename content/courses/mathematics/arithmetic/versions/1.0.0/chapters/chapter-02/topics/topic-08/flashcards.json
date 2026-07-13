@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Estimation?",
-      "back": "Estimation is a fundamental concept in mathematics.",
+      "front": "What is estimation?",
+      "back": "Finding an approximate answer by rounding numbers and doing a simpler calculation.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Estimation important?",
-      "back": "Estimation is essential for understanding Arithmetic.",
+      "front": "How do you estimate $27 + 34$?",
+      "back": "Round both to the nearest ten: $27 → 30$ and $34 → 30$. Then: $30 + 30 = 60$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "When is estimation useful?",
+      "back": "When you need a quick answer, when an exact answer isn't necessary, or to check if a calculated answer is reasonable.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Does an estimate have to be perfectly accurate?",
+      "back": "No. An estimate just needs to be close enough to the actual answer for practical purposes.",
       "difficulty": "medium"
     }
   ]

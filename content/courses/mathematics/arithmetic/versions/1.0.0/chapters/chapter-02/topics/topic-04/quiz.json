@@ -3,27 +3,41 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Expanded Form?",
+      "question": "Which is the expanded form of 234?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$200 + 30 + 4$",
+        "$2 + 3 + 4$",
+        "$234 + 0$",
+        "$(2 + 3 + 4) \\times 10$"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "In expanded form, we write each digit multiplied by its place value and add them: $200 + 30 + 4 = 234$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Expanded Form is only applicable in theoretical contexts.",
+      "question": "In expanded form, zero place values must always be included in the sum.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Expanded Form has many practical applications.",
+      "explanation": "While zeros can be included in expanded form, they don't contribute to the sum, so they are typically omitted for simplicity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which number has the expanded form $6,000 + 400 + 50 + 3$?",
+      "options": [
+        "6,453",
+        "6,435",
+        "6,543",
+        "6,354"
+      ],
+      "correctIndex": 2,
+      "explanation": "$6,000 + 400 + 50 + 3 = 6,543$",
       "difficulty": "easy"
     }
   ]

@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Face Value",
-      "content": "A practical example demonstrating Face Value",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Identifying Face Value in a Multi-Digit Number",
+      "content": "Find the face value of each digit in 7,361.\n\n**Solution:**\n- The digit 7: face value = **7**\n- The digit 3: face value = **3**\n- The digit 6: face value = **6**\n- The digit 1: face value = **1**\n\nNotice that every digit's face value is simply the digit itself. The position doesn't change the face value.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "face-value"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Face Value"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Comparing Face Value and Place Value",
+      "content": "In the number 252, compare the face values and place values of the two 2's.\n\n**Solution:**\n- First 2 (leftmost): face value = **2**, place value = **200** (since $2 \\times 100$)\n- Second 2 (rightmost): face value = **2**, place value = **2** (since $2 \\times 1$)\n\nBoth 2's have the **same face value** (2) but **different place values** (200 and 2) because they're in different positions.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Face Value", "Place Value"]
     }
   ]
 }

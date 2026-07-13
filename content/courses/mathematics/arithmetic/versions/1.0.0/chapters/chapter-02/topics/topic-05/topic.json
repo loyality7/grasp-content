@@ -2,16 +2,16 @@
   "id": "topic-05",
   "name": "Standard Form",
   "topicId": "mathematics.arithmetic.chapter-02.topic-05",
-  "description": "Learn about Standard Form and its applications in mathematics.",
+  "description": "Understanding Standard Form: the usual way we write numbers using digits and place values.",
   "content": {
-    "overview": "Standard Form is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Standard Form. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Standard Form requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Standard form is the regular way we write numbers, showing all digits in their proper positions. It is the opposite of expanded form.",
+    "explanation": "### Definition of Standard Form\n\n**Standard form** (also called **standard notation**) is the way we normally write numbers using digits. It represents a number concisely, with each digit in its correct place value position.\n\n**Example**: \n- The number 5,234 is written in standard form\n- Its expanded form would be: $5,000 + 200 + 30 + 4$\n\n### Standard Form vs. Expanded Form\n\n| Form | Example | Description |\n|------|---------|-------------|\n| **Standard** | $5,234$ | The number written normally |\n| **Expanded** | $5,000 + 200 + 30 + 4$ | The sum of place values |\n\n### Converting from Expanded to Standard Form\n\nGiven an expanded form, add up the place values to get the standard form.\n\n**Example 1**: Convert $3,000 + 400 + 20 + 5$ to standard form\n$$3,000 + 400 + 20 + 5 = 3,425$$\n\n**Example 2**: Convert $6 + 0.2 + 0.03$ to standard form\n$$6 + 0.2 + 0.03 = 6.23$$\n\n### Standard Form with Zeros\n\nZeros are important in standard form as **placeholders** that show the absence of a value in certain place values.\n\n**Example**: $5,004$ has a zero in the hundreds place and a zero in the tens place. These zeros are essential to show that the number is five thousand four (not five hundred four).\n\n### Reading Standard Form Numbers\n\nTo read a standard form number:\n1. Start from the left (largest place values)\n2. Say the digits in groups of three (for numbers over 999)\n3. Name each group with its value\n\n**Example**: $45,678$ is read as \"forty-five thousand, six hundred seventy-eight\"\n\n### Standard Form in Decimals\n\nStandard form also applies to decimal numbers.\n\n**Example**: $23.456$ is in standard form\n- Expanded form: $20 + 3 + 0.4 + 0.05 + 0.006$\n\n### Why Standard Form is Important\n\nStandard form is:\n- The most efficient way to write and communicate numbers\n- Essential for everyday use (prices, measurements, dates)\n- The foundation for arithmetic operations\n- Used in all practical applications of mathematics",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Standard form is the regular way we write numbers using digits.",
+      "Converting from expanded form to standard form: add all the place values.",
+      "Zeros in standard form are placeholders that show empty place values."
     ],
-    "whyItMatters": "Standard Form is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Standard form is how we communicate numbers in daily life. Understanding it and being able to convert between standard and expanded forms deepens your number sense."
   },
   "availableLanguages": [
     "en"

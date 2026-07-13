@@ -2,15 +2,51 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Real Numbers?",
-      "back": "Real Numbers is a fundamental concept in mathematics.",
+      "front": "What is the formal definition of Real Numbers (ℝ)?",
+      "back": "ℝ is the union of rational numbers (ℚ) and irrational numbers, forming the complete set of all numbers that can be positioned on a number line.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Real Numbers important?",
-      "back": "Real Numbers is essential for understanding Arithmetic.",
+      "front": "State the complete number system hierarchy.",
+      "back": "ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ, where: ℕ = Natural, ℤ = Integers, ℚ = Rationals, ℝ = Reals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What does it mean that real numbers are 'dense'?",
+      "back": "Between any two distinct real numbers, there exist infinitely many other real numbers. No gaps exist on the real number line.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What does it mean that real numbers are 'complete'?",
+      "back": "The Completeness Axiom: every non-empty set of real numbers with an upper bound has a least upper bound. This ensures the number line has no missing points.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "card-05",
+      "front": "Why can we measure any physical quantity with real numbers?",
+      "back": "Real numbers are ordered and dense, filling every point on a continuous line. Whether measuring distance, time, or temperature, any value can be represented by a real number.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-06",
+      "front": "Are all real numbers either rational or irrational?",
+      "back": "Yes. By definition, ℝ = ℚ ∪ {irrationals}. Every real number must be one or the other—either expressible as p/q, or possessing a non-repeating, non-terminating decimal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-07",
+      "front": "Give an example of a rational real number and an irrational real number.",
+      "back": "Rational: 3/4 or 0.75 (repeating decimal). Irrational: √2 ≈ 1.414... or π ≈ 3.14159... (non-repeating, non-terminating).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-08",
+      "front": "Explain why real numbers are closed under multiplication and division.",
+      "back": "Multiplying two reals always yields a real. Dividing one real by a non-zero real always yields a real. No operation escapes the set ℝ. (This differs from earlier sets: rationals are not closed under square roots, and integers are not closed under division.)",
+      "difficulty": "hard"
     }
   ]
 }

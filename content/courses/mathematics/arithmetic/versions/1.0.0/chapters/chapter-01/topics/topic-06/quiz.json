@@ -3,28 +3,86 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Real Numbers?",
+      "question": "Which set best describes Real Numbers (ℝ)?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "ℝ = ℚ ∪ {Irrational Numbers} (rationals union irrationals)",
+        "ℝ = only rational numbers",
+        "ℝ = only irrational numbers",
+        "ℝ = positive numbers only"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Real numbers are the union of rational numbers (with terminating/repeating decimals) and irrational numbers (non-terminating, non-repeating). Together, they fill the entire number line.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Real Numbers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following is NOT a real number?",
       "options": [
-        "True",
-        "False"
+        "-100",
+        "0.5",
+        "√5",
+        "All of the above are real numbers"
+      ],
+      "correctIndex": 3,
+      "explanation": "All three options are real numbers. -100 is an integer (ℤ ⊂ ℝ), 0.5 is rational (ℚ ⊂ ℝ), and √5 is irrational but still real. Examples of non-real numbers come later (complex numbers with imaginary units).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What does it mean that real numbers are 'dense'?",
+      "options": [
+        "There are only finitely many real numbers",
+        "Between any two distinct real numbers, there exist infinitely many other real numbers",
+        "Real numbers are very tightly packed at the origin",
+        "Real numbers form a solid, continuous line with no spaces"
       ],
       "correctIndex": 1,
-      "explanation": "Real Numbers has many practical applications.",
+      "explanation": "Density means that no matter how close two real numbers are, you can always find more real numbers between them. This implies the number line has no gaps and is completely filled. Options 2 and 4 are equivalent concepts.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Complete the hierarchy: ℕ ⊂ ℤ ⊂ ℚ ⊂ ?",
+      "options": [
+        "ℝ (Real Numbers)",
+        "ℂ (Complex Numbers)",
+        "π (Irrational Numbers)",
+        "∞ (Infinity)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The complete number hierarchy is ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ. Real numbers contain all rationals and irrationals. Complex numbers (ℂ) come after reals, but that's beyond arithmetic.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Why are real numbers considered 'complete' in mathematics?",
+      "options": [
+        "Because every real number is positive",
+        "Because every non-empty set with an upper bound has a least upper bound; the number line has no gaps",
+        "Because there are finitely many real numbers",
+        "Because real numbers can be written as fractions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Completeness (the Completeness Axiom) ensures that the real numbers fill the entire number line with no gaps. This is the fundamental property that distinguishes real numbers from rationals alone.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-06",
+      "type": "multiple-choice",
+      "question": "If a ∈ ℝ and b ∈ ℝ with b ≠ 0, which statement is true?",
+      "options": [
+        "a + b ∈ ℝ",
+        "a − b ∈ ℝ",
+        "a × b ∈ ℝ",
+        "All of the above are true"
+      ],
+      "correctIndex": 3,
+      "explanation": "Real numbers are closed under addition, subtraction, and multiplication. Additionally, a ÷ b ∈ ℝ when b ≠ 0. This closure property makes ℝ an excellent system for all of mathematics.",
+      "difficulty": "medium"
     }
   ]
 }

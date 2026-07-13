@@ -3,28 +3,86 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Integers?",
+      "question": "Which of the following correctly defines the set of Integers ($\\mathbb{Z}$)?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "\\mathbb{Z} = {1, 2, 3, 4, ...} (positive counting numbers only)",
+        "\\mathbb{Z} = {0, 1, 2, 3, ...} (non-negative whole numbers)",
+        "\\mathbb{Z} = {..., -3, -2, -1, 0, 1, 2, 3, ...} (all positive, negative, and zero)",
+        "\\mathbb{Z} = {-1, -2, -3, ...} (negative numbers only)"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "The set of Integers includes all positive integers, all negative integers, and zero. It extends in both directions infinitely from zero, distinguishing it from Natural Numbers (positive only) and Whole Numbers (non-negative only).",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Integers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which statement about closure properties of Integers is FALSE?",
       "options": [
-        "True",
-        "False"
+        "Integers are closed under addition: if a, b ∈ ℤ, then a + b ∈ ℤ",
+        "Integers are closed under subtraction: if a, b ∈ ℤ, then a - b ∈ ℤ",
+        "Integers are closed under multiplication: if a, b ∈ ℤ, then a × b ∈ ℤ",
+        "Integers are closed under division: if a, b ∈ ℤ with b ≠ 0, then a ÷ b ∈ ℤ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Integers are NOT closed under division. For example, 7 ÷ 2 = 3.5, which is not an integer. Division of integers can produce non-integer results (rationals). This is why we extend to Rational Numbers (ℚ) for closure under division.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the relationship between the integers 6 and -6?",
+      "options": [
+        "They have the same absolute value but are additive inverses of each other",
+        "They are the same number on the number line",
+        "One is the predecessor of the other",
+        "-6 is smaller than 6, but they are not related algebraically"
+      ],
+      "correctIndex": 0,
+      "explanation": "6 and -6 have |6| = 6 and |-6| = 6, so they share the same absolute value (distance from zero). Additionally, 6 + (-6) = 0, making them additive inverses. This symmetry around zero is a defining feature of Integers that distinguishes them from Natural and Whole Numbers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Order the following integers from least to greatest: -5, 2, -8, 0, 3",
+      "options": [
+        "0, -5, -8, 2, 3",
+        "-8, -5, 0, 2, 3",
+        "3, 2, 0, -5, -8",
+        "-5, -8, 0, 2, 3"
       ],
       "correctIndex": 1,
-      "explanation": "Integers has many practical applications.",
+      "explanation": "On the number line, integers are ordered left to right (smallest to largest). The correct order is: -8 (furthest left, smallest), -5, 0 (center), 2, 3 (furthest right, largest). Among negatives, the one with larger absolute value is smaller (e.g., -8 < -5).",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which of the following is a property unique to Integers (not true for Natural Numbers)?",
+      "options": [
+        "The set is closed under addition",
+        "The set is closed under multiplication",
+        "Every element has an additive inverse within the set",
+        "The set is infinite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Natural Numbers {1, 2, 3, ...} do not have additive inverses within the set. For example, there is no natural number that, when added to 5, yields 0. Integers {-5, -4, ..., 0, ..., 4, 5} include -5, making 5 + (-5) = 0 possible. This is a defining algebraic property of Integers.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-06",
+      "type": "multiple-choice",
+      "question": "Evaluate: |−12| + |5| − |−3|",
+      "options": [
+        "14",
+        "10",
+        "4",
+        "-4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Evaluate absolute values first: |−12| = 12, |5| = 5, |−3| = 3. Then: 12 + 5 − 3 = 17 − 3 = 14. Absolute value represents distance from zero, always non-negative.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Standard Form",
-      "content": "A practical example demonstrating Standard Form",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Converting Expanded Form to Standard Form",
+      "content": "Write the standard form of: $7,000 + 800 + 60 + 3$\n\n**Solution:**\nAdd all the place values together:\n$$7,000 + 800 + 60 + 3 = 7,863$$\n\nThe standard form is **7,863**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "standard-form"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Standard Form"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Standard Form with Zeros as Placeholders",
+      "content": "What is the standard form of: $9,000 + 0 + 30 + 2$? (Note the missing hundreds place)\n\n**Solution:**\nWrite the digits in their correct positions:\n- 9 in the thousands place\n- 0 in the hundreds place\n- 3 in the tens place\n- 2 in the ones place\n\nStandard form: **9,032**",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Standard Form"]
     }
   ]
 }

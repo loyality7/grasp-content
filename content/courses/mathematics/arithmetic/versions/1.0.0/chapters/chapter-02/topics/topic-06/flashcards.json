@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Comparing Numbers?",
-      "back": "Comparing Numbers is a fundamental concept in mathematics.",
+      "front": "What does the < symbol mean?",
+      "back": "\"Is less than\". The smaller number goes on the left side of the symbol.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Comparing Numbers important?",
-      "back": "Comparing Numbers is essential for understanding Arithmetic.",
+      "front": "What does the > symbol mean?",
+      "back": "\"Is greater than\". The larger number goes on the left side of the symbol.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "When comparing two numbers with different number of digits, which is usually larger?",
+      "back": "The number with more digits is usually larger. Example: 100 > 99",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "When comparing two numbers with the same number of digits, how do you determine which is larger?",
+      "back": "Compare digits from left to right, starting with the highest place value. The number with the larger digit in the highest place is larger.",
       "difficulty": "medium"
     }
   ]

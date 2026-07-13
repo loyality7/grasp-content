@@ -2,15 +2,51 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Irrational Numbers?",
-      "back": "Irrational Numbers is a fundamental concept in mathematics.",
+      "front": "What is the defining property of an irrational number?",
+      "back": "An irrational number cannot be expressed as p/q where p and q are integers with q ≠ 0. Its decimal expansion is non-terminating and non-repeating.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Irrational Numbers important?",
-      "back": "Irrational Numbers is essential for understanding Arithmetic.",
+      "front": "Give three examples of irrational numbers.",
+      "back": "√2 ≈ 1.414..., π ≈ 3.14159..., e ≈ 2.71828..., and the golden ratio φ ≈ 1.618... are famous irrational numbers.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you prove that √2 is irrational using contradiction?",
+      "back": "Assume √2 = p/q in lowest terms. Then 2 = p²/q², so 2q² = p². This means p² is even, so p is even. Let p = 2k, then 2q² = 4k², so q² = 2k², making q even. But if both p and q are even, they share a factor, contradicting lowest terms. Therefore √2 is irrational.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "card-04",
+      "front": "Explain the difference between irrational numbers and rational numbers in terms of decimal representation.",
+      "back": "Rational numbers have decimals that either terminate (0.5) or eventually repeat with a pattern (0.333... or 0.142857142857...). Irrational numbers have decimals that never terminate and never repeat, like π = 3.14159265358979...",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "How are irrational numbers related to the overall number system?",
+      "back": "Real Numbers = Rational Numbers ∪ Irrational Numbers. Together, rationals and irrationals make up the complete real number line: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-06",
+      "front": "What is π and why is it irrational?",
+      "back": "π is the ratio of a circle's circumference to its diameter. It is irrational because its decimal expansion (3.14159265...) never terminates and never repeats. No ratio of two integers exactly equals π.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-07",
+      "front": "If √n is not a perfect square, is √n rational or irrational? Explain.",
+      "back": "√n is irrational. If n is not a perfect square, √n cannot be expressed as p/q for integers p and q. This can be proven by contradiction (similar to √2 proof).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "card-08",
+      "front": "Is the sum of a rational and an irrational number rational or irrational?",
+      "back": "Always irrational. For example, 1 + √2 is irrational because if 1 + √2 were rational, then √2 = (1 + √2) - 1 would also be rational (difference of rationals), which is a contradiction.",
+      "difficulty": "hard"
     }
   ]
 }

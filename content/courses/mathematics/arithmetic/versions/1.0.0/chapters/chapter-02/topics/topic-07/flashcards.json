@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Rounding?",
-      "back": "Rounding is a fundamental concept in mathematics.",
+      "front": "What is the rounding rule?",
+      "back": "Look at the digit to the right. If it's 5 or greater, round UP. If it's less than 5, round DOWN.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Rounding important?",
-      "back": "Rounding is essential for understanding Arithmetic.",
+      "front": "Round 34 to the nearest ten.",
+      "back": "40. The ones digit is 4, which is < 5, so... wait, no. We round DOWN, so 34 → 30. Let me recalculate: 34, ones digit is 4, which is < 5, so round DOWN to 30. Actually, let me verify: ones digit 4 < 5 means round down, so 34 → 30.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What does it mean to round 156 to the nearest hundred?",
+      "back": "Look at the tens digit (5). Since 5 ≥ 5, round UP: $156 \\rightarrow 200$",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Can you round 0.7 to the nearest tenth?",
+      "back": "0.7 is already rounded to the nearest tenth. There is no hundredths digit, so it stays 0.7.",
       "difficulty": "medium"
     }
   ]

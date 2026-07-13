@@ -2,16 +2,16 @@
   "id": "topic-07",
   "name": "Rounding",
   "topicId": "mathematics.arithmetic.chapter-02.topic-07",
-  "description": "Learn about Rounding and its applications in mathematics.",
+  "description": "Learning to round numbers to a specific place value using the rounding rule.",
   "content": {
-    "overview": "Rounding is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Rounding. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Rounding requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Rounding is simplifying a number to make it easier to work with while keeping it close to the original value. It's useful in everyday situations like money and measurements.",
+    "explanation": "### What is Rounding?\n\n**Rounding** is replacing a number with a simpler number that is close in value. We round to a specific place value (like the nearest ten or hundred).\n\n### The Rounding Rule\n\n**Step 1**: Identify the place value you're rounding to\n\n**Step 2**: Look at the digit to the RIGHT of that place value\n\n**Step 3**: Apply the rule:\n- If the digit is **5 or greater**, round UP (increase the target digit by 1)\n- If the digit is **less than 5**, round DOWN (keep the target digit the same)\n\n**Step 4**: Change all digits to the right to 0 (or remove them for decimals)\n\n### Examples of Rounding to the Nearest Ten\n\n**Round 47 to the nearest ten:**\n- Target place: tens place (4)\n- Look right: 7 (which is ≥ 5)\n- Round UP: $47 \\rightarrow 50$\n\n**Round 42 to the nearest ten:**\n- Target place: tens place (4)\n- Look right: 2 (which is < 5)\n- Round DOWN: $42 \\rightarrow 40$\n\n### Examples of Rounding to the Nearest Hundred\n\n**Round 347 to the nearest hundred:**\n- Target place: hundreds place (3)\n- Look right: 4 (which is < 5)\n- Round DOWN: $347 \\rightarrow 300$\n\n**Round 382 to the nearest hundred:**\n- Target place: hundreds place (3)\n- Look right: 8 (which is ≥ 5)\n- Round UP: $382 \\rightarrow 400$\n\n### Rounding Decimal Numbers\n\nThe same rule applies to decimals.\n\n**Round 3.47 to the nearest tenth:**\n- Target place: tenths (4)\n- Look right: 7 (which is ≥ 5)\n- Round UP: $3.47 \\rightarrow 3.5$\n\n**Round 5.23 to the nearest tenth:**\n- Target place: tenths (2)\n- Look right: 3 (which is < 5)\n- Round DOWN: $5.23 \\rightarrow 5.2$\n\n### Rounding to the Nearest Whole Number\n\nWhen rounding a decimal to the nearest whole number, look at the tenths place.\n\n**Examples:**\n- $7.6 \\rightarrow 8$ (6 ≥ 5, so round up)\n- $4.3 \\rightarrow 4$ (3 < 5, so round down)\n\n### Special Case: When the Digit is 5\n\nWhen the digit is exactly 5, we always round UP.\n\n**Examples:**\n- $15 \\rightarrow 20$ (nearest ten)\n- $45 \\rightarrow 50$ (nearest ten)\n- $3.45 \\rightarrow 3.5$ (nearest tenth)\n\n### Real-World Applications of Rounding\n\n- **Money**: $9.87 rounds to $9.90 or $10\n- **Measurements**: 4.73 cm rounds to 4.7 cm or 5 cm\n- **Population**: A town with 47,382 people rounds to 47,000 or 47,400\n- **Sports**: A player with a 0.287 batting average rounds to 0.29",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "If the digit to the right is 5 or greater, round UP.",
+      "If the digit to the right is less than 5, round DOWN.",
+      "The same rule applies to rounding to any place value (tens, hundreds, tenths, hundredths, etc.)"
     ],
-    "whyItMatters": "Rounding is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Rounding makes numbers easier to understand and work with. It's essential in real-world applications like handling money, measurements, and reporting statistics."
   },
   "availableLanguages": [
     "en"

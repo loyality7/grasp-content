@@ -2,16 +2,16 @@
   "id": "topic-04",
   "name": "Expanded Form",
   "topicId": "mathematics.arithmetic.chapter-02.topic-04",
-  "description": "Learn about Expanded Form and its applications in mathematics.",
+  "description": "Understanding Expanded Form: breaking a number into the sum of its place values.",
   "content": {
-    "overview": "Expanded Form is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Expanded Form. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Expanded Form requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Expanded form is a way of writing a number as the sum of its place values. It shows how each digit contributes to the total value of the number.",
+    "explanation": "### Definition of Expanded Form\n\n**Expanded form** is writing a number as a sum of the place values of each digit. It breaks the number apart to show the value contributed by each digit.\n\n**Example**: The number 325 in expanded form is:\n$$325 = 300 + 20 + 5$$\n\nOr equivalently:\n$$325 = (3 \\times 100) + (2 \\times 10) + (5 \\times 1)$$\n\n### Breaking Down a Number\n\nTo write a number in expanded form:\n\n1. Identify each digit and its place value\n2. Write each digit multiplied by its place value\n3. Add all the place values together\n\n**Example with 4,231:**\n\n| Digit | Place Value | Contribution |\n|-------|---|---|\n| 4 | Thousands | $4 \\times 1,000 = 4,000$ |\n| 2 | Hundreds | $2 \\times 100 = 200$ |\n| 3 | Tens | $3 \\times 10 = 30$ |\n| 1 | Ones | $1 \\times 1 = 1$ |\n\n$$4,231 = 4,000 + 200 + 30 + 1$$\n\n### Expanded Form with Decimals\n\nExpanded form extends to decimal numbers as well:\n\n**Example with 23.45:**\n$$23.45 = (2 \\times 10) + (3 \\times 1) + (4 \\times 0.1) + (5 \\times 0.01)$$\n$$23.45 = 20 + 3 + 0.4 + 0.05$$\n\n### Two Common Notations\n\n**Standard Expanded Form** (using addition):\n$$5,624 = 5,000 + 600 + 20 + 4$$\n\n**Exponential Form** (using powers of 10):\n$$5,624 = (5 \\times 10^3) + (6 \\times 10^2) + (2 \\times 10^1) + (4 \\times 10^0)$$\n\n### Why Expanded Form Matters\n\nExpanded form:\n- Clarifies how place value works\n- Helps with understanding addition and subtraction algorithms\n- Shows why carrying works in arithmetic\n- Builds number sense and understanding of magnitude\n- Provides a foundation for working with decimals and fractions",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Expanded form writes a number as the sum of its place values.",
+      "Each digit is multiplied by its place value and then added together.",
+      "Example: 527 = 500 + 20 + 7"
     ],
-    "whyItMatters": "Expanded Form is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Expanded form is fundamental to understanding how our number system works and why arithmetic operations work the way they do. It's essential for building strong foundational math skills."
   },
   "availableLanguages": [
     "en"

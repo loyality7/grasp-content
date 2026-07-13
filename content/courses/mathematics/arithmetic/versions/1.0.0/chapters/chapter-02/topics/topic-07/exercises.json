@@ -2,34 +2,41 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Rounding.",
-      "solution": "Step-by-step solution for Rounding problem.",
+      "prompt": "Round 73 to the nearest ten.",
+      "solution": "Look at the ones digit: 3. Since 3 < 5, round DOWN. The answer is **70**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Look at the digit to the right of the tens place",
+        "3 < 5, so round down"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "rounding"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Rounding"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Rounding to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Round 2,567 to the nearest thousand.",
+      "solution": "Look at the hundreds digit: 5. Since 5 ≥ 5, round UP. The answer is **3,000**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Target place: thousands (2)",
+        "Digit to the right: 5",
+        "5 ≥ 5, so round up to 3,000"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "rounding"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Rounding"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Round 8.26 to the nearest tenth.",
+      "solution": "Look at the hundredths digit: 6. Since 6 ≥ 5, round UP. The answer is **8.3**.",
+      "hints": [
+        "Target place: tenths (2)",
+        "Digit to the right: 6",
+        "6 ≥ 5, so round up to 8.3"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Rounding", "Decimals"]
     }
   ]
 }

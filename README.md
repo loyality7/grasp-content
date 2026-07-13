@@ -88,12 +88,12 @@ These files are automatically updated and committed to `main` on every push via 
 ```dart
 // Load latest course version
 final response = await http.get(
-  Uri.parse('https://cdn.jsdelivr.net/gh/loyality7/grasp-content@main/content/domains/mathematics/courses/calculus/latest.json'),
+  Uri.parse('https://cdn.jsdelivr.net/gh/gainandshine/grasp-content@main/content/domains/mathematics/courses/calculus/latest.json'),
 );
 
 // Load specific version
 final response = await http.get(
-  Uri.parse('https://cdn.jsdelivr.net/gh/loyality7/grasp-content@v1.0.0/content/domains/mathematics/courses/calculus/versions/1.0.0/course.json'),
+  Uri.parse('https://cdn.jsdelivr.net/gh/gainandshine/grasp-content@v1.0.0/content/domains/mathematics/courses/calculus/versions/1.0.0/course.json'),
 );
 
 // Load concept

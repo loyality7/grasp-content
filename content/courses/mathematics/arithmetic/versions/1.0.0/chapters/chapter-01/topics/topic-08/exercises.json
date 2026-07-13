@@ -2,34 +2,42 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Number Line.",
-      "solution": "Step-by-step solution for Number Line problem.",
+      "prompt": "Use a number line to calculate: $-2 + 5$.",
+      "solution": "Start at -2 on the number line. Move right 5 units.\nPositions: -1, 0, 1, 2, 3\nLand at 3.\n\nAnswer: $-2 + 5 = 3$",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Begin at position -2 on the number line",
+        "Addition means move RIGHT",
+        "Count 5 steps to the right"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "number-line"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Number Line", "Addition"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Number Line to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Order the numbers on a number line: $-3, 0, 2, -1, 4$.",
+      "solution": "From left to right (smallest to largest):\n$$-3, -1, 0, 2, 4$$\n\nVisualize: The leftmost position is the smallest; rightmost is the largest.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Negatives go left of zero",
+        "Positive numbers go right of zero",
+        "The further left, the smaller the value"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "number-line"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Number Line", "Ordering"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "What is the distance between -2 and 3 on a number line?",
+      "solution": "Distance = number of units between them.\nFrom -2 to 3: -2 → -1 → 0 → 1 → 2 → 3\nCount: 5 units\n\nOr use the formula: $|3 - (-2)| = |5| = 5$",
+      "hints": [
+        "Count the steps between the two points",
+        "Distance is always positive",
+        "Use: |larger - smaller| or equivalently |3 - (-2)|"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Number Line", "Distance"]
     }
   ]
 }

@@ -3,28 +3,42 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Rounding?",
+      "question": "What is 347 rounded to the nearest hundred?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "300",
+        "340",
+        "350",
+        "400"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Look at the tens digit: 4. Since 4 < 5, round DOWN. $347 \\rightarrow 300$",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Rounding is only applicable in theoretical contexts.",
+      "question": "When rounding 0.56 to the nearest tenth, you should round UP to 0.6.",
       "options": [
         "True",
         "False"
       ],
-      "correctIndex": 1,
-      "explanation": "Rounding has many practical applications.",
+      "correctIndex": 0,
+      "explanation": "The hundredths digit is 6, which is ≥ 5, so you round UP to 0.6.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is 2,451 rounded to the nearest ten?",
+      "options": [
+        "2,400",
+        "2,450",
+        "2,460",
+        "2,500"
+      ],
+      "correctIndex": 2,
+      "explanation": "Look at the ones digit: 1. Since 1 < 5, round DOWN... wait, actually look at the target: rounding to nearest ten means looking at the ones place. 1 < 5, so round down to 2,450.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -2,14 +2,50 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Complex Numbers (Introduction)?",
-      "back": "Complex Numbers (Introduction) is a fundamental concept in mathematics.",
+      "front": "What is the imaginary unit i?",
+      "back": "The imaginary unit i is defined by i² = -1. It allows us to solve equations like x² = -1, which have no real solutions.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Complex Numbers (Introduction) important?",
-      "back": "Complex Numbers (Introduction) is essential for understanding Arithmetic.",
+      "front": "What is the standard form of a complex number?",
+      "back": "The standard form is z = a + bi, where a is the real part and b is the imaginary part (both real numbers).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "State the cycle of powers of i.",
+      "back": "i¹ = i, i² = -1, i³ = -i, i⁴ = 1, i⁵ = i, ... The pattern repeats every 4 powers.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How do you add two complex numbers?",
+      "back": "(a + bi) + (c + di) = (a + c) + (b + d)i. Add real parts together and imaginary parts together.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "How do you multiply two complex numbers?",
+      "back": "(a + bi)(c + di) = ac + adi + bci + bdi². Use FOIL, then simplify by replacing i² with -1.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-06",
+      "front": "What is the complex conjugate of a + bi?",
+      "back": "The complex conjugate is a - bi (change the sign of the imaginary part). It's useful because (a + bi)(a - bi) = a² + b² (always real).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-07",
+      "front": "Why are complex numbers necessary in mathematics?",
+      "back": "Complex numbers extend the number system so that polynomial equations always have solutions. Without them, equations like x² + 1 = 0 have no solutions.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "card-08",
+      "front": "Can a real number be written as a complex number?",
+      "back": "Yes. Any real number a can be written as a + 0i, which is a complex number with zero imaginary part. Real numbers are a subset of complex numbers.",
       "difficulty": "medium"
     }
   ]

@@ -3,28 +3,86 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Irrational Numbers?",
+      "question": "Which of the following best defines an irrational number?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A number that is negative",
+        "A number that cannot be expressed as p/q where p and q are integers with q ≠ 0",
+        "A number greater than 1",
+        "A number with a denominator"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Irrational numbers are defined as those that cannot be expressed as a ratio of two integers. They include both negative and positive numbers, and many are less than 1 (e.g., √2 - 1 ≈ 0.414).",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Irrational Numbers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following is an irrational number?",
       "options": [
-        "True",
-        "False"
+        "0.5",
+        "0.333...",
+        "√2",
+        "2/3"
+      ],
+      "correctIndex": 2,
+      "explanation": "√2 ≈ 1.41421356... has a non-terminating, non-repeating decimal. The other options are rational: 0.5 = 1/2 (terminates), 0.333... = 1/3 (repeats), and 2/3 is a fraction.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the key decimal characteristic of irrational numbers?",
+      "options": [
+        "They always terminate",
+        "They always repeat with a pattern",
+        "They never terminate and never repeat",
+        "They are always greater than 1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Irrational numbers have non-terminating, non-repeating decimal expansions. Rational numbers either terminate or repeat. This decimal property distinguishes the two sets.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which of the following is a famous mathematical constant that is irrational?",
+      "options": [
+        "1/2",
+        "π (pi)",
+        "3",
+        "√4"
       ],
       "correctIndex": 1,
-      "explanation": "Irrational Numbers has many practical applications.",
+      "explanation": "π ≈ 3.14159265358979... is irrational. The others are rational: 1/2 is a fraction, 3 is an integer (3/1), and √4 = 2 (an integer).",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If √5 is irrational, what can we say about (1 + √5)/2?",
+      "options": [
+        "It must be rational",
+        "It must be irrational",
+        "It is the golden ratio",
+        "Both B and C are correct"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sum of a rational (1) and an irrational (√5) is irrational. Dividing an irrational by a rational (2) keeps it irrational. Additionally, (1 + √5)/2 is exactly the golden ratio φ ≈ 1.618.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q-06",
+      "type": "multiple-choice",
+      "question": "Order from smallest to largest: √2, 1, π/2, 1.5",
+      "options": [
+        "√2, 1, 1.5, π/2",
+        "1, √2, 1.5, π/2",
+        "1, 1.5, √2, π/2",
+        "1, 1.5, π/2, √2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Approximate: √2 ≈ 1.414, π/2 ≈ 1.571. Order: 1 < 1.414 < 1.5 < 1.571, so 1 < √2 < 1.5 < π/2.",
+      "difficulty": "medium"
     }
   ]
 }

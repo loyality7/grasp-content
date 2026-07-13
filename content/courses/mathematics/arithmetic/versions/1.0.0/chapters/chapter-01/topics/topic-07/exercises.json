@@ -2,34 +2,43 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Complex Numbers (Introduction).",
-      "solution": "Step-by-step solution for Complex Numbers (Introduction) problem.",
+      "prompt": "Compute $(2 + 3i) + (4 - i) - (1 + 2i)$.",
+      "solution": "Combine real parts and imaginary parts separately:\n$(2 + 3i) + (4 - i) - (1 + 2i)$\n$= (2 + 4 - 1) + (3i - i - 2i)$\n$= 5 + 0i$\n$= 5$\n\nThe result is a real number (imaginary part is zero).",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Group real and imaginary parts separately.",
+        "Real: 2 + 4 - 1 = ?",
+        "Imaginary: 3 - 1 - 2 = ?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "complex-numbers-introduction"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Complex Numbers", "Addition", "Subtraction"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Complex Numbers (Introduction) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Multiply $(2 + i)(3 - 2i)$.",
+      "solution": "Use FOIL or distribution, remembering $i^2 = -1$:\n$(2 + i)(3 - 2i)$\n$= 2(3) + 2(-2i) + i(3) + i(-2i)$\n$= 6 - 4i + 3i - 2i^2$\n$= 6 - 4i + 3i - 2(-1)$\n$= 6 - 4i + 3i + 2$\n$= 8 - i$",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Use distributive property: (a+b)(c+d) = ac + ad + bc + bd",
+        "Calculate: 2×3, 2×(-2i), i×3, i×(-2i)",
+        "Simplify i² as -1",
+        "Combine like terms"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "complex-numbers-introduction"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": ["Arithmetic", "Complex Numbers", "Multiplication"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Simplify $i^{100}$.",
+      "solution": "Powers of $i$ repeat with period 4:\n$i^1 = i$, $i^2 = -1$, $i^3 = -i$, $i^4 = 1$, $i^5 = i$, ...\n\nDivide the exponent by 4:\n$100 \\div 4 = 25$ remainder $0$\n\nSince the remainder is 0, $i^{100} = i^0 = (i^4)^{25} = 1^{25} = 1$.\n\nAlternatively: $i^{100} = (i^4)^{25} = 1^{25} = 1$.",
+      "hints": [
+        "Remember the cycle: i, -1, -i, 1, i, -1, ...",
+        "Divide the exponent by 4 to find the remainder",
+        "i⁴ = 1, so any multiple of 4 in the exponent gives 1"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Complex Numbers", "Exponents", "Powers"]
     }
   ]
 }

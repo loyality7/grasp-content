@@ -1,16 +1,31 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Irrational Numbers",
-      "content": "A practical example demonstrating Irrational Numbers",
-      "source": "Generated",
-      "difficulty": "beginner",
+      "id": "ex-01",
+      "title": "Proving $\\sqrt{3}$ is Irrational",
+      "content": "Assume $\\sqrt{3} = \\frac{p}{q}$ where $p$ and $q$ have no common factors.\n\nSquare both sides: $3 = \\frac{p^2}{q^2}$, so $3q^2 = p^2$.\n\nThis means $p^2$ is divisible by 3, so $p$ is divisible by 3. Let $p = 3k$.\n\nSubstituting: $3q^2 = (3k)^2 = 9k^2$, so $q^2 = 3k^2$.\n\nThis means $q^2$ is divisible by 3, so $q$ is divisible by 3.\n\nBut if both $p$ and $q$ are divisible by 3, they share a common factor, contradicting our assumption.\n\n**Conclusion**: $\\sqrt{3}$ is irrational.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
       "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "irrational-numbers"
-      ]
+      "tags": ["Arithmetic", "Proof", "Irrational Numbers"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Recognizing Irrational Numbers by Decimal Expansion",
+      "content": "**Rational vs Irrational**:\n\n1. $0.5$ — terminates → **rational** ($\\frac{1}{2}$)\n2. $0.\\overline{6} = 0.666...$ — repeats → **rational** ($\\frac{2}{3}$)\n3. $0.142857142857...$ with period 142857 — repeats → **rational** ($\\frac{1}{7}$)\n4. $\\pi = 3.14159265358979...$ — never repeats, never terminates → **irrational**\n5. $\\sqrt{2} = 1.41421356...$ — never repeats, never terminates → **irrational**\n\n**Key**: Any decimal that eventually repeats (or terminates) represents a rational number. Non-repeating, non-terminating decimals are irrational.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Decimals", "Irrational Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "title": "The Golden Ratio as an Irrational Number",
+      "content": "The golden ratio $\\phi = \\frac{1 + \\sqrt{5}}{2}$ appears in art, nature, and architecture.\n\nBecause $\\sqrt{5}$ is irrational (by the same proof method as $\\sqrt{2}$), the expression $1 + \\sqrt{5}$ is also irrational (sum of rational and irrational is irrational).\n\nDividing by 2: $\\phi = \\frac{1 + \\sqrt{5}}{2}$ remains irrational.\n\nDecimal approximation: $\\phi \\approx 1.618033988749...$\n\nThis number appears in the spiral of a nautilus shell, the proportions of the human body, and the arrangement of flower petals.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Irrational Numbers", "Golden Ratio"]
     }
   ]
 }

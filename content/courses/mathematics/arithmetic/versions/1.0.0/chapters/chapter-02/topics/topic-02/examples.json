@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Place Value",
-      "content": "A practical example demonstrating Place Value",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Finding Place Values in a Number",
+      "content": "In the number 7,482, what is the place value of each digit?\n\n**Solution**:\n- 7 is in the **thousands place** → place value is 7,000\n- 4 is in the **hundreds place** → place value is 400\n- 8 is in the **tens place** → place value is 80\n- 2 is in the **ones place** → place value is 2",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "place-value"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Place Value"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Place Value with Decimals",
+      "content": "In the number 56.78, identify the place value of each digit.\n\n**Solution**:\n- 5 is in the **tens place** → place value is 50\n- 6 is in the **ones place** → place value is 6\n- 7 is in the **tenths place** → place value is 0.7\n- 8 is in the **hundredths place** → place value is 0.08",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Place Value", "Decimals"]
     }
   ]
 }

@@ -1,16 +1,31 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Real Numbers",
-      "content": "A practical example demonstrating Real Numbers",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Classifying Numbers Within Real Numbers",
+      "content": "Classify each number within the hierarchy: $5$, $-3$, $\\frac{2}{5}$, $\\sqrt{2}$, $0$.\n\n- **5**: Natural, Integer, Rational, Real\n- **-3**: Integer, Rational, Real (not natural)\n- **2/5**: Rational, Real (not integer, not natural)\n- **√2**: Irrational, Real (not rational, not integer, not natural)\n- **0**: Whole, Integer, Rational, Real (not natural in standard definition)\n\nAll are real numbers, but they belong to different subsets based on their properties.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "real-numbers"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Classification", "Number Hierarchy"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Density of Real Numbers",
+      "content": "Find two real numbers between 0.5 and 0.6.\n\n**Solution**: The property of density states there are infinitely many reals between any two reals.\n\nTwo simple examples:\n- $0.55 = \\frac{11}{20}$ (midpoint)\n- $0.555 = \\frac{111}{200}$ (another between 0.5 and 0.6)\n\nBut we could also pick:\n- $\\frac{0.5 + \\sqrt{2}/2}{2} \\approx 0.604...$ (using irrational numbers!)\n- Any value $x$ where $0.5 < x < 0.6$ is valid\n\n**Key insight**: This infinite density is what makes real numbers complete—there are no \"missing\" numbers that would create gaps.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Density", "Real Numbers", "Properties"]
+    },
+    {
+      "id": "ex-03",
+      "title": "Real Numbers in Physical Measurement",
+      "content": "A surveyor measures a triangle with sides: 3 meters, 4 meters, and a hypotenuse of $\\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$ meters.\n\n**Real numbers in practice**:\n- The sides **3** and **4** are natural numbers (measured in whole meters)\n- The hypotenuse **5** is also a natural number\n- If the hypotenuse were $\\sqrt{2}$ meters (diagonal of a 1×1 square), it would be irrational\n- All measurements are **real numbers** on a continuous scale\n\nThis example shows how real numbers model continuous physical quantities—whether rational or irrational, they all represent measurable distances.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Application", "Real Numbers", "Geometry"]
     }
   ]
 }

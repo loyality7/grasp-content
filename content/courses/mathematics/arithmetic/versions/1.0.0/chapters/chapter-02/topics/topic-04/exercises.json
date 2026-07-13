@@ -2,34 +2,43 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Expanded Form.",
-      "solution": "Step-by-step solution for Expanded Form problem.",
+      "prompt": "Write 642 in expanded form.",
+      "solution": "$642 = 600 + 40 + 2$",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Identify the place value of each digit",
+        "6 is in the hundreds place",
+        "4 is in the tens place",
+        "2 is in the ones place"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "expanded-form"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Expanded Form"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Expanded Form to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Write 5,003 in expanded form.",
+      "solution": "$5,003 = 5,000 + 3$ (Note: we don't write the zeros for the hundreds and tens places)",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Remember to include zeros as placeholders, but you can omit them when writing expanded form",
+        "5 is in the thousands place",
+        "3 is in the ones place"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "expanded-form"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Expanded Form"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Write 7.39 in expanded form.",
+      "solution": "$7.39 = 7 + 0.3 + 0.09$",
+      "hints": [
+        "7 is in the ones place",
+        "3 is in the tenths place: $3 \\times 0.1 = 0.3$",
+        "9 is in the hundredths place: $9 \\times 0.01 = 0.09$"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Expanded Form", "Decimals"]
     }
   ]
 }

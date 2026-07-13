@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Face Value.",
-      "solution": "Step-by-step solution for Face Value problem.",
+      "prompt": "What is the face value of the digit 8 in the number 8,547?",
+      "solution": "The face value of 8 is **8**, because face value is simply the digit itself, regardless of position.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Face value doesn't depend on position — it's just the digit",
+        "The digit 8 is always 8"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "face-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Face Value"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Face Value to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "In the number 1,919, what is the face value of the first 9 and the second 9?",
+      "solution": "Both 9's have the same face value of **9**. Face value is constant for the same digit regardless of position.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Face value is independent of position",
+        "The digit 9 always has a face value of 9"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "face-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Face Value"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "In 3,456, which digit has a face value of 4? What is its place value?",
+      "solution": "The digit 4 has face value **4**. Its place value is **400** because it's in the hundreds place ($4 \\times 100 = 400$).",
+      "hints": [
+        "Identify which digit is 4",
+        "Determine its position",
+        "Calculate its place value"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Face Value", "Place Value"]
     }
   ]
 }

@@ -2,15 +2,27 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Digits?",
-      "back": "Digits is a fundamental concept in mathematics.",
+      "front": "What are digits?",
+      "back": "Digits are the ten symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. They are the building blocks of all numbers in the base-10 system.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Digits important?",
-      "back": "Digits is essential for understanding Arithmetic.",
+      "front": "What is the difference between a digit and a number?",
+      "back": "A digit is a single symbol (0–9). A number is a value composed of one or more digits. Example: 42 is a number with two digits (4 and 2).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Why is zero important as a digit?",
+      "back": "Zero acts as a placeholder, showing where there are no tens, hundreds, etc. It lets us distinguish numbers like 101 from 11.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "How many digits does the number 3,050 have?",
+      "back": "4 digits: 3, 0, 5, 0. Each symbol counts, including zeros. The comma is just punctuation.",
+      "difficulty": "easy"
     }
   ]
 }

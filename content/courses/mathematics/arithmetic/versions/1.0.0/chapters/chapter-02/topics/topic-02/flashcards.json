@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Place Value?",
-      "back": "Place Value is a fundamental concept in mathematics.",
+      "front": "What is place value?",
+      "back": "The value of a digit based on its position in a number. Example: in 345, the 3 has place value 300 (hundreds place).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Place Value important?",
-      "back": "Place Value is essential for understanding Arithmetic.",
+      "front": "What are the place values for whole numbers (right to left)?",
+      "back": "Ones, tens, hundreds, thousands, ten thousands, hundred thousands, millions, etc.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What are the place values after the decimal point?",
+      "back": "Tenths (0.1), hundredths (0.01), thousandths (0.001), ten-thousandths (0.0001), etc.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the place value of 0 in any position?",
+      "back": "Always 0, because 0 × (any power of 10) = 0. But it still serves as a placeholder.",
       "difficulty": "medium"
     }
   ]

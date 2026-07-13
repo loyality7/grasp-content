@@ -2,34 +2,42 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Absolute Value.",
-      "solution": "Step-by-step solution for Absolute Value problem.",
+      "prompt": "Solve: $|x| = 6$.",
+      "solution": "Since $|x| = 6$, the number $x$ is 6 units away from zero.\nThis gives two solutions: $x = 6$ or $x = -6$.\n\nVerify: $|6| = 6$ ✓ and $|-6| = 6$ ✓",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Absolute value equals 6 means distance from zero is 6",
+        "Two numbers are 6 units from zero: one positive, one negative",
+        "Both solutions should satisfy the original equation"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "absolute-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value", "Equations"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Absolute Value to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Simplify: $|3 - 8|$.",
+      "solution": "$|3 - 8| = |-5| = 5$\n\nStep 1: Compute inside the absolute value: $3 - 8 = -5$\nStep 2: Take absolute value: $|-5| = 5$",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "First compute what's inside the absolute value",
+        "Then apply the absolute value definition",
+        "Remember: absolute value removes the negative sign"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "absolute-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value", "Operations"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Why does $|x| = -3$ have no solution?",
+      "solution": "Absolute value is the distance from zero, which is always non-negative. A distance cannot be negative.\n\nSince $|x| \\geq 0$ for all $x$, and $-3 < 0$, there is no value of $x$ that satisfies $|x| = -3$.",
+      "hints": [
+        "Recall: absolute value is always non-negative",
+        "A negative number cannot be a distance",
+        "The equation is impossible"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Absolute Value", "Properties"]
     }
   ]
 }

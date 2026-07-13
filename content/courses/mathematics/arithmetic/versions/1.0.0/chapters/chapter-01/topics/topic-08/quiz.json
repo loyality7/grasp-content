@@ -3,27 +3,57 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Number Line?",
+      "question": "On a number line, which direction represents larger numbers?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Left",
+        "Right",
+        "Up",
+        "Down"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "On a horizontal number line, numbers increase from left to right. Zero is typically at the center, negatives are left, and positives are right.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Number Line is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the distance between -5 and 2 on a number line?",
       "options": [
-        "True",
-        "False"
+        "3",
+        "5",
+        "7",
+        "-3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Distance = |2 - (-5)| = |2 + 5| = |7| = 7. Distance is always positive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "To perform 6 - 3 on a number line, what action do you take?",
+      "options": [
+        "Start at 6, move left 3 units",
+        "Start at 6, move right 3 units",
+        "Start at 3, move left 6 units",
+        "Start at 0, move right 3 units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subtraction on a number line means starting at the first number and moving LEFT by the second number. 6 - 3: start at 6, move left 3 to land at 3.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which number is between -2 and 1 on a number line?",
+      "options": [
+        "-3",
+        "0",
+        "2",
+        "-4"
       ],
       "correctIndex": 1,
-      "explanation": "Number Line has many practical applications.",
+      "explanation": "0 lies between -2 and 1 on the number line. The sequence is -2, -1, 0, 1.",
       "difficulty": "easy"
     }
   ]

@@ -2,16 +2,16 @@
   "id": "topic-02",
   "name": "Place Value",
   "topicId": "mathematics.arithmetic.chapter-02.topic-02",
-  "description": "Learn about Place Value and its applications in mathematics.",
+  "description": "Understanding Place Value: how the position of each digit determines its value in a number.",
   "content": {
-    "overview": "Place Value is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Place Value. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Place Value requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Place value is the principle that each digit in a number has a value determined by its position. In the base-10 system, each position represents a power of 10: ones, tens, hundreds, thousands, etc.",
+    "explanation": "### The Concept of Place Value\n\n**Place value** is the value of a digit based on its position in a number. The same digit has different values depending on where it appears.\n\n**Example**: In the number 333:\n- First 3 (leftmost) = 300 (three hundreds)\n- Second 3 (middle) = 30 (three tens)\n- Third 3 (rightmost) = 3 (three ones)\n\n### Place Value Chart\n\nThe standard place values (right to left) are:\n$$\\ldots | \\text{Thousands} | \\text{Hundreds} | \\text{Tens} | \\text{Ones}$$\n\n**Example with 5,234:**\n- 5 is in the **thousands place** → worth 5 × 1,000 = 5,000\n- 2 is in the **hundreds place** → worth 2 × 100 = 200\n- 3 is in the **tens place** → worth 3 × 10 = 30\n- 4 is in the **ones place** → worth 4 × 1 = 4\n\nTotal: 5,000 + 200 + 30 + 4 = 5,234\n\n### Powers of 10\n\nEach place value is a power of 10:\n- Ones place = $10^0 = 1$\n- Tens place = $10^1 = 10$\n- Hundreds place = $10^2 = 100$\n- Thousands place = $10^3 = 1,000$\n- Ten thousands place = $10^4 = 10,000$\n\n### Beyond Whole Numbers\n\nPlace value extends to decimals (fractions):\n- **Tenths place** (one decimal place) = $10^{-1} = 0.1$\n- **Hundredths place** (two decimal places) = $10^{-2} = 0.01$\n- **Thousandths place** (three decimal places) = $10^{-3} = 0.001$\n\n**Example with 23.45:**\n- 2 is in the **tens place** → worth 20\n- 3 is in the **ones place** → worth 3\n- 4 is in the **tenths place** → worth 0.4\n- 5 is in the **hundredths place** → worth 0.05\n\nTotal: 20 + 3 + 0.4 + 0.05 = 23.45\n\n### Why Place Value Matters\n\nPlace value is the foundation for:\n- Understanding number magnitude (which number is bigger)\n- Performing arithmetic operations (addition, subtraction, multiplication)\n- Reading and writing numbers correctly\n- Understanding decimals and scientific notation",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Each digit's value depends on its position in the number.",
+      "Each position represents a power of 10 (ones, tens, hundreds, thousands, etc.).",
+      "Place value extends to decimals: tenths, hundredths, thousandths, etc."
     ],
-    "whyItMatters": "Place Value is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Place value is the cornerstone of our number system. Without understanding it, you cannot truly perform arithmetic, compare numbers, or work with decimals. It's essential for all mathematical operations."
   },
   "availableLanguages": [
     "en"

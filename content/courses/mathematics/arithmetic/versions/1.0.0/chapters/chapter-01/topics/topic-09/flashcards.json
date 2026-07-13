@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Absolute Value?",
-      "back": "Absolute Value is a fundamental concept in mathematics.",
+      "front": "Define absolute value |a|.",
+      "back": "|a| is the distance from a to zero on the number line. Always non-negative.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Absolute Value important?",
-      "back": "Absolute Value is essential for understanding Arithmetic.",
+      "front": "What is |−7|?",
+      "back": "|−7| = 7. Absolute value of a negative number is its opposite (positive).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you calculate |a| algebraically?",
+      "back": "|a| = a if a ≥ 0, and |a| = −a if a < 0.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What property of absolute value relates to opposite numbers?",
+      "back": "|a| = |−a|. Opposite numbers have the same absolute value because they're equidistant from zero.",
       "difficulty": "medium"
     }
   ]

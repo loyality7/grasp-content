@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Ordering Numbers?",
-      "back": "Ordering Numbers is a fundamental concept in mathematics.",
+      "front": "What do the symbols <, >, = mean?",
+      "back": "< means \"less than\" (left on number line), > means \"greater than\" (right), = means \"equal to\".",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Ordering Numbers important?",
-      "back": "Ordering Numbers is essential for understanding Arithmetic.",
+      "front": "How do you order numbers?",
+      "back": "Use the number line: numbers to the LEFT are smaller, numbers to the RIGHT are larger. Read left to right for least-to-greatest ordering.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What happens when you multiply an inequality by a negative number?",
+      "back": "The inequality sign REVERSES. Example: 3 < 5, but 3×(-1) > 5×(-1) gives -3 > -5.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What does -2 < x < 5 represent?",
+      "back": "A compound inequality: x is greater than -2 AND less than 5. Graphically, x is in the interval between -2 and 5 on the number line.",
       "difficulty": "medium"
     }
   ]

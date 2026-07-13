@@ -2,16 +2,16 @@
   "id": "topic-01",
   "name": "Digits",
   "topicId": "mathematics.arithmetic.chapter-02.topic-01",
-  "description": "Learn about Digits and its applications in mathematics.",
+  "description": "Understanding Digits: the ten basic symbols (0-9) used to form all numbers in the base-10 number system.",
   "content": {
-    "overview": "Digits is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Digits. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Digits requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Digits are the ten fundamental symbols (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) used to represent all numbers in our decimal system. They are the building blocks of arithmetic.",
+    "explanation": "### What Are Digits?\n\n**Digits** are single symbols used to write numbers. In the **base-10 (decimal) number system**, there are exactly **ten digits**:\n\n$$\\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\\}$$\n\nEach digit represents a quantity from zero to nine.\n\n### The Role of Digits\n\nAll numbers we use—whether 42, 1000, or 3.14159—are composed of digits arranged in specific positions. By combining digits in different arrangements and positions, we can represent any number, no matter how large or small.\n\n**Examples**:\n- The number **7** uses one digit: 7\n- The number **42** uses two digits: 4 and 2\n- The number **2024** uses four digits: 2, 0, 2, 4\n\n### Digit vs. Number\n\nIt's important to distinguish between a **digit** and a **number**:\n\n- **Digit**: A single symbol (0–9). Examples: 3, 7, 9\n- **Number**: A value that can be composed of one or more digits. Examples: 3 (one digit), 42 (two digits), 156 (three digits)\n\nIn the number 523:\n- The digits are: 5, 2, and 3\n- The number is: 523\n\n### The Decimal (Base-10) System\n\nOur number system is called **decimal** or **base-10** because it uses 10 distinct digits and the value of each digit depends on its **position** (place value).\n\nFor instance, in the number 555:\n- The first 5 (leftmost) represents five **hundreds** = 500\n- The second 5 (middle) represents five **tens** = 50\n- The third 5 (rightmost) represents five **ones** = 5\n- Total: 500 + 50 + 5 = 555\n\n### The Digit Zero\n\nThe digit **0** is particularly important—it represents the absence of quantity and serves as a **placeholder** in position. Without zero, large numbers and decimals would be impossible to write clearly.\n\n**Examples of zero's role**:\n- In **101**: the 0 shows there are no tens\n- In **1000**: the zeros show there are no hundreds, no tens, no ones\n- In **0.05**: the 0 marks the ones place as empty\n\n### Other Number Systems\n\nWhile we primarily use base-10, other systems exist:\n- **Binary (base-2)**: uses digits {0, 1} — fundamental to computers\n- **Hexadecimal (base-16)**: uses digits {0–9, A–F} — used in computing and color codes\n\nBut in standard arithmetic, digits refer to the ten symbols of the decimal system.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Digits are the ten symbols 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 used in the base-10 system.",
+      "A digit is a single symbol; a number is composed of one or more digits arranged in positions.",
+      "The value a digit represents depends on its position in the number (place value)."
     ],
-    "whyItMatters": "Digits is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Digits are the foundation of all arithmetic. Understanding how digits work, combine, and gain value through position is essential for understanding place value, number operations, and mathematical communication. Without digits, we could not represent or manipulate numbers."
   },
   "availableLanguages": [
     "en"

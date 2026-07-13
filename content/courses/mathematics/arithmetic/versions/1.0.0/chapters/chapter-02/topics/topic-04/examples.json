@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Expanded Form",
-      "content": "A practical example demonstrating Expanded Form",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Writing a Whole Number in Expanded Form",
+      "content": "Write 8,504 in expanded form.\n\n**Solution:**\n- 8 is in the thousands place: $8 \\times 1,000 = 8,000$\n- 5 is in the hundreds place: $5 \\times 100 = 500$\n- 0 is in the tens place: $0 \\times 10 = 0$\n- 4 is in the ones place: $4 \\times 1 = 4$\n\n$$8,504 = 8,000 + 500 + 0 + 4$$\n\nOr simply: $8,504 = 8,000 + 500 + 4$ (we can omit the zero term)",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "expanded-form"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Expanded Form"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Expanded Form with Decimals",
+      "content": "Write 34.67 in expanded form.\n\n**Solution:**\n- 3 is in the tens place: $3 \\times 10 = 30$\n- 4 is in the ones place: $4 \\times 1 = 4$\n- 6 is in the tenths place: $6 \\times 0.1 = 0.6$\n- 7 is in the hundredths place: $7 \\times 0.01 = 0.07$\n\n$$34.67 = 30 + 4 + 0.6 + 0.07$$",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Expanded Form", "Decimals"]
     }
   ]
 }

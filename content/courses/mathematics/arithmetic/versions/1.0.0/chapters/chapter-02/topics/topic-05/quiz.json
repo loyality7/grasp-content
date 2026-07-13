@@ -3,27 +3,41 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Standard Form?",
+      "question": "What is the standard form of $5,000 + 300 + 40 + 7$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "5,347",
+        "5,374",
+        "5,437",
+        "5,743"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "$5,000 + 300 + 40 + 7 = 5,347$",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Standard Form is only applicable in theoretical contexts.",
+      "question": "In the standard form 7,045, the zeros are placeholders showing empty tens and hundreds places.",
       "options": [
         "True",
         "False"
       ],
-      "correctIndex": 1,
-      "explanation": "Standard Form has many practical applications.",
+      "correctIndex": 0,
+      "explanation": "The zero in the tens place and the zero that would be in the hundreds place (if we were writing it with all placeholders) show where no tens or hundreds exist.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which number is the standard form of $2,000 + 50 + 3$?",
+      "options": [
+        "2,053",
+        "2,530",
+        "2,503",
+        "253"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 5 is in the tens place and the 3 is in the ones place, making the number 2,053.",
       "difficulty": "easy"
     }
   ]

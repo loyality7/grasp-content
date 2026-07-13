@@ -2,16 +2,16 @@
   "id": "topic-09",
   "name": "Absolute Value",
   "topicId": "mathematics.arithmetic.chapter-01.topic-09",
-  "description": "Learn about Absolute Value and its applications in mathematics.",
+  "description": "Understanding Absolute Value: the distance of a number from zero, always non-negative.",
   "content": {
-    "overview": "Absolute Value is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Absolute Value. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Absolute Value requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The absolute value of a number is its distance from zero on the number line, regardless of direction. It is always non-negative.",
+    "explanation": "### Definition\n\nThe **absolute value** of a number $a$, denoted $|a|$, is the distance from $a$ to zero on the number line.\n\n$$|a| = \\begin{cases} a & \\text{if } a \\geq 0 \\\\ -a & \\text{if } a < 0 \\end{cases}$$\n\n**Key property**: Absolute value is **always non-negative**. $|a| \\geq 0$ for all real $a$.\n\n### Examples\n\n- $|5| = 5$ (five units right of zero → distance is 5)\n- $|-5| = 5$ (five units left of zero → distance is still 5)\n- $|0| = 0$ (zero is at zero distance from itself)\n- $|-3.2| = 3.2$ (decimal distance)\n- $|\\sqrt{2}| = \\sqrt{2}$ (positive irrationals stay positive)\n\n### Geometric Interpretation\n\nOn a number line, $|a|$ answers the question: **How far is the number $a$ from zero?**\n\nNumbers equidistant from zero have the same absolute value:\n- $|3| = |-3| = 3$ (both are 3 units from zero)\n- $|10| = |-10| = 10$ (both are 10 units from zero)\n\n### Properties\n\n1. **Non-negativity**: $|a| \\geq 0$ for all $a$\n2. **Identity**: $|a| = 0$ if and only if $a = 0$\n3. **Evenness**: $|a| = |-a|$ (opposite numbers have same absolute value)\n4. **Multiplicativity**: $|ab| = |a| \\cdot |b|$\n5. **Triangle Inequality**: $|a + b| \\leq |a| + |b|$\n\n### Absolute Value and Operations\n\n**Solving equations with absolute value**:\n- $|x| = 5$ means $x = 5$ or $x = -5$ (both are 5 units from zero)\n- $|x| = 0$ means $x = 0$ (only one solution)\n- $|x| = -2$ has **no solution** (absolute value cannot be negative)\n\n**Distance between two numbers**:\nThe distance between $a$ and $b$ is $|a - b| = |b - a|$.\n\nExample: Distance between $-3$ and $4$ is $|(-3) - 4| = |-7| = 7$ units.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "$|a|$ is the distance from $a$ to zero; always non-negative.",
+      "For any $a$: $|a| = a$ if $a \\\\geq 0$, and $|a| = -a$ if $a < 0$.",
+      "Opposite numbers have equal absolute values: $|a| = |-a|$."
     ],
-    "whyItMatters": "Absolute Value is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Absolute value is used in geometry (distances), physics (magnitudes), statistics (deviations), and solving equations. It is fundamental for understanding inequalities and measuring quantities without regard to direction."
   },
   "availableLanguages": [
     "en"

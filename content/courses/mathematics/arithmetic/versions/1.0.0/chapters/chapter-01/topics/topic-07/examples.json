@@ -1,16 +1,31 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Complex Numbers (Introduction)",
-      "content": "A practical example demonstrating Complex Numbers (Introduction)",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Identifying Real and Imaginary Parts",
+      "content": "Identify the real and imaginary parts of: $3 + 2i$, $-1 - 4i$, $5$, $3i$.\n\n- **$3 + 2i$**: Real part = 3, Imaginary part = 2\n- **$-1 - 4i$**: Real part = -1, Imaginary part = -4 (note: the coefficient is negative)\n- **$5$**: Real part = 5, Imaginary part = 0 (it's a real number)\n- **$3i$**: Real part = 0, Imaginary part = 3 (purely imaginary)\n\nEvery real number is also a complex number (with imaginary part 0).",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "complex-numbers-introduction"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Complex Numbers", "Identification"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Powers of the Imaginary Unit",
+      "content": "Calculate: $i^1$, $i^2$, $i^3$, $i^4$, $i^5$, $i^8$.\n\n**Solution**:\n- $i^1 = i$\n- $i^2 = -1$\n- $i^3 = i^2 \\times i = -1 \\times i = -i$\n- $i^4 = i^2 \\times i^2 = (-1) \\times (-1) = 1$\n- $i^5 = i^4 \\times i = 1 \\times i = i$ (pattern repeats every 4 powers)\n- $i^8 = (i^4)^2 = 1^2 = 1$\n\n**Pattern**: Powers of $i$ cycle with period 4: $\\{i, -1, -i, 1\\}$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Complex Numbers", "Powers"]
+    },
+    {
+      "id": "ex-03",
+      "title": "Adding Complex Numbers",
+      "content": "Calculate $(3 + 2i) + (1 + 4i)$.\n\n**Solution**: Add real parts and imaginary parts separately:\n$$(3 + 2i) + (1 + 4i) = (3 + 1) + (2i + 4i) = 4 + 6i$$\n\nAnother example: $(-2 + 3i) + (5 - i) = (-2 + 5) + (3i - i) = 3 + 2i$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Complex Numbers", "Addition"]
     }
   ]
 }

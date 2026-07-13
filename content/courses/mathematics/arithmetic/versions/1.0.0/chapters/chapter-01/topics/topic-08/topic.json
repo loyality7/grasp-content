@@ -2,16 +2,16 @@
   "id": "topic-08",
   "name": "Number Line",
   "topicId": "mathematics.arithmetic.chapter-01.topic-08",
-  "description": "Learn about Number Line and its applications in mathematics.",
+  "description": "Understanding the Number Line: a visual representation of all real numbers ordered from left to right.",
   "content": {
-    "overview": "Number Line is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Number Line. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Number Line requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The Number Line is a one-dimensional visual representation of the real numbers, with negative numbers to the left, zero at the center, and positive numbers to the right.",
+    "explanation": "### What is a Number Line?\n\nA **Number Line** is a straight horizontal line on which every real number is represented at a unique position. It is a fundamental tool for visualizing:\n- The ordering of numbers\n- Distances between numbers\n- Operations like addition and subtraction\n- Inequalities and intervals\n\n### Structure\n\nA typical number line has:\n1. **A horizontal line** extending infinitely in both directions\n2. **An origin (zero)** at a reference point, usually in the center\n3. **Evenly spaced marks** representing unit intervals (each mark is distance 1 apart)\n4. **Arrows at both ends** indicating the line continues indefinitely\n5. **Labels** marking specific numbers\n\n**Example**:\n```\n   ←────────────┼────────────→\n   ... -3  -2  -1  0  1  2  3 ...\n```\n\n### Direction and Ordering\n\nOn a number line:\n- Numbers to the **left** are smaller (e.g., -2 < -1)\n- Numbers to the **right** are larger (e.g., 2 > 1)\n- **Zero (0)** is the dividing point between negative and positive\n\nThis ordering is consistent for all real numbers, including fractions and irrational numbers:\n$$\\sqrt{2} \\approx 1.414 \\text{ lies between } 1 \\text{ and } 2$$\n\n### Distance and Absolute Value\n\nThe distance from any number $a$ to zero is its **absolute value**, denoted $|a|$:\n- $|5| = 5$ (five units to the right of zero)\n- $|-5| = 5$ (five units to the left of zero)\n- $|0| = 0$\n\nOn a number line, you can visually see that 5 and -5 are equidistant from zero.\n\n### Addition and Subtraction on the Number Line\n\n**Addition**: Start at the first number, then move right by the second number.\n- $3 + 2 = 5$: Start at 3, move right 2 steps → land at 5\n\n**Subtraction**: Start at the first number, then move left by the second number.\n- $5 - 2 = 3$: Start at 5, move left 2 steps → land at 3\n\n**Subtracting negatives = adding**:\n- $5 - (-2) = 5 + 2 = 7$: Start at 5, move left by -2 (which is moving right) → land at 7\n\n### Intervals\n\nA **segment** of the number line represents an interval of numbers:\n- **Closed interval** $[a, b]$: All numbers from $a$ to $b$, including endpoints\n- **Open interval** $(a, b)$: All numbers from $a$ to $b$, excluding endpoints\n- **Half-open** $[a, b)$: Includes $a$ but not $b$\n\nFor example, $[1, 3]$ includes 1, all decimals between 1 and 3, and 3.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The number line is a one-dimensional representation with zero in the center, negatives left, positives right.",
+      "The position of a number on the line shows its magnitude and sign; distance from zero is the absolute value.",
+      "Addition moves right, subtraction moves left; multiplication scales intervals."
     ],
-    "whyItMatters": "Number Line is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "The number line is the foundational visual tool for understanding arithmetic operations, inequalities, and intervals. It connects abstract numbers to concrete geometric positions, making math more intuitive."
   },
   "availableLanguages": [
     "en"

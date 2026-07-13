@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Estimation",
-      "content": "A practical example demonstrating Estimation",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Estimating a Sum",
+      "content": "Estimate: $234 + 189 + 241$\n\n**Solution:**\n1. Round each number to the nearest hundred:\n   - $234 \\rightarrow 200$\n   - $189 \\rightarrow 200$\n   - $241 \\rightarrow 200$\n\n2. Add the rounded numbers:\n   $$200 + 200 + 200 = 600$$\n\n3. The estimate is **600**\n\n(Exact answer: 664 — very close!)",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "estimation"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Estimation"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Estimating a Product",
+      "content": "Estimate: $47 \\times 32$\n\n**Solution:**\n1. Round each number:\n   - $47 \\rightarrow 50$\n   - $32 \\rightarrow 30$\n\n2. Multiply the rounded numbers:\n   $$50 \\times 30 = 1,500$$\n\n3. The estimate is **1,500**\n\n(Exact answer: 1,504 — excellent estimate!)",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Estimation"]
     }
   ]
 }

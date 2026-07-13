@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Comparing Numbers",
-      "content": "A practical example demonstrating Comparing Numbers",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Comparing Numbers with Different Number of Digits",
+      "content": "Compare 237 and 89. Which is greater?\n\n**Solution:**\n- 237 has 3 digits\n- 89 has 2 digits\n- A number with more digits is larger\n- Therefore: $237 > 89$ (237 is greater than 89)",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "comparing-numbers"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Comparing Numbers"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Comparing Numbers with the Same Number of Digits",
+      "content": "Compare 614 and 621. Which is greater?\n\n**Solution:**\n- Both have 3 digits\n- Compare the hundreds place: 6 = 6 (same)\n- Compare the tens place: 1 < 2\n- Since 621 has more in the tens place, $621 > 614$ (621 is greater than 614)",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Comparing Numbers"]
     }
   ]
 }

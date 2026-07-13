@@ -3,27 +3,57 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Ordering Numbers?",
+      "question": "Which inequality is correct?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "-5 > -2",
+        "-5 < -2",
+        "-5 = -2",
+        "-5 ≤ -2 is false"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "-5 < -2 is correct. On the number line, -5 is to the LEFT of -2, so -5 is less than -2.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Ordering Numbers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Order from smallest to largest: 0.5, -1, 2, -3",
       "options": [
-        "True",
-        "False"
+        "-3, -1, 0.5, 2",
+        "-1, -3, 0.5, 2",
+        "0.5, -1, 2, -3",
+        "2, 0.5, -1, -3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reading the number line from left to right: -3, -1, 0.5, 2. Left is smaller, right is larger.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If you multiply both sides of 4 < 6 by -1, what do you get?",
+      "options": [
+        "-4 < -6",
+        "-4 > -6",
+        "-4 = -6",
+        "The inequality is undefined"
       ],
       "correctIndex": 1,
-      "explanation": "Ordering Numbers has many practical applications.",
+      "explanation": "When multiplying by a NEGATIVE number, the inequality sign REVERSES. So 4 < 6 becomes -4 > -6. Verify: -4 is to the right of -6.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which number is between -2 and 3?",
+      "options": [
+        "-3",
+        "4",
+        "0",
+        "-5"
+      ],
+      "correctIndex": 2,
+      "explanation": "0 lies between -2 and 3. We can write: -2 < 0 < 3. All other options are outside this range.",
       "difficulty": "easy"
     }
   ]

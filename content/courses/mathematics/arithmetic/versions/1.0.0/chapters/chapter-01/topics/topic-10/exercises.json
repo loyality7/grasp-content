@@ -2,34 +2,42 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Ordering Numbers.",
-      "solution": "Step-by-step solution for Ordering Numbers problem.",
+      "prompt": "Order from least to greatest: $-4, 2, -1, 0, 3, -5$.",
+      "solution": "Use the number line to order:\n$$-5 < -4 < -1 < 0 < 2 < 3$$",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Place each number on the number line",
+        "Read from left to right",
+        "Negative numbers are all less than zero"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "ordering-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ordering Numbers"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Ordering Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Compare using <, >, or =: $-3 \\text{ ? } -8$.",
+      "solution": "$-3 > -8$\n\nReason: On the number line, $-3$ is to the right of $-8$, so $-3$ is greater.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Place both numbers on the number line",
+        "Which is further right?",
+        "Right is greater, left is lesser"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "ordering-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Comparison", "Inequalities"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Solve: $2x < 10$. State the solution as an inequality.",
+      "solution": "Divide both sides by 2:\n$$2x < 10$$\n$$x < 5$$\n\nThe solution is all numbers less than 5. On a number line, this is everything to the LEFT of 5.",
+      "hints": [
+        "Divide both sides by the coefficient",
+        "The inequality sign does NOT flip (you divided by positive 2)",
+        "The solution is a range of numbers"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Inequalities", "Solving"]
     }
   ]
 }

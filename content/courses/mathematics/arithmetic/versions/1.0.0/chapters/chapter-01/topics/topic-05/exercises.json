@@ -2,34 +2,43 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Irrational Numbers.",
-      "solution": "Step-by-step solution for Irrational Numbers problem.",
+      "prompt": "Classify each number as rational or irrational: $\\frac{3}{7}$, $\\sqrt{9}$, $\\pi$, $\\sqrt{7}$, $0.25$.",
+      "solution": "- $\\frac{3}{7}$ — **Rational** (ratio of two integers)\n- $\\sqrt{9} = 3$ — **Rational** (equals the integer 3, which is $\\frac{3}{1}$)\n- $\\pi$ — **Irrational** (non-terminating, non-repeating decimal)\n- $\\sqrt{7}$ — **Irrational** (7 is not a perfect square; cannot be expressed as $\\frac{p}{q}$)\n- $0.25 = \\frac{1}{4}$ — **Rational** (terminates, equals a fraction)",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Check if the number can be written as a fraction of two integers.",
+        "Perfect squares like 9, 16, 25 have rational square roots.",
+        "Non-perfect squares have irrational square roots.",
+        "Terminating or repeating decimals are rational."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "irrational-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Classification", "Irrational Numbers"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Irrational Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Is $\\sqrt{12}$ rational or irrational? Simplify your answer.",
+      "solution": "$\\sqrt{12} = \\sqrt{4 \\times 3} = \\sqrt{4} \\times \\sqrt{3} = 2\\sqrt{3}$.\n\nSince $\\sqrt{3}$ is irrational, and the product of a rational (2) and an irrational ($\\sqrt{3}$) is irrational, $\\sqrt{12} = 2\\sqrt{3}$ is **irrational**.\n\n(Note: Even though 12 has a factor of 4 that is a perfect square, the presence of $\\sqrt{3}$ makes the entire expression irrational.)",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Factor out perfect squares from under the radical.",
+        "Use: if n is not a perfect square, then √n is irrational.",
+        "A rational number times an irrational number is still irrational."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "irrational-numbers"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": ["Arithmetic", "Square Roots", "Irrational Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Approximate $\\pi$ to three decimal places. Why can we never express $\\pi$ exactly as a decimal?",
+      "solution": "$\\pi \\approx 3.142$ (to three decimal places).\n\n$\\pi$ is irrational, which means its decimal representation never terminates and never repeats. We can compute more and more digits (currently known to trillions), but we can never write out all digits exactly. Any decimal expansion we write is always an **approximation**.\n\nThis contrasts with rational numbers: $\\frac{1}{3} = 0.\\overline{3}$ can be exactly represented using repeating notation, but $\\pi$ has no such pattern.",
+      "hints": [
+        "Irrational numbers have non-terminating, non-repeating decimals.",
+        "We must use approximation symbols (≈) when writing decimal forms of irrationals.",
+        "Tools like calculators give approximations, not exact values."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Approximation", "Irrational Numbers", "Pi"]
     }
   ]
 }
