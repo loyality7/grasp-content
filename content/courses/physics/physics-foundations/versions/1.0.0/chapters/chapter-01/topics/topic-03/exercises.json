@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "Pick a question you're curious about. Then design an experiment to test it. Write down: Question → Prediction → What you'd do → What you'd measure → How you'd analyze results → What you'd conclude.",
-      "solution": "",
+      "solution": "Example: You want to know if a heavier object falls faster. Prediction: heavier falls faster. Experiment: Drop a light ball and heavy ball from same height. Measure: How long each takes. Analyze: Did the times match? Conclude: They both took the same time (gravity affects all objects equally)!",
       "difficulty": "beginner",
       "estimatedMinutes": 10,
       "hints": [
@@ -19,7 +19,7 @@
     {
       "id": "exercise-2",
       "prompt": "Read a simple science story. Find the question, prediction, experiment, analysis, and conclusion. Mark each part.",
-      "solution": "",
+      "solution": "Example: You want to know if a heavier object falls faster. Prediction: heavier falls faster. Experiment: Drop a light ball and heavy ball from same height. Measure: How long each takes. Analyze: Did the times match? Conclude: They both took the same time (gravity affects all objects equally)!",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [
@@ -32,7 +32,7 @@
     {
       "id": "exercise-3",
       "prompt": "Think of a time your prediction was wrong. Was that a failure or success? Explain.",
-      "solution": "",
+      "solution": "Example: You want to know if a heavier object falls faster. Prediction: heavier falls faster. Experiment: Drop a light ball and heavy ball from same height. Measure: How long each takes. Analyze: Did the times match? Conclude: They both took the same time (gravity affects all objects equally)!",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
       "hints": [

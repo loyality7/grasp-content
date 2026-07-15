@@ -1,29 +1,29 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "More Precise?: Which is more precise: 10.5 m or 10.534 m? Why?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "hints": [
-        "Count the decimal places",
-        "More decimals = more precise"
-      ],
-      "tags": "precision"
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "Precise but Wrong: A scale always reads 70 kg when you actually weigh 75 kg. Is this precise? Is it accurate? Explain both.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Precise = consistent/exact",
-        "Accurate = close to true value",
-        "Can both be true/false at once?"
-      ],
-      "tags": "understanding"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "More Precise?: Which is more precise: 10.5 m or 10.534 m? Why?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  [
+                                        "Count the decimal places",
+                                        "More decimals = more precise"
+                                    ],
+                          "tags":  "precision"
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "Precise but Wrong: A scale always reads 70 kg when you actually weigh 75 kg. Is this precise? Is it accurate? Explain both.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Precise = consistent/exact",
+                                        "Accurate = close to true value",
+                                        "Can both be true/false at once?"
+                                    ],
+                          "tags":  "understanding"
+                      }
+                  ]
 }

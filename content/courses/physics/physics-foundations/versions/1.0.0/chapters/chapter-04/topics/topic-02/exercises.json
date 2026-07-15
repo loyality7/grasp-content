@@ -1,30 +1,30 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "Vector or Scalar?: For each: displacement, mass, velocity, temperature, force, energy—say if it's a vector or scalar.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Vectors need direction",
-        "Displacement and velocity are vectors",
-        "Mass and temperature are scalars"
-      ],
-      "tags": "identification"
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "Draw a Vector: Draw an arrow representing a vector: 50 N pointing north. Make the arrow point north and label the magnitude.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Arrow points in the direction",
-        "Arrow length represents magnitude",
-        "Label it with the magnitude and unit"
-      ],
-      "tags": "representation"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "Vector or Scalar?: For each: displacement, mass, velocity, temperature, force, energy—say if it\u0027s a vector or scalar.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Vectors need direction",
+                                        "Displacement and velocity are vectors",
+                                        "Mass and temperature are scalars"
+                                    ],
+                          "tags":  "identification"
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "Draw a Vector: Draw an arrow representing a vector: 50 N pointing north. Make the arrow point north and label the magnitude.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Arrow points in the direction",
+                                        "Arrow length represents magnitude",
+                                        "Label it with the magnitude and unit"
+                                    ],
+                          "tags":  "representation"
+                      }
+                  ]
 }

@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "For each scenario, which branch of physics explains it? Put them in the right group.",
-      "solution": "",
+      "solution": "Match: A ball bouncing → Classical Mechanics. Water boiling → Thermodynamics. A rainbow → Waves & Optics. An electromagnet → Electricity & Magnetism. An atom's energy levels → Quantum Physics.",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [
@@ -18,7 +18,7 @@
     {
       "id": "exercise-2",
       "prompt": "Your car engine gets hot as it runs. Which branch of physics explains why?",
-      "solution": "",
+      "solution": "Thermodynamics explains this. The fuel burns (releasing energy), creating heat and pressure that pushes pistons. Heat is energy moving, which thermodynamics studies.",
       "difficulty": "beginner",
       "estimatedMinutes": 2,
       "hints": {},
@@ -27,7 +27,7 @@
     {
       "id": "exercise-3",
       "prompt": "Think about today. List 2 things that classical mechanics explains and 2 things that a different branch explains.",
-      "solution": "",
+      "solution": "Classical: Walking (motion), throwing something (forces). Other branches: Phone light (optics), battery power (electricity), cooking (thermodynamics). Pick any 4 from daily life!",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
       "hints": [
@@ -40,7 +40,7 @@
     {
       "id": "exercise-4",
       "prompt": "Why do you think physicists divided physics into branches instead of keeping it all as one subject?",
-      "solution": "",
+      "solution": "It's easier to master one branch deeply than learn everything at once. Each branch has its own rules, tools, and math. A thermodynamics expert doesn't need all of quantum mechanics to do their job well.",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
       "hints": [
