@@ -1,35 +1,35 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "Use dimensional analysis to check: KE = (1/2) × m × v²",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "tags": [
-        "physics",
-        "estimation"
-      ]
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "Energy is in Joules. Express a Joule in base SI units.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "tags": [
-        "physics",
-        "estimation"
-      ]
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "Use dimensional analysis to check: KE = (1/2) × m × v²",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  10,
+                          "hints":  [
+                                        "Start by understanding the core concept",
+                                        "Apply the formula or principle",
+                                        "Check your answer"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "estimation"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "Energy is in Joules. Express a Joule in base SI units.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "advanced",
+                          "estimatedMinutes":  15,
+                          "hints":  [
+                                        "Consider the practical constraints",
+                                        "Break down the problem into steps"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "estimation"
+                                   ]
+                      }
+                  ]
 }

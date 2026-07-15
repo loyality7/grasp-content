@@ -1,35 +1,35 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "For a 2kg block at 4m/s: identify given, unknown, and principle.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "tags": [
-        "physics",
-        "approximation-techniques"
-      ]
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "Two objects collide. Before: p_A=10, p_B=-6. Total momentum after?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "tags": [
-        "physics",
-        "approximation-techniques"
-      ]
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "For a 2kg block at 4m/s: identify given, unknown, and principle.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  10,
+                          "hints":  [
+                                        "Start by understanding the core concept",
+                                        "Apply the formula or principle",
+                                        "Check your answer"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "approximation-techniques"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "Two objects collide. Before: p_A=10, p_B=-6. Total momentum after?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "advanced",
+                          "estimatedMinutes":  15,
+                          "hints":  [
+                                        "Consider the practical constraints",
+                                        "Break down the problem into steps"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "approximation-techniques"
+                                   ]
+                      }
+                  ]
 }

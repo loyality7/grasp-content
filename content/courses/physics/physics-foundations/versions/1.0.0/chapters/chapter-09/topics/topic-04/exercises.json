@@ -1,35 +1,35 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "A ball is dropped from 20m. How long to hit ground? (g=10m/s²)",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "tags": [
-        "physics",
-        "order-of-magnitude"
-      ]
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "What is the ball's velocity just before hitting ground?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "tags": [
-        "physics",
-        "order-of-magnitude"
-      ]
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "A ball is dropped from 20m. How long to hit ground? (g=10m/s²)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  10,
+                          "hints":  [
+                                        "Start by understanding the core concept",
+                                        "Apply the formula or principle",
+                                        "Check your answer"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "order-of-magnitude"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "What is the ball\u0027s velocity just before hitting ground?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "advanced",
+                          "estimatedMinutes":  15,
+                          "hints":  [
+                                        "Consider the practical constraints",
+                                        "Break down the problem into steps"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "order-of-magnitude"
+                                   ]
+                      }
+                  ]
 }

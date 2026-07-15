@@ -1,30 +1,30 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "What are the SI units of acceleration? Write the units using base units and time.",
-      "solution": "Acceleration is change in velocity per unit time. Since velocity is m/s, acceleration is (m/s)/s = m/s². This shows distance per time squared.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "hints": [
-        "Acceleration has units m/s²",
-        "Distance per time squared",
-        "Check which matches"
-      ],
-      "tags": "unit-checking"
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "What are the SI units of force? (Hint: force = mass × acceleration)",
-      "solution": "Force = mass × acceleration = kg × (m/s²) = kg·m/s². This combination of units is called a Newton (N).",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Multiply the units: kg × m/s²",
-        "Force is kg·m/s²",
-        "That's also called a Newton"
-      ],
-      "tags": "force"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "What are the SI units of acceleration? Write the units using base units and time.",
+                          "solution":  "Acceleration is change in velocity per unit time. Since velocity is m/s, acceleration is (m/s)/s = m/s². This shows distance per time squared.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  [
+                                        "Acceleration has units m/s²",
+                                        "Distance per time squared",
+                                        "Check which matches"
+                                    ],
+                          "tags":  "unit-checking"
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "What are the SI units of force? (Hint: force = mass × acceleration)",
+                          "solution":  "Force = mass × acceleration = kg × (m/s²) = kg·m/s². This combination of units is called a Newton (N).",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Multiply the units: kg × m/s²",
+                                        "Force is kg·m/s²",
+                                        "That\u0027s also called a Newton"
+                                    ],
+                          "tags":  "force"
+                      }
+                  ]
 }

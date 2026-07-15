@@ -1,33 +1,33 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "What is the difference between scalar and vector quantities?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Moving = changing position",
-        "Even 'still' things might be moving relative to something else",
-        "Earth is moving!"
-      ],
-      "tags": [
-        "observation",
-        "relative"
-      ]
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "Give an example of a vector quantity and explain why.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Think about reference frames",
-        "Both answers can be correct",
-        "It depends on what you compare it to"
-      ],
-      "tags": "relative-motion"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "What is the difference between scalar and vector quantities?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Moving = changing position",
+                                        "Even \u0027still\u0027 things might be moving relative to something else",
+                                        "Earth is moving!"
+                                    ],
+                          "tags":  [
+                                       "observation",
+                                       "relative"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "Give an example of a vector quantity and explain why.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Think about reference frames",
+                                        "Both answers can be correct",
+                                        "It depends on what you compare it to"
+                                    ],
+                          "tags":  "relative-motion"
+                      }
+                  ]
 }

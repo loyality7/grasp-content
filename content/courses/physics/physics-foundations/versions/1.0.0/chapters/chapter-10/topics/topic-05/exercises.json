@@ -1,28 +1,28 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "What does it mean to resolve a vector into components?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Think about the definition",
-        "Apply to real situations"
-      ],
-      "tags": "learning"
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "A force of 10N is at 30° from horizontal. Find horizontal and vertical components.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Use the concept",
-        "Think of examples"
-      ],
-      "tags": "application"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "What does it mean to resolve a vector into components?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Think about the definition",
+                                        "Apply to real situations"
+                                    ],
+                          "tags":  "learning"
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "A force of 10N is at 30° from horizontal. Find horizontal and vertical components.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Use the concept",
+                                        "Think of examples"
+                                    ],
+                          "tags":  "application"
+                      }
+                  ]
 }

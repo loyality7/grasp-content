@@ -1,28 +1,28 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "Add vectors: 3m east + 4m north. What is the resultant?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Think about the definition",
-        "Apply to real situations"
-      ],
-      "tags": "learning"
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "Using the Pythagorean theorem, find the magnitude.",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Use the concept",
-        "Think of examples"
-      ],
-      "tags": "application"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "Add vectors: 3m east + 4m north. What is the resultant?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Think about the definition",
+                                        "Apply to real situations"
+                                    ],
+                          "tags":  "learning"
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "Using the Pythagorean theorem, find the magnitude.",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Use the concept",
+                                        "Think of examples"
+                                    ],
+                          "tags":  "application"
+                      }
+                  ]
 }

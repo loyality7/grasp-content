@@ -1,35 +1,35 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "If speed = distance/time, what is the formula for velocity?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "tags": [
-        "physics",
-        "dimensional-checking"
-      ]
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "A car travels 100m in 5s. What is its velocity?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "tags": [
-        "physics",
-        "dimensional-checking"
-      ]
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "If speed = distance/time, what is the formula for velocity?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  10,
+                          "hints":  [
+                                        "Start by understanding the core concept",
+                                        "Apply the formula or principle",
+                                        "Check your answer"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "dimensional-checking"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "A car travels 100m in 5s. What is its velocity?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "advanced",
+                          "estimatedMinutes":  15,
+                          "hints":  [
+                                        "Consider the practical constraints",
+                                        "Break down the problem into steps"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "dimensional-checking"
+                                   ]
+                      }
+                  ]
 }

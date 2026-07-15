@@ -1,35 +1,35 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-01",
-      "prompt": "If power = energy/time, what are the SI units of power?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "tags": [
-        "physics",
-        "physical-reasoning"
-      ]
-    },
-    {
-      "id": "exercise-02",
-      "prompt": "A bulb uses 60J in 2s. What is its power in Watts?",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "tags": [
-        "physics",
-        "physical-reasoning"
-      ]
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-01",
+                          "prompt":  "If power = energy/time, what are the SI units of power?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  10,
+                          "hints":  [
+                                        "Start by understanding the core concept",
+                                        "Apply the formula or principle",
+                                        "Check your answer"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "physical-reasoning"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-02",
+                          "prompt":  "A bulb uses 60J in 2s. What is its power in Watts?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "advanced",
+                          "estimatedMinutes":  15,
+                          "hints":  [
+                                        "Consider the practical constraints",
+                                        "Break down the problem into steps"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "physical-reasoning"
+                                   ]
+                      }
+                  ]
 }
