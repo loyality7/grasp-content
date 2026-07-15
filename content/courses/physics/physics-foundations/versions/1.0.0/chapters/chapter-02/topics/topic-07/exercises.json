@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "Which can be added? (1) 10 m + 5 m  (2) 3 s + 7 kg  (3) 20 N + 15 N  (4) 8 m/s + 6 m. Say yes or no.",
-      "solution": "",
+      "solution": "Can add: (1) YES—both meters, (3) YES—both newtons. Cannot add: (2) NO—seconds and kg are different, (4) NO—m/s and m are different units. (1) v=u+at: [LT⁻¹]=same✓ (2) s=v²t: [L]≠[L²T⁻¹]✗ (3) E=½mv²: [ML²T⁻²]=same✓",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
       "hints": [
@@ -16,7 +16,7 @@
     {
       "id": "exercise-2",
       "prompt": "Are these equations dimensionally homogeneous? (1) v = u + at  (2) s = v²t  (3) E = ½mv². Write why or why not.",
-      "solution": "",
+      "solution": "Can add: (1) YES—both meters, (3) YES—both newtons. Cannot add: (2) NO—seconds and kg are different, (4) NO—m/s and m are different units. (1) v=u+at: [LT⁻¹]=same✓ (2) s=v²t: [L]≠[L²T⁻¹]✗ (3) E=½mv²: [ML²T⁻²]=same✓",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
       "hints": [

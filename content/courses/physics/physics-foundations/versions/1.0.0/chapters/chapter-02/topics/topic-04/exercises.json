@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "Match: milli, micro, kilo, mega, giga to 10³, 10⁶, 10⁻³, 10⁻⁶, 10⁹",
-      "solution": "",
+      "solution": "milli=10⁻³, micro=10⁻⁶, kilo=10³, mega=10⁶, giga=10⁹. Then: 5 km=5000 m, 20 mm=0.02 m, 3 μs=0.000003 s, 2 GB=2,000,000,000 bytes. Prefixes scale the units!",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
       "hints": [
@@ -18,7 +18,7 @@
     {
       "id": "exercise-2",
       "prompt": "Write as numbers: 5 km = ? m, 20 mm = ? m, 3 μs = ? s, 2 GB = ? bytes",
-      "solution": "",
+      "solution": "milli=10⁻³, micro=10⁻⁶, kilo=10³, mega=10⁶, giga=10⁹. Then: 5 km=5000 m, 20 mm=0.02 m, 3 μs=0.000003 s, 2 GB=2,000,000,000 bytes. Prefixes scale the units!",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [

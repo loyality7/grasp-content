@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "What units do you combine to make velocity? (Hint: distance/time). What about acceleration? (Hint: velocity/time, or distance/time²)",
-      "solution": "",
+      "solution": "Velocity = m/s (distance unit divided by time unit). Acceleration = m/s² (velocity unit divided by time). Speed = m/s. Force = kg⋅m/s². Energy = kg⋅m²/s². Power = kg⋅m²/s³. Combine the base units!",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [
@@ -16,7 +16,7 @@
     {
       "id": "exercise-2",
       "prompt": "For each: Speed, Force, Energy, Power—write what base units combine to make it.",
-      "solution": "",
+      "solution": "Velocity = m/s (distance unit divided by time unit). Acceleration = m/s² (velocity unit divided by time). Speed = m/s. Force = kg⋅m/s². Energy = kg⋅m²/s². Power = kg⋅m²/s³. Combine the base units!",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
       "hints": [

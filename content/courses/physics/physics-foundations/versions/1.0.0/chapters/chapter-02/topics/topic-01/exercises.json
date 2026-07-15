@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "Match each measurement to its SI base unit: length→?, mass→?, time→?, temperature→?, current→?",
-      "solution": "",
+      "solution": "Length→meter (m), Mass→kilogram (kg), Time→second (s), Temperature→kelvin (K), Current→ampere (A). These are the SI base units!",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
       "hints": [
@@ -19,7 +19,7 @@
     {
       "id": "exercise-2",
       "prompt": "Name the 7 SI base units. (Hint: length, mass, time, electric current, temperature, amount of substance, luminous intensity)",
-      "solution": "",
+      "solution": "The 7 SI base units are: meter (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount), candela (brightness). Scientists use these everywhere!",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [

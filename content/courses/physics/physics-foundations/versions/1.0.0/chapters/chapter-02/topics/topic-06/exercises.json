@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "Write the dimensional formula for: (1) acceleration  (2) force  (3) work/energy. (Hint: start with definitions)",
-      "solution": "",
+      "solution": "(1) acceleration = [LT⁻²] (2) force = [MLT⁻²] (3) work = [ML²T⁻²]. Start with definitions: a = v/t, F = ma, W = Fd. Combine units!",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [
@@ -16,7 +16,7 @@
     {
       "id": "exercise-2",
       "prompt": "What physical quantity has dimensional formula [M L T⁻²]? What about [M L² T⁻²]?",
-      "solution": "",
+      "solution": "(1) acceleration = [LT⁻²] (2) force = [MLT⁻²] (3) work = [ML²T⁻²]. Start with definitions: a = v/t, F = ma, W = Fd. Combine units!",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
       "hints": [

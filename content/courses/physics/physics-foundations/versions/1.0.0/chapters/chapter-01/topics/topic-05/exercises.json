@@ -3,7 +3,7 @@
     {
       "id": "exercise-1",
       "prompt": "Look at a physics problem. What's being simplified or ignored? For example, we ignore air resistance, ignore the size of objects, ignore friction. Find one model and what it ignores.",
-      "solution": "",
+      "solution": "Example: A falling ball model ignores air resistance and Earth's rotation. Why? Air resistance is small at normal speeds, so ignoring it makes the math easier. It still works!",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
       "hints": [
@@ -16,7 +16,7 @@
     {
       "id": "exercise-2",
       "prompt": "Think of a model from physics. When does it stop working? Example: treating air as empty works until speeds get very high.",
-      "solution": "",
+      "solution": "Example: A falling ball model ignores air resistance and Earth's rotation. Why? Air resistance is small at normal speeds, so ignoring it makes the math easier. It still works!",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
       "hints": [
@@ -29,7 +29,7 @@
     {
       "id": "exercise-3",
       "prompt": "Make up a simplified model for something you know about. What do you keep? What do you ignore? Why?",
-      "solution": "",
+      "solution": "Example: A falling ball model ignores air resistance and Earth's rotation. Why? Air resistance is small at normal speeds, so ignoring it makes the math easier. It still works!",
       "difficulty": "intermediate",
       "estimatedMinutes": 10,
       "hints": [
