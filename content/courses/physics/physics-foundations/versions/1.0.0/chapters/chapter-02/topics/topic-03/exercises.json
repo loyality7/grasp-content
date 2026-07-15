@@ -1,29 +1,31 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Convert: 3 km to m, 5000 mm to m, 2 hours to minutes. Write each with the conversion factor.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "1 km = 1000 m",
         "1 m = 1000 mm",
         "1 hour = 60 minutes",
         "Write as fractions to cancel units"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "basic-units"
     },
     {
+      "id": "exercise-2",
       "prompt": "Convert 90 km/h to m/s. (Hint: need to convert both km and h)",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "1 km = 1000 m",
         "1 h = 3600 s",
         "Convert top and bottom separately",
         "Multiply the conversion factors"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "complex-units"
     }
   ]

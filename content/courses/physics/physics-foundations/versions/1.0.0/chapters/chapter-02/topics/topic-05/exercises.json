@@ -1,28 +1,30 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Do dimensions match? (1) v = d/t  (2) KE = ½mv  (3) W = Fd. Write the dimensions for each side.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Velocity = [L T⁻¹]",
         "Energy = [M L² T⁻²]",
         "Force = [M L T⁻²]",
         "Check both sides"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "equation-checking"
     },
     {
+      "id": "exercise-2",
       "prompt": "Which of these is WRONG just by looking at dimensions? (1) d = vt  (2) a = vt  (3) v² = 2ad. Show why.",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Check if both sides have the same dimensions",
         "Write [M], [L], [T] for each term",
         "If they don't match, it's wrong"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "error-detection"
     }
   ]

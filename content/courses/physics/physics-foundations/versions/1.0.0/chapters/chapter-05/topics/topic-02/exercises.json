@@ -1,26 +1,28 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Subtract x: 5-2",
-        "Subtract y: 2-1"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": "subtraction"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Think about direction",
-        "(A-B) is opposite direction from (B-A)"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "tags": "understanding"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "What is the magnitude (length) of vector V=(3,4)?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  [
+                                        "Subtract x: 5-2",
+                                        "Subtract y: 2-1"
+                                    ],
+                          "tags":  "subtraction"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Find the magnitude of vector W=(-5,12)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Think about direction",
+                                        "(A-B) is opposite direction from (B-A)"
+                                    ],
+                          "tags":  "understanding"
+                      }
+                  ]
 }

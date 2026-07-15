@@ -1,23 +1,25 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Head-to-tail method forms a triangle",
-        "The closing side is the sum"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "tags": "visualization"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": "Use Pythagorean theorem",
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": "calculation"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Multiply vector V=(2,3) by scalar 3. What is 3V?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Head-to-tail method forms a triangle",
+                                        "The closing side is the sum"
+                                    ],
+                          "tags":  "visualization"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "If vector U=(1,-2), what is -2U?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  "Use Pythagorean theorem",
+                          "tags":  "calculation"
+                      }
+                  ]
 }

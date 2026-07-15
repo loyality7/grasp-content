@@ -1,30 +1,32 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Match each measurement to its SI base unit: length→?, mass→?, time→?, temperature→?, current→?",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "Length is measured in...",
         "Mass is measured in...",
         "Temperature uses a special scale scientists use"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": [
         "identification",
         "SI-units"
       ]
     },
     {
+      "id": "exercise-2",
       "prompt": "Name the 7 SI base units. (Hint: length, mass, time, electric current, temperature, amount of substance, luminous intensity)",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "There are 7 total",
         "Think about what you measure in physics",
         "One is about brightness (luminous)"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "memorization"
     }
   ]

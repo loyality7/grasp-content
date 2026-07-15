@@ -1,26 +1,28 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Add x components",
-        "Add y components"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": "addition"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Head of A to tail of B",
-        "Closing side is sum"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "tags": "visualization"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Add vectors A=(3,4) and B=(1,2). What is A+B?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  [
+                                        "Add x components",
+                                        "Add y components"
+                                    ],
+                          "tags":  "addition"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Draw vector A at origin, then place B at A\u0027s tip. What vector connects origin to final point?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Head of A to tail of B",
+                                        "Closing side is sum"
+                                    ],
+                          "tags":  "visualization"
+                      }
+                  ]
 }

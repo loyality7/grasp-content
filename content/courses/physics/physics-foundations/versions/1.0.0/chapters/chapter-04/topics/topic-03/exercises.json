@@ -1,29 +1,31 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "",
       "solution": "See hints and examples for approach.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "hints": [
         "Start by understanding the core concept",
         "Apply the formula or principle",
         "Check your answer"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
       "tags": [
         "physics",
         "vector-representation"
       ]
     },
     {
+      "id": "exercise-2",
       "prompt": "",
       "solution": "See hints and examples for approach.",
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
       "hints": [
         "Consider the practical constraints",
         "Break down the problem into steps"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
       "tags": [
         "physics",
         "vector-representation"

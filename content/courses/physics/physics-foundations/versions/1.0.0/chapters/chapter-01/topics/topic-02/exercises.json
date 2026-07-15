@@ -1,8 +1,11 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "For each scenario, which branch of physics explains it? Put them in the right group.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Classical mechanics = motion",
         "Thermodynamics = heat/temperature",
@@ -10,40 +13,41 @@
         "Electricity & magnetism = charged particles",
         "Quantum = atoms/electrons"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "classification"
     },
     {
+      "id": "exercise-2",
       "prompt": "Your car engine gets hot as it runs. Which branch of physics explains why?",
       "solution": "",
-      "hints": {},
       "difficulty": "beginner",
       "estimatedMinutes": 2,
+      "hints": {},
       "tags": "identification"
     },
     {
+      "id": "exercise-3",
       "prompt": "Think about today. List 2 things that classical mechanics explains and 2 things that a different branch explains.",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Classical: anything moving or changing direction",
         "Think about temperature, light, electricity",
         "What did you interact with?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "observation"
     },
     {
+      "id": "exercise-4",
       "prompt": "Why do you think physicists divided physics into branches instead of keeping it all as one subject?",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Think about how hard it would be to learn everything at once",
         "Each branch has different tools and rules",
         "Is it easier to be an expert in one area or know a little about everything?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "critical-thinking"
     }
   ]

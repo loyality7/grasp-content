@@ -1,56 +1,63 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Look around wherever you are. Find 3 things happening that need physics to explain them. Maybe a fan spinning, light from a lamp, your own breathing... For each one, write: What's happening? → Why is it happening?",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Look at movement, light, heat, sounds",
         "Ask yourself 'why does that do that?'",
         "You don't need to know the answer—just ask the question"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": [
         "observation",
         "curiosity"
       ]
     },
     {
+      "id": "exercise-2",
       "prompt": "Which one is a physics question you could actually answer?",
       "solution": "",
-      "hints": {},
       "difficulty": "beginner",
       "estimatedMinutes": 2,
+      "hints": {},
       "tags": "definition"
     },
     {
+      "id": "exercise-3",
       "prompt": "A friend says 'Why do we need math in physics? Can't we just describe stuff with words?' How would you answer them? Give one example.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "Think about a ball you throw",
         "Can words tell you exactly where it lands?",
         "What does math let you do that words don't?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": "understanding"
     },
     {
+      "id": "exercise-4",
       "prompt": "Write down: one thing a biologist would study, one thing a chemist would study, one thing a physicist would study. What's different about them?",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Biologists study living things",
         "Chemists study reactions and materials",
         "Physicists study... what exactly?",
         "Think about what each one measures"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "comparison"
     },
     {
+      "id": "exercise-5",
       "prompt": "Take out your phone (or any device). How many different physics ideas make it work? Try to name at least 2 things that need physics.",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Electricity is physics",
         "Light is physics",
@@ -58,8 +65,6 @@
         "Heat is physics",
         "What does your device actually DO?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": [
         "application",
         "technology"

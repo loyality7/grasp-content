@@ -1,27 +1,29 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Tail-to-tail placement",
-        "Complete the parallelogram",
-        "Diagonal is the sum"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "tags": "visualization"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Both give the same vector",
-        "Different geometric approaches"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 4,
-      "tags": "understanding"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Find the dot product of A=(1,0) and B=(0,1)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "Tail-to-tail placement",
+                                        "Complete the parallelogram",
+                                        "Diagonal is the sum"
+                                    ],
+                          "tags":  "visualization"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Calculate A·B where A=(2,3) and B=(4,1)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  4,
+                          "hints":  [
+                                        "Both give the same vector",
+                                        "Different geometric approaches"
+                                    ],
+                          "tags":  "understanding"
+                      }
+                  ]
 }

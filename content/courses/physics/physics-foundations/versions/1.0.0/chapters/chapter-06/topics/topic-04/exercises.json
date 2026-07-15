@@ -1,32 +1,34 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "r = distance from center = 10 ly",
-        "θ = azimuthal angle = 120°",
-        "φ = elevation/polar angle = 30°",
-        "Answer: (10, 120°, 30°)"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "tags": [
-        "3d",
-        "astronomy"
-      ]
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Atoms: spherical symmetry around nucleus",
-        "Planets: orbits are circles, but 3D around sun",
-        "Radiation: spreads equally in all directions—spherical!"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
-      "tags": "comparison"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Transform point (2,3) using rotation matrix 45°. What is the new position?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "r = distance from center = 10 ly",
+                                        "θ = azimuthal angle = 120°",
+                                        "φ = elevation/polar angle = 30°",
+                                        "Answer: (10, 120°, 30°)"
+                                    ],
+                          "tags":  [
+                                       "3d",
+                                       "astronomy"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Rotate vector (1,0) by 90° counterclockwise. Where does it point?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  5,
+                          "hints":  [
+                                        "Atoms: spherical symmetry around nucleus",
+                                        "Planets: orbits are circles, but 3D around sun",
+                                        "Radiation: spreads equally in all directions—spherical!"
+                                    ],
+                          "tags":  "comparison"
+                      }
+                  ]
 }

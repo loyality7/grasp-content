@@ -1,42 +1,45 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Pick a question you're curious about. Then design an experiment to test it. Write down: Question → Prediction → What you'd do → What you'd measure → How you'd analyze results → What you'd conclude.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 10,
       "hints": [
         "Questions can be simple: 'Does heavier paper fall faster?'",
         "Your prediction can be wrong—that's fine",
         "Think about what you can actually test"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 10,
       "tags": [
         "design",
         "experiment"
       ]
     },
     {
+      "id": "exercise-2",
       "prompt": "Read a simple science story. Find the question, prediction, experiment, analysis, and conclusion. Mark each part.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Look for 'I wondered if...'—that's the question",
         "Look for 'I thought...'—that's the prediction",
         "Look for 'I tested by...'—that's the experiment"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "identification"
     },
     {
+      "id": "exercise-3",
       "prompt": "Think of a time your prediction was wrong. Was that a failure or success? Explain.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "Being wrong teaches something",
         "Scientists expect to be wrong sometimes",
         "What did you learn?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": "reflection"
     }
   ]

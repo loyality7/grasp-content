@@ -1,28 +1,30 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "r = √(3² + 4²) = √25 = 5",
-        "θ = arctan(y/x) = arctan(4/3) ≈ 53°",
-        "The point is 5 units away at 53° angle"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
-      "tags": "conversion"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "Circular = polar",
-        "Rectangular/grid = Cartesian",
-        "Spinning = polar"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": "comparison"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Convert point (5,60°) from polar to Cartesian coordinates",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  5,
+                          "hints":  [
+                                        "r = √(3² + 4²) = √25 = 5",
+                                        "θ = arctan(y/x) = arctan(4/3) ≈ 53°",
+                                        "The point is 5 units away at 53° angle"
+                                    ],
+                          "tags":  "conversion"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "What are the polar coordinates of point (3,4)?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  5,
+                          "hints":  [
+                                        "Circular = polar",
+                                        "Rectangular/grid = Cartesian",
+                                        "Spinning = polar"
+                                    ],
+                          "tags":  "comparison"
+                      }
+                  ]
 }

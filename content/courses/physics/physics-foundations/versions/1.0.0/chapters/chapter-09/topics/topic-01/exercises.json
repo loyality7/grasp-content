@@ -1,7 +1,9 @@
 {
   "exercises": [
     {
-      "solution": "See hints and examples for approach.",
+      "id": "exercise-01",
+      "prompt": "What are the SI units of acceleration? Write the units using base units and time.",
+      "solution": "Acceleration is change in velocity per unit time. Since velocity is m/s, acceleration is (m/s)/s = m/s². This shows distance per time squared.",
       "difficulty": "beginner",
       "estimatedMinutes": 2,
       "hints": [
@@ -12,7 +14,9 @@
       "tags": "unit-checking"
     },
     {
-      "solution": "See hints and examples for approach.",
+      "id": "exercise-02",
+      "prompt": "What are the SI units of force? (Hint: force = mass × acceleration)",
+      "solution": "Force = mass × acceleration = kg × (m/s²) = kg·m/s². This combination of units is called a Newton (N).",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
       "hints": [

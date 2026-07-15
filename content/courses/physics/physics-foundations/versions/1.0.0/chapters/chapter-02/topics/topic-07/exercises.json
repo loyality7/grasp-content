@@ -1,27 +1,29 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Which can be added? (1) 10 m + 5 m  (2) 3 s + 7 kg  (3) 20 N + 15 N  (4) 8 m/s + 6 m. Say yes or no.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "Same dimensions = can add",
         "Different dimensions = cannot add",
         "Check if units match"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": "addition-rule"
     },
     {
+      "id": "exercise-2",
       "prompt": "Are these equations dimensionally homogeneous? (1) v = u + at  (2) s = v²t  (3) E = ½mv². Write why or why not.",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Write dimensions on each side",
         "Check if addition/subtraction terms match",
         "Check if left = right dimension"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "homogeneity-check"
     }
   ]

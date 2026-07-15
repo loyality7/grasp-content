@@ -1,38 +1,41 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "For each: mass, velocity, temperature, force, distance, acceleration—say if it's a scalar or vector and why.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Scalar = just a number",
         "Vector = number + direction",
         "Does direction matter for this quantity?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "classification"
     },
     {
+      "id": "exercise-2",
       "prompt": "Write these measurements properly (with units): The table is 2 long. The book weighs 500. The temperature is 25. The car is going 60.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "What would you measure this in?",
         "Meters? Kilograms? Celsius? Kilometers per hour?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": "units"
     },
     {
+      "id": "exercise-3",
       "prompt": "Why is 'the ball is moving at 10' not a complete answer? What's missing?",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "Is it 10 m/s or 10 km/h?",
         "Big difference?",
         "Why would someone need to know the unit?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": "understanding"
     }
   ]

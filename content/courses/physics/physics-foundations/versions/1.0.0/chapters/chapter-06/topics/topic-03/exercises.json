@@ -1,29 +1,31 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "r = distance from axis = 3m",
-        "θ = angle = 120°",
-        "z = height = 5m",
-        "Answer: (3, 120°, 5)"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "tags": "3d-position"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "All have rotation/symmetry around an axis",
-        "Cylindrical handles this naturally",
-        "Cartesian would need complex equations"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 4,
-      "tags": "comparison"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Express point (1,1,1) in spherical coordinates",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  3,
+                          "hints":  [
+                                        "r = distance from axis = 3m",
+                                        "θ = angle = 120°",
+                                        "z = height = 5m",
+                                        "Answer: (3, 120°, 5)"
+                                    ],
+                          "tags":  "3d-position"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Convert spherical (2,45°,60°) to Cartesian",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  4,
+                          "hints":  [
+                                        "All have rotation/symmetry around an axis",
+                                        "Cylindrical handles this naturally",
+                                        "Cartesian would need complex equations"
+                                    ],
+                          "tags":  "comparison"
+                      }
+                  ]
 }

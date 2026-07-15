@@ -2,28 +2,28 @@
   "exercises": [
     {
       "id": "exercise-01",
-      "tags": "judgment",
       "prompt": "Judging Accuracy: A ruler measures a desk as 120 cm. The true length is 119 cm. Is this measurement accurate? Why or why not?",
+      "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "Accuracy = close to true value",
         "How far off is 120 from 119?",
         "Is 1 cm close enough to be 'accurate'?"
       ],
-      "solution": "See hints and examples for approach.",
-      "estimatedMinutes": 3
+      "tags": "judgment"
     },
     {
       "id": "exercise-02",
-      "tags": "understanding",
       "prompt": "Know the True Value: Can you judge if a measurement is accurate if you DON'T know the true value? Explain.",
+      "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "You need something to compare to",
         "Without the true value, what can you compare?"
       ],
-      "solution": "See hints and examples for approach.",
-      "estimatedMinutes": 3
+      "tags": "understanding"
     }
   ]
 }

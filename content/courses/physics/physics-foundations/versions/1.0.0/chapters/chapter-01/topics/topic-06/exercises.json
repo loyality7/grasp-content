@@ -1,42 +1,45 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Take any measuring tool (ruler, scale, thermometer, stopwatch). What's the smallest change it can measure? What's the biggest? Report: 'This [tool] can measure from [min] to [max] with precision of [amount].'",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Look for the smallest markings",
         "Try to read between the lines—can you?",
         "What's one step on the scale?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": [
         "observation",
         "tools"
       ]
     },
     {
+      "id": "exercise-2",
       "prompt": "Measure something (length, mass, time) with the same tool, the same way, twice. Do you get the same answer? Why or why not?",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "Measurements might vary slightly",
         "Why would they vary?",
         "What counts as 'the same'?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "variability"
     },
     {
+      "id": "exercise-3",
       "prompt": "Write how you'd report a measurement properly, including uncertainty. Example: 'The ball's mass is 250g ± 5g (measured with a bathroom scale).'",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Include: the value, the uncertainty, the tool",
         "Why is the uncertainty important?",
         "How did you estimate the uncertainty?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "reporting"
     }
   ]

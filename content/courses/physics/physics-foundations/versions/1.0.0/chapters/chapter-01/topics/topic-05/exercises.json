@@ -1,39 +1,42 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Look at a physics problem. What's being simplified or ignored? For example, we ignore air resistance, ignore the size of objects, ignore friction. Find one model and what it ignores.",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "What details are left out?",
         "Why would leaving them out still work?",
         "When would it NOT work?"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "analysis"
     },
     {
+      "id": "exercise-2",
       "prompt": "Think of a model from physics. When does it stop working? Example: treating air as empty works until speeds get very high.",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
         "Every model has limits",
         "What extreme condition breaks it?",
         "What assumptions does the model make?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
       "tags": "critical-thinking"
     },
     {
+      "id": "exercise-3",
       "prompt": "Make up a simplified model for something you know about. What do you keep? What do you ignore? Why?",
       "solution": "",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "hints": [
         "Models should be simpler than reality",
         "But accurate enough to be useful",
         "What details matter? What can you ignore?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
       "tags": "creation"
     }
   ]

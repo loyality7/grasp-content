@@ -1,8 +1,11 @@
 {
   "exercises": [
     {
+      "id": "exercise-1",
       "prompt": "Match: milli, micro, kilo, mega, giga to 10³, 10⁶, 10⁻³, 10⁻⁶, 10⁹",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
         "milli = thousandth",
         "micro = millionth",
@@ -10,21 +13,20 @@
         "mega = million",
         "giga = billion"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "tags": "memorization"
     },
     {
+      "id": "exercise-2",
       "prompt": "Write as numbers: 5 km = ? m, 20 mm = ? m, 3 μs = ? s, 2 GB = ? bytes",
       "solution": "",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
         "1 km = 1000 m",
         "1 mm = 0.001 m",
         "1 μs = 0.000001 s",
         "1 GB = 1 billion bytes"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
       "tags": "conversion"
     }
   ]

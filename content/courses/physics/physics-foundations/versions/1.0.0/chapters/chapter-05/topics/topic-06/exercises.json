@@ -1,23 +1,25 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": "A·B = Ax*Bx + Ay*By",
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": "calculation"
-    },
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": [
-        "What angle is 90°?",
-        "cos(90°) = 0"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": "understanding"
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Decompose F=(10,0) into components along directions at 30° and 120°",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  "A·B = Ax*Bx + Ay*By",
+                          "tags":  "calculation"
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "If acceleration is 5 m/s² at 45° angle, what are its x and y components?",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  2,
+                          "hints":  [
+                                        "What angle is 90°?",
+                                        "cos(90°) = 0"
+                                    ],
+                          "tags":  "understanding"
+                      }
+                  ]
 }
