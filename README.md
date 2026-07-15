@@ -112,7 +112,7 @@ final response = await http.get(
 | **💡 Concepts** | 13067 |
 | **❓ Quiz Questions** | 26340 |
 | **🃏 Flashcards** | 26401 |
-| **📝 Practice Exercises** | 26140 |
+| **📝 Practice Exercises** | 26157 |
 | **💡 Examples** | 13235 |
 | **🎨 Interactive Canvas Visuals** | 117175 |
 <!-- STATS_END -->
