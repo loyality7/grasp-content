@@ -4,13 +4,13 @@
       "id": "ex-01",
       "prompt": "Solve a problem related to PET Scans.",
       "solution": "Step-by-step solution for PET Scans problem.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "hints": [
         "Start by understanding the core concept",
         "Apply the formula or principle",
         "Check your answer"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
       "tags": [
         "physics",
         "pet-scans"
@@ -20,12 +20,12 @@
       "id": "ex-02",
       "prompt": "Advanced problem: Apply PET Scans to a real-world scenario.",
       "solution": "Detailed solution with explanation.",
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
       "hints": [
         "Consider the practical constraints",
         "Break down the problem into steps"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
       "tags": [
         "physics",
         "pet-scans"

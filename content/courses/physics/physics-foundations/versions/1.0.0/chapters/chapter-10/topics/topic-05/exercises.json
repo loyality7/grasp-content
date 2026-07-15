@@ -1,8 +1,8 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "",
+      "id": "exercise-01",
+      "prompt": "What does it mean to resolve a vector into components?",
       "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
@@ -13,8 +13,8 @@
       "tags": "learning"
     },
     {
-      "id": "exercise-2",
-      "prompt": "",
+      "id": "exercise-02",
+      "prompt": "A force of 10N is at 30° from horizontal. Find horizontal and vertical components.",
       "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,

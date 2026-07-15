@@ -1,8 +1,8 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "",
+      "id": "exercise-01",
+      "prompt": "What is the dot product of vectors (2,3) and (4,5)?",
       "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
@@ -13,8 +13,8 @@
       "tags": "learning"
     },
     {
-      "id": "exercise-2",
-      "prompt": "",
+      "id": "exercise-02",
+      "prompt": "What does a dot product of zero indicate about two vectors?",
       "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,

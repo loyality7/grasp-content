@@ -1,35 +1,35 @@
-{
-  "exercises": [
-    {
-      "id": "exercise-1",
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "tags": [
-        "physics",
-        "position-vector"
-      ]
-    },
-    {
-      "id": "exercise-2",
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "tags": [
-        "physics",
-        "position-vector"
-      ]
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Based on these concepts: understanding the core concept — complete the exercise. (Position Vector)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "intermediate",
+                          "estimatedMinutes":  10,
+                          "hints":  [
+                                        "Start by understanding the core concept",
+                                        "Apply the formula or principle",
+                                        "Check your answer"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "position-vector"
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Based on these concepts: Consider the practical constraints — complete the exercise. (Position Vector)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "advanced",
+                          "estimatedMinutes":  15,
+                          "hints":  [
+                                        "Consider the practical constraints",
+                                        "Break down the problem into steps"
+                                    ],
+                          "tags":  [
+                                       "physics",
+                                       "position-vector"
+                                   ]
+                      }
+                  ]
 }

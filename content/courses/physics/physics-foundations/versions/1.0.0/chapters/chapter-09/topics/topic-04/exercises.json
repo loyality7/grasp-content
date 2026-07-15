@@ -1,8 +1,8 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "",
+      "id": "exercise-01",
+      "prompt": "A ball is dropped from 20m. How long to hit ground? (g=10m/s²)",
       "solution": "See hints and examples for approach.",
       "difficulty": "intermediate",
       "estimatedMinutes": 10,
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "",
+      "id": "exercise-02",
+      "prompt": "What is the ball's velocity just before hitting ground?",
       "solution": "See hints and examples for approach.",
       "difficulty": "advanced",
       "estimatedMinutes": 15,
