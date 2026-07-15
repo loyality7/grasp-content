@@ -2,16 +2,18 @@
   "id": "topic-02",
   "name": "Dimensional Checking",
   "topicId": "physics.physics-foundations.chapter-09.topic-02",
-  "description": "Learn about Dimensional Checking and its applications in physics.",
+  "description": "Using M, L, T symbols to verify equations are correct",
   "content": {
-    "overview": "Dimensional Checking is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Dimensional Checking. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Dimensional Checking requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Dimensional checking uses [M L T] notation to verify equations before you even plug in numbers. It's unit checking's cooler cousin. {{viz:diagram-01}}",
+    "explanation": "Remember from Chapter 2? We use M for mass, L for length, T for time. Dimensional checking is checking these match on both sides of your equation.\n\nExample: Is F = m × a correct? {{viz:diagram-02}}\n\nLeft side: F (force) = [M L T⁻²]\nRight side: m × a = [M] × [L T⁻²] = [M L T⁻²]\n\nThey match! ✓\n\nBut what if someone writes: distance = speed + time?\n\nLeft side: distance = [L]\nRight side: speed + time = [L T⁻¹] + [T] = ???\n\nYou CAN'T add [L T⁻¹] and [T]! Different dimensions. Equation is WRONG. {{viz:anim-01}}\n\nWhy dimensional checking is powerful: {{viz:chart-01}}\n\n- You don't need numbers, just symbols\n- Catches errors instantly\n- Works for ANY equation\n- Forces you to think about what you're calculating\n\nIt's like a spell-checker for physics equations.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Use M, L, T notation (and I, θ, n, J if needed)",
+      "Write both sides in dimensional form",
+      "Check if they match",
+      "Mismatched dimensions = wrong equation",
+      "Matched dimensions = equation is at least plausible"
     ],
-    "whyItMatters": "Dimensional Checking is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Dimensional checking is faster than unit checking because you don't need actual numbers. Use it to verify formulas before you calculate anything."
   },
   "availableLanguages": [
     "en"

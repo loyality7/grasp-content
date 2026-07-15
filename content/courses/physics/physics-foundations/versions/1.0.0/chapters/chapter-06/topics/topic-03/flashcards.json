@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Cylindrical Coordinates (Introduction)?",
-      "back": "Cylindrical Coordinates (Introduction) is a fundamental concept in physics.",
+      "front": "What's cylindrical (r, θ, z)?",
+      "back": "Distance from axis (r), angle around axis (θ), height (z).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Cylindrical Coordinates (Introduction) important?",
-      "back": "Cylindrical Coordinates (Introduction) is essential for understanding Physics Foundations.",
+      "front": "How is cylindrical different from polar?",
+      "back": "Polar is 2D (r, θ). Cylindrical adds z for height—it's 3D.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Best use for cylindrical?",
+      "back": "Rotating or spinning systems. Vortexes, turbines, tops.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Point at (2, 45°, 3) cylindrical means what?",
+      "back": "2m from the central axis, at 45° angle, 3m height.",
       "difficulty": "medium"
     }
   ]

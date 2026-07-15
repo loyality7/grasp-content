@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Cross Product",
-      "content": "A practical example demonstrating Cross Product",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "cross-product"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Torque On Door","content":"Push door perpendicular: Force 10 N, distance 1 m. Torque = 10×1×sin(90°) = 10 N⋅m. Perpendicular push = maximum torque!","source":"Rotational Mechanics","difficulty":"beginner","estimatedMinutes":2,"tags":["torque","cross-product"]},{"id":"example-02","title":"Magnetic Force","content":"Charge moving north at 10 m/s in east-pointing magnetic field 2 T. Force = Q×(v×B) points up (perpendicular to both). Use cross product.","source":"Electromagnetism","difficulty":"intermediate","estimatedMinutes":2,"tags":["magnetic-force","cross-product"]},{"id":"example-03","title":"Angular Momentum","content":"Particle at position (1,0,0) with momentum (0,1,0). L = r×p gives (0,0,1). Perpendicular product measures rotation.","source":"Mechanics","difficulty":"intermediate","estimatedMinutes":2,"tags":["angular-momentum"]}]}

@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Models in Physics?",
-      "back": "Models in Physics is a fundamental concept in physics.",
+      "front": "What's a model in physics?",
+      "back": "A simplified version of reality that helps us understand and predict. Not 100% accurate, but good enough to work.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Models in Physics important?",
-      "back": "Models in Physics is essential for understanding Physics Foundations.",
+      "front": "Why do physicists use models instead of studying reality exactly?",
+      "back": "Reality is too complicated. Models simplify it so we can calculate and understand what matters.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Does a model have to be perfect?",
+      "back": "No. A model just needs to be accurate enough for the situation. Different situations need different models.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What does it mean when a model 'breaks'?",
+      "back": "It stops being accurate. Usually happens when conditions change (temperature, speed, size). Time for a new model!",
       "difficulty": "medium"
     }
   ]

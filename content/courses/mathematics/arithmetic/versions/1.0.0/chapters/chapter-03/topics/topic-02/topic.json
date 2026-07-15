@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Subtraction",
   "topicId": "mathematics.arithmetic.chapter-03.topic-02",
-  "description": "Learn about Subtraction and its applications in mathematics.",
+  "description": "Learn about the concept of subtraction, its terms (minuend, subtrahend, difference), its non-commutative nature, and multi-digit subtraction with borrowing.",
   "content": {
-    "overview": "Subtraction is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Subtraction. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Subtraction requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Subtraction is the mathematical process of taking one quantity away from another to find the difference between them. It is the direct inverse (opposite) operation of addition.",
+    "explanation": "### What is Subtraction?\n\nIf you have 5 apples and eat 2, you are taking 2 apples away from your initial group, leaving you with 3. \n\nWe write this as:\n\n$$5 - 2 = 3$$\n\nIn subtraction, each term has a specific name:\n1. **Minuend**: The starting quantity from which another is subtracted.\n2. **Subtrahend**: The quantity being subtracted (taken away).\n3. **Difference**: The result of the subtraction.\n\n{{viz:formula-01}}\n\n### Inverse of Addition\n\nSubtraction is the inverse of addition. This means that every subtraction equation has a corresponding addition equation using the same numbers:\n\n$$a - b = c \\quad \\Longleftrightarrow \\quad c + b = a$$\n\n*Example*: $10 - 7 = 3$ is true because $3 + 7 = 10$.\n\n### Key Properties of Subtraction\n\nUnlike addition, subtraction is much more restrictive:\n\n1. **Not Commutative**: Changing the order of the numbers changes the result. For any distinct numbers $a$ and $b$:\n   $$a - b \\neq b - a$$\n   *Example*: $8 - 3 = 5$, but $3 - 8 = -5$.\n\n2. **Not Associative**: Changing the grouping of subtraction changes the result:\n   $$(a - b) - c \\neq a - (b - c)$$\n   *Example*: $(10 - 4) - 2 = 6 - 2 = 4$, but $10 - (4 - 2) = 10 - 2 = 8$.\n\n3. **Identity of Subtraction**: Subtracting zero from a number leaves it unchanged, but subtracting a number from zero yields its negative:\n   $$a - 0 = a \\quad \\text{but} \\quad 0 - a = -a$$\n\n### Visualizing Subtraction on a Number Line\n\nTo subtract $a - b$ on a number line:\n1. Start at the minuend $a$.\n2. Move $b$ units to the **left**.\n3. The point where you land is the difference.\n\n{{viz:anim-01}}\n\n### Multi-Digit Subtraction with Borrowing (Regrouping)\n\nWhen subtracting larger numbers, we line them up vertically. If a digit in the top number (minuend) is smaller than the digit directly below it in the bottom number (subtrahend), we must **borrow** (or regroup) from the next place value column to the left.\n\n**Example: Subtract $623 - 478$**\n\n1. **Ones column**: Subtract $3 - 8$. Since $3 < 8$, we must borrow from the tens column.\n   - Borrow 1 ten from 2 tens, leaving **1** ten.\n   - Add this 1 ten (10 ones) to 3 ones, making it **13** ones.\n   - Now, $13 - 8 = 5$.\n2. **Tens column**: Subtract $1 - 7$. Since $1 < 7$, we must borrow from the hundreds column.\n   - Borrow 1 hundred from 6 hundreds, leaving **5** hundreds.\n   - Add this 1 hundred (10 tens) to the remaining 1 ten, making it **11** tens.\n   - Now, $11 - 7 = 4$.\n3. **Hundreds column**: Subtract $5 - 4 = 1$.\n\n$$\\begin{array}{r@{\\quad}l} \\text{Regrouped:} & \\color{red}{5\\,\\,11\\,\\,13} \\\\ & \\cancel{6}\\,\\cancel{2}\\,\\cancel{3} \\\\ - & 4\\,7\\,8 \\\\ \\hline & 1\\,4\\,5 \\end{array}$$\n\nThus, $623 - 478 = 145$.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Subtraction takes a subtrahend away from a minuend to find the difference.",
+      "Subtraction is the inverse of addition: $a - b = c$ means $c + b = a$.",
+      "Subtraction is not commutative ($a - b \\neq b - a$) and not associative.",
+      "Vertical subtraction requires borrowing (regrouping) when a digit in the minuend is smaller than the digit in the subtrahend."
     ],
-    "whyItMatters": "Subtraction is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Subtraction is essential for calculating change during purchases, determining distance remaining, comparing sizes or heights, and tracking balance. In higher mathematics, it introduces the concept of negative numbers."
   },
   "availableLanguages": [
     "en"

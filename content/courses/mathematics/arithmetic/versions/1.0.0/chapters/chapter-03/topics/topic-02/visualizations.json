@@ -1,154 +1,39 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Subtraction Flowchart",
-      "description": "Flowchart showing Subtraction process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Subtraction",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Subtraction Formula",
-      "description": "Mathematical definition",
+      "title": "Anatomy of Subtraction",
+      "description": "The parts of a subtraction equation: minuend, subtrahend, and difference.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "a - b = c",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "a",
+            "explanation": "Minuend: The starting quantity from which you subtract."
+          },
+          {
+            "latex": "-",
+            "explanation": "Minus Sign: The symbol representing the operation of subtraction."
+          },
+          {
+            "latex": "b",
+            "explanation": "Subtrahend: The quantity being subtracted or taken away."
+          },
+          {
+            "latex": "c",
+            "explanation": "Difference: The final result showing what remains."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Subtraction 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Subtraction Animation",
-      "description": "Canvas animation",
+      "title": "Interactive Number Line Subtraction (7 - 3 = 4)",
+      "description": "Visualizing subtraction as moving steps to the left on a number line.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Subtraction Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Subtraction.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Subtraction Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Subtraction Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Subtraction",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var centerY = H / 2 + 10;\n    var padding = 60;\n    var maxVal = 10;\n    var spacing = (W - padding * 2) / maxVal;\n    \n    function getX(val) {\n      return padding + val * spacing;\n    }\n\n    // Draw Number Line axis\n    ctx.strokeStyle = '#4B5563';\n    ctx.lineWidth = 3;\n    ctx.beginPath();\n    ctx.moveTo(padding - 20, centerY);\n    ctx.lineTo(W - padding + 20, centerY);\n    ctx.stroke();\n\n    // Draw ticks and labels\n    for (var i = 0; i <= maxVal; i++) {\n      var tx = getX(i);\n      ctx.strokeStyle = '#4B5563';\n      ctx.lineWidth = 2;\n      ctx.beginPath();\n      ctx.moveTo(tx, centerY - 8);\n      ctx.lineTo(tx, centerY + 8);\n      ctx.stroke();\n\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '12px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.fillText(i.toString(), tx, centerY + 25);\n    }\n\n    // Animation phases (cycle repeats every 8 seconds)\n    var totalDuration = 8000;\n    var progress = (t % totalDuration) / totalDuration;\n    \n    var phase1End = 0.35; // 0.0 to 0.35: Jump to minuend (0 -> 7)\n    var phase2End = 0.70; // 0.35 to 0.70: Subtract subtrahend (7 -> 4)\n    var phase3End = 0.95; // 0.70 to 0.95: Show result and pulse\n\n    // Jump 1: 0 to 7\n    if (progress > 0) {\n      var t1 = Math.min(progress / phase1End, 1.0);\n      var val1 = 7 * t1;\n      var startX = getX(0);\n      var endX = getX(val1);\n\n      // Draw arc\n      ctx.strokeStyle = '#3B82F6';\n      ctx.lineWidth = 4;\n      ctx.beginPath();\n      ctx.moveTo(startX, centerY);\n      for (var x = startX; x <= endX; x++) {\n        var ratio = (x - startX) / (getX(7) - startX);\n        var arcY = centerY - Math.sin(ratio * Math.PI) * 55;\n        ctx.lineTo(x, arcY);\n      }\n      ctx.stroke();\n\n      // Minuend Label\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = 'bold 16px -apple-system, sans-serif';\n      ctx.fillText('7', getX(3.5), centerY - 65);\n    }\n\n    // Jump 2: 7 to 4 (going left)\n    if (progress > phase1End) {\n      var t2 = Math.min((progress - phase1End) / (phase2End - phase1End), 1.0);\n      var val2 = 7 - 3 * t2;\n      var startX2 = getX(7);\n      var endX2 = getX(val2);\n\n      ctx.strokeStyle = '#EF4444';\n      ctx.lineWidth = 4;\n      ctx.beginPath();\n      ctx.moveTo(startX2, centerY);\n      \n      // Draw arc from right to left\n      if (startX2 > endX2) {\n        for (var x2 = startX2; x2 >= endX2; x2--) {\n          var ratio2 = (startX2 - x2) / (startX2 - getX(4));\n          var arcY2 = centerY - Math.sin(ratio2 * Math.PI) * 35;\n          ctx.lineTo(x2, arcY2);\n        }\n      }\n      ctx.stroke();\n\n      // Subtrahend Label\n      ctx.fillStyle = '#F87171';\n      ctx.font = 'bold 16px -apple-system, sans-serif';\n      ctx.fillText('-3', getX(5.5), centerY - 45);\n    }\n\n    // Pulse at target and draw final equation\n    if (progress > phase2End) {\n      var t3 = (progress - phase2End) / (phase3End - phase2End);\n      var pulseRadius = 10 + Math.sin(t * 0.015) * 4;\n\n      ctx.fillStyle = '#10B981';\n      ctx.beginPath();\n      ctx.arc(getX(4), centerY, pulseRadius, 0, Math.PI * 2);\n      ctx.fill();\n\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 20px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.fillText('7 - 3 = 4', W / 2, centerY - 90);\n    } else {\n      // Active indicator dot at current head\n      var currentVal = 0;\n      if (progress <= phase1End) {\n        currentVal = 7 * (progress / phase1End);\n      } else {\n        currentVal = 7 - 3 * Math.min((progress - phase1End) / (phase2End - phase1End), 1.0);\n      }\n      ctx.fillStyle = '#FBBF24';\n      ctx.beginPath();\n      ctx.arc(getX(currentVal), centerY, 8, 0, Math.PI * 2);\n      ctx.fill();\n    }\n  }\n};\n"
       }
     }
   ]

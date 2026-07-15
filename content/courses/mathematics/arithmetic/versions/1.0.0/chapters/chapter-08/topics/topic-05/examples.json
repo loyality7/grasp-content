@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Direct Proportion",
-      "content": "A practical example demonstrating Direct Proportion",
-      "source": "Generated",
+      "title": "Solving Direct Proportion with Unit Method",
+      "content": "If **$4$ notebooks** cost **$8$ dollars**, how much will **$12$ notebooks** cost?\n\n### Step-by-Step Solution\n\n#### Method 1: Finding the unit rate (constant k)\n1.  Find the cost of $1$ notebook:\n    $$\\text{Unit Price} = \\frac{8 \\text{ dollars}}{4 \\text{ notebooks}} = 2 \\text{ dollars per notebook}$$\n    So, the constant of proportionality is $k = 2$.\n2.  Multiply by the new number of notebooks ($12$):\n    $$\\text{Cost} = 2 \\text{ dollars/notebook} \\times 12 \\text{ notebooks} = 24 \\text{ dollars}$$\n\n#### Method 2: Setting up a proportion\n1.  Write the ratio of cost to quantity as equal fractions:\n    $$\\frac{8}{4} = \\frac{\\text{Cost}}{12}$$\n2.  Solve for the unknown cost using cross-multiplication:\n    $$4 \\times \\text{Cost} = 8 \\times 12$$\n    $$4 \\times \\text{Cost} = 96$$\n    $$\\text{Cost} = \\frac{96}{4} = 24 \\text{ dollars}$$\n\n**Answer**: **$24$ dollars**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "direct-proportion"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Direct Proportion", "Unit Rate", "Word Problems"]
+    },
+    {
+      "id": "example-02",
+      "title": "Finding the Constant of Proportionality",
+      "content": "In a direct variation relationship, **$y = 15$** when **$x = 3$**.\n1.  Find the constant of proportionality **$k$**.\n2.  Find the value of **$y$** when **$x = 10$**.\n\n### Step-by-Step Solution\n\n1.  **Find the constant $k$**:\n    Since $y$ is directly proportional to $x$, we use the formula:\n    $$y = k \\cdot x \\implies k = \\frac{y}{x}$$\n    Substitute the given values:\n    $$k = \\frac{15}{3} = 5$$\n    The constant of proportionality is **$5$**.\n\n2.  **Find $y$ when $x = 10$**:\n    Use the equation with $k = 5$:\n    $$y = 5x$$\n    Substitute $x = 10$:\n    $$y = 5 \\times 10 = 50$$\n\n**Answer**:\n1.  $k = 5$\n2.  $y = 50$",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Direct Variation", "Constant of Proportionality"]
     }
   ]
 }

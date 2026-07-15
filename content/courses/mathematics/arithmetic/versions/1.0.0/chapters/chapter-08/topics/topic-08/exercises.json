@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Scale.",
-      "solution": "Step-by-step solution for Scale problem.",
+      "prompt": "If **$15$ identical books** weigh **$30$ kilograms**, how much do **$12$ of these books** weigh?",
+      "solution": "1. **Find the weight of 1 book (Unit Value)**:\n   Divide the total weight by the quantity:\n   $$\\text{Weight of 1 book} = 30 \\text{ kg} \\div 15 = 2 \\text{ kg per book}$$\n2. **Multiply by the desired quantity (12 books)**:\n   $$\\text{Weight of 12 books} = 2 \\text{ kg/book} \\times 12 = 24 \\text{ kg}$$\n\n**Answer**: **$24$ kilograms**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First find the weight of a single book by dividing 30 kg by the 15 books.",
+        "Multiply that single book's weight (2 kg) by the target amount of 12 books."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "scale"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unitary Method", "Word Problems"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Scale to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A factory worker can assemble **$45$ electronic components** in **$9$ hours**. At this exact rate, how many components can the worker assemble during a standard **$40\\text{-hour}$ work week**?",
+      "solution": "1. **Find components assembled in 1 hour (Unit Rate)**:\n   $$\\text{Rate per hour} = \\frac{45 \\text{ components}}{9 \\text{ hours}} = 5 \\text{ components per hour}$$\n2. **Multiply by the target number of hours (40)**:\n   $$\\text{Total components} = 5 \\text{ components/hour} \\times 40 \\text{ hours} = 200 \\text{ components}$$\n\n**Answer**: The worker can assemble **$200$ components**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Determine the worker's hourly assembly rate by dividing 45 components by 9 hours.",
+        "Multiply that rate (5 per hour) by the total number of hours in the work week (40)."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "scale"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unitary Method", "Productivity"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "If **$25$ meters of copper wire** cost **$75$ dollars**, how much will **$15$ meters** of the same wire cost?",
+      "solution": "1. **Find the cost of 1 meter of wire (Unit Price)**:\n   Divide total cost by total meters:\n   $$\\text{Cost per meter} = \\frac{75 \\text{ dollars}}{25 \\text{ meters}} = 3 \\text{ dollars per meter}$$\n2. **Multiply by the desired length (15 meters)**:\n   $$\\text{Cost of 15 meters} = 3 \\text{ dollars/meter} \\times 15 = 45 \\text{ dollars}$$\n\n**Answer**: **$45$ dollars**.",
+      "hints": [
+        "First calculate the cost of a single meter of wire by dividing $75 by 25 meters.",
+        "Multiply that unit cost ($3 per meter) by the required length of 15 meters."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unitary Method", "Cost Calculation"]
     }
   ]
 }

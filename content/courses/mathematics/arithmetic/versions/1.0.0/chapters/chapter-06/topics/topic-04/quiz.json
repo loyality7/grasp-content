@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Adding Decimals?",
+      "question": "What is the most critical first step when adding decimals vertically?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Align the rightmost digits.",
+        "Align the decimal points vertically.",
+        "Add trailing zeros to the front of the numbers.",
+        "Round both numbers to the nearest whole number."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Aligning decimal points ensures that digits of the same place value (e.g. tenths to tenths) are correctly grouped for addition.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Adding Decimals is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Calculate the sum: $4.5 + 2.75$",
       "options": [
-        "True",
-        "False"
+        "3.20",
+        "7.25",
+        "6.12",
+        "6.80"
       ],
       "correctIndex": 1,
-      "explanation": "Adding Decimals has many practical applications.",
+      "explanation": "Write $4.5$ as $4.50$. Then add vertically: $4.50 + 2.75 = 7.25$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is $0.09 + 0.8$?",
+      "options": [
+        "0.17",
+        "0.89",
+        "0.089",
+        "1.7"
+      ],
+      "correctIndex": 1,
+      "explanation": "Write $0.8$ as $0.80$. Adding vertically gives: $0.09 + 0.80 = 0.89$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Solve the addition: $15 + 3.25$",
+      "options": [
+        "4.75",
+        "18.25",
+        "15.325",
+        "15.25"
+      ],
+      "correctIndex": 1,
+      "explanation": "Write the whole number 15 as $15.00$. Align and add: $15.00 + 3.25 = 18.25$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Calculate: $1.345 + 2.655$",
+      "options": [
+        "4.000 (or 4)",
+        "3.990",
+        "3.000",
+        "4.010"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adding thousandths: $5+5=10$ (carry 1). Hundredths: $4+5+1=10$ (carry 1). Tenths: $3+6+1=10$ (carry 1). Ones: $1+2+1=4$. Total is $4.000$, which is exactly 4.",
+      "difficulty": "medium"
     }
   ]
 }

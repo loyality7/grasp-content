@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Measurement & Observation",
-      "content": "A practical example demonstrating Measurement & Observation",
-      "source": "Generated",
+      "title": "Measuring Temperature",
+      "content": "You measure water temperature with a thermometer. It reads 25°C. But is it exactly 25.000...? Probably not. Thermometers have limits—they might only read to 0.5°C precision. Your measurement is 25°C ± 0.5°C. That's acknowledging uncertainty.",
+      "source": "Thermodynamics",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "measurement-observation"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["measurement", "uncertainty"]
+    },
+    {
+      "id": "example-02",
+      "title": "Weighing an Object",
+      "content": "A scale says the book weighs 500g. But a better scale says 497g. Which is accurate? Maybe the true weight is 497.3g. Different tools have different precision. Knowing tool limits matters!",
+      "source": "Measurement",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["precision", "accuracy"]
+    },
+    {
+      "id": "example-03",
+      "title": "Reaction Time Error",
+      "content": "You measure how long a ball takes to fall using a stopwatch. But your reaction time isn't perfect. You start/stop a bit late. This adds error. A good scientist would mention: 'Time = 2.1 seconds (±0.2 seconds reaction time).'",
+      "source": "Kinematics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["human-error", "uncertainty"]
     }
   ]
 }

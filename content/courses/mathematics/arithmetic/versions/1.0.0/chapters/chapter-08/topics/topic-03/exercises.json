@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Simplifying Ratios.",
-      "solution": "Step-by-step solution for Simplifying Ratios problem.",
+      "prompt": "Simplify the ratio **$40:64$** to its simplest form.",
+      "solution": "1. **Find the Greatest Common Divisor (GCD) of 40 and 64**:\n   - Let's list the factors of 40: 1, 2, 4, 5, 8, 10, **16** is not (wait, 40/16 is not an integer. Let's write the factors of 40: 1, 2, 4, 5, 8, 10, 20, 40).\n   - Factors of 64: 1, 2, 4, 8, 16, 32, 64.\n   - The Greatest Common Divisor is **$8$**.\n2. **Divide both terms by 8**:\n   $$(40 \\div 8) : (64 \\div 8) = 5 : 8$$\n\n**Answer**: **$5:8$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Divide both numbers by a common factor. Since both are even, you can start by dividing by 2 or 4.",
+        "The largest common divisor is 8. Dividing both terms by 8 simplifies the ratio in a single step."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "simplifying-ratios"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios", "Simplification"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Simplifying Ratios to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Express the fractional ratio **$\\frac{2}{3} : \\frac{3}{4}$** as a simplified ratio of whole numbers.",
+      "solution": "1. **Find the Least Common Denominator (LCD)**:\n   The denominators are $3$ and $4$. The LCD is $12$.\n2. **Multiply both fractions by the LCD (12)** to eliminate the denominators:\n   $$\\text{First term} = \\frac{2}{3} \\times 12 = 8$$\n   $$\\text{Second term} = \\frac{3}{4} \\times 12 = 9$$\n3. **Form the whole-number ratio**:\n   $$8 : 9$$\n4. **Check if it can be simplified further**:\n   The GCD of $8$ and $9$ is $1$, so it is already in simplest form.\n\n**Answer**: **$8:9$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Find the Least Common Multiple (LCM) of the denominators 3 and 4, which is 12.",
+        "Multiply both terms of the ratio by 12 to convert them to whole numbers."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "simplifying-ratios"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Ratios", "Fractions", "Simplification"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A jewelry box contains **$15$ gold rings** and **$25$ silver rings**. Express the ratio of gold rings to silver rings in simplest form.",
+      "solution": "1. **Form the initial ratio**:\n   - Gold rings (first term) = $15$\n   - Silver rings (second term) = $25$\n   - Ratio = $15 : 25$\n2. **Simplify**:\n   Divide both terms by their common factor of $5$:\n   $$(15 \\div 5) : (25 \\div 5) = 3 : 5$$\n\n**Answer**: **$3:5$**.",
+      "hints": [
+        "Write the initial ratio comparing gold (15) to silver (25).",
+        "Divide both numbers by their Greatest Common Divisor, which is 5."
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios", "Simplification", "Word Problems"]
     }
   ]
 }

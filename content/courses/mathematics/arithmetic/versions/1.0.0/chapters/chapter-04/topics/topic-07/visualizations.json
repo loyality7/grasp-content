@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Least Common Multiple (LCM) Flowchart",
-      "description": "Flowchart showing Least Common Multiple (LCM) process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Least Common Multiple (LCM)",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Least Common Multiple (LCM) Formula",
-      "description": "Mathematical definition",
+      "title": "Least Common Multiple Definition",
+      "description": "The smallest positive integer that is a multiple of both numbers.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{LCM}(a, b) = \\min \\left( \\text{Multiples}(a) \\cap \\text{Multiples}(b) \\right)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\text{Multiples}(a) \\cap \\text{Multiples}(b)",
+            "explanation": "Intersection: The set of positive numbers that are multiples of both a and b."
+          },
+          {
+            "latex": "\\min",
+            "explanation": "Minimum: Selecting the smallest positive element in that shared set."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Least Common Multiple (LCM) 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Least Common Multiple (LCM) Animation",
-      "description": "Canvas animation",
+      "title": "LCM Hop Alignment (4 vs 6)",
+      "description": "Watch jumps of 4 (top) and jumps of 6 (bottom) align at the number 12, demonstrating the Least Common Multiple.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Least Common Multiple (LCM) Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Least Common Multiple (LCM).",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Least Common Multiple (LCM) Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Least Common Multiple (LCM) Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Least Common Multiple (LCM)",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var centerY1 = H / 2 - 25;\n    var centerY2 = H / 2 + 35;\n    var padding = 40;\n    var maxVal = 16;\n    var spacing = (W - padding * 2) / maxVal;\n\n    function getX(val) {\n      return padding + val * spacing;\n    }\n\n    // Draw Number Lines\n    function drawLine(y, label, valStep, color) {\n      ctx.strokeStyle = '#4B5563';\n      ctx.lineWidth = 2;\n      ctx.beginPath();\n      ctx.moveTo(padding - 10, y);\n      ctx.lineTo(W - padding + 10, y);\n      ctx.stroke();\n\n      // Labels and ticks\n      for (var i = 0; i <= maxVal; i++) {\n        var tx = getX(i);\n        var isKey = (i > 0 && i % valStep === 0);\n        \n        ctx.strokeStyle = isKey ? color : '#374151';\n        ctx.beginPath();\n        ctx.moveTo(tx, y - 4);\n        ctx.lineTo(tx, y + 4);\n        ctx.stroke();\n\n        ctx.fillStyle = isKey ? color : '#6B7280';\n        ctx.font = '10px -apple-system, sans-serif';\n        ctx.textAlign = 'center';\n        ctx.fillText(i.toString(), tx, y + 15);\n      }\n\n      // Axis label\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = 'bold 11px -apple-system, sans-serif';\n      ctx.textAlign = 'left';\n      ctx.fillText(label, 15, y - 10);\n    }\n\n    drawLine(centerY1, 'Jumps of 4 (Multiples)', 4, '#60A5FA');\n    drawLine(centerY2, 'Jumps of 6 (Multiples)', 6, '#EC4899');\n\n    // Animation timing (8s cycle)\n    var duration = 8000;\n    var progress = (t % duration) / duration;\n\n    var hopDuration = 0.15;\n    // Line 1 hops (4 hops to reach 16)\n    for (var h1 = 0; h1 < 4; h1++) {\n      var startT1 = h1 * hopDuration;\n      var endT1 = (h1 + 1) * hopDuration;\n      if (progress > startT1) {\n        var p = Math.min(1.0, (progress - startT1) / hopDuration);\n        var x1 = getX(h1 * 4);\n        var targetVal = h1 * 4 + 4 * p;\n        var curX1 = getX(targetVal);\n\n        ctx.strokeStyle = '#60A5FA';\n        ctx.lineWidth = 3;\n        ctx.beginPath();\n        ctx.moveTo(x1, centerY1);\n        var fullEndX = getX(h1 * 4 + 4);\n        for (var x = x1; x <= curX1; x++) {\n          var ratio = (x - x1) / (fullEndX - x1);\n          ctx.lineTo(x, centerY1 - Math.sin(ratio * Math.PI) * 20);\n        }\n        ctx.stroke();\n      }\n    }\n\n    // Line 2 hops (2.6 hops to reach 16, i.e., 3 hops to 18 (extends off graph slightly))\n    for (var h2 = 0; h2 < 3; h2++) {\n      var startT2 = h2 * hopDuration;\n      var endT2 = (h2 + 1) * hopDuration;\n      if (progress > startT2) {\n        var p2 = Math.min(1.0, (progress - startT2) / hopDuration);\n        var x2 = getX(h2 * 6);\n        var targetVal2 = h2 * 6 + 6 * p2;\n        var curX2 = getX(Math.min(maxVal, targetVal2));\n\n        ctx.strokeStyle = '#EC4899';\n        ctx.lineWidth = 3;\n        ctx.beginPath();\n        ctx.moveTo(x2, centerY2);\n        var fullEndX2 = getX(h2 * 6 + 6);\n        var drawLimit = Math.min(curX2, W - padding);\n        for (var xx = x2; xx <= drawLimit; xx++) {\n          var ratio2 = (xx - x2) / (fullEndX2 - x2);\n          ctx.lineTo(xx, centerY2 - Math.sin(ratio2 * Math.PI) * 22);\n        }\n        ctx.stroke();\n      }\n    }\n\n    // Vertical alignment line at 12\n    if (progress > 0.50) {\n      ctx.strokeStyle = '#10B981';\n      ctx.lineWidth = 2.5;\n      ctx.setLineDash([4, 4]);\n      ctx.beginPath();\n      ctx.moveTo(getX(12), centerY1);\n      ctx.lineTo(getX(12), centerY2);\n      ctx.stroke();\n      ctx.setLineDash([]);\n\n      // Draw alignment targets\n      var pulse = Math.sin(t * 0.015) * 2;\n      ctx.fillStyle = '#F59E0B';\n      ctx.beginPath();\n      ctx.arc(getX(12), centerY1, 6 + pulse, 0, Math.PI * 2);\n      ctx.arc(getX(12), centerY2, 6 + pulse, 0, Math.PI * 2);\n      ctx.fill();\n\n      // Label\n      ctx.fillStyle = '#34D399';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.fillText('LCM(4, 6) = 12', W / 2, centerY1 - 35);\n    } else {\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '13px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.fillText('Finding the first common multiple...', W / 2, centerY1 - 35);\n    }\n  }\n};\n"
       }
     }
   ]

@@ -1,154 +1,39 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Positive & Negative Numbers Flowchart",
-      "description": "Flowchart showing Positive & Negative Numbers process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Positive & Negative Numbers",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Positive & Negative Numbers Formula",
-      "description": "Mathematical definition",
+      "title": "Set of Integers",
+      "description": "Mathematical representation of integers extending to infinity in both directions.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\mathbb{Z} = \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\mathbb{Z}",
+            "explanation": "The symbol representing the set of all integers (from the German word 'Zahlen', meaning numbers)."
+          },
+          {
+            "latex": "\\{-3, -2, -1\\}",
+            "explanation": "Negative integers, which are less than zero."
+          },
+          {
+            "latex": "0",
+            "explanation": "Zero, which sits in the middle and is neutral."
+          },
+          {
+            "latex": "\\{1, 2, 3\\}",
+            "explanation": "Positive integers, which are greater than zero."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Positive & Negative Numbers 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Positive & Negative Numbers Animation",
-      "description": "Canvas animation",
+      "title": "Integers on the Number Line",
+      "description": "Visualize integers on a horizontal axis, showing positive numbers, negative numbers, zero, and comparisons.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Positive & Negative Numbers Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Positive & Negative Numbers.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Positive & Negative Numbers Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Positive & Negative Numbers Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Positive & Negative Numbers",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.25 && progress < 0.50) stage = 2;\n    else if (progress >= 0.50 && progress < 0.75) stage = 3;\n    else if (progress >= 0.75) stage = 4;\n\n    var midY = H / 2 - 20;\n    var midX = W / 2;\n    var step = (W - 40) / 10; // spacing between numbers\n\n    // Draw main axis line\n    ctx.strokeStyle = '#4B5563';\n    ctx.lineWidth = 2;\n    ctx.beginPath();\n    ctx.moveTo(20, midY);\n    ctx.lineTo(W - 20, midY);\n    ctx.stroke();\n\n    // Draw arrows at ends\n    ctx.fillStyle = '#4B5563';\n    ctx.beginPath();\n    ctx.moveTo(15, midY);\n    ctx.lineTo(25, midY - 5);\n    ctx.lineTo(25, midY + 5);\n    ctx.closePath();\n    ctx.fill();\n\n    ctx.beginPath();\n    ctx.moveTo(W - 15, midY);\n    ctx.lineTo(W - 25, midY - 5);\n    ctx.lineTo(W - 25, midY + 5);\n    ctx.closePath();\n    ctx.fill();\n\n    // Draw tick marks and numbers (-5 to 5)\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'top';\n    ctx.font = '12px monospace';\n\n    for (var i = -5; i <= 5; i++) {\n      var tx = midX + i * step;\n      \n      // Tick mark\n      ctx.strokeStyle = '#4B5563';\n      ctx.lineWidth = 1.5;\n      ctx.beginPath();\n      ctx.moveTo(tx, midY - 4);\n      ctx.lineTo(tx, midY + 4);\n      ctx.stroke();\n\n      // Highlight colors according to stage\n      if (stage === 1 && i > 0) {\n        ctx.fillStyle = '#60A5FA'; // Highlight positive\n      } else if (stage === 2 && i < 0) {\n        ctx.fillStyle = '#EF4444'; // Highlight negative\n      } else if (stage === 3 && i === 0) {\n        ctx.fillStyle = '#34D399'; // Highlight zero\n      } else if (stage === 4 && (i === -4 || i === -1)) {\n        ctx.fillStyle = i === -1 ? '#34D399' : '#EF4444'; // Highlight comparison points\n      } else {\n        ctx.fillStyle = '#9CA3AF'; // Standard gray\n      }\n\n      ctx.fillText(i.toString(), tx, midY + 8);\n    }\n\n    // Stage overlays\n    if (stage === 1) {\n      // Positive numbers highlighted on axis\n      ctx.strokeStyle = 'rgba(96, 165, 250, 0.4)';\n      ctx.lineWidth = 8;\n      ctx.beginPath();\n      ctx.moveTo(midX + 2, midY);\n      ctx.lineTo(W - 30, midY);\n      ctx.stroke();\n    } else if (stage === 2) {\n      // Negative numbers highlighted on axis\n      ctx.strokeStyle = 'rgba(239, 68, 68, 0.4)';\n      ctx.lineWidth = 8;\n      ctx.beginPath();\n      ctx.moveTo(midX - 2, midY);\n      ctx.lineTo(30, midY);\n      ctx.stroke();\n    } else if (stage === 3) {\n      // Zero highlighted\n      ctx.strokeStyle = '#34D399';\n      ctx.fillStyle = 'rgba(52, 211, 153, 0.3)';\n      ctx.beginPath();\n      ctx.arc(midX, midY, 12, 0, Math.PI * 2);\n      ctx.fill();\n      ctx.stroke();\n    } else if (stage === 4) {\n      // Draw comparison marker rings\n      var x_4 = midX - 4 * step;\n      var x_1 = midX - 1 * step;\n      \n      ctx.strokeStyle = '#EF4444';\n      ctx.beginPath();\n      ctx.arc(x_4, midY, 6, 0, Math.PI * 2);\n      ctx.stroke();\n\n      ctx.strokeStyle = '#34D399';\n      ctx.beginPath();\n      ctx.arc(x_1, midY, 6, 0, Math.PI * 2);\n      ctx.stroke();\n\n      // Draw comparison curve\n      ctx.strokeStyle = '#FBBF24';\n      ctx.lineWidth = 1.5;\n      ctx.beginPath();\n      ctx.arc((x_4 + x_1) / 2, midY - 2, (x_1 - x_4) / 2, Math.PI, 0);\n      ctx.stroke();\n      \n      // Arrow tip pointing right (towards -1)\n      ctx.fillStyle = '#FBBF24';\n      ctx.beginPath();\n      ctx.moveTo(x_1 - 2, midY - 5);\n      ctx.lineTo(x_1 + 3, midY - 2);\n      ctx.lineTo(x_1 - 2, midY + 1);\n      ctx.fill();\n    }\n\n    // Bottom text explanations\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (stage === 1) {\n      ctx.fillText('Positive Integers', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Numbers strictly greater than zero, lying to the right of zero.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#F87171';\n      ctx.fillText('Negative Integers', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Numbers strictly less than zero, lying to the left of zero.', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#34D399';\n      ctx.fillText('Zero: Neutral Center', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Zero is a whole number, but it is neither positive nor negative.', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('Comparing Negatives: -1 > -4', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('-1 is warmer than -4 and lies further to the right, so it is larger.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

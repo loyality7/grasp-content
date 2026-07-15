@@ -2,18 +2,19 @@
   "id": "topic-01",
   "name": "Vector Addition",
   "topicId": "physics.physics-foundations.chapter-05.topic-01",
-  "description": "Learn about Vector Addition and its applications in physics.",
+  "description": "How to add vectors together—combining direction and magnitude",
   "content": {
-    "overview": "Vector Addition is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Vector Addition. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Vector Addition requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "When you add vectors, you can't just add the numbers like normal. Direction matters! 5 km north + 3 km west ≠ 8 km anywhere. You have to account for direction. {{viz:diagram-01}}",
+    "explanation": "Here's the key: vectors have both magnitude and direction. When you add them, you combine both. {{viz:diagram-02}}\n\n**Method 1: Head-to-Tail (Triangle Method)**\n\nPut the tail of the second vector at the head of the first. The sum vector goes from the tail of the first to the head of the second.\n\nExample: You walk 5 km north, then 3 km west. The total displacement isn't 8 km—it's the straight line from where you started to where you ended.\n\n**Method 2: Component Method**\n\nBreak each vector into x and y components (or however many dimensions you need). {{viz:anim-01}}\n- Vector A: 5 km north = (0, 5) in x,y coordinates\n- Vector B: 3 km west = (-3, 0) in x,y coordinates\n- Sum: (0-3, 5+0) = (-3, 5)\n\nThe magnitude of the sum is √(3² + 5²) = √34 ≈ 5.8 km\n\n**Method 3: Parallelogram Method** {{viz:chart-01}}\n\nPut the tails of both vectors at the same point. Complete the parallelogram. The diagonal is the sum.\n\n**Key Point**: The order doesn't matter. A + B = B + A. Adding vectors is commutative, just like regular addition.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Vectors add using components (x, y, z)",
+      "You can't ignore direction—it's crucial",
+      "Head-to-tail method: connect vectors end-to-end",
+      "Component method: add x's and y's separately",
+      "Parallelogram method: diagonal is the sum",
+      "Vector addition is commutative: A + B = B + A"
     ],
-    "whyItMatters": "Vector Addition is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Most physics involves adding forces, velocities, and displacements. You need vector addition to solve almost any real problem."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

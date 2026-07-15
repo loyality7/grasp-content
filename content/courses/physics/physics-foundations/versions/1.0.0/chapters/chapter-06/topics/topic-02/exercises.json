@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Polar Coordinates.",
-      "solution": "Step-by-step solution for Polar Coordinates problem.",
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
+      "id": "exercise-01",
+      "type": "convert",
+      "title": "Convert Cartesian to Polar",
+      "content": "Given a point at Cartesian (3, 4), find polar (r, θ). Hint: use distance formula r = √(x² + y²) and angle θ.",
       "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "polar-coordinates"
-      ]
+      "estimatedMinutes": 5,
+      "hints": [
+        "r = √(3² + 4²) = √25 = 5",
+        "θ = arctan(y/x) = arctan(4/3) ≈ 53°",
+        "The point is 5 units away at 53° angle"
+      ],
+      "tags": ["conversion"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Polar Coordinates to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "identify",
+      "title": "When is Polar Better?",
+      "content": "For each: circular motion, rectangular grid, spinning top, city block grid—say if Polar or Cartesian is better and why.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Circular = polar",
+        "Rectangular/grid = Cartesian",
+        "Spinning = polar"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "polar-coordinates"
-      ]
+      "tags": ["comparison"]
     }
   ]
 }

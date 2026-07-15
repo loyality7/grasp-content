@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Rounding Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-03",
-  "description": "Learn about Rounding Decimals and its applications in mathematics.",
+  "description": "Learn the rules of rounding decimals to the nearest whole number, tenths, hundredths, or thousandths place.",
   "content": {
-    "overview": "Rounding Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Rounding Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Rounding Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Rounding a decimal simplifies the number to a specified place value (like the nearest tenth or hundredth) by examining the digit to its right and deciding whether to round up or down.",
+    "explanation": "### Why Round Decimals?\n\nIn real life, we often don't need highly precise decimal values. For instance, instead of saying a shirt costs **$19.986$**, we round it to the nearest cent (**$19.99$**). Rounding makes numbers cleaner and easier to work with.\n\n### The Standard Rounding Rules\n\nTo round any decimal to a target place value:\n\n1.  **Identify the target digit**: Locate the digit in the place value you want to round to.\n2.  **Look at the deciding digit**: Look at the digit immediately to the **right** of the target digit.\n3.  **Apply the Rule**:\n    -   **If the deciding digit is 5 or greater** ($5, 6, 7, 8, 9$): **Round Up**. Increase the target digit by 1, and drop all digits to the right.\n    -   **If the deciding digit is less than 5** ($0, 1, 2, 3, 4$): **Round Down**. Keep the target digit the same, and drop all digits to the right.\n\n{{viz:formula-01}}\n\n### Detailed Examples\n\n#### Example A: Round $4.37$ to the nearest tenth\n1.  **Target Place**: Tenths place, which is **3** ($4.\\mathbf{3}7$).\n2.  **Deciding Digit**: The neighbor to the right is **7** ($4.3\\mathbf{7}$).\n3.  **Apply Rule**: Since $7 \\ge 5$, we round up. Add 1 to the target digit: $3 + 1 = 4$.\n4.  **Result**: **$4.4$**.\n\n#### Example B: Round $12.842$ to the nearest hundredth\n1.  **Target Place**: Hundredths place, which is **4** ($12.8\\mathbf{4}2$).\n2.  **Deciding Digit**: The neighbor to the right is **2** ($12.84\\mathbf{2}$).\n3.  **Apply Rule**: Since $2 < 5$, we round down. The target digit stays as 4.\n4.  **Result**: **$12.84$**.\n\n### The Number Line Perspective\n\nRounding is simply finding which value a number is closer to. On a number line between $4.3$ and $4.4$, the number $4.37$ lies past the midpoint ($4.35$), placing it physically closer to $4.4$.\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The deciding digit is always the neighbor immediately to the right of the target place.",
+      "'Round Up' means add 1 to the target digit; 'Round Down' means keep the target digit unchanged.",
+      "Once you round the target digit, drop all digits to its right.",
+      "Rounding to the nearest cent is the same as rounding to the hundredths place."
     ],
-    "whyItMatters": "Rounding Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Rounding decimals is standard practice in financial calculations, estimating answers to double-check arithmetic, and presenting scientific measurements with appropriate significance."
   },
   "availableLanguages": [
     "en"

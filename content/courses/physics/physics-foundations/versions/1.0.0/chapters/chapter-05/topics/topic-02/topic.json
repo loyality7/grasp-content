@@ -2,18 +2,19 @@
   "id": "topic-02",
   "name": "Vector Subtraction",
   "topicId": "physics.physics-foundations.chapter-05.topic-02",
-  "description": "Learn about Vector Subtraction and its applications in physics.",
+  "description": "Subtracting vectors—the same as adding the opposite direction",
   "content": {
-    "overview": "Vector Subtraction is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Vector Subtraction. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Vector Subtraction requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Subtracting vectors is simpler than you think: A - B = A + (-B). Just flip the direction of B and add. {{viz:diagram-01}}",
+    "explanation": "Vector subtraction uses a trick: flip one vector and add. {{viz:diagram-02}}\n\n**The Rule:** A - B = A + (-B)\n\nWhen you negate a vector, you reverse its direction but keep its magnitude the same.\n\nExample: You're at position A. You want to know where B is relative to you. You calculate A - B. This gives you a vector pointing FROM B TO A. {{viz:anim-01}}\n\n**Component Method (easiest):**\n\nJust subtract each component:\n- A = (5, 3)\n- B = (2, 1)\n- A - B = (5-2, 3-1) = (3, 2)\n\n**Geometric Method:**\n\n1. Draw vector A\n2. Flip vector B (reverse direction, same length)\n3. Add flipped B to A using head-to-tail method\n\n**Why It Matters in Physics:** {{viz:chart-01}}\n\nVelocity change = Final velocity - Initial velocity\nDisplacement = Final position - Initial position\nForce needed = Desired outcome - Current state\n\nAll use vector subtraction!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A - B = A + (-B): subtract by adding the opposite",
+      "Negating a vector flips its direction",
+      "Component method: subtract each component",
+      "Geometric: flip B, then add to A",
+      "Used for finding relative positions and velocity changes",
+      "Order matters: A - B ≠ B - A"
     ],
-    "whyItMatters": "Vector Subtraction is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Finding relative motion and position requires vector subtraction. It's fundamental to kinematics and mechanics."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

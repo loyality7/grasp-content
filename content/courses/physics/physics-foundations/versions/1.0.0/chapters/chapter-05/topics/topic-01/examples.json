@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Vector Addition",
-      "content": "A practical example demonstrating Vector Addition",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "vector-addition"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Hiking North Then East","content":"You hike 3 km north, then 2 km east. Total distance: 5 km. Total displacement: √(3²+2²)=√13≈3.6 km at an angle. Vector addition!","source":"Navigation","difficulty":"beginner","estimatedMinutes":2,"tags":["navigation","displacement"]},{"id":"example-02","title":"Two Ropes Pulling a Box","content":"Rope 1 pulls with 10 N north. Rope 2 pulls with 10 N east. Net force = √(10²+10²)≈14.1 N northeast. You add the vectors!","source":"Mechanics","difficulty":"beginner","estimatedMinutes":2,"tags":["force","addition"]},{"id":"example-03","title":"Airplane Flying in Wind","content":"Plane flies 200 km/h north. Wind blows 50 km/h east. Actual velocity = √(200²+50²)≈206 km/h northeast. Velocity vectors add.","source":"Kinematics","difficulty":"beginner","estimatedMinutes":2,"tags":["velocity","wind"]}]}

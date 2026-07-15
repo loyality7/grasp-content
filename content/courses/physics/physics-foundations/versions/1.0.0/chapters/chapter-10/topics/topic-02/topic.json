@@ -2,16 +2,18 @@
   "id": "topic-02",
   "name": "Position",
   "topicId": "physics.physics-foundations.chapter-10.topic-02",
-  "description": "Learn about Position and its applications in physics.",
+  "description": "Where something is located—the specific location of an object",
   "content": {
-    "overview": "Position is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Position. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Position requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Position is just WHERE something is. You're reading this at a specific location—that's your position. A car on a highway at kilometer 50—that's its position. Position is how we pinpoint where something is.",
+    "explanation": "Position answers one simple question: **WHERE is this object?**\n\nPosition requires a reference point. \"The book is on the table\" tells us position relative to the table. \"The book is 2 meters from the door\" tells us position relative to the door.\n\nIn physics, we often use coordinates to specify position:\n- On a line: x = 5 meters (5 meters from the origin)\n- In 2D: (x, y) = (3, 4) meters (3 meters right, 4 meters up)\n- In 3D: (x, y, z) = (3, 4, 2) meters (3 right, 4 up, 2 forward)\n\n**Initial position vs final position:**\nWhen something moves, we care about:\n- Where it started (initial position)\n- Where it ended up (final position)\n- The change between them (that's displacement, next topic)\n\nPosition is a vector—it has magnitude (how far) and direction (which way).",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Position = where something is located",
+      "Requires a reference point or coordinate system",
+      "Can be specified with coordinates: x, (x,y), or (x,y,z)",
+      "Motion involves change in position over time",
+      "Position is a vector quantity"
     ],
-    "whyItMatters": "Position is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Position is the starting point for describing motion. Everything else (distance, displacement, velocity) starts by knowing where something is or was."
   },
   "availableLanguages": [
     "en"

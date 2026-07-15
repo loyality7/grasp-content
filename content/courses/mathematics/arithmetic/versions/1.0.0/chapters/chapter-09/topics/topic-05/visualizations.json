@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Cube Roots Flowchart",
-      "description": "Flowchart showing Cube Roots process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Cube Roots",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Cube Roots Formula",
-      "description": "Mathematical definition",
+      "title": "Cube Root & Cubing Relationship",
+      "description": "The mathematical link showing that cube root is the inverse operation of cubing.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\sqrt[3]{x} = y \\quad \\iff \\quad y^3 = x",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\sqrt[3]{x} = y",
+            "explanation": "The cube root of x equals y (where the index 3 denotes cube root)."
+          },
+          {
+            "latex": "y^3 = x",
+            "explanation": "This means that y multiplied by itself twice (three factors total) equals x."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Cube Roots 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Cube Roots Animation",
-      "description": "Canvas animation",
+      "title": "The Volume to Edge-Length Link",
+      "description": "See how taking the cube root of a 3D volume stack isolates the length of a single edge.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Cube Roots Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Cube Roots.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Cube Roots Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Cube Roots Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Cube Roots",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.33 && progress < 0.66) stage = 2;\n    else if (progress >= 0.66) stage = 3;\n\n    var midX = W / 2;\n    var midY = H / 2 - 22;\n    var cubeSize = 22;\n    var w = cubeSize * 0.866;\n    var h = cubeSize * 0.5;\n    var size = 2;\n\n    function drawCube(x, y, colorTop, colorLeft, colorRight) {\n      // Top face\n      ctx.fillStyle = colorTop;\n      ctx.beginPath();\n      ctx.moveTo(x, y - cubeSize);\n      ctx.lineTo(x + w, y - h);\n      ctx.lineTo(x, y);\n      ctx.lineTo(x - w, y - h);\n      ctx.closePath();\n      ctx.fill();\n      ctx.strokeStyle = '#1F2937';\n      ctx.lineWidth = 0.5;\n      ctx.stroke();\n\n      // Left face\n      ctx.fillStyle = colorLeft;\n      ctx.beginPath();\n      ctx.moveTo(x - w, y - h);\n      ctx.lineTo(x, y);\n      ctx.lineTo(x, y + cubeSize);\n      ctx.lineTo(x - w, y + cubeSize - h);\n      ctx.closePath();\n      ctx.fill();\n      ctx.stroke();\n\n      // Right face\n      ctx.fillStyle = colorRight;\n      ctx.beginPath();\n      ctx.moveTo(x, y);\n      ctx.lineTo(x + w, y - h);\n      ctx.lineTo(x + w, y + cubeSize - h);\n      ctx.lineTo(x, y + cubeSize);\n      ctx.closePath();\n      ctx.fill();\n      ctx.stroke();\n    }\n\n    // Draw 2x2x2 stack back-to-front\n    for (var dz = 0; dz < size; dz++) {\n      for (var dy = 0; dy < size; dy++) {\n        for (var dx = 0; dx < size; dx++) {\n          var stackOffsetX = (dx - dy) * w;\n          var stackOffsetY = (dx + dy) * h - dz * cubeSize;\n          \n          var cx = midX + stackOffsetX;\n          var cy = midY + stackOffsetY + h * 0.4;\n          \n          drawCube(cx, cy, '#34D399', '#10B981', '#047857');\n        }\n      }\n    }\n\n    // Bottom front edge highlight in Stage 2 & 3\n    if (stage >= 2) {\n      // The bottom front edge runs from the bottom-left point of the stack to the bottom-center point\n      // Center point: midX, midY + 2 * h + h * 0.4\n      // Front-Right point is at dx=1, dy=0, dz=0:\n      // cx = midX + w, cy = midY + h + h * 0.4\n      \n      var x1 = midX - w;\n      var y1 = midY + h + h * 0.4 + cubeSize;\n      var x2 = midX;\n      var y2 = midY + 2 * h + h * 0.4 + cubeSize;\n      \n      ctx.strokeStyle = '#FBBF24'; // Gold\n      ctx.lineWidth = 3.5;\n      ctx.beginPath();\n      ctx.moveTo(x1, y1);\n      ctx.lineTo(x2, y2);\n      ctx.stroke();\n      \n      // Draw tick marks at endpoints\n      ctx.beginPath();\n      ctx.moveTo(x1 - 2, y1 - 4);\n      ctx.lineTo(x1 + 2, y1 + 4);\n      ctx.moveTo(x2 - 2, y2 - 4);\n      ctx.lineTo(x2 + 2, y2 + 4);\n      ctx.stroke();\n    }\n\n    // Bottom text explanations\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (stage === 1) {\n      ctx.fillText('Volume = 8 Blocks', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('This 3D cube is built with 8 smaller unit cubes.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('Edge Length = \u00b3\u221a8 = 2 Blocks', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Taking the cube root finds the side length of the volume.', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('Inverse Operation', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Cubing: 2 \u2192 8 (2\u00b3). Cube Root: 8 \u2192 2 (\u00b3\u221a8).', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

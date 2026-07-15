@@ -3,13 +3,31 @@
     {
       "id": "card-01",
       "front": "What is Absolute Value?",
-      "back": "Absolute Value is a fundamental concept in mathematics.",
+      "back": "The distance of a number from zero on a number line, written between vertical bars $|x|$.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Absolute Value important?",
-      "back": "Absolute Value is essential for understanding Arithmetic.",
+      "front": "What is the absolute value of a positive number?",
+      "back": "The number itself (e.g. $|10| = 10$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the absolute value of a negative number?",
+      "back": "The positive counterpart of that number (e.g. $|-10| = 10$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the absolute value of zero?",
+      "back": "$0$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Evaluate $-|-4|$.",
+      "back": "$-4$ (take the absolute value of $-4$ first to get $4$, then apply the negative sign outside).",
       "difficulty": "medium"
     }
   ]

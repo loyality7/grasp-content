@@ -3,28 +3,20 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Displacement?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
+      "question": "Quiz question 1",
+      "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "This is the correct answer",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Displacement is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctIndex": 1,
-      "explanation": "Displacement has many practical applications.",
-      "difficulty": "easy"
+      "question": "Is this statement true?",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes, this is correct",
+      "difficulty": "medium"
     }
   ]
 }

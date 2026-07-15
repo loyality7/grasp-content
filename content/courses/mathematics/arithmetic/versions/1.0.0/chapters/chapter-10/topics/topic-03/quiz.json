@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Absolute Value?",
+      "question": "What is the absolute value of $-25$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "-25",
+        "25",
+        "0",
+        "2.5"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Absolute value represents distance from zero. The absolute value of $-25$ is written as $|-25| = 25$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Absolute Value is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Evaluate the expression: $-|-12|$",
       "options": [
-        "True",
-        "False"
+        "12",
+        "-12",
+        "0",
+        "-24"
       ],
       "correctIndex": 1,
-      "explanation": "Absolute Value has many practical applications.",
+      "explanation": "Compute absolute value first: $|-12| = 12$. Then apply the negative sign sitting outside the bars, resulting in $-12$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of the following comparison symbols makes the statement true? $|-9|$ ____ $|-10|$",
+      "options": [
+        "$>$",
+        "$<$",
+        "$=$",
+        "$\\ge$"
+      ],
+      "correctIndex": 1,
+      "explanation": "Evaluate terms first: $|-9| = 9$ and $|-10| = 10$. Since $9 < 10$, the statement is $|-9| < |-10|$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Calculate the value of: $|-5| \\times |3|$",
+      "options": [
+        "-15",
+        "15",
+        "8",
+        "-8"
+      ],
+      "correctIndex": 1,
+      "explanation": "First, evaluate the absolute values: $|-5| = 5$ and $|3| = 3$. Then multiply them: $5 \\times 3 = 15$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "The absolute value of any real number represents its:",
+      "options": [
+        "Opposite value",
+        "Reciprocal value",
+        "Distance from zero on a number line",
+        "Sum of digits"
+      ],
+      "correctIndex": 2,
+      "explanation": "By definition, the absolute value is a geometric measure of a number's distance from zero on the number line.",
       "difficulty": "easy"
     }
   ]

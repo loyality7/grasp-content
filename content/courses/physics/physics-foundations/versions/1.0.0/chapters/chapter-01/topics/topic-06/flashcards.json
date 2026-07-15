@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Measurement & Observation?",
-      "back": "Measurement & Observation is a fundamental concept in physics.",
+      "front": "Observation vs Measurement?",
+      "back": "Observation = seeing what happens. Measurement = putting a number on it. 'Ball falls' = observation. 'Falls 10 meters' = measurement.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Measurement & Observation important?",
-      "back": "Measurement & Observation is essential for understanding Physics Foundations.",
+      "front": "What's accuracy?",
+      "back": "How close your measurement is to the true value. Accurate = correct, not just precise.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What's precision?",
+      "back": "How exact your measurement is (how many decimal places). A scale might read 65.347 kg (precise!) but be wrong (not accurate).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why do we report uncertainty?",
+      "back": "Every measurement has limits. '5 meters ± 0.1 meters' tells you how precise the measurement is.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Sources of measurement error?",
+      "back": "Tool limits, human error, environmental changes, and sometimes quantum effects. All measurements have some error.",
       "difficulty": "medium"
     }
   ]

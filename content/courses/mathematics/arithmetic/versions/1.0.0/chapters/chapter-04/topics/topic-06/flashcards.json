@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Greatest Common Divisor (GCD/HCF)?",
-      "back": "Greatest Common Divisor (GCD/HCF) is a fundamental concept in mathematics.",
+      "front": "What is the Greatest Common Divisor (GCD)?",
+      "back": "The largest positive integer that divides two or more integers without leaving a remainder. Also known as HCF (Highest Common Factor).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Greatest Common Divisor (GCD/HCF) important?",
-      "back": "Greatest Common Divisor (GCD/HCF) is essential for understanding Arithmetic.",
+      "front": "What is the Listing Factors Method for finding the GCD?",
+      "back": "Write out all factors of the numbers, identify the common factors, and choose the largest one.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you find the GCD using Prime Factorization?",
+      "back": "Find the prime factorizations of both numbers, choose the common prime bases, raise each to its lowest exponent in either factorization, and multiply them.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What are Coprime Numbers?",
+      "back": "Two or more numbers that share no positive factors other than 1. Their GCD is exactly 1 (e.g., 8 and 15).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is HCF?",
+      "back": "Highest Common Factor, which is another term for Greatest Common Divisor (GCD).",
+      "difficulty": "easy"
     }
   ]
 }

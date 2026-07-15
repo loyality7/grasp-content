@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Addition?",
-      "back": "Addition is a fundamental concept in mathematics.",
+      "front": "What is an Addend?",
+      "back": "An addend is any number that is added to another number to find a total sum. For example, in $3 + 4 = 7$, both $3$ and $4$ are addends.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Addition important?",
-      "back": "Addition is essential for understanding Arithmetic.",
+      "front": "What is a Sum?",
+      "back": "The sum is the total result obtained by adding two or more numbers together. For example, in $3 + 4 = 7$, $7$ is the sum.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the Commutative Property of Addition?",
+      "back": "It states that the order of the numbers being added does not change the sum. For example: $a + b = b + a$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the Associative Property of Addition?",
+      "back": "It states that the grouping of the numbers being added does not change the sum. For example: $(a + b) + c = a + (b + c)$.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the Additive Identity?",
+      "back": "The additive identity is $0$, because adding $0$ to any number keeps that number's identity unchanged. For example: $a + 0 = a$.",
+      "difficulty": "easy"
     }
   ]
 }

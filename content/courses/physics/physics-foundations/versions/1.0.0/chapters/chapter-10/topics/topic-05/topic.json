@@ -2,16 +2,18 @@
   "id": "topic-05",
   "name": "Speed",
   "topicId": "physics.physics-foundations.chapter-10.topic-05",
-  "description": "Learn about Speed and its applications in physics.",
+  "description": "How fast something is moving—distance divided by time",
   "content": {
-    "overview": "Speed is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Speed. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Speed requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Speed answers: **HOW FAST?** Your car going 60 km/h, a ball rolling at 5 m/s—that's speed. Speed tells you how much distance is covered in a given time.",
+    "explanation": "Speed = distance ÷ time\n\nSpeed is a SCALAR—just a number, no direction. \"60 km/h\" is a speed. \"60 km/h north\" would be velocity (next topic).\n\n**Average speed vs instantaneous speed:**\n- Average speed = total distance ÷ total time\n- Instantaneous speed = speed at one exact moment (what your speedometer shows)\n\n**Example:**\nYou drive 100 km in 2 hours.\n- Average speed = 100 km ÷ 2 h = 50 km/h\n- But you might have gone 60 km/h for part of it, 40 km/h for another part\n\n**Units:**\n- m/s (meters per second) - SI unit\n- km/h (kilometers per hour) - common\n- mph (miles per hour) - US/UK\n- All are valid, just different scales\n\nSpeed is always positive. You can't have negative speed (unlike displacement or velocity).",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Speed = distance ÷ time",
+      "Scalar quantity (just a number)",
+      "Average speed: total distance ÷ total time",
+      "Instantaneous speed: speed at one moment",
+      "Always positive"
     ],
-    "whyItMatters": "Speed is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Speed is how we quantify how fast something moves. Every time you see 'km/h' or 'm/s,' you're dealing with speed."
   },
   "availableLanguages": [
     "en"

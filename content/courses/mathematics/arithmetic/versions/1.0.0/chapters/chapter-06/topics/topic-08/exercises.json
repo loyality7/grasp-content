@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Converting Fractions ↔ Decimals.",
-      "solution": "Step-by-step solution for Converting Fractions ↔ Decimals problem.",
+      "prompt": "Convert the fraction **$\\frac{7}{20}$** to a decimal.",
+      "solution": "1. **Interpret as division**: $7 \\div 20$.\n2. **Perform division**:\n   - Set up $7.00 \\div 20$.\n   - $20$ goes into $70$: $3$ times ($3 \\times 20 = 60$) with remainder $10$.\n   - Bring down another zero to make $100$. $20$ goes into $100$: $5$ times exactly ($5 \\times 20 = 100$, remainder $0$).\n   - Place decimal point: $0.35$.\n3. **Alternative method**:\n   Multiply both parts of the fraction by $5$ to get a denominator of $100$:\n   $$\\frac{7 \\times 5}{20 \\times 5} = \\frac{35}{100} = 0.35$$\n\n**Answer**: **$0.35$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Divide 7 by 20 using long division, adding trailing zeros to 7.",
+        "Alternatively, find an equivalent fraction with a denominator of 100 by multiplying both parts by 5."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "converting-fractions-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Decimals", "Converting"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Converting Fractions ↔ Decimals to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Convert the decimal **$0.625$** into a fraction in simplest form.",
+      "solution": "1. **Identify last place value**:\n   In $0.625$, the last digit ($5$) is in the thousandths place.\n2. **Write as fraction over 1000**:\n   $$0.625 = \\frac{625}{1000}$$\n3. **Simplify fraction**:\n   Divide both numerator and denominator by their Greatest Common Divisor ($125$):\n   $$\\frac{625 \\div 125}{1000 \\div 125} = \\frac{5}{8}$$\n\n**Answer**: **$\\frac{5}{8}$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Write 625 over 1000.",
+        "Simplify the fraction by dividing both parts by common factors, like 25, and then 5, or directly by their GCD of 125."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "converting-fractions-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Fractions", "Converting", "Simplifying"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A student scores **$17$ out of $20$** on a science quiz. \n1. Write this score as a fraction.\n2. Convert the fraction to a decimal.\n3. Convert the decimal to a percentage.",
+      "solution": "1. **Write as fraction**:\n   $$\\text{Score} = \\frac{17}{20}$$\n2. **Convert to decimal**:\n   Multiply both numerator and denominator by $5$ to make the denominator $100$:\n   $$\\frac{17 \\times 5}{20 \\times 5} = \\frac{85}{100} = 0.85$$\n3. **Convert to percentage**:\n   Multiply the decimal by $100$ (move the decimal point 2 places to the right) and add a percent sign:\n   $$0.85 \\times 100 = 85\\%$$\n\n**Answer**: Score as fraction is **$\\frac{17}{20}$**, as a decimal is **$0.85$**, and as a percentage is **$85\\%$**.",
+      "hints": [
+        "Write the score as 17 over 20.",
+        "Create an equivalent fraction with a denominator of 100 by multiplying top and bottom by 5.",
+        "A decimal in hundredths is directly equivalent to that percentage value."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Fractions", "Converting", "Word Problems"]
     }
   ]
 }

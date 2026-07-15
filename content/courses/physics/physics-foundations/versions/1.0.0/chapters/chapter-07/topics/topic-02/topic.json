@@ -2,16 +2,19 @@
   "id": "topic-02",
   "name": "Slope",
   "topicId": "physics.physics-foundations.chapter-07.topic-02",
-  "description": "Learn about Slope and its applications in physics.",
+  "description": "How steep a line is; measures rate of change",
   "content": {
-    "overview": "Slope is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Slope. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Slope requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Slope is how steep a line is on a graph. It tells you how fast something is changing. {{viz:diagram-01}}",
+    "explanation": "Slope = how much Y changes when X changes 1 unit.\n\n**The formula:** slope = (Y₂ - Y₁) / (X₂ - X₁) = rise / run\n\nThink of it like climbing a hill. The slope tells you how steep it is.\n\n**In physics:** {{viz:chart-01}}\n- On a distance-time graph: slope = speed (how fast you're going)\n- On a velocity-time graph: slope = acceleration (how fast speed is changing)\n- Steep slope = fast change\n- Flat slope = slow change\n- Negative slope = going backwards or decreasing\n\n**Examples:**\n- A slope of 5 means: for every 1 unit right, go 5 units up\n- A slope of 0 means: flat line (nothing is changing)\n- A slope of -2 means: for every 1 right, go 2 down (decreasing) {{viz:anim-01}}\n\nSlope is just a number that describes how quickly something is changing. That's it. But it's EVERYWHERE in physics.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Slope = rise / run = change in Y / change in X",
+      "Steep slope = fast change",
+      "Flat slope = slow change",
+      "Negative slope = decreasing",
+      "In physics, slope often = speed or rate of change",
+      "Slope is the same everywhere on a straight line"
     ],
-    "whyItMatters": "Slope is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Slope is how we measure rates of change in physics. Speed, acceleration, all described by slope."
   },
   "availableLanguages": [
     "en"

@@ -2,16 +2,19 @@
   "id": "topic-05",
   "name": "Models in Physics",
   "topicId": "physics.physics-foundations.chapter-01.topic-05",
-  "description": "Learn about Models in Physics and its applications in physics.",
+  "description": "Simplified versions of reality that help us understand how things work.",
   "content": {
-    "overview": "Models in Physics is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Models in Physics. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Models in Physics requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A model in physics is a simplified version of reality. It's not 100% accurate, but it's good enough to help us understand and predict. {{viz:diagram-01}}",
+    "explanation": "Think about a globe. It's a model of Earth. Is it accurate? Kind of. The sizes are wrong, the details are missing, but it helps you understand how Earth is shaped.\n\nPhysics does the same thing. We make models that are simple enough to understand but accurate enough to work. {{viz:diagram-02}}\n\nFor example:\n- **Atoms as little balls** - Not actually accurate (they're quantum!), but it helps you visualize atoms\n- **Light as rays** - Simplification (light is actually a wave), but it works for most situations {{viz:anim-01}}\n- **A ball is a point** - You ignore the ball's shape and size and just treat it as a point moving through space. This is WAY simpler and usually works fine {{viz:chart-01}}\n\nWhy make models? Because reality is too complicated! If you try to calculate everything perfectly, it's impossible. But if you simplify (make assumptions), suddenly you can solve it.\n\nThe key is knowing:\n1. What the model gets right\n2. What the model ignores\n3. When the model breaks down\n\nFor instance, treating a ball as a point works great for predicting where it lands. But if you need to know how fast it's spinning, you can't ignore the size—the model breaks down.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Models are simplified versions of reality",
+      "They help us understand and predict",
+      "No model is 100% perfect",
+      "Good models are simple but still accurate for what matters",
+      "You need to know when a model stops working",
+      "Different situations need different models"
     ],
-    "whyItMatters": "Models in Physics is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Physics isn't about perfect accuracy—it's about useful understanding. Models let us handle complexity by focusing on what matters. Understanding which model to use when is a key skill in physics."
   },
   "availableLanguages": [
     "en"

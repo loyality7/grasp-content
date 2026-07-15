@@ -4,14 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-05",
   "description": "Learn about Graph Plotting and its applications in physics.",
   "content": {
-    "overview": "Graph Plotting is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Graph Plotting. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Graph Plotting requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A graph shows your data visually. Numbers in a table = hard to see patterns. Same numbers on a graph = patterns jump out.",
+    "explanation": "Good graphs have:\n\n**1. Title.** What does this graph show? 'Temperature vs Spring Height'\n\n**2. Axis labels with units.** 'Temperature (°C)', 'Height (mm)'\n\n**3. Scale.** X-axis and Y-axis should use the full space. Don't put all points in one corner.\n\n**4. Plot points carefully.** Mark each data point. Use dots or X's. Be precise.\n\n**5. Connect with lines (if it makes sense).** If you tested 20°C, 25°C, 30°C—draw a line connecting them to show the trend. Don't just scatter dots.\n\n**Why graphs matter:**\n- **Table:** 20→15, 25→18, 30→21.5 (okay, but hard to see)\n- **Graph:** You immediately see: 'As temperature increases, height increases evenly' ← much clearer!\n\n**Types:**\n- **Scatter plot:** Just dots. Use when data is noisy or you're unsure of the relationship\n- **Line graph:** Dots connected with lines. Use when you're confident about the relationship\n- **Bar graph:** For comparing categories (spring A vs B vs C)\n\nA good graph tells the story of your data instantly.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Clear title and labeled axes (with units)",
+      "Appropriate scale—use the full graph space",
+      "Plot points accurately",
+      "Connect with lines if it makes sense",
+      "A graph shows patterns that numbers hide",
+      "Different graph types for different data"
     ],
-    "whyItMatters": "Graph Plotting is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Graphs let you and others see what your data means at a glance."
   },
   "availableLanguages": [
     "en"

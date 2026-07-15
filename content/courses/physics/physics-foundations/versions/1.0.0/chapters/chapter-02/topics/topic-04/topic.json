@@ -2,16 +2,19 @@
   "id": "topic-04",
   "name": "Prefixes (Milli, Kilo, Mega...)",
   "topicId": "physics.physics-foundations.chapter-02.topic-04",
-  "description": "Learn about Prefixes (Milli, Kilo, Mega...) and its applications in physics.",
+  "description": "Standard prefixes that make units bigger or smaller (like kilo-, milli-, mega-)",
   "content": {
-    "overview": "Prefixes (Milli, Kilo, Mega...) is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Prefixes (Milli, Kilo, Mega...). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Prefixes (Milli, Kilo, Mega...) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Instead of writing 0.001 meters, we say 1 millimeter. Instead of 1000 grams, we say 1 kilogram. Prefixes are shortcuts! {{viz:diagram-01}}",
+    "explanation": "Physics deals with really big and really small things. Atoms are tiny. Galaxy distances are huge. Writing out all the zeros gets annoying. So scientists use prefixes. {{viz:diagram-02}}\n\nA prefix is just a shorthand for a power of 10:\n\n**Going BIG (multiply by powers of 10):**\n- kilo (k) = × 1,000 = 10³\n- mega (M) = × 1,000,000 = 10⁶\n- giga (G) = × 1,000,000,000 = 10⁹\n- tera (T) = × 1,000,000,000,000 = 10¹²\n\n**Going SMALL (divide, or × negative powers of 10):**\n- centi (c) = ÷ 100 = 10⁻²\n- milli (m) = ÷ 1,000 = 10⁻³\n- micro (μ) = ÷ 1,000,000 = 10⁻⁶\n- nano (n) = ÷ 1,000,000,000 = 10⁻⁹\n- pico (p) = ÷ 1,000,000,000,000 = 10⁻¹²\n\n**Real Examples:** {{viz:chart-01}}\n- 1 kilometer (km) = 1,000 meters (not 1 million meters!)\n- 1 millimeter (mm) = 0.001 meters\n- 1 microgram (μg) = 0.000001 grams\n- 1 nanosecond (ns) = 0.000000001 seconds\n\nThe prefix always comes before the unit. {{viz:anim-01}}\n\n**Why prefixes matter:**\n- Shorter to write: 5 km instead of 5,000 m\n- Easier to read: 2 mm instead of 0.002 m\n- Matches the scale: A millimeter LOOKS tiny (mm), a kilometer SOUNDS big (km)\n- Scientists use the right prefix for the measurement: measuring atoms? Use nanometers. Measuring cities? Use kilometers.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Prefixes = shortcuts for powers of 10",
+      "kilo- = 1,000× (10³)",
+      "milli- = 0.001× (10⁻³)",
+      "micro- = 0.000001× (10⁻⁶)",
+      "nano- = 0.000000001× (10⁻⁹)",
+      "mega-, giga-, tera- for really big numbers"
     ],
-    "whyItMatters": "Prefixes (Milli, Kilo, Mega...) is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "You'll see prefixes everywhere in physics. Understanding them makes reading scientific measurements easy instead of confusing."
   },
   "availableLanguages": [
     "en"

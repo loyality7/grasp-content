@@ -2,15 +2,27 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is SI Base Units?",
-      "back": "SI Base Units is a fundamental concept in physics.",
+      "front": "What's the SI base unit for length?",
+      "back": "Meter (m). A meter is the distance light travels in about 3.3 nanoseconds.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is SI Base Units important?",
-      "back": "SI Base Units is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
+      "front": "What's the SI base unit for mass?",
+      "back": "Kilogram (kg). It's the only base unit still defined by a physical object (in Paris).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What's the SI base unit for time?",
+      "back": "Second (s). Defined by the vibration of a cesium atom. Very precise!",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How many SI base units exist?",
+      "back": "7 total: meter, kilogram, second, ampere, kelvin, mole, candela.",
+      "difficulty": "easy"
     }
   ]
 }

@@ -2,16 +2,18 @@
   "id": "topic-05",
   "name": "Approximation Techniques",
   "topicId": "physics.physics-foundations.chapter-09.topic-05",
-  "description": "Learn about Approximation Techniques and its applications in physics.",
+  "description": "Simplifying hard problems by ignoring small effects",
   "content": {
-    "overview": "Approximation Techniques is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Approximation Techniques. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Approximation Techniques requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Approximation techniques are about ignoring things that don't matter much so the problem becomes solvable. Real physics problems are messy. Approximations make them manageable. {{viz:diagram-01}}",
+    "explanation": "Approximation is the art of asking: 'What can I ignore?' {{viz:diagram-02}}\n\n**Example: A ball rolling down a hill** \n\nFull problem (realistic): friction, air resistance, the hill isn't perfectly smooth, the ball might not be perfectly round, gravity changes slightly with altitude...\n\nApproximation (solvable): assume no friction, no air resistance, perfectly smooth hill, perfect sphere, constant gravity.\n\nYou've approximated away the messy stuff. Now the problem is doable. {{viz:anim-01}}\n\n**Common approximations:**\n\n1. **Ignore air resistance** — Usually small unless speeds are very high\n2. **Small angle approximation** — sin(θ) ≈ θ if θ is small\n3. **Constant gravity** — Assumes you don't go to the moon\n4. **No friction** — Simplified version of real motion\n5. **Ideal gases** — Treats gas like perfect molecules (not perfect, but close)\n\n**The key rule:** {{viz:chart-01}}\n\nOnly ignore something if it's SMALL compared to what you care about.\n\nIgnoring air resistance when modeling a feather falling = BAD (air resistance is huge)\nIgnoring air resistance when modeling a bowling ball falling = OK (air resistance is tiny)\n\nThe approximation depends on the situation!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Approximation = ignore small effects",
+      "Makes hard problems solvable",
+      "Must know what's small and what's not",
+      "Different problem = different approximations",
+      "Always ask: 'Can I ignore this safely?'"
     ],
-    "whyItMatters": "Approximation Techniques is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Real physics problems have 100 effects. Approximations let you focus on the 2-3 that matter. Without approximations, physics would be unsolvable."
   },
   "availableLanguages": [
     "en"

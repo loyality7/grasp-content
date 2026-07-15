@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Cube Roots",
-      "content": "A practical example demonstrating Cube Roots",
-      "source": "Generated",
+      "title": "Evaluating a Perfect Cube Root",
+      "content": "Evaluate the mathematical expression **$\\sqrt[3]{125}$**.\n\n### Step-by-Step Solution\n\n1.  **Understand the notation**:\n    The symbol $\\sqrt[3]{125}$ represents the cube root of $125$. It asks: \"What number, multiplied by itself three times, equals $125$?\"\n\n2.  **Recall perfect cube multiplication values**:\n    Let's test potential values:\n    -   $3 \\times 3 \\times 3 = 27$\n    -   $4 \\times 4 \\times 4 = 64$\n    -   $5 \\times 5 \\times 5 = 125$\n\n3.  **Identify the matching base**:\n    Since $5^3 = 125$, the cube root of $125$ is $5$:\n    $$\\sqrt[3]{125} = 5$$\n\n**Answer**: **$5$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "cube-roots"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Cube Roots", "Perfect Cubes"]
+    },
+    {
+      "id": "example-02",
+      "title": "Applying Cube Roots to 3D Volume",
+      "content": "A shipping box shaped like a perfect cube has an interior volume of **$343\\text{ cubic inches}$**. What is the length of one of the box's edges?\n\n### Step-by-Step Solution\n\n1.  **Use the volume of a cube formula**:\n    $$\\text{Volume} = \\text{side}^3$$\n    We are given that $\\text{Volume} = 343$, so:\n    $$\\text{side}^3 = 343$$\n\n2.  **Solve for the side length using the cube root**:\n    $$\\text{side} = \\sqrt[3]{343}$$\n\n3.  **Evaluate $\\sqrt[3]{343}$**:\n    Test values greater than $5$ (since $5^3 = 125$):\n    -   Test $6$: $6 \\times 6 \\times 6 = 216$\n    -   Test $7$: $7 \\times 7 \\times 7 = 343$\n    Since $7^3 = 343$, we find:\n    $$\\text{side} = 7 \\text{ inches}$$\n\n**Answer**: The length of one edge is **$7$ inches**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Cube Roots", "Volume", "Word Problems"]
     }
   ]
 }

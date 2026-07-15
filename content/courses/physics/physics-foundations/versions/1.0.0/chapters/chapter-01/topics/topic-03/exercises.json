@@ -1,35 +1,46 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Scientific Method.",
-      "solution": "Step-by-step solution for Scientific Method problem.",
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "difficulty": "intermediate",
+      "id": "exercise-01",
+      "type": "design",
+      "title": "Design Your Own Experiment",
+      "content": "Pick a question you're curious about. Then design an experiment to test it. Write down: Question → Prediction → What you'd do → What you'd measure → How you'd analyze results → What you'd conclude.",
+      "difficulty": "beginner",
       "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "scientific-method"
-      ]
+      "hints": [
+        "Questions can be simple: 'Does heavier paper fall faster?'",
+        "Your prediction can be wrong—that's fine",
+        "Think about what you can actually test"
+      ],
+      "tags": ["design", "experiment"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Scientific Method to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "analysis",
+      "title": "Spot the Scientific Steps",
+      "content": "Read a simple science story. Find the question, prediction, experiment, analysis, and conclusion. Mark each part.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Look for 'I wondered if...'—that's the question",
+        "Look for 'I thought...'—that's the prediction",
+        "Look for 'I tested by...'—that's the experiment"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "scientific-method"
-      ]
+      "tags": ["identification"]
+    },
+    {
+      "id": "exercise-03",
+      "type": "reflection",
+      "title": "When You Got It Wrong",
+      "content": "Think of a time your prediction was wrong. Was that a failure or success? Explain.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "hints": [
+        "Being wrong teaches something",
+        "Scientists expect to be wrong sometimes",
+        "What did you learn?"
+      ],
+      "tags": ["reflection"]
     }
   ]
 }

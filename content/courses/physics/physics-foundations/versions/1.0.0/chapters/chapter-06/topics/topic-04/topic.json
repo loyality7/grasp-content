@@ -2,16 +2,19 @@
   "id": "topic-04",
   "name": "Spherical Coordinates (Introduction)",
   "topicId": "physics.physics-foundations.chapter-06.topic-04",
-  "description": "Learn about Spherical Coordinates (Introduction) and its applications in physics.",
+  "description": "Describing points on a sphere using distance, angle around, and angle up/down.",
   "content": {
-    "overview": "Spherical Coordinates (Introduction) is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Spherical Coordinates (Introduction). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Spherical Coordinates (Introduction) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Imagine Earth. To describe a location, you use: how far from Earth's center? What longitude? What latitude? That's spherical coordinates! {{viz:diagram-01}}",
+    "explanation": "Spherical = perfect for spheres and things that radiate from a point. A point is (r, θ, φ):\n- r = distance from center\n- θ = azimuthal angle (horizontal angle, like longitude)\n- φ = polar angle (vertical angle, like latitude) {{viz:diagram-02}}\n\n**In real life:** GPS uses something like this. Satellites are at some distance, at some angle east-west, at some angle north-south. {{viz:anim-01}}\n\n**Physics uses:** Atoms around a nucleus, planets around the sun, light spreading from a bulb. Any radiation or orbit. {{viz:chart-01}}\n\nCompare:\n- **Cartesian** (x, y, z): 'go 3 right, 2 forward, 4 up'\n- **Spherical** (r, θ, φ): 'go 5 units, this compass direction, this angle up'\n\nSpherical makes sense for spherical symmetry (things that look the same in every direction from the center).\n\nIt's like polar but for a sphere instead of a circle. Just adds another angle!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Spherical = (r, θ, φ) for 3D",
+      "r = distance from origin",
+      "θ = azimuthal angle (horizontal, like longitude)",
+      "φ = polar angle (vertical, like latitude)",
+      "Perfect for orbits, atoms, radiation",
+      "Natural for spherically symmetric systems"
     ],
-    "whyItMatters": "Spherical Coordinates (Introduction) is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Atoms, planets, radiation—all have spherical symmetry. Spherical coordinates make these problems natural instead of messy."
   },
   "availableLanguages": [
     "en"

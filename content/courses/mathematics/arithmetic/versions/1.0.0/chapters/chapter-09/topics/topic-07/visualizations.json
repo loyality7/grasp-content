@@ -1,154 +1,35 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Laws of Exponents (Introduction) Flowchart",
-      "description": "Flowchart showing Laws of Exponents (Introduction) process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Laws of Exponents (Introduction)",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Laws of Exponents (Introduction) Formula",
-      "description": "Mathematical definition",
+      "title": "Three Laws of Exponents",
+      "description": "Formulas for Product, Quotient, and Power rules.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\begin{aligned} a^m \\times a^n &= a^{m+n} \\\\[0.5em] \\frac{a^m}{a^n} &= a^{m-n} \\\\[0.5em] (a^m)^n &= a^{m \\times n} \\end{aligned}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "a^m \\times a^n = a^{m+n}",
+            "explanation": "Product Rule: Add exponents when multiplying terms with the same base."
+          },
+          {
+            "latex": "\\frac{a^m}{a^n} = a^{m-n}",
+            "explanation": "Quotient Rule: Subtract exponents when dividing terms with the same base."
+          },
+          {
+            "latex": "(a^m)^n = a^{m \\times n}",
+            "explanation": "Power Rule: Multiply exponents when raising a power to another power."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Laws of Exponents (Introduction) 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Laws of Exponents (Introduction) Animation",
-      "description": "Canvas animation",
+      "title": "Product Rule Demonstration",
+      "description": "Watch how 2^3 x 2^2 merges into 5 factors of 2, validating the Product Rule.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Laws of Exponents (Introduction) Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Laws of Exponents (Introduction).",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Laws of Exponents (Introduction) Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Laws of Exponents (Introduction) Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Laws of Exponents (Introduction)",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.25 && progress < 0.50) stage = 2;\n    else if (progress >= 0.50 && progress < 0.75) stage = 3;\n    else if (progress >= 0.75) stage = 4;\n\n    var midX = W / 2;\n    var midY = H / 2 - 20;\n\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n\n    if (stage === 1) {\n      // Show 2^3\n      ctx.font = 'bold 20px -apple-system, sans-serif';\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('2\u00b3', midX, midY - 20);\n      \n      ctx.font = '18px monospace';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('(2 \u00d7 2 \u00d7 2)', midX, midY + 15);\n    } else if (stage === 2) {\n      // Show 2^2\n      ctx.font = 'bold 20px -apple-system, sans-serif';\n      ctx.fillStyle = '#34D399';\n      ctx.fillText('2\u00b2', midX, midY - 20);\n\n      ctx.font = '18px monospace';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('(2 \u00d7 2)', midX, midY + 15);\n    } else if (stage === 3) {\n      // Show 2^3 * 2^2 expanded multiplication\n      ctx.font = 'bold 16px -apple-system, sans-serif';\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('2\u00b3 \u00d7 2\u00b2', midX, midY - 25);\n      \n      ctx.font = '16px monospace';\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('(2 \u00d7 2 \u00d7 2)', midX - 45, midY + 15);\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('\u00d7', midX, midY + 15);\n      ctx.fillStyle = '#34D399';\n      ctx.fillText('(2 \u00d7 2)', midX + 45, midY + 15);\n    } else {\n      // Combine into 2^5\n      ctx.font = 'bold 16px -apple-system, sans-serif';\n      ctx.fillStyle = '#10B981';\n      ctx.fillText('2\u00b3 \u00d7 2\u00b2 = 2\u00b3\u207a\u00b2 = 2\u2075', midX, midY - 25);\n\n      ctx.font = '18px monospace';\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 = 32', midX, midY + 15);\n    }\n\n    // Bottom text explanations\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (stage === 1) {\n      ctx.fillText('First Term: 2\u00b3', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('This equals 2 multiplied by itself 3 times.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillText('Second Term: 2\u00b2', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('This equals 2 multiplied by itself 2 times.', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillText('Combining the Multiplications', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('When multiplied, we join the groups of factors together.', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('Apply Product Rule: add the exponents!', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('3 factors + 2 factors = 5 factors of 2. 2\u2075 = 32.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Adding Decimals",
-      "content": "A practical example demonstrating Adding Decimals",
-      "source": "Generated",
+      "title": "Adding Decimals with Different Place Values",
+      "content": "Find the sum of **$14.72$** and **$5.9$**.\n\n### Step-by-Step Solution\n\n1.  **Line up the decimal points vertically**:\n    $$\\begin{array}{r@{\\quad}l}\n    14.72 \\\\\n    +\\ \\phantom{0}5.9\\phantom{0} \\\\\n    \\hline\n    \\end{array}$$\n\n2.  **Add a trailing zero** to $5.9$ so that both numbers have the same number of decimal digits:\n    $$\\begin{array}{r@{\\quad}l}\n    14.72 \\\\\n    +\\ \\phantom{0}5.90 \\\\\n    \\hline\n    \\end{array}$$\n\n3.  **Add from right to left**:\n    -   **Hundredths place**: $2 + 0 = 2$\n    -   **Tenths place**: $7 + 9 = 16$. Write **6** under the line, and carry **1** to the ones place.\n    -   **Drop decimal point** down.\n    -   **Ones place**: $4 + 5 + 1\\text{ (carry)} = 10$. Write **0** under the line, and carry **1** to the tens place.\n    -   **Tens place**: $1 + 0 + 1\\text{ (carry)} = 2$.\n\n4.  **Write the final sum**:\n    $$\\begin{array}{r@{\\quad}l}\n    \\text{}^{1}\\text{}^{1}\\phantom{.}\\phantom{0} \\\\\n    14.72 \\\\\n    +\\ \\phantom{0}5.90 \\\\\n    \\hline\n    \\mathbf{20.62} \\\\\n    \\hline\n    \\end{array}$$\n\n**Answer**: The sum is **$20.62$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "adding-decimals"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Adding"]
+    },
+    {
+      "id": "example-02",
+      "title": "Adding Multiple Decimals and Whole Numbers",
+      "content": "Calculate: **$0.085 + 3.12 + 14$**.\n\n### Step-by-Step Solution\n\n1.  **Rewrite the whole number**:\n    Write $14$ as **$14.000$** to match the three decimal places in $0.085$.\n\n2.  **Align all numbers vertically by their decimal points** and pad them with trailing zeros:\n    $$\\begin{array}{r@{\\quad}l}\n    \\phantom{0}0.085 \\\\\n    \\phantom{0}3.120 \\\\\n    +\\ 14.000 \\\\\n    \\hline\n    \\end{array}$$\n\n3.  **Add column-by-column from right to left**:\n    -   **Thousandths**: $5 + 0 + 0 = 5$\n    -   **Hundredths**: $8 + 2 + 0 = 10$. Write **0**, carry **1** to tenths.\n    -   **Tenths**: $0 + 1 + 0 + 1\\text{ (carry)} = 2$\n    -   **Ones**: $0 + 3 + 4 = 7$\n    -   **Tens**: $0 + 0 + 1 = 1$\n\n4.  **Drop decimal point** straight down into the answer row:\n    $$\\begin{array}{r@{\\quad}l}\n    \\text{}^{1}\\phantom{.}\\phantom{0} \\\\\n    \\phantom{0}0.085 \\\\\n    \\phantom{0}3.120 \\\\\n    +\\ 14.000 \\\\\n    \\hline\n    \\mathbf{17.205} \\\\\n    \\hline\n    \\end{array}$$\n\n**Answer**: The sum is **$17.205$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Adding", "Whole Numbers"]
     }
   ]
 }

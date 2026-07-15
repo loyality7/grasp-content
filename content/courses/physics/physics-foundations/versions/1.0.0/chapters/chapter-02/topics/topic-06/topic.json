@@ -2,16 +2,19 @@
   "id": "topic-06",
   "name": "Dimensional Formula",
   "topicId": "physics.physics-foundations.chapter-02.topic-06",
-  "description": "Learn about Dimensional Formula and its applications in physics.",
+  "description": "Writing the units of a quantity in terms of base units (using M, L, T, etc.)",
   "content": {
-    "overview": "Dimensional Formula is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Dimensional Formula. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Dimensional Formula requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A dimensional formula is a shorthand for showing what units something has, using symbols for base units. It's like a 'unit recipe.' {{viz:diagram-01}}",
+    "explanation": "Instead of writing \"kilograms times meters squared divided by seconds squared,\" physicists write: **[M L² T⁻²]**\n\nLet me break this down: {{viz:diagram-02}}\n\n**Standard Symbols for Base Units:**\n- M = Mass (kilogram)\n- L = Length (meter)\n- T = Time (second)\n- I = Electric current (ampere)\n- θ = Temperature (kelvin)\n- n = Amount (mole)\n- J = Luminous intensity (candela)\n\n**How to write a dimensional formula:**\n\nTake the units and replace them with symbols, showing the powers.\n\n**Example: Speed**\nSpeed = m/s = L/T = **[L T⁻¹]**\n\n**Example: Force**\nForce = kg·m/s² = M·L·T⁻² = **[M L T⁻²]**\n\n**Example: Energy**\nEnergy = kg·m²/s² = M·L²·T⁻² = **[M L² T⁻²]**\n\n**Example: Acceleration**\nAcceleration = m/s² = L/T² = **[L T⁻²]** {{viz:chart-01}}\n\n**Why use dimensional formulas?** {{viz:anim-01}}\n\n1. **Shorthand:** [M L² T⁻²] is shorter than \"kilograms times meters squared divided by seconds squared\"\n2. **Quick check:** See what base units make up a derived unit\n3. **Dimensional analysis:** Easily check if equations are right\n4. **International:** No translation needed—all scientists understand symbols\n\n**Quick Rule:** Write the base unit symbol, then show the power. If there's no power, it's to the power of 1. Division means negative powers.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Dimensional formula uses symbols for base units",
+      "M = mass, L = length, T = time",
+      "Written in brackets: [M L² T⁻²]",
+      "Shows what base units make up any quantity",
+      "Division = negative powers (T⁻² means divided by T²)",
+      "Shorthand that works worldwide"
     ],
-    "whyItMatters": "Dimensional Formula is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Dimensional formulas let you quickly see what units something has and check if equations make sense. It's physics notation that you'll see everywhere."
   },
   "availableLanguages": [
     "en"

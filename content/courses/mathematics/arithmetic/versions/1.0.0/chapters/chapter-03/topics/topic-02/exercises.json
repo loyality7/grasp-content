@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Subtraction.",
-      "solution": "Step-by-step solution for Subtraction problem.",
+      "prompt": "Evaluate: **$7,204 - 3,568$** using vertical subtraction. Detail each borrow.",
+      "solution": "1. Align the numbers vertically:\n   $$\\begin{array}{r@{\\quad}l}\n     7204 \\\\\n   - 3568 \\\\\n   \\hline\n   \\end{array}$$\n2. Subtract columns right-to-left:\n   - **Ones**: $4 - 8$. Must borrow. Since tens is $0$, borrow from hundreds column ($2 \\to 1$), making tens column $10$. Now borrow from tens ($10 \\to 9$) to make ones $14$. $14 - 8 = 6$.\n   - **Tens**: $9 - 6 = 3$.\n   - **Hundreds**: $1 - 5$. Must borrow from thousands ($7 \\to 6$), making hundreds $11$. $11 - 5 = 6$.\n   - **Thousands**: $6 - 3 = 3$.\n\n3. Regrouped display:\n   $$\\begin{array}{r@{\\quad}l}\n     \\text{Regrouped:} & \\color{red}{6\\,\\,11\\,\\,9\\,\\,14} \\\\ & \\cancel{7}\\,\\cancel{2}\\,\\cancel{0}\\,\\cancel{4} \\\\ - & 3\\,5\\,6\\,8 \\\\ \\hline & 3\\,6\\,3\\,6 \\end{array}$$\n\n**Answer**: $7,204 - 3,568 = 3,636$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Align the digits by place value first.",
+        "When borrowing through a zero in the tens place, you must borrow from the hundreds place first.",
+        "Check your subtraction by adding the answer back to 3,568."
       ],
       "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "subtraction"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Subtraction", "Borrowing"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Subtraction to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A fruit vendor has **350** oranges. If he sells **187** oranges and finds that **12** oranges are rotten and must be thrown away, how many good oranges does he have left?",
+      "solution": "1. Subtract the oranges sold: $350 - 187 = 163$ oranges remaining.\n2. Subtract the rotten oranges from the remaining amount: $163 - 12 = 151$ good oranges.\n\nAlternatively, add the total oranges lost/sold first: $187 + 12 = 199$, then subtract from starting inventory: $350 - 199 = 151$.\n\n**Answer**: The vendor has **151 good oranges** left.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Identify that both selling and throwing away oranges reduce the total.",
+        "You can subtract the sold ones first, then subtract the rotten ones."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "subtraction"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Subtraction", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Evaluate $(25 - 9) - 4$ and $25 - (9 - 4)$. Are the results the same? What property does this illustrate about subtraction?",
+      "solution": "1. Evaluate the first expression:\n   $$(25 - 9) - 4 = 16 - 4 = 12$$\n2. Evaluate the second expression:\n   $$25 - (9 - 4) = 25 - 5 = 20$$\n\nComparing the results, $12 \\neq 20$.\n\nThis shows that changing the grouping of subtraction alters the final result. Therefore, subtraction is **not associative**.\n\n**Answer**: No, they are not the same ($12$ vs $20$). This illustrates that subtraction is **not associative**.",
+      "hints": [
+        "Evaluate the terms inside the parentheses first (following standard order of operations).",
+        "Compare the final results."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Subtraction", "Properties"]
     }
   ]
 }

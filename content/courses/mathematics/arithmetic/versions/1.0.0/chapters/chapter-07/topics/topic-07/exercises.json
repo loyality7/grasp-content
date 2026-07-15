@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Decimals ↔ Percentages.",
-      "solution": "Step-by-step solution for Decimals ↔ Percentages problem.",
+      "prompt": "Convert the decimal numbers **$0.4$** and **$0.025$** into percentages.",
+      "solution": "1. **For $0.4$**:\n   - Add a trailing zero: $0.40$.\n   - Move decimal point two places to the right: $40$.\n   - Add `%`: **$40\\%$**.\n2. **For $0.025$**:\n   - Move decimal point two places to the right: $2.5$.\n   - Add `%`: **$2.5\\%$**.\n\n**Answer**: $0.4 = 40\\%$; $0.025 = 2.5\\%$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Multiply each decimal by 100 (shift the decimal point 2 positions to the right).",
+        "If you only have one decimal digit after the point (like 0.4), add a trailing zero first to make the shift easier."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "decimals-percentages"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Percentages"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Decimals ↔ Percentages to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Convert the percentages **$9\\%$** and **$245\\%$** into decimal numbers.",
+      "solution": "1. **For $9\\%$**:\n   - Remove the `%` sign: $9$.\n   - Move the decimal point two places to the left, adding a leading zero: \n     $$.09 = 0.09$$\n2. **For $245\\%$**:\n   - Remove the `%` sign: $245$ (which is $245.0$).\n   - Move the decimal point two places to the left: \n     $$2.45$$\n\n**Answer**: $9\\% = 0.09$; $245\\% = 2.45$.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Divide each percentage value by 100 (shift the decimal point 2 positions to the left).",
+        "If the percentage is a single digit (like 9%), pad with a zero in front of it to make the two-digit left shift."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "decimals-percentages"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Decimals"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A local sales tax rate is written in a store computer database as the decimal value **$0.0825$**. Express this tax rate as a percentage.",
+      "solution": "To convert the decimal $0.0825$ to a percentage:\n1. **Move the decimal point two places to the right**:\n   $$0.0825 \\to 08.25$$\n2. **Remove leading zero and add `%`**:\n   $$8.25\\%$$\n\n**Answer**: The sales tax rate is **$8.25\\%$**.",
+      "hints": [
+        "Convert the decimal to a percentage by multiplying it by 100.",
+        "Shift the decimal point past the first two digits to the right of the point (the 0 and the 8)."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Percentages", "Word Problems"]
     }
   ]
 }

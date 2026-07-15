@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Absolute Value.",
-      "solution": "Step-by-step solution for Absolute Value problem.",
+      "prompt": "Insert the correct comparison symbol ($<$, $>$, or $=$) for each statement:\n1.  **$|-6|$** ____ **$|5|$**\n2.  **$|-8|$** ____ **$|8|$**",
+      "solution": "1. **Compare $|-6|$ and $|5|$**:\n   Evaluate first: $|-6| = 6$ and $|5| = 5$.\n   Since $6 > 5$, we write: \n   $$|-6| > |5|$$\n2. **Compare $|-8|$ and $|8|$**:\n   Evaluate first: $|-8| = 8$ and $|8| = 8$.\n   Since $8 = 8$, we write:\n   $$|-8| = |8|$$\n\n**Answer**: 1. **$>$**, 2. **$=$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Simplify the absolute value terms on both sides of the comparison blanks first.",
+        "Remember absolute value is always positive. For example, the absolute value of both -8 and 8 is 8."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "absolute-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value", "Comparisons"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Absolute Value to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Evaluate: **$|-12 - 5|$**.",
+      "solution": "1. **Perform operation inside the absolute value bars first**:\n   $$-12 - 5 = -12 + (-5) = -17$$\n2. **Take the absolute value of the result**:\n   $$|-17| = 17$$\n\n**Answer**: **$17$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Work out the arithmetic inside the bars before taking the absolute value.",
+        "Subtracting 5 from -12 gives you -17. Now find the absolute value of -17."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "absolute-value"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value", "Operations"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A submarine dives to an elevation of **$-150\\text{ meters}$** relative to sea level. A helicopter hovers directly above it at an elevation of **$+150\\text{ meters}$**.\n1. Compare their positions using integers ($<$ or $>$.\n2. Compare their absolute distances from sea level ($0\\text{ meters}$) using absolute values.",
+      "solution": "1. **Compare positions**:\n   The submarine is below sea level ($-150$) and the helicopter is above ($+150$). Since positive is always greater than negative:\n   $$-150 < 150 \\quad \\text{(or } 150 > -150 \\text{)}$$\n\n2. **Compare distances from sea level ($0$)**:\n   - Submarine distance: $|-150| = 150\\text{ meters}$.\n   - Helicopter distance: $|150| = 150\\text{ meters}$.\n   Comparing absolute values:\n   $$|-150| = |150| \\quad \\implies \\quad 150 = 150$$\n\n**Answer**: 1. **$-150 < 150$** (helicopter is at a higher elevation). 2. **$|-150| = |150|$** (both are exactly $150\\text{ meters}$ away from sea level).",
+      "hints": [
+        "Position refers to the elevation integers: negative values are smaller than positive values.",
+        "Distance is the absolute magnitude (distance from zero), which ignores positive/negative directions."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Absolute Value", "Elevation", "Word Problems"]
     }
   ]
 }

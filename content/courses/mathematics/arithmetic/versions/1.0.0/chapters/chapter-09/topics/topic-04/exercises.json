@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Square Roots.",
-      "solution": "Step-by-step solution for Square Roots problem.",
+      "prompt": "Evaluate the following square roots:\n1.  **$\\sqrt{121}$**\n2.  **$\\sqrt{1}$**",
+      "solution": "1. **Evaluate $\\sqrt{121}$**:\n   We look for a number $y$ such that $y \\times y = 121$. Since $11 \\times 11 = 121$, the principal square root is:\n   $$\\sqrt{121} = 11$$\n2. **Evaluate $\\sqrt{1}$**:\n   We look for a number $y$ such that $y \\times y = 1$. Since $1 \\times 1 = 1$, we get:\n   $$\\sqrt{1} = 1$$\n\n**Answer**: 1. **$11$**, 2. **$1$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "What number multiplied by itself equals 121?",
+        "What number multiplied by itself equals 1?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "square-roots"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Square Roots", "Perfect Squares"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Square Roots to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Explain in detail why **$\\sqrt{-16}$** is not a real number.",
+      "solution": "1. **Recall the definition of a square root**:\n   The square root of $-16$ must be a number that, when multiplied by itself, equals $-16$.\n2. **Analyze real number products**:\n   - If we choose a positive number: $\\text{positive} \\times \\text{positive} = \\text{positive}$ (e.g. $4 \\times 4 = 16$).\n   - If we choose a negative number: $\\text{negative} \\times \\text{negative} = \\text{positive}$ (e.g. $-4 \\times -4 = 16$).\n3. **Conclusion**:\n   There is no real number that can be multiplied by itself to produce a negative result like $-16$. Therefore, $\\sqrt{-16}$ cannot exist as a real number.\n\n**Answer**: No real number squared can produce a negative product, so the square root of a negative number is not a real number.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Try squaring 4 and then try squaring -4.",
+        "Can the product of two identical real numbers ever be negative?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "square-roots"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Square Roots", "Negative Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Estimate: Between which two consecutive integers does the value of **$\\sqrt{50}$** lie?",
+      "solution": "1. **Find perfect squares close to 50**:\n   Identify perfect squares just below and just above 50:\n   - Just below: $49$ (since $7^2 = 49$)\n   - Just above: $64$ (since $8^2 = 64$)\n2. **Set up the inequality**:\n   $$49 < 50 < 64$$\n3. **Apply square roots**:\n   $$\\sqrt{49} < \\sqrt{50} < \\sqrt{64}$$\n   $$7 < \\sqrt{50} < 8$$\n\n**Answer**: The value of $\\sqrt{50}$ lies between **$7$ and $8$** (specifically, it is very close to 7.07).",
+      "hints": [
+        "Find the perfect square that is slightly smaller than 50 and the perfect square that is slightly larger than 50.",
+        "Take the square roots of those two perfect squares to find the boundary integers."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Square Roots", "Estimation"]
     }
   ]
 }

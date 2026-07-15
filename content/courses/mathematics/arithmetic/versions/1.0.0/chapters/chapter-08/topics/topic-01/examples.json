@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Ratio",
-      "content": "A practical example demonstrating Ratio",
-      "source": "Generated",
+      "title": "Writing a Ratio from a Word Problem",
+      "content": "In a school classroom, there are **$12$ boys** and **$15$ girls**.\n1.  What is the ratio of boys to girls?\n2.  What is the ratio of girls to boys?\n\n### Step-by-Step Solution\n\n1.  **Find the ratio of boys to girls**:\n    -   First term (boys) = $12$\n    -   Second term (girls) = $15$\n    -   Ratio = **$12:15$** (or **$12$ to $15$**, or **$\\frac{12}{15}$**).\n\n2.  **Find the ratio of girls to boys**:\n    -   First term (girls) = $15$\n    -   Second term (boys) = $12$\n    -   Ratio = **$15:12$** (or **$15$ to $12$**, or **$\\frac{15}{12}$**).\n\n*(Note: Order matters! The ratio of boys to girls is different from girls to boys).* \n\n**Answer**:\n1.  Boys to girls: **$12:15$**\n2.  Girls to boys: **$15:12$**",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "ratio"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios", "Word Problems"]
+    },
+    {
+      "id": "example-02",
+      "title": "Comparing Part-to-Part and Part-to-Whole Ratios",
+      "content": "A cookie recipe calls for **$2$ cups of sugar** and **$5$ cups of flour**.\n1.  Express the part-to-part ratio of sugar to flour.\n2.  Express the part-to-whole ratio of flour to total dry ingredients.\n\n### Step-by-Step Solution\n\n1.  **Find the part-to-part ratio of sugar to flour**:\n    -   Sugar = $2$, Flour = $5$\n    -   Ratio = **$2:5$**\n\n2.  **Find the part-to-whole ratio of flour to total**:\n    -   First, find the total parts of ingredients: \n        $$\\text{Total} = 2 \\text{ cups sugar} + 5 \\text{ cups flour} = 7 \\text{ cups total}$$\n    -   Compare flour ($5$) to total ($7$):\n    -   Ratio = **$5:7$** (or **$\\frac{5}{7}$** of the recipe is flour).\n\n**Answer**:\n1.  Sugar to flour: **$2:5$**\n2.  Flour to total: **$5:7$**",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios", "Part-to-Part", "Part-to-Whole"]
     }
   ]
 }

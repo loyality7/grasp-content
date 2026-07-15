@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Triangle Law",
-      "content": "A practical example demonstrating Triangle Law",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "triangle-law"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Walking Paths","content":"Walk 5 km east, then 3 km north. Triangle: 5-3-hypotenuse. Hypotenuse (displacement) = √(5²+3²)≈5.8 km. The closing side of the triangle.","source":"Navigation","difficulty":"beginner","estimatedMinutes":2,"tags":["displacement","triangle-law"]},{"id":"example-02","title":"Force Components","content":"Force A pulls at 30°, Force B pulls at 50°. The resultant closes the triangle formed by A, B. Result is the third side of the triangle.","source":"Statics","difficulty":"beginner","estimatedMinutes":2,"tags":["force","resultant"]},{"id":"example-03","title":"Boat Navigation","content":"Boat travels 6 km north, then 8 km east. Total displacement (hypotenuse) = √(6²+8²) = 10 km at an angle. Forms a 6-8-10 triangle!","source":"Kinematics","difficulty":"beginner","estimatedMinutes":2,"tags":["displacement","3-4-5-triangle"]}]}

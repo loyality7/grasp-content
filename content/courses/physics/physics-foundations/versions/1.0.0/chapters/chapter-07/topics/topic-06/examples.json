@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Proportionality",
-      "content": "A practical example demonstrating Proportionality",
-      "source": "Generated",
+      "title": "Distance at Constant Speed",
+      "content": "d = vt. Speed is constant, so distance proportional to time. 30 m/s: 30m in 1sec, 60m in 2sec. Direct proportionality.",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "proportionality"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["distance", "direct"]
+    },
+    {
+      "id": "example-02",
+      "title": "Ideal Gas Law",
+      "content": "PV = nRT. At constant T and n: pressure ∝ 1/volume. Halve volume, double pressure. Inverse proportionality.",
+      "source": "Thermodynamics",
+      "difficulty": "advanced",
+      "estimatedMinutes": 2,
+      "tags": ["gas", "inverse"]
+    },
+    {
+      "id": "example-03",
+      "title": "Brightness and Distance",
+      "content": "Light spreads out. Brightness ∝ 1/distance². Twice as far, ¼ as bright. Power law inverse.",
+      "source": "Optics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["light", "inverse-square"]
     }
   ]
 }

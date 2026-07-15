@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Cubes",
   "topicId": "mathematics.arithmetic.chapter-09.topic-03",
-  "description": "Learn about Cubes and its applications in mathematics.",
+  "description": "Learn what it means to cube a number, connect cubes to geometric volume, identify perfect cubes, and calculate cubes of positive and negative numbers.",
   "content": {
-    "overview": "Cubes is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Cubes. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Cubes requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The cube of a number is the product obtained by multiplying the number by itself three times. Raising a number to the power of 3 is called cubing it.",
+    "explanation": "### What is a Cube?\n\nTo cube a number, you use it as a factor three times. Mathematically, we write the cube of a variable $n$ as $n^3$:\n\n{{viz:formula-01}}\n\n*Examples*:\n-   The cube of $2$ is written as $2^3$:\n    $$2^3 = 2 \\times 2 \\times 2 = 8$$\n-   The cube of $5$ is written as $5^3$:\n    $$5^3 = 5 \\times 5 \\times 5 = 125$$\n\n### The Geometric Connection\n\nThe term \"cube\" comes from geometry. A solid 3D cube has equal length, width, and height. To find the volume of a cube with a side length of $3$ units, you multiply length by width by height:\n$$\\text{Volume} = 3 \\times 3 \\times 3 = 3^3 = 27 \\text{ cubic units}$$\nCubing a number tells you the number of small $1 \\times 1 \\times 1$ blocks needed to build a larger cube.\n\n### Perfect Cubes\n\nA **perfect cube** is the product of an integer multiplied by itself three times. The first few perfect cubes are:\n-   $1^3 = 1$\n-   $2^3 = 8$\n-   $3^3 = 27$\n-   $4^3 = 64$\n-   $5^3 = 125$\n-   $6^3 = 216$\n\n### Cubing Negative Numbers\n\nUnlike squaring, when you cube a negative number, the result is **always negative** because you are multiplying three negative factors:\n$$(-3)^3 = (-3) \\times (-3) \\times (-3)$$\n$$= 9 \\times (-3)$$\n$$= -27$$\nThis is an important difference to keep in mind: squares of real numbers are never negative, but cubes of negative numbers are always negative!\n\n### Visualizing Cubes Geometrically\n\nWatch this animation illustrating how blocks stack to form 3D cubic structures. Observe the block counts for $1^3$, $2^3$, and $3^3$ in isometric perspective:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Cubing a number means multiplying it by itself three times: n\u00b3 = n \u00d7 n \u00d7 n.",
+      "The result of cubing a whole number is called a perfect cube.",
+      "The cube of a negative number is always negative.",
+      "Geometrically, cubing a number represents the volume of a 3D cube with that side length."
     ],
-    "whyItMatters": "Cubes is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Cubes are used to measure volumes (liquid containers, boxes), solve 3D physics problems, scale objects in 3D computer graphics, and calculate spherical masses."
   },
   "availableLanguages": [
     "en"

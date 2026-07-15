@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Least Common Multiple (LCM)",
-      "content": "A practical example demonstrating Least Common Multiple (LCM)",
-      "source": "Generated",
+      "title": "Finding LCM by Listing Multiples",
+      "content": "Find the Least Common Multiple (LCM) of **6** and **8** by listing multiples.\n\n### Step-by-Step Solution\n\n**Step 1: List the positive multiples of 6**\nWe multiply 6 by 1, 2, 3, 4, 5, etc.:\n$$\\text{Multiples of 6} = \\{6, 12, 18, \\mathbf{24}, 30, 36, 42, \\mathbf{48}, \\dots\\}$$\n\n**Step 2: List the positive multiples of 8**\nWe multiply 8 by 1, 2, 3, 4, 5, etc.:\n$$\\text{Multiples of 8} = \\{8, 16, \\mathbf{24}, 32, 40, \\mathbf{48}, 56, \\dots\\}$$\n\n**Step 3: Identify the common multiples**\nThe shared multiples that appear in both lists are:\n$$\\text{Common Multiples} = \\{24, 48, 72, \\dots\\}$$\n\n**Step 4: Choose the smallest common multiple**\nThe smallest positive number on this list is **24**.\n\n**Answer**: The LCM of 6 and 8 is **24**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "least-common-multiple-lcm"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "LCM", "Listing Multiples"]
+    },
+    {
+      "id": "example-02",
+      "title": "Finding LCM by Prime Factorization",
+      "content": "Find the Least Common Multiple (LCM) of **12** and **15** using prime factorization.\n\n### Step-by-Step Solution\n\n**Step 1: Find the prime factorization of each number**\n- $12 = 2 \\times 6 = 2 \\times 2 \\times 3$\n  $$12 = 2^2 \\times 3^1$$\n- $15 = 3 \\times 5$\n  $$15 = 3^1 \\times 5^1$$\n\n**Step 2: List all prime factors that appear in either number**\nThe prime bases present are **2, 3, and 5**.\n\n**Step 3: Identify the highest power for each prime**\n- For base 2: The powers are $2^2$ (in 12) and $2^0$ (in 15). The highest is **$2^2$**.\n- For base 3: The powers are $3^1$ (in 12) and $3^1$ (in 15). The highest is **$3^1$**.\n- For base 5: The powers are $5^0$ (in 12) and $5^1$ (in 15). The highest is **$5^1$**.\n\n**Step 4: Multiply these highest powers together**\n$$\\text{LCM} = 2^2 \\times 3^1 \\times 5^1$$\n$$= 4 \\times 3 \\times 5$$\n$$= 12 \\times 5 = 60$$\n\n**Answer**: The LCM of 12 and 15 is **60**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "LCM", "Prime Factorization"]
     }
   ]
 }

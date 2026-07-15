@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Percentage of a Number?",
+      "question": "In mathematics, when solving percentage word problems, the word 'of' indicates which operation?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "The word 'of' is a mathematical operator indicating multiplication (e.g. 20% of 80 = 20% × 80).",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Percentage of a Number is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Calculate: $25\\%$ of $64$",
       "options": [
-        "True",
-        "False"
+        "16",
+        "32",
+        "8",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "$25\\%$ is equivalent to the fraction $\\frac{1}{4}$. Dividing $64$ by $4$ gives $16$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is $10\\%$ of $350$?",
+      "options": [
+        "3.5",
+        "35",
+        "350",
+        "0.35"
       ],
       "correctIndex": 1,
-      "explanation": "Percentage of a Number has many practical applications.",
+      "explanation": "To find $10\\%$, divide the number by $10$ (move the decimal point 1 place left): $350 \\div 10 = 35$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Find the value of: $30\\%$ of $90$",
+      "options": [
+        "3",
+        "27",
+        "30",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "$30\\% = 0.3$. Perform multiplication: $0.3 \\times 90 = 27$. (Alternatively: 10% is 9, so 30% is 3 × 9 = 27).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "A student saves $5\\%$ of their $120$ dollars monthly allowance. How much money do they save each month?",
+      "options": [
+        "5 dollars",
+        "12 dollars",
+        "6 dollars",
+        "1.20 dollars"
+      ],
+      "correctIndex": 2,
+      "explanation": "First, find 10% of 120, which is 12. Since 5% is half of 10%, divide 12 by 2, which gives 6 dollars.",
+      "difficulty": "medium"
     }
   ]
 }

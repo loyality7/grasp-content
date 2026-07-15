@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Motion",
-      "content": "A practical example demonstrating Motion",
-      "source": "Generated",
+      "title": "A Car Driving Down a Road",
+      "content": "A car starts at a street sign (position 0). After 10 seconds, it's 100 meters past the sign. The car changed position. That's motion. The car is moving relative to the road.",
+      "source": "Everyday",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "motion"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["motion", "everyday"]
+    },
+    {
+      "id": "example-02",
+      "title": "A Ball Thrown in the Air",
+      "content": "You throw a ball straight up. It goes up (motion), reaches a peak (still motion—changing height), comes back down (motion). The whole time, position changes. That's motion.",
+      "source": "Sports",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["motion", "vertical"]
+    },
+    {
+      "id": "example-03",
+      "title": "You Sitting on a Moving Train",
+      "content": "You're sitting still on a train seat (relative to the train, you're not moving). But the train is moving 100 km/h (relative to the ground, you ARE moving). Motion is relative!",
+      "source": "Relative motion",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["motion", "relative"]
     }
   ]
 }

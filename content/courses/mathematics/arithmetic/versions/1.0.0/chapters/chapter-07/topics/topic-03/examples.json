@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Increase Percentage",
-      "content": "A practical example demonstrating Increase Percentage",
-      "source": "Generated",
+      "title": "Calculating a Percentage Increase in Two Steps",
+      "content": "Increase **$70$** by **$30\\%$**.\n\n### Step-by-Step Solution\n\n1.  **Find the increase amount**:\n    Calculate $30\\%$ of $70$:\n    $$\\text{Increase} = 30\\% \\times 70$$\n    $$\\text{Increase} = 0.30 \\times 70 = 21$$\n\n2.  **Add the increase to the original number**:\n    $$\\text{New Value} = 70 + 21 = 91$$\n\n**Answer**: The new value is **$91$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "increase-percentage"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Two-Step Method"]
+    },
+    {
+      "id": "example-02",
+      "title": "Using the Multiplier Method for Price Increase",
+      "content": "A video game store raises the price of a **$40$ dollar** game by **$15\\%$**. What is the new retail price of the game?\n\n### Step-by-Step Solution\n\n1.  **Determine the multiplier**:\n    A $15\\%$ increase means the new price is $115\\%$ of the original price.\n    $$\\text{Multiplier} = 1 + 0.15 = 1.15$$\n\n2.  **Multiply the original price by the multiplier**:\n    $$\\text{New Price} = 40 \\times 1.15$$\n    \n    Let's multiply:\n    $$40 \\times 1.15 = 40 \\times \\frac{115}{100} = \\frac{4600}{100} = 46$$\n\n**Answer**: The new price of the game is **$46$ dollars**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Multiplier Method", "Word Problems"]
     }
   ]
 }

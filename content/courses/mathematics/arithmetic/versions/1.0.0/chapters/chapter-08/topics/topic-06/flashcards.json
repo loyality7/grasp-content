@@ -3,14 +3,32 @@
     {
       "id": "card-01",
       "front": "What is Inverse Proportion?",
-      "back": "Inverse Proportion is a fundamental concept in mathematics.",
+      "back": "A relationship where an increase in one variable leads to a proportional decrease in the other, keeping their product constant.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Inverse Proportion important?",
-      "back": "Inverse Proportion is essential for understanding Arithmetic.",
+      "front": "What is the formula representing inverse proportion?",
+      "back": "$y = \\frac{k}{x}$ (or $x \\cdot y = k$), where $k$ is a constant.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What does the graph of an inverse variation look like?",
+      "back": "A curve called a hyperbola that bends towards the x and y axes but never touches them.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "If $x$ is halved in an inverse proportion, what happens to $y$?",
+      "back": "y is doubled.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Give a common real-world example of inverse proportion.",
+      "back": "The relationship between the number of workers on a project and the time it takes to complete it.",
+      "difficulty": "easy"
     }
   ]
 }

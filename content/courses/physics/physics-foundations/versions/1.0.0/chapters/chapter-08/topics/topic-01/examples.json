@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Experimental Design",
-      "content": "A practical example demonstrating Experimental Design",
-      "source": "Generated",
+      "title": "Testing Spring Strength",
+      "content": "Question: Do stiffer springs bounce higher? Design: Use springs of different stiffness (k=100, 200, 300 N/m), drop from same height, measure bounce height. Change: spring stiffness. Keep same: drop height, ball mass, surface. Trials: 3 per spring.",
+      "source": "Springs",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "experimental-design"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["springs", "design"]
+    },
+    {
+      "id": "example-02",
+      "title": "Pendulum Period Test",
+      "content": "Question: Does pendulum length affect swing time? Design: Use lengths 10, 20, 30, 40 cm, measure 10 swings for each. Change: length. Keep same: bob mass, starting angle, location. Trials: 3 per length.",
+      "source": "Pendulums",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["pendulum", "design"]
+    },
+    {
+      "id": "example-03",
+      "title": "Friction vs Surface",
+      "content": "Question: Does surface roughness affect friction? Design: Slide block on wood, plastic, cloth at different angles, measure when it starts to slide. Change: surface type. Keep same: block mass, starting position, angle increment. Trials: 3 per surface.",
+      "source": "Friction",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["friction", "design"]
     }
   ]
 }

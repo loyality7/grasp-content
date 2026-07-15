@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Equivalent Ratios?",
-      "back": "Equivalent Ratios is a fundamental concept in mathematics.",
+      "front": "What are Equivalent Ratios?",
+      "back": "Ratios that express the same relationship or proportion between quantities.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Equivalent Ratios important?",
-      "back": "Equivalent Ratios is essential for understanding Arithmetic.",
+      "front": "How do you find an equivalent ratio by scaling up?",
+      "back": "Multiply both terms (antecedent and consequent) of the ratio by the same non-zero number.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you find an equivalent ratio by scaling down?",
+      "back": "Divide both terms of the ratio by a common factor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is a scale factor in ratios?",
+      "back": "The multiplier or divisor used to convert one ratio to another equivalent ratio.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Is the ratio $3:5$ equivalent to $12:20$?",
+      "back": "Yes, because multiplying both terms of $3:5$ by 4 yields $12:20$.",
+      "difficulty": "easy"
     }
   ]
 }

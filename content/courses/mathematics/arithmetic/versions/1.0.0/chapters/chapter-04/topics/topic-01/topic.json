@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Factors",
   "topicId": "mathematics.arithmetic.chapter-04.topic-01",
-  "description": "Learn about Factors and its applications in mathematics.",
+  "description": "Learn about factors, divisor relationships, how to find all factors of a number, and the key properties of factors.",
   "content": {
-    "overview": "Factors is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Factors. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Factors requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A factor is a whole number that divides another whole number completely, leaving no remainder. Understanding factors is key to splitting numbers and understanding their structure.",
+    "explanation": "### What is a Factor?\n\nIf you can divide a number $A$ by another number $B$ without leaving any remainder, then $B$ is a **factor** of $A$. In this case, we also say that $B$ is a **divisor** of $A$, and that $A$ is **divisible** by $B$.\n\nFor example, if you divide 12 by 3:\n$$12 \\div 3 = 4 \\quad (\\text{Remainder } 0)$$\nSo, **3** is a factor of 12. Since $3 \\times 4 = 12$, **4** is also a factor of 12.\n\nMathematically:\n\n{{viz:formula-01}}\n\n### Properties of Factors\n\n1.  **The Number 1**: The number 1 is a factor of **every** whole number because $N \\div 1 = N$ for any number $N$.\n2.  **Every Number is its Own Factor**: Every whole number (except 0) is a factor of itself because $N \\div N = 1$.\n3.  **Finiteness**: A number has a **limited (finite)** number of factors. For example, 12 has exactly six factors.\n4.  **Size of Factors**: Every factor of a positive number is less than or equal to the number itself. (Factors of $N$ lie in the range $[1, N]$).\n\n### Finding All Factors (Pairs Method)\n\nTo find all factors of a number, search for multiplication pairs that equal that number. Start from 1 and work upwards until the factors begin to repeat.\n\n**Example: Find all factors of 12**\n- $1 \\times 12 = 12$ (Factors: 1, 12)\n- $2 \\times 6 = 12$ (Factors: 2, 6)\n- $3 \\times 4 = 12$ (Factors: 3, 4)\n- $4 \\times 3 = 12$ (Repeated, so stop here)\n\nListing them in order, the factors of 12 are: **1, 2, 3, 4, 6, 12**.\n\n### Visualizing Factors: Rectangular Arrays\n\nWe can visualize factors of a number by arranging that number of dots into perfect rectangular grids. Each configuration's dimensions represent a pair of factors.\n\nFor instance, 12 dots can be arranged in three different layouts:\n*   A $1 \\times 12$ grid (1 row of 12, or 12 rows of 1)\n*   A $2 \\times 6$ grid (2 rows of 6, or 6 rows of 2)\n*   A $3 \\times 4$ grid (3 rows of 4, or 4 rows of 3)\n\n{{viz:anim-01}}\n\nSince no other perfect rectangles can be made with 12 dots, those dimensions represent all the factors of 12.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A factor divides a whole number evenly, leaving a remainder of zero.",
+      "Factors always come in pairs (e.g., 2 and 6 are a factor pair of 12).",
+      "The number 1 is the smallest factor of any positive integer, and the number itself is the largest factor.",
+      "The number of factors for any positive integer is finite."
     ],
-    "whyItMatters": "Factors is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Factors are essential for simplifying fractions, finding common denominators, factoring algebraic expressions, and cryptography (which relies on finding factors of extremely large numbers)."
   },
   "availableLanguages": [
     "en"

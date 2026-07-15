@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Multiplication.",
-      "solution": "Step-by-step solution for Multiplication problem.",
+      "prompt": "Evaluate: **$354 \\times 27$** using vertical multiplication. Show partial products.",
+      "solution": "1. Align vertically:\n   $$\\begin{array}{r@{\\quad}l}\n     354 \\\\\n   \\times \\phantom{0}27 \\\\\n   \\hline\n   \\end{array}$$\n2. Multiply $354 \\times 7$:\n   - $7 \\times 4 = 28$ (Write 8, carry 2)\n   - $7 \\times 5 = 35 + 2 = 37$ (Write 7, carry 3)\n   - $7 \\times 3 = 21 + 3 = 24$ (Write 24)\n   - First partial product: **2,478**\n3. Multiply $354 \\times 2$ (tens place):\n   - Write placeholder **0**.\n   - $2 \\times 4 = 8$\n   - $2 \\times 5 = 10$ (Write 0, carry 1)\n   - $2 \\times 3 = 6 + 1 = 7$\n   - Second partial product: **7,080**\n4. Add partial products:\n   $$2478 + 7080 = 9558$$\n\n**Answer**: $354 \\times 27 = 9,558$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First, multiply $354$ by $7$.",
+        "Put a zero in the ones column of the next row before multiplying $354$ by $2$.",
+        "Add the two rows together to get your final answer."
       ],
       "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "multiplication"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Multiplication", "Algorithm"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Multiplication to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A small orchard has **15** rows of apple trees, and each row has **18** trees. If each tree produces **120** apples in a season, how many apples does the orchard produce in total?",
+      "solution": "We need to find the total trees first, then multiply by apples per tree:\n\n1. **Total trees** = $15 \\times 18$.\n   - $15 \\times 10 = 150$, $15 \\times 8 = 120$.\n   - $150 + 120 = 270$ trees.\n2. **Total apples** = $270 \\text{ trees} \\times 120 \\text{ apples/tree}$.\n   - Multiply $27 \\times 12 = 324$.\n   - Append the two trailing zeros: $32,400$.\n\n**Answer**: The orchard produces **32,400 apples** in total.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "First calculate how many trees there are by multiplying rows by trees per row.",
+        "Multiply the total number of trees by the apples produced per tree."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "multiplication"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Multiplication", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Use the **Distributive Property** to mentally compute **$7 \\times 98$** without using a vertical table.",
+      "solution": "We can rewrite $98$ as $(100 - 2)$:\n\n$$7 \\times 98 = 7 \\times (100 - 2)$$\n\nApplying the Distributive Property, we distribute the $7$ over subtraction:\n\n$$7 \\times (100 - 2) = (7 \\times 100) - (7 \\times 2)$$\n$$= 700 - 14$$\n$$= 686$$\n\n**Answer**: $686$.",
+      "hints": [
+        "98 is very close to 100. How can you write 98 using 100?",
+        "Use $a \\times (b - c) = ab - ac$."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Multiplication", "Mental Math"]
     }
   ]
 }

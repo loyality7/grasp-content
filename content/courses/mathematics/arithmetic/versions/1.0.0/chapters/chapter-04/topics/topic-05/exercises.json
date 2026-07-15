@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Prime Factorization.",
-      "solution": "Step-by-step solution for Prime Factorization problem.",
+      "prompt": "Find the prime factorization of **90**. Write your final answer using exponents.",
+      "solution": "Let's perform successive division on 90:\n- $90 \\div 2 = 45$\n- $45 \\div 3 = 15$ (45 is not even, next prime is 3)\n- $15 \\div 3 = 5$\n- $5 \\div 5 = 1$\n\nThe prime factors are 2, 3, 3, and 5.\nMultiplying them: $2 \\times 3 \\times 3 \\times 5 = 2 \\times 3^2 \\times 5$.\n\n**Answer**: **$2 \\times 3^2 \\times 5$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Divide 90 by the smallest prime possible (which is 2).",
+        "Keep dividing the resulting quotients by prime numbers until you reach 1.",
+        "Group any repeated factors as exponents."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "prime-factorization"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Factorization"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Prime Factorization to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Identify the composite number whose prime factorization is **$2^2 \\times 3^2 \\times 5$**.",
+      "solution": "To find the number, evaluate the expression by expanding the powers:\n- $2^2 = 2 \\times 2 = 4$\n- $3^2 = 3 \\times 3 = 9$\n\nNow, substitute these back into the product:\n$$\\text{Number} = 4 \\times 9 \\times 5$$\n$$= 36 \\times 5$$\n$$= 180$$\n\n**Answer**: **180**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "First, calculate the value of $2^2$ and $3^2$.",
+        "Multiply the results together along with 5."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "prime-factorization"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Prime Factorization", "Expansion"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain the significance of the word **'unique'** in the Fundamental Theorem of Arithmetic. If order does not matter, can a number have two different prime factorizations?",
+      "solution": "The word **'unique'** means that there is only one specific set of prime factors for any given composite number. \n\nNo matter what method you use (factor trees, ladders) or which factor pairs you start branching with, you will always end up with the exact same prime numbers at the end. For example, for 12, the prime factors are always two 2s and one 3. You cannot factor 12 into $2 \\times 5 \\times 7$ or any other combination.\n\nWhile we can change the order (e.g., $2 \\times 3 \\times 2$ or $3 \\times 2 \\times 2$), the prime factors themselves remain identical. Thus, the prime factorization is mathematically unique.\n\n**Answer**: Unique means only one combination of primes can multiply to that number. Changing order is allowed, but the set of primes is identical.",
+      "hints": [
+        "Try drawing two different factor trees for the same number, say 24, starting with $2 \\times 12$ and $4 \\times 6$.",
+        "Compare the final set of prime leaves."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Factorization", "Concepts"]
     }
   ]
 }

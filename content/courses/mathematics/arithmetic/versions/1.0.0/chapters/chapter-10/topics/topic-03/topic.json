@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Absolute Value",
   "topicId": "mathematics.arithmetic.chapter-10.topic-03",
-  "description": "Learn about Absolute Value and its applications in mathematics.",
+  "description": "Understand absolute value as distance from zero on a number line, evaluate absolute values of positive and negative numbers, and compute expressions with absolute value bars.",
   "content": {
-    "overview": "Absolute Value is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Absolute Value. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Absolute Value requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The absolute value of a number is its distance from zero on a number line, regardless of direction. Since distance is always positive or zero, absolute values are never negative.",
+    "explanation": "### What is Absolute Value?\n\nIf you take $3$ steps forward ($+3$) or $3$ steps backward ($-3$), in both cases you have walked a distance of exactly $3$ steps. Distance cannot be negative.\n\nIn math, we represent the absolute value of a number $x$ by placing it between two vertical bars: **$|x|$**.\n\n{{viz:formula-01}}\n\n-   **$|3|$** is read as \"the absolute value of $3$\". Since $3$ is $3$ units away from $0$, $|3| = 3$.\n-   **$|-3|$** is read as \"the absolute value of negative $3$\". Since $-3$ is also $3$ units away from $0$, $|-3| = 3$.\n\n### Simple Rule\nThe absolute value of any number is simply its positive version:\n-   $|7| = 7$\n-   $|-12| = 12$\n-   $|0| = 0$\n\n### Negative Signs Outside the Bars\nBe careful if there is a negative sign **outside** the absolute value bars. The absolute value is computed first, and then the negative sign is applied:\n-   $$-|-5| \\implies -(5) \\implies -5$$\n\n### Comparing with Absolute Value\nEven though $-10$ is smaller than $2$ (because $-10 < 2$), the absolute value of $-10$ is larger because it is further from zero:\n-   $$|-10| > |2| \\quad \\implies \\quad 10 > 2$$\n\n### Visualizing Absolute Value as Distance\n\nWatch this animation showing how both $+3$ and $-3$ have the exact same distance of $3$ units from zero on the number line:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Absolute value represents the distance of a number from zero on the number line.",
+      "The symbol |x| is used to denote the absolute value of x.",
+      "Absolute value is always positive or zero (never negative).",
+      "Negative signs outside of the absolute value bars (like -|x|) result in a negative value."
     ],
-    "whyItMatters": "Absolute Value is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Absolute values are used to calculate total distances traveled, margins of error in measurements, differences between temperatures, and are widely used in advanced algebraic inequalities."
   },
   "availableLanguages": [
     "en"

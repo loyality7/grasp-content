@@ -2,16 +2,19 @@
   "id": "topic-02",
   "name": "Derived Units",
   "topicId": "physics.physics-foundations.chapter-02.topic-02",
-  "description": "Learn about Derived Units and its applications in physics.",
+  "description": "Units made by combining the 7 base units together",
   "content": {
-    "overview": "Derived Units is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Derived Units. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Derived Units requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Derived units are made by combining base units. Just like you make words by combining letters, you make new units by combining the 7 base units. {{viz:diagram-01}}",
+    "explanation": "So we have 7 base units. But physics needs lots of other units too. Speed, force, energy, power, pressure... How do you make these units?\n\nYou multiply and divide the base units! {{viz:diagram-02}}\n\n**Speed** = distance ÷ time = meters ÷ seconds = **m/s** (meters per second)\n\n**Force** = mass × acceleration = kilograms × (meters ÷ seconds²) = **kg·m/s²** (this is also called a **Newton** or **N**)\n\n**Energy** = force × distance = kg·m²/s² = **Joule** or **J**\n\n**Power** = energy ÷ time = kg·m²/s³ = **Watt** or **W**\n\nSee the pattern? You start with base units and combine them. {{viz:chart-01}}\n\nSometimes scientists give these combinations fancy names:\n- 1 kg·m/s² = 1 **Newton** (N) - a unit of force\n- 1 kg·m²/s² = 1 **Joule** (J) - a unit of energy\n- 1 kg·m²/s³ = 1 **Watt** (W) - a unit of power\n\nBut underneath, they're all just combinations of the 7 base units. {{viz:anim-01}}\n\nWhy do this? Because it makes physics clearer. Instead of saying 'kilograms times meters per second squared,' you say 'newtons.' Shorter, clearer, easier to work with.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Derived units = combinations of base units",
+      "Speed = m/s (meters per second)",
+      "Force = Newton = kg·m/s²",
+      "Energy = Joule = kg·m²/s²",
+      "Power = Watt = kg·m²/s³",
+      "All derived units come from combining the 7 base units"
     ],
-    "whyItMatters": "Derived Units is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Most units you see in physics are derived units. Understanding how they're built helps you understand what they mean and how to use them correctly."
   },
   "availableLanguages": [
     "en"

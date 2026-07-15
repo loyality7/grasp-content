@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Greatest Common Divisor (GCD/HCF)?",
+      "question": "What is the Greatest Common Divisor (GCD) of 15 and 25?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1",
+        "3",
+        "5",
+        "75"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Factors of 15 are 1, 3, 5, 15. Factors of 25 are 1, 5, 25. The common factors are 1 and 5. The largest is 5. 75 is the LCM, not the GCD.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Greatest Common Divisor (GCD/HCF) is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What does the abbreviation HCF stand for in arithmetic?",
       "options": [
-        "True",
-        "False"
+        "Highest Common Factor",
+        "Half Common Factor",
+        "Highest Common Fraction",
+        "Horizontal Common Formula"
+      ],
+      "correctIndex": 0,
+      "explanation": "HCF stands for Highest Common Factor, which is another term for Greatest Common Divisor (GCD).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of the following pairs of numbers is coprime?",
+      "options": [
+        "6 and 9",
+        "8 and 12",
+        "9 and 10",
+        "15 and 25"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two numbers are coprime if their GCD is 1. The factors of 9 are 1, 3, 9. The factors of 10 are 1, 2, 5, 10. Their only common factor is 1, so they are coprime. The other pairs have GCDs of 3, 4, and 5.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "What is the Greatest Common Divisor of 30 and 45?",
+      "options": [
+        "5",
+        "15",
+        "30",
+        "90"
       ],
       "correctIndex": 1,
-      "explanation": "Greatest Common Divisor (GCD/HCF) has many practical applications.",
+      "explanation": "Factors of 30: 1, 2, 3, 5, 6, 10, 15, 30. Factors of 45: 1, 3, 5, 9, 15, 45. The largest shared factor is 15.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If $p$ and $q$ are two different prime numbers, what is their GCD?",
+      "options": [
+        "$p \\times q$",
+        "1",
+        "0",
+        "It depends on the numbers chosen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Since prime numbers only have factors of 1 and themselves, two different prime numbers will share no factors other than 1. Therefore, their GCD is always 1, meaning any two distinct prime numbers are coprime.",
+      "difficulty": "medium"
     }
   ]
 }

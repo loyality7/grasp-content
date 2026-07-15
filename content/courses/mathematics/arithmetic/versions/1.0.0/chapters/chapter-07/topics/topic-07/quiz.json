@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Decimals ↔ Percentages?",
+      "question": "To convert a decimal to a percentage, you shift the decimal point two places in which direction?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "To the Left",
+        "To the Right",
+        "Upwards",
+        "It depends on the size of the decimal"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "To convert a decimal to a percentage, you multiply by 100, which moves the decimal point two places to the right.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Decimals ↔ Percentages is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Convert the decimal $0.03$ to a percentage.",
       "options": [
-        "True",
-        "False"
+        "30%",
+        "3%",
+        "0.3%",
+        "0.03%"
       ],
       "correctIndex": 1,
-      "explanation": "Decimals ↔ Percentages has many practical applications.",
+      "explanation": "Move the decimal point two places to the right: $0.03 \\to 3.0 \\to 3\\%$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Convert $65\\%$ to a decimal.",
+      "options": [
+        "6.5",
+        "0.065",
+        "0.65",
+        "65"
+      ],
+      "correctIndex": 2,
+      "explanation": "$65\\% = \\frac{65}{100} = 0.65$. Shift the decimal point two places to the left.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Express $0.0075$ as a percentage.",
+      "options": [
+        "75%",
+        "7.5%",
+        "0.75%",
+        "0.075%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shift the decimal point two places to the right: $0.0075 \\to 0.75\\%$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Convert $150\\%$ into a decimal number.",
+      "options": [
+        "15",
+        "1.5",
+        "0.15",
+        "1.50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "$150\\% = \\frac{150}{100} = 1.5$. Shift the decimal point two places to the left.",
+      "difficulty": "medium"
     }
   ]
 }

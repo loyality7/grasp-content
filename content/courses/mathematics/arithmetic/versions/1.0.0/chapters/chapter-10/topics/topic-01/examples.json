@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Positive & Negative Numbers",
-      "content": "A practical example demonstrating Positive & Negative Numbers",
-      "source": "Generated",
+      "title": "Representing Real-World Scenarios with Integers",
+      "content": "Write an integer that represents each of the following scenarios:\n1.  **A withdrawal of $\\$45$** from a bank account.\n2.  **An altitude of $2,500\\text{ feet}$** above sea level.\n3.  **A temperature of $8\\text{ degrees}$** below zero.\n\n### Step-by-Step Solution\n\n1.  **Analyze withdrawal**:\n    A withdrawal represents taking money away, which is a decrease. This is represented by a negative sign:\n    $$\\text{Withdrawal of } \\$45 \\implies -45$$\n\n2.  **Analyze altitude**:\n    Above sea level represents a positive height above the zero-level (sea level). This is positive:\n    $$\\text{Altitude of } 2,500\\text{ ft} \\implies +2,500 \\text{ (or simply } 2,500\\text{)}$$\n\n3.  **Analyze temperature**:\n    Below zero indicates a negative temperature value:\n    $$\\text{Temperature of } 8\\text{ degrees below zero} \\implies -8$$\n\n**Answer**: 1. **$-45$**, 2. **$2,500$**, 3. **$-8$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "positive-negative-numbers"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Integers", "Applications"]
+    },
+    {
+      "id": "example-02",
+      "title": "Comparing Negative Integers",
+      "content": "Compare the integers **$-9$** and **$-3$** using the comparison symbols $<$ (less than) or $>$ (greater than), and explain your reasoning.\n\n### Step-by-Step Solution\n\n1.  **Locate the numbers on a mental number line**:\n    -   Zero is in the center.\n    -   Counting leftward, we reach $-3$ first.\n    -   Continuing leftward, we eventually reach $-9$.\n\n2.  **Apply the positioning rule**:\n    Since $-3$ lies to the right of $-9$ on the number line, $-3$ is the larger number.\n    Alternatively, $-9$ is further to the left, which makes it smaller:\n    $$-9 < -3 \\quad \\text{or} \\quad -3 > -9$$\n\n3.  **Real-world temperature analogy**:\n    A temperature of $-3^\\circ\\text{F}$ is warmer than a temperature of $-9^\\circ\\text{F}$, so $-3$ is greater than $-9$.\n\n**Answer**: **$-9 < -3$** (or **$-3 > -9$**). Because $-3$ is located to the right of $-9$ on the number line.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Integers", "Comparisons"]
     }
   ]
 }

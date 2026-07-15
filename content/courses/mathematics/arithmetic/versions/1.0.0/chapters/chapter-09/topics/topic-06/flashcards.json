@@ -3,14 +3,32 @@
     {
       "id": "card-01",
       "front": "What is Scientific Notation?",
-      "back": "Scientific Notation is a fundamental concept in mathematics.",
+      "back": "A way of writing very large or small numbers as a coefficient (between 1 and 10) multiplied by a power of 10 ($a \\times 10^n$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Scientific Notation important?",
-      "back": "Scientific Notation is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is the restriction on the coefficient $a$ in scientific notation?",
+      "back": "$a$ must be greater than or equal to 1, and strictly less than 10 ($1 \\le a < 10$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What does a positive exponent in scientific notation indicate?",
+      "back": "A large number (the decimal point was shifted to the left).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What does a negative exponent in scientific notation indicate?",
+      "back": "A small decimal number between 0 and 1 (the decimal point was shifted to the right).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Convert $4.2 \\times 10^5$ to standard form.",
+      "back": "$420,000$ (move the decimal point 5 places to the right).",
+      "difficulty": "easy"
     }
   ]
 }

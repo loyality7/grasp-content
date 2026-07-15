@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Area Under Curves",
-      "content": "A practical example demonstrating Area Under Curves",
-      "source": "Generated",
+      "title": "Distance from Velocity Graph",
+      "content": "Constant velocity of 10 m/s for 5 seconds. Area = height × width = 10 × 5 = 50 meters distance. Works!",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "area-under-curves"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["distance", "area-under-curve"]
+    },
+    {
+      "id": "example-02",
+      "title": "Work from Force Graph",
+      "content": "Force of 50 N over 10 meters distance. Area under the line = 50 × 10 = 500 Joules of work.",
+      "source": "Mechanics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["work", "force"]
+    },
+    {
+      "id": "example-03",
+      "title": "Acceleration Triangle",
+      "content": "Velocity changes from 0 to 20 m/s over 5 seconds. Triangular area = ½ × base × height = ½ × 5 × 20 = 50 meters. Distance traveled!",
+      "source": "Kinematics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["kinematics", "triangular-area"]
     }
   ]
 }

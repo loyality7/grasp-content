@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Percentage Basics Flowchart",
-      "description": "Flowchart showing Percentage Basics process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Percentage Basics",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Percentage Basics Formula",
-      "description": "Mathematical definition",
+      "title": "Mathematical Definition of Percent",
+      "description": "The general algebraic representation of a percentage as a fraction out of 100.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "x\\% = \\frac{x}{100}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "x\\%",
+            "explanation": "Any number 'x' followed by the percent symbol."
+          },
+          {
+            "latex": "\\frac{x}{100}",
+            "explanation": "Is equivalent to that number divided by 100."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Percentage Basics 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Percentage Basics Animation",
-      "description": "Canvas animation",
+      "title": "100-Grid Percentage Model",
+      "description": "Watch the 10x10 grid fill up to see how percentages represent portions of 100.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Percentage Basics Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Percentage Basics.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Percentage Basics Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Percentage Basics Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Percentage Basics",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var gridW = 120;\n    var gridH = 120;\n    var startX = (W - gridW) / 2;\n    var startY = H / 2 - 80;\n    var boxSize = gridW / 10;\n\n    // Stages\n    // 0 - 2s: empty grid (0%)\n    // 2s - 4.5s: 1 square (1%)\n    // 4.5s - 7s: 25 squares (25%)\n    // 7s - 9.5s: 50 squares (50%)\n    // 9.5s - 12s: 100 squares (100%)\n\n    var stage = 1;\n    if (progress >= 0.16 && progress < 0.38) stage = 2;\n    else if (progress >= 0.38 && progress < 0.58) stage = 3;\n    else if (progress >= 0.58 && progress < 0.79) stage = 4;\n    else if (progress >= 0.79) stage = 5;\n\n    var fillCount = 0;\n    var fillColor = '#1F2937';\n    var stepText = '0% Shaded';\n    var formulaText = '0 / 100 = 0.0';\n\n    if (stage === 1) {\n      fillCount = 0;\n      fillColor = '#1F2937';\n      stepText = '0% Shaded';\n      formulaText = '0/100 = 0.0';\n    } else if (stage === 2) {\n      fillCount = 1;\n      fillColor = '#EF4444'; // Red\n      stepText = '1% Shaded';\n      formulaText = '1/100 = 0.01';\n    } else if (stage === 3) {\n      fillCount = 25;\n      fillColor = '#3B82F6'; // Blue\n      stepText = '25% Shaded';\n      formulaText = '25/100 = 1/4 = 0.25';\n    } else if (stage === 4) {\n      fillCount = 50;\n      fillColor = '#10B981'; // Green\n      stepText = '50% Shaded';\n      formulaText = '50/100 = 1/2 = 0.50';\n    } else {\n      fillCount = 100;\n      fillColor = '#8B5CF6'; // Purple\n      stepText = '100% Shaded';\n      formulaText = '100/100 = 1 (Whole)';\n    }\n\n    // Draw squares\n    for (var r = 0; r < 10; r++) {\n      for (var c = 0; c < 10; c++) {\n        var idx = r * 10 + c;\n        var rx = startX + c * boxSize;\n        var ry = startY + r * boxSize;\n\n        ctx.beginPath();\n        ctx.rect(rx, ry, boxSize, boxSize);\n        if (idx < fillCount) {\n          ctx.fillStyle = fillColor;\n        } else {\n          ctx.fillStyle = '#1F2937';\n        }\n        ctx.fill();\n        ctx.strokeStyle = '#374151';\n        ctx.lineWidth = 1;\n        ctx.stroke();\n      }\n    }\n\n    // Label text\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.fillStyle = fillColor;\n    ctx.font = 'bold 16px -apple-system, sans-serif';\n    ctx.fillText(stepText, W / 2, H - 42);\n\n    ctx.fillStyle = '#9CA3AF';\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.fillText(formulaText, W / 2, H - 22);\n  }\n};\n"
       }
     }
   ]

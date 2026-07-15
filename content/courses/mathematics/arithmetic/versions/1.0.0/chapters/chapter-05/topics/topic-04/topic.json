@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Equivalent Fractions",
   "topicId": "mathematics.arithmetic.chapter-05.topic-04",
-  "description": "Learn about Equivalent Fractions and its applications in mathematics.",
+  "description": "Understand equivalent fractions, how they represent the same amount using different numbers, and how to generate them.",
   "content": {
-    "overview": "Equivalent Fractions is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Equivalent Fractions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Equivalent Fractions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Equivalent fractions are fractions that represent the exact same value, portion, or size, even though they have different numerators and denominators (for example, $\\frac{1}{2} = \\frac{2}{4} = \\frac{4}{8}$).",
+    "explanation": "### What are Equivalent Fractions?\n\nImagine slicing two identical chocolates:\n-   You slice the first chocolate into **2 equal pieces** and eat **1 piece**. You ate $\\frac{1}{2}$ of the chocolate.\n-   You slice the second chocolate into **4 equal pieces** and eat **2 pieces**. You ate $\\frac{2}{4}$ of the chocolate.\n\nEven though the numbers are different, you ate the exact same amount of chocolate in both cases! Therefore:\n\n$$\\frac{1}{2} = \\frac{2}{4}$$\n\nThese are called **equivalent fractions**.\n\n### The Fundamental Rules of Equivalence\n\nYou can find equivalent fractions by either multiplying or dividing the numerator and denominator by the **same non-zero number**.\n\n{{viz:formula-01}}\n\n#### Rule 1: Multiplication (Scaling Up)\nIf you multiply both the top (numerator) and the bottom (denominator) of a fraction by the same number $k$ (where $k \\neq 0$), the value of the fraction remains unchanged.\n\n$$\\frac{n}{d} = \\frac{n \\times k}{d \\times k}$$\n\n-   *Example*: Find an equivalent fraction for $\\frac{3}{5}$ with a denominator of 20.\n    1.  Compare denominators: To get from 5 to 20, we multiply by 4 ($5 \\times 4 = 20$).\n    2.  Multiply the numerator by the same number: $3 \\times 4 = 12$.\n    3.  Result:\n        $$\\frac{3}{5} = \\frac{3 \\times 4}{5 \\times 4} = \\frac{12}{20}$$\n\n#### Rule 2: Division (Scaling Down / Simplifying)\nIf you divide both the numerator and the denominator by a common factor $k$, the value remains unchanged.\n\n$$\\frac{n}{d} = \\frac{n \\div k}{d \\div k}$$\n\n-   *Example*: Find an equivalent fraction for $\\frac{6}{8}$ by dividing.\n    1.  Find a common factor of 6 and 8. Both are divisible by 2.\n    2.  Divide numerator and denominator by 2:\n        $$\\frac{6 \\div 2}{8 \\div 2} = \\frac{3}{4}$$\n\n### Testing for Equivalence (Cross-Multiplication)\n\nTo test if two fractions $\\frac{a}{b}$ and $\\frac{c}{d}$ are equivalent, you can **cross-multiply**. If the two products are equal, the fractions are equivalent:\n\n$$\\frac{a}{b} = \\frac{c}{d} \\iff a \\times d = b \\times c$$\n\n-   *Example*: Are $\\frac{2}{3}$ and $\\frac{6}{9}$ equivalent?\n    -   Cross-multiply: $2 \\times 9 = 18$ and $3 \\times 6 = 18$.\n    -   Since $18 = 18$, the fractions are indeed equivalent!\n\n### Visualizing Equivalence\n\nObserve how three different fractions shade the exact same proportion of three identical rectangular blocks:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Equivalent fractions represent the same quantity or value using different numbers.",
+      "Multiply or divide the numerator and denominator by the same non-zero number to find equivalent fractions.",
+      "The value of the fraction does not change because multiplying/dividing by k/k is equivalent to multiplying/dividing by 1.",
+      "Cross-multiplication (a * d = b * c) is a quick way to test if two fractions are equivalent."
     ],
-    "whyItMatters": "Equivalent Fractions is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Finding equivalent fractions is the critical first step in adding and subtracting fractions with unlike denominators, where we must convert them to have a Common Denominator."
   },
   "availableLanguages": [
     "en"

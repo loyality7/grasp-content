@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Square Roots?",
+      "question": "What is the principal square root of $81$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "9",
+        "-9",
+        "40.5",
+        "8.1"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "The symbol $\\sqrt{81}$ represents the principal (positive) square root. Since $9 \\times 9 = 81$, the answer is 9.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Square Roots is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "The symbol $\\sqrt{}$ is known in mathematics as the:",
       "options": [
-        "True",
-        "False"
+        "Division Bar",
+        "Radical Sign",
+        "Exponent Indicator",
+        "Function bracket"
       ],
       "correctIndex": 1,
-      "explanation": "Square Roots has many practical applications.",
+      "explanation": "The symbol $\\sqrt{}$ used to denote square roots and higher roots is called the radical sign.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "A square carpet covers an area of $49$ square feet. What is the perimeter of this carpet?",
+      "options": [
+        "7 feet",
+        "14 feet",
+        "28 feet",
+        "49 feet"
+      ],
+      "correctIndex": 2,
+      "explanation": "First, find side length: $\\text{side} = \\sqrt{49} = 7$ feet. Then, calculate perimeter: $\\text{Perimeter} = 4 \\times \\text{side} = 4 \\times 7 = 28$ feet.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Why is the square root of a negative number (e.g. $\\sqrt{-25}$) not a real number?",
+      "options": [
+        "Because zero cannot be multiplied by negative numbers.",
+        "Because any real number multiplied by itself is positive or zero.",
+        "Because negative values are not real.",
+        "Because exponents are always integers."
+      ],
+      "correctIndex": 1,
+      "explanation": "Squaring any positive or negative real number always yields a positive value (or zero). Thus, no real number multiplied by itself can equal a negative number.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Evaluate $\\sqrt{0}$.",
+      "options": [
+        "0",
+        "1",
+        "Undefined",
+        "Non-real"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since $0 \\times 0 = 0$, the square root of 0 is exactly 0.",
       "difficulty": "easy"
     }
   ]

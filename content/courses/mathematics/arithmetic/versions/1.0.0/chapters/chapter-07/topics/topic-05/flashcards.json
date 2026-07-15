@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Percentage Change?",
-      "back": "Percentage Change is a fundamental concept in mathematics.",
+      "front": "What is the formula for percentage change?",
+      "back": "$\\text{Percentage Change} = \\frac{\\text{Difference (Change)}}{\\text{Original Value}} \\times 100$.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Percentage Change important?",
-      "back": "Percentage Change is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What value always goes in the denominator of a percentage change problem?",
+      "back": "The starting or original value.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What determines if a percentage change is an increase or a decrease?",
+      "back": "If the new value is larger than the original, it is an increase. If it is smaller, it is a decrease.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the percentage change from $100$ to $150$?",
+      "back": "$50\\%$ increase (since $\\frac{50}{100} = 0.50$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the percentage change from $100$ to $50$?",
+      "back": "$50\\%$ decrease (since $\\frac{50}{100} = 0.50$).",
+      "difficulty": "easy"
     }
   ]
 }

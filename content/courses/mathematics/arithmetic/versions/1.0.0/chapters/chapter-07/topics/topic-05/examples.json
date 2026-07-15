@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Percentage Change",
-      "content": "A practical example demonstrating Percentage Change",
-      "source": "Generated",
+      "title": "Calculating Percentage Increase Between Two Values",
+      "content": "Find the percentage change from **$40$** to **$50$**.\n\n### Step-by-Step Solution\n\n1.  **Identify original and new values**:\n    -   Original value = $40$ (starting point)\n    -   New value = $50$\n\n2.  **Calculate the change**:\n    Subtract the original value from the new value:\n    $$\\text{Change} = 50 - 40 = 10$$\n\n3.  **Divide the change by the original value**:\n    $$\\text{Ratio} = \\frac{\\text{Change}}{\\text{Original}} = \\frac{10}{40} = 0.25$$\n\n4.  **Convert to a percentage**:\n    Multiply by $100$:\n    $$\\text{Percentage Change} = 0.25 \\times 100 = 25\\%$$\n\n-   *Since the value increased, this is a **$25\\%$ increase**.*\n\n**Answer**: **$25\\%$ increase**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "percentage-change"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Percentage Increase"]
+    },
+    {
+      "id": "example-02",
+      "title": "Calculating Percentage Decrease in Customer Traffic",
+      "content": "A retail store records **$250$ customers** on Friday and **$200$ customers** on Saturday. What is the percentage change in customer traffic from Friday to Saturday?\n\n### Step-by-Step Solution\n\n1.  **Identify original and new values**:\n    -   Original value = $250$ (Friday's customer count)\n    -   New value = $200$ (Saturday's customer count)\n\n2.  **Calculate the change**:\n    Find the difference between the two numbers:\n    $$\\text{Change} = 250 - 200 = 50$$\n\n3.  **Divide by the original value (Friday)**:\n    Recall that the denominator must be the starting value ($250$):\n    $$\\text{Ratio} = \\frac{50}{250} = \\frac{5}{25} = \\frac{1}{5} = 0.20$$\n\n4.  **Convert to a percentage**:\n    Multiply by $100$:\n    $$\\text{Percentage Change} = 0.20 \\times 100 = 20\\%$$\n\n-   *Since customer traffic decreased, this is a **$20\\%$ decrease**.*\n\n**Answer**: The customer traffic changed by a **$20\\%$ decrease**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Percentages", "Percentage Decrease", "Word Problems"]
     }
   ]
 }

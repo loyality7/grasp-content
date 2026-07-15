@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Area Under Curves?",
-      "back": "Area Under Curves is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Area Under Curves important?",
-      "back": "Area Under Curves is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"c-01","front":"What is Area Under Curves?","back":"A key concept in mathematical tools for physics.","difficulty":"easy"}]}

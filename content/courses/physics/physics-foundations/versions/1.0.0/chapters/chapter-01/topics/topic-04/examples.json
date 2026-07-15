@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Physical Quantities",
-      "content": "A practical example demonstrating Physical Quantities",
-      "source": "Generated",
+      "title": "Measuring a Room",
+      "content": "You measure a room. Length = 5 meters. Width = 4 meters. These are scalars—just numbers. But if you say the door is 5 meters north, that's a vector—number + direction. Both are physical quantities.",
+      "source": "Geometry",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "physical-quantities"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["measurement", "scalars"]
+    },
+    {
+      "id": "example-02",
+      "title": "Speed vs Velocity",
+      "content": "You drive 60 km/h. That's speed (scalar). You drive 60 km/h north. That's velocity (vector). The difference? Direction matters. Velocity tells you both how fast and which way.",
+      "source": "Motion",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["velocity", "vectors"]
+    },
+    {
+      "id": "example-03",
+      "title": "Force with Direction",
+      "content": "Pushing with 100 N of force is different if you push up vs down. Same number (100 N), different effect. That's why force is a vector—direction matters!",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["force", "vectors"]
     }
   ]
 }

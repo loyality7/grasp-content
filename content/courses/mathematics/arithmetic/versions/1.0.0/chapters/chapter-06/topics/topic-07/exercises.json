@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Dividing Decimals.",
-      "solution": "Step-by-step solution for Dividing Decimals problem.",
+      "prompt": "Calculate the quotient: **$9.6 \\div 0.3$**.",
+      "solution": "1. **Shift decimal points**:\n   - Shifting the divisor $0.3$ by 1 place makes it $3$.\n   - Shifting the dividend $9.6$ by 1 place makes it $96$.\n2. **Perform division**:\n   $$96 \\div 3 = 32$$\n\n**Answer**: **$32$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Shift the decimal point of both numbers by one place to the right to make the divisor a whole number.",
+        "Solve the resulting whole number division: 96 divided by 3."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "dividing-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Dividing"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Dividing Decimals to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Solve: **$3.25 \\div 0.5$**.",
+      "solution": "1. **Shift decimal points**:\n   - Shifting the divisor $0.5$ by 1 place makes it $5$.\n   - Shifting the dividend $3.25$ by 1 place makes it $32.5$.\n   - The problem is now: **$32.5 \\div 5$**.\n2. **Perform division**:\n   - $5$ goes into $32$: $6$ times ($6 \\times 5 = 30$) with a remainder of $2$.\n   - Float the decimal point up to the quotient.\n   - Bring down the $5$ tenths to make $25$ tenths.\n   - $5$ goes into $25$: $5$ times exactly ($5 \\times 5 = 25$).\n   - Quotient = $6.5$.\n\n**Answer**: **$6.5$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Move the decimal point one place to the right in both numbers: 0.5 becomes 5, and 3.25 becomes 32.5.",
+        "Perform division of 32.5 by 5, keeping the decimal point aligned in the quotient."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "dividing-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Dividing"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A group of **$4$ friends** split a restaurant bill of **$58.80$ dollars** equally among themselves. How much does each person pay?",
+      "solution": "To find each person's share, divide the total bill by 4:\n$$\\text{Share} = 58.80 \\div 4$$\n1. **Setup the division**:\n   Since the divisor $4$ is already a whole number, we do not need to shift any decimal points.\n2. **Divide vertically**:\n   - $4$ goes into $5$: $1$ time (remainder $1$).\n   - Bring down $8$ to make $18$. $4$ goes into $18$: $4$ times ($4 \\times 4 = 16$, remainder $2$).\n   - Float the decimal point straight up to the quotient.\n   - Bring down $8$ tenths to make $28$ tenths. $4$ goes into $28$: $7$ times exactly.\n   - Bring down $0$. $4$ goes into $0$: $0$ times.\n3. Form the quotient:\n   $$\\mathbf{14.70}$$\n\n**Answer**: Each person pays **$14.70$ dollars**.",
+      "hints": [
+        "Since 4 is a whole number, you can do long division directly. Place the decimal point in the quotient directly above the one in 58.80.",
+        "Keep the trailing zero to represent cents in standard currency form."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Dividing", "Word Problems"]
     }
   ]
 }

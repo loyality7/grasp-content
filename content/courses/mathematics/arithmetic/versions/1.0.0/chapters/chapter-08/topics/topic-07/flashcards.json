@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Unit Rate?",
-      "back": "Unit Rate is a fundamental concept in mathematics.",
+      "front": "What is the difference between a rate and a unit rate?",
+      "back": "A rate compares two quantities with different units; a unit rate simplifies this comparison so the second term is exactly 1.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Unit Rate important?",
-      "back": "Unit Rate is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is unit price?",
+      "back": "A unit rate that states the cost of a single unit of weight, volume, or quantity (e.g. price per ounce).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you compute a unit rate?",
+      "back": "Divide the numerator quantity by the denominator quantity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why is unit price helpful when grocery shopping?",
+      "back": "It allows you to compare the cost values of different sized packages directly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "If you drive 100 miles in 2 hours, what is your unit rate?",
+      "back": "50 miles per hour (50 mph).",
+      "difficulty": "easy"
     }
   ]
 }

@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Ratio Flowchart",
-      "description": "Flowchart showing Ratio process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Ratio",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Ratio Formula",
-      "description": "Mathematical definition",
+      "title": "Ratio Notation Equivalence",
+      "description": "The equivalence between colon notation and fractional notation of ratios.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "a : b = \\frac{a}{b}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "a : b",
+            "explanation": "Colon notation comparing term a (antecedent) to term b (consequent)."
+          },
+          {
+            "latex": "\\frac{a}{b}",
+            "explanation": "Fractional notation representing the division comparison of a by b."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Ratio 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Ratio Animation",
-      "description": "Canvas animation",
+      "title": "Part-to-Part and Part-to-Whole Models",
+      "description": "Watch how we form different ratios from a single collection of shapes.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Ratio Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Ratio.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Ratio Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Ratio Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Ratio",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    // Positions\n    var shapesY = H / 2 - 35;\n    var c1x = W / 2 - 55, c2x = W / 2 - 35, c3x = W / 2 - 15;\n    var s1x = W / 2 + 15, s2x = W / 2 + 35;\n    var radius = 7;\n    var sqSize = 14;\n\n    // Stages:\n    // 0 - 2.5s: Stage 1 (show shapes)\n    // 2.5s - 5.5s: Stage 2 (Part-to-Part highlight: Circles to Squares = 3:2)\n    // 5.5s - 8.5s: Stage 3 (Part-to-Whole highlight: Circles to Total = 3:5)\n    // 8.5s - 12s: Stage 4 (Summary)\n\n    var stage = 1;\n    if (progress >= 0.21 && progress < 0.46) stage = 2;\n    else if (progress >= 0.46 && progress < 0.71) stage = 3;\n    else if (progress >= 0.71) stage = 4;\n\n    // Draw Circles (Red)\n    var circleColor = (stage === 3 || stage === 4 || stage === 1) ? '#EF4444' : 'rgba(239, 68, 68, 0.4)';\n    if (stage === 2) circleColor = '#EF4444'; // Bright in part-to-part\n\n    ctx.fillStyle = circleColor;\n    ctx.beginPath(); ctx.arc(c1x, shapesY, radius, 0, Math.PI * 2); ctx.fill();\n    ctx.beginPath(); ctx.arc(c2x, shapesY, radius, 0, Math.PI * 2); ctx.fill();\n    ctx.beginPath(); ctx.arc(c3x, shapesY, radius, 0, Math.PI * 2); ctx.fill();\n\n    // Draw Squares (Blue)\n    var squareColor = (stage === 2 || stage === 4 || stage === 1) ? '#3B82F6' : 'rgba(59, 130, 246, 0.2)';\n    ctx.fillStyle = squareColor;\n    ctx.fillRect(s1x - sqSize/2, shapesY - sqSize/2, sqSize, sqSize);\n    ctx.fillRect(s2x - sqSize/2, shapesY - sqSize/2, sqSize, sqSize);\n\n    // Stage borders/highlights\n    if (stage === 2) {\n      // Separate groups with vertical bar\n      ctx.beginPath();\n      ctx.moveTo(W / 2, shapesY - 20);\n      ctx.lineTo(W / 2, shapesY + 20);\n      ctx.strokeStyle = '#4B5563';\n      ctx.lineWidth = 1.5;\n      ctx.stroke();\n    } else if (stage === 3) {\n      // Draw thin box enclosing all 5 shapes to highlight the whole\n      ctx.strokeStyle = '#8B5CF6';\n      ctx.lineWidth = 1.5;\n      ctx.strokeRect(c1x - 15, shapesY - 18, (s2x - c1x) + 30, 36);\n    }\n\n    // Text labels\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n\n    if (stage === 1) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('A Collection of Shapes', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('3 Red Circles and 2 Blue Squares (5 shapes total)', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#3B82F6';\n      ctx.fillText('Part-to-Part Ratio', W / 2, H - 45);\n      ctx.font = 'bold 13px -apple-system, sans-serif';\n      ctx.fillStyle = '#EF4444';\n      ctx.fillText('Circles : Squares = 3 : 2', W / 2, H - 25);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Compares circles directly to squares.', W / 2, H - 9);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#8B5CF6';\n      ctx.fillText('Part-to-Whole Ratio', W / 2, H - 45);\n      ctx.font = 'bold 13px -apple-system, sans-serif';\n      ctx.fillStyle = '#A78BFA';\n      ctx.fillText('Circles : Total Shapes = 3 : 5', W / 2, H - 25);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Compares circles to the entire set.', W / 2, H - 9);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.fillText('Ratio Formats', W / 2, H - 45);\n      ctx.font = 'bold 11px -apple-system, sans-serif';\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('Part-to-Part: 3 to 2  |  3:2  |  3/2', W / 2, H - 25);\n      ctx.fillText('Part-to-Whole: 3 to 5  |  3:5  |  3/5', W / 2, H - 9);\n    }\n  }\n};\n"
       }
     }
   ]

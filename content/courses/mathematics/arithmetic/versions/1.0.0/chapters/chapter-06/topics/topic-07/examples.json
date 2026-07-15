@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Dividing Decimals",
-      "content": "A practical example demonstrating Dividing Decimals",
-      "source": "Generated",
+      "title": "Dividing a Decimal by a Decimal",
+      "content": "Calculate the quotient: **$13.5 \\div 0.05$**.\n\n### Step-by-Step Solution\n\n1.  **Examine the divisor**:\n    The divisor is $0.05$ (two decimal places). We must shift the decimal point **2 places to the right** to make it the whole number **$5$**.\n\n2.  **Shift the dividend**:\n    Shift the decimal point of the dividend $13.5$ to the right by the **same 2 places**.\n    -   Moving 1 place gives $135$.\n    -   Moving 2 places requires adding a trailing zero: $1350$.\n    -   The problem becomes: **$1350 \\div 5$**.\n\n3.  **Perform division**:\n    Divide $1350$ by $5$ using long division:\n    -   $5$ goes into $13$: $2$ times with remainder $3$.\n    -   Bring down $5$ to make $35$. $5$ goes into $35$: $7$ times exactly.\n    -   Bring down $0$. $5$ goes into $0$: $0$ times.\n    -   Result = $270$.\n\n**Answer**: The quotient is **$270$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "dividing-decimals"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Dividing", "Placeholder Zeros"]
+    },
+    {
+      "id": "example-02",
+      "title": "Dividing a Decimal with a Decimal Remainder",
+      "content": "Find the value of: **$7.84 \\div 0.4$**.\n\n### Step-by-Step Solution\n\n1.  **Convert the divisor to a whole number**:\n    Divisor $0.4 \\to 4$ (shift decimal point 1 place to the right).\n\n2.  **Shift the dividend**:\n    Dividend $7.84 \\to 78.4$ (shift 1 place to the right).\n    -   The problem is now: **$78.4 \\div 4$**.\n\n3.  **Set up long division and divide**:\n    $$\\begin{array}{r}\n    19.6 \\\\\n    4 \\overline{\\smash{)} \\, 78.4} \\\\\n    -\\ \\underline{4\\phantom{.0}} \\\\\n    38\\phantom{.0} \\\\\n    -\\ \\underline{36\\phantom{.0}} \\\\\n    2.4 \\\\\n    -\\ \\underline{2.4} \\\\\n    0.0 \\\\\n    \\end{array}$$\n    -   $4$ goes into $7$: $1$ time (remainder $3$).\n    -   Bring down $8$ to make $38$. $4$ goes into $38$: $9$ times ($9 \\times 4 = 36$) with remainder $2$.\n    -   Float the decimal point straight up to the quotient line.\n    -   Bring down $4$ tenths to make $2.4$. $4$ goes into $24$: $6$ times exactly.\n\n**Answer**: The quotient is **$19.6$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Dividing"]
     }
   ]
 }

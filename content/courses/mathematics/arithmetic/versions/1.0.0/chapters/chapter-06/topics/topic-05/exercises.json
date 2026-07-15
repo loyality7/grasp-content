@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Subtracting Decimals.",
-      "solution": "Step-by-step solution for Subtracting Decimals problem.",
+      "prompt": "Calculate the difference: **$9.4 - 3.76$**.",
+      "solution": "1. **Align decimal points** and pad $9.4$ to make it $9.40$:\n   $$\\begin{array}{r@{\\quad}l}\n   9.40 \\\\\n   -\\ 3.76 \\\\\n   \\hline\n   \\end{array}$$\n2. **Subtract right to left**:\n   - **Hundredths place**: Subtract $0 - 6$. Borrow 1 tenth from 4, reducing it to 3. The 0 hundredths becomes 10. $10 - 6 = 4$.\n   - **Tenths place**: Subtract $3 - 7$. Borrow 1 one from 9, reducing it to 8. The 3 tenths becomes 13. $13 - 7 = 6$.\n   - **Drop decimal point** down.\n   - **Ones place**: $8 - 3 = 5$.\n3. Form the final difference:\n   $$\\mathbf{5.64}$$\n\n**Answer**: **$5.64$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Be sure to write 9.4 as 9.40 before subtracting.",
+        "Borrow from the tenths place to subtract in the hundredths place."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "subtracting-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Subtracting"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Subtracting Decimals to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Solve: **$25.04 - 18.9$**.",
+      "solution": "1. **Align decimal points** and pad $18.9$ to make it $18.90$:\n   $$\\begin{array}{r@{\\quad}l}\n   25.04 \\\\\n   -\\ 18.90 \\\\\n   \\hline\n   \\end{array}$$\n2. **Subtract right to left**:\n   - **Hundredths place**: $4 - 0 = 4$.\n   - **Tenths place**: Subtract $0 - 9$. Borrow 1 one from 5, reducing it to 4. The 0 tenths becomes 10. $10 - 9 = 1$.\n   - **Drop decimal point** down.\n   - **Ones place**: Subtract $4 - 8$. Borrow 1 ten from 2, reducing it to 1. The 4 ones becomes 14. $14 - 8 = 6$.\n   - **Tens place**: $1 - 1 = 0$.\n3. Form the final difference:\n   $$\\mathbf{6.14}$$\n\n**Answer**: **$6.14$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Align $25.04$ and $18.9$ vertically. Write $18.9$ as $18.90$.",
+        "Perform subtraction in each column, borrowing when necessary."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "subtracting-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Subtracting"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A container contains **$1.5$ liters** of water. If you drink **$0.45$ liters** from it, how much water is remaining in the container?",
+      "solution": "To find the remaining water, subtract the amount drunk from the starting amount:\n1. **Align decimal points** and pad $1.5$ with a zero to make it $1.50$:\n   $$\\begin{array}{r@{\\quad}l}\n   1.50 \\\\\n   -\\ 0.45 \\\\\n   \\hline\n   \\end{array}$$\n2. **Subtract columns**:\n   - Hundredths: $0 - 5$. Borrow 1 tenth from 5 (it becomes 4). $10 - 5 = 5$.\n   - Tenths: $4 - 4 = 0$.\n   - Drop the decimal point.\n   - Ones: $1 - 0 = 1$.\n3. Form the final difference:\n   $$\\mathbf{1.05}$$\n\n**Answer**: **$1.05$ liters** of water are remaining.",
+      "hints": [
+        "Set up the subtraction by lining up the decimal points of $1.5$ and $0.45$.",
+        "Be sure to write $1.5$ as $1.50$ so you have a hundredths column to borrow into."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Subtracting", "Word Problems"]
     }
   ]
 }

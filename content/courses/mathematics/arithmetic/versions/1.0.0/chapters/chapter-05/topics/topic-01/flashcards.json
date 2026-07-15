@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Proper Fractions?",
-      "back": "Proper Fractions is a fundamental concept in mathematics.",
+      "front": "What is a Fraction?",
+      "back": "A mathematical representation of a part of a whole, written as one number over another.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Proper Fractions important?",
-      "back": "Proper Fractions is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is a Numerator?",
+      "back": "The top number in a fraction, which tells you how many equal parts of the whole are being considered.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is a Denominator?",
+      "back": "The bottom number in a fraction, which tells you the total number of equal parts the whole is divided into.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is a Proper Fraction?",
+      "back": "A fraction whose numerator is strictly smaller than its denominator (e.g., $\\frac{3}{5}$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the value range of a positive proper fraction?",
+      "back": "It is always strictly between 0 and 1 (greater than 0, but less than 1).",
+      "difficulty": "easy"
     }
   ]
 }

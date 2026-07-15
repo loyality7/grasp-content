@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Parallelogram Law?",
-      "back": "Parallelogram Law is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Parallelogram Law important?",
-      "back": "Parallelogram Law is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"card-01","front":"Parallelogram Law: How to place vectors?","back":"Tail-to-tail (both from same origin). Then complete the parallelogram.","difficulty":"easy"},{"id":"card-02","front":"Where is the sum in parallelogram law?","back":"The diagonal of the parallelogram (from origin to opposite corner).","difficulty":"easy"}]}

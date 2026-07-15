@@ -2,29 +2,30 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "multiple-choice",
-      "question": "Which statement best describes Cartesian Coordinates?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "type": "true-false",
+      "question": "In Cartesian coordinates, (3, 4) means 3 units up and 4 units right.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "It means 3 units right and 4 units up. x is horizontal, y is vertical. x comes first.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Cartesian Coordinates is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
+      "type": "multiple-choice",
+      "question": "What are the coordinates of the origin?",
+      "options": ["(1, 1)", "(0, 0)", "(0, 1)", "(-1, -1)"],
       "correctIndex": 1,
-      "explanation": "Cartesian Coordinates has many practical applications.",
+      "explanation": "The origin is where the axes cross: (0, 0). Both x and y are zero there.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "true-false",
+      "question": "In 3D Cartesian, a point needs (x, y, z).",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes, add z for depth. Three values: how far right, how far up, how far back.",
+      "difficulty": "medium"
     }
   ]
 }

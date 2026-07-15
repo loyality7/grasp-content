@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Percentage Change?",
+      "question": "What is the denominator in the formula used to calculate percentage change?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "The New Value",
+        "The Original Value",
+        "The difference between the values",
+        "Always 100"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "You must always compare the amount of change to the starting value, which is the Original Value.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Percentage Change is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Calculate the percentage change when an item's price drops from $10$ to $8$ dollars.",
       "options": [
-        "True",
-        "False"
+        "20% increase",
+        "2% decrease",
+        "20% decrease",
+        "25% decrease"
+      ],
+      "correctIndex": 2,
+      "explanation": "Change is $10 - 8 = 2$ dollars. Ratio = $\\frac{2}{10} = 0.20$, which is $20\\%$. Since the price dropped, it is a $20\\%$ decrease.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "A small business increases its monthly profits from $40,000$ to $50,000$ dollars. What is the percentage increase?",
+      "options": [
+        "10%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Change is $50000 - 40000 = 10000$ dollars. Ratio = $\\frac{10000}{40000} = \\frac{1}{4} = 0.25$, which represents a $25\\%$ increase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Find the percentage change from $200$ to $150$.",
+      "options": [
+        "25% decrease",
+        "50% decrease",
+        "33.3% decrease",
+        "25% increase"
+      ],
+      "correctIndex": 0,
+      "explanation": "Change is $200 - 150 = 50$. Ratio = $\\frac{50}{200} = \\frac{1}{4} = 0.25$, which is a $25\\%$ decrease.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "A tomato plant grows from $10$ cm tall to $15$ cm tall. What is the percentage increase in its height?",
+      "options": [
+        "5%",
+        "50%",
+        "150%",
+        "33%"
       ],
       "correctIndex": 1,
-      "explanation": "Percentage Change has many practical applications.",
-      "difficulty": "easy"
+      "explanation": "Change is $15 - 10 = 5$ cm. Ratio = $\\frac{5}{10} = 0.50$, which is a $50\\%$ increase.",
+      "difficulty": "medium"
     }
   ]
 }

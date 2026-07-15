@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Decrease Percentage?",
+      "question": "What decimal multiplier should you use to find the final value after a $20\\%$ decrease in a single step?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "0.20",
+        "0.80",
+        "1.20",
+        "0.02"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Losing $20\\%$ of the value leaves $80\\%$ of the original amount. The decimal multiplier is $0.80$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Decrease Percentage is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Decrease $90$ by $10\\%$.",
       "options": [
-        "True",
-        "False"
+        "80",
+        "81",
+        "89",
+        "99"
       ],
       "correctIndex": 1,
-      "explanation": "Decrease Percentage has many practical applications.",
+      "explanation": "$10\\%$ of $90$ is $9$. Subtracting $9$ from the original $90$ gives $81$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "An item regularly costs $50$ dollars. If you buy it during a $30\\%$ off clearance sale, what is the sale price?",
+      "options": [
+        "20 dollars",
+        "47 dollars",
+        "35 dollars",
+        "15 dollars"
+      ],
+      "correctIndex": 2,
+      "explanation": "$30\\%$ of $50$ is $15$ dollars. The sale price is $50 - 15 = 35$ dollars. (Or: $50 \\times 0.7 = 35$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Calculate the result of decreasing $80$ by $5\\%$.",
+      "options": [
+        "75",
+        "76",
+        "72",
+        "78"
+      ],
+      "correctIndex": 1,
+      "explanation": "$5\\%$ of $80$ is $4$. Subtracting $4$ from $80$ gives $76$. (Or: $80 \\times 0.95 = 76$).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If a store drops the price of a $120$ dollar jacket by $25\\%$, what is the discounted price?",
+      "options": [
+        "95 dollars",
+        "90 dollars",
+        "80 dollars",
+        "30 dollars"
+      ],
+      "correctIndex": 1,
+      "explanation": "$25\\%$ is equivalent to $\\frac{1}{4}$. The discount is $\\frac{1}{4} \\times 120 = 30$ dollars. The final price is $120 - 30 = 90$ dollars. (Or: $120 \\times 0.75 = 90$).",
+      "difficulty": "medium"
     }
   ]
 }

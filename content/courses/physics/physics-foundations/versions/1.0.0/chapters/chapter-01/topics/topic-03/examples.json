@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Scientific Method",
-      "content": "A practical example demonstrating Scientific Method",
-      "source": "Generated",
+      "title": "Testing if Light Travels Straight",
+      "content": "Question: Does light travel in straight lines? Predict: Yes. Experiment: Shine a light through holes in paper. Watch the light. Analyze: The light makes straight lines through the holes. Conclude: Light does travel straight (in normal air). This is the scientific method in action.",
+      "source": "Optics",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "scientific-method"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["light", "experiment"]
+    },
+    {
+      "id": "example-02",
+      "title": "Why Does Salt Dissolve in Water?",
+      "content": "Question: Why does salt dissolve? Predict: Maybe water molecules pull the salt apart. Experiment: Mix salt and water, see it dissolve. Try with other liquids. Analyze: Salt dissolves in water but not oil. Conclude: Water has something special that salt likes. This leads to understanding polar molecules.",
+      "source": "Chemistry/Physics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["chemistry", "dissolution"]
+    },
+    {
+      "id": "example-03",
+      "title": "Testing Gravity",
+      "content": "Question: Do all objects fall at the same speed? Predict: Maybe heavy things fall faster. Experiment: Drop heavy and light objects together. Watch them fall. Analyze: They hit the ground at the same time (ignoring air resistance). Conclude: Gravity affects all objects equally. This contradicted earlier predictions but that's okay—science learns!",
+      "source": "Mechanics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["gravity", "motion", "galileo"]
     }
   ]
 }

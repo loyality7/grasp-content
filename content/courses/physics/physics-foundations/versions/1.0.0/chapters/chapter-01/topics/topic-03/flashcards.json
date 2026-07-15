@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Scientific Method?",
-      "back": "Scientific Method is a fundamental concept in physics.",
+      "front": "What are the 5 steps of the scientific method?",
+      "back": "Question → Predict → Experiment → Analyze → Conclude",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Scientific Method important?",
-      "back": "Scientific Method is essential for understanding Physics Foundations.",
+      "front": "What's a hypothesis?",
+      "back": "Your prediction before the experiment. An educated guess about what you think will happen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Is it bad if your prediction is wrong?",
+      "back": "No! Getting a wrong prediction means you learned something. That's success in science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What's the difference between analyzing and concluding?",
+      "back": "Analyzing = looking at your data for patterns. Concluding = stating what you learned.",
       "difficulty": "medium"
     }
   ]

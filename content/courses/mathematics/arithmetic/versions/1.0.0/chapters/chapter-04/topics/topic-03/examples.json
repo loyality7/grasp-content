@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Prime Numbers",
-      "content": "A practical example demonstrating Prime Numbers",
-      "source": "Generated",
+      "title": "Verifying a Prime Number",
+      "content": "Determine whether the number **17** is a prime number.\n\n### Step-by-Step Solution\n\nTo verify if 17 is prime, we must test if it can be divided evenly by any integer besides 1 and 17. We only need to test divisors up to the square root of 17 (which is slightly more than 4, since $4^2 = 16$). Let's test the prime numbers 2, 3, and 4:\n\n1.  **Test 2**: 17 is odd, so it is not divisible by 2 ($17 \\div 2 = 8$ R 1).\n2.  **Test 3**: Sum of digits $1 + 7 = 8$, which is not divisible by 3 ($17 \\div 3 = 5$ R 2).\n3.  **Test 4**: $17 \\div 4 = 4$ R 1. (Not divisible).\n\nSince 17 has no positive divisors other than 1 and itself, it fits the definition of a prime number.\n\n**Answer**: Yes, **17 is a prime number** because its only factors are 1 and 17.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "prime-numbers"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Numbers", "Verification"]
+    },
+    {
+      "id": "example-02",
+      "title": "Why 1 is Not a Prime Number",
+      "content": "Explain mathematically why the number **1** is **not** classified as a prime number.\n\n### Step-by-Step Solution\n\n1.  **Examine the Definition of a Prime Number**:\n    A prime number is a positive whole number greater than 1 that has **exactly two distinct** positive factors: 1 and the number itself.\n\n2.  **Analyze the Factors of 1**:\n    The only positive integer that divides 1 without a remainder is 1 itself.\n    Therefore, the list of factors of 1 is just:\n    $$\\text{Factors of 1} = \\{1\\}$$\n    This set contains only **one** distinct factor.\n\n3.  **Compare**:\n    Because 1 does not have two distinct factors, it fails the definition of a prime number.\n\n### Why this definition matters:\nIf 1 were prime, the Fundamental Theorem of Arithmetic (which states every number has a *unique* prime factorization) would fail. For example, 6 could be written as $2 \\times 3$, or $1 \\times 2 \\times 3$, or $1 \\times 1 \\times 2 \\times 3$. By declaring that 1 is not prime, factorizations remain unique.\n\n**Answer**: The number 1 is not prime because it has only **one** positive factor (1 itself), whereas prime numbers are defined as having exactly **two distinct** factors.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Numbers", "Concepts"]
     }
   ]
 }

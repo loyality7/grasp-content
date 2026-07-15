@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to SI Base Units.",
-      "solution": "Step-by-step solution for SI Base Units problem.",
+      "id": "exercise-01",
+      "type": "matching",
+      "title": "Match the Base Unit",
+      "content": "Match each measurement to its SI base unit: length→?, mass→?, time→?, temperature→?, current→?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Length is measured in...",
+        "Mass is measured in...",
+        "Temperature uses a special scale scientists use"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "si-base-units"
-      ]
+      "tags": ["identification", "SI-units"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply SI Base Units to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "recall",
+      "title": "The 7 Base Units",
+      "content": "Name the 7 SI base units. (Hint: length, mass, time, electric current, temperature, amount of substance, luminous intensity)",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "There are 7 total",
+        "Think about what you measure in physics",
+        "One is about brightness (luminous)"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "si-base-units"
-      ]
+      "tags": ["memorization"]
     }
   ]
 }

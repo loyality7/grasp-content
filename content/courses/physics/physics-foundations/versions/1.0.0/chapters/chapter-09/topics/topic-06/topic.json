@@ -2,16 +2,18 @@
   "id": "topic-06",
   "name": "Physical Reasoning",
   "topicId": "physics.physics-foundations.chapter-09.topic-06",
-  "description": "Learn about Physical Reasoning and its applications in physics.",
+  "description": "Thinking like a physicist: questioning answers and trusting intuition",
   "content": {
-    "overview": "Physical Reasoning is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Physical Reasoning. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Physical Reasoning requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Physical reasoning is about thinking critically. Does your answer make sense? Can you defend it? Does it pass the 'sanity check'? {{viz:diagram-01}}",
+    "explanation": "Physical reasoning is the hardest skill to teach because it's about judgment, not formulas.\n\n**The checklist:** {{viz:diagram-02}}\n\n1. **Does the units check out?** (Unit checking)\n2. **Do the dimensions work?** (Dimensional checking)\n3. **Is the order of magnitude reasonable?** (Order of magnitude)\n4. **Does this make physical sense?** (Physical reasoning)\n\nExample: You calculate that a thrown ball reaches 500 m/s. {{viz:anim-01}}\n\n- Units? m/s ✓ (correct for speed)\n- Dimensions? [L T⁻¹] ✓ (correct for speed)\n- Order of magnitude? 10² m/s (hundreds) ✓ (reasonable order of magnitude)\n- **Physical sense?** ✗ (WRONG! No human can throw 500 m/s. That's 1000 mph!)\n\nSo something went wrong in your calculation.\n\n**Physical reasoning questions to always ask:** {{viz:chart-01}}\n\n- Is this answer bigger or smaller than I expected?\n- Does it make sense? (Can a person run faster than a car?)\n- Is this physically possible?\n- What if I double this number—does the effect double too?\n- Does the answer change sign? (Did I accidentally flip something?)\n\nPhysical reasoning is about COMMON SENSE applied to physics.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Always ask: does this make physical sense?",
+      "Use your intuition about the real world",
+      "Compare to things you know",
+      "If answer is crazy, something went wrong",
+      "Combine math with judgment"
     ],
-    "whyItMatters": "Physical Reasoning is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Math can be right but physics can be wrong. Physical reasoning is what catches that. It's the difference between a good physicist and someone who can just do algebra."
   },
   "availableLanguages": [
     "en"

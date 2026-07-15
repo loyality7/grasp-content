@@ -1,35 +1,73 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Branches of Physics.",
-      "solution": "Step-by-step solution for Branches of Physics problem.",
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+      "id": "exercise-01",
+      "type": "sorting",
+      "title": "Which Branch?",
+      "content": "For each scenario, which branch of physics explains it? Put them in the right group.",
+      "scenarios": [
+        "A ball bouncing → ",
+        "Ice melting → ",
+        "Light reflecting in a mirror → ",
+        "Magnetism attracting metal → ",
+        "Electron behavior in an atom → ",
+        "A car speeding up → "
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "branches-of-physics"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "hints": [
+        "Classical mechanics = motion",
+        "Thermodynamics = heat/temperature",
+        "Waves & optics = light/sound",
+        "Electricity & magnetism = charged particles",
+        "Quantum = atoms/electrons"
+      ],
+      "tags": ["classification"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Branches of Physics to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+      "id": "exercise-02",
+      "type": "multiple-choice",
+      "title": "Identify the Right Branch",
+      "content": "Your car engine gets hot as it runs. Which branch of physics explains why?",
+      "options": [
+        "Classical mechanics",
+        "Thermodynamics",
+        "Waves and optics",
+        "Quantum mechanics"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "branches-of-physics"
-      ]
+      "correctAnswer": 1,
+      "explanation": "Thermodynamics deals with heat and temperature. A hot engine is a thermodynamics question.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["identification"]
+    },
+    {
+      "id": "exercise-03",
+      "type": "short-answer",
+      "title": "Categorize Your Day",
+      "content": "Think about today. List 2 things that classical mechanics explains and 2 things that a different branch explains.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "hints": [
+        "Classical: anything moving or changing direction",
+        "Think about temperature, light, electricity",
+        "What did you interact with?"
+      ],
+      "tags": ["observation"]
+    },
+    {
+      "id": "exercise-04",
+      "type": "thinking",
+      "title": "Why Divide Physics?",
+      "content": "Why do you think physicists divided physics into branches instead of keeping it all as one subject?",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "hints": [
+        "Think about how hard it would be to learn everything at once",
+        "Each branch has different tools and rules",
+        "Is it easier to be an expert in one area or know a little about everything?"
+      ],
+      "tags": ["critical-thinking"]
     }
   ]
 }

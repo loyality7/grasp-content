@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Decrease Percentage Flowchart",
-      "description": "Flowchart showing Decrease Percentage process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Decrease Percentage",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Decrease Percentage Formula",
-      "description": "Mathematical definition",
+      "title": "Percentage Decrease Multiplier Formula",
+      "description": "The formula to calculate the final decreased value in a single multiplication step.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{New Value} = \\text{Original Value} \\times \\left(1 - \\frac{\\text{Percent Decrease}}{100}\\right)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "1 - \\frac{\\text{Percent Decrease}}{100}",
+            "explanation": "Subtract the percentage in decimal form from 1 (representing 100% of the original amount)."
+          },
+          {
+            "latex": "\\text{New Value} = \\text{Original Value} \\times \\text{Multiplier}",
+            "explanation": "Multiply the original quantity by the resulting multiplier to get the final decreased amount."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Decrease Percentage 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Decrease Percentage Animation",
-      "description": "Canvas animation",
+      "title": "Decreasing a Value of 80 by 25%",
+      "description": "Visualizing how a 25% decrease removes a fourth of the original bar, leaving three-fourths behind.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Decrease Percentage Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Decrease Percentage.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Decrease Percentage Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Decrease Percentage Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Decrease Percentage",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var blockW = 28;\n    var barH = 26;\n    var startX = (W - 4 * blockW) / 2;\n    var startY = H / 2 - 35;\n\n    // Stages\n    // 0 - 2s: stage 1 (4 blocks, representing 80)\n    // 2s - 4.5s: stage 2 (highlight 25% = 20 in red)\n    // 4.5s - 7.5s: stage 3 (fade & slide down the 4th block)\n    // 7.5s - 10s: stage 4 (show remaining 3 blocks = 60)\n    // 10s - 12s: stage 5 (formula / equations)\n\n    var stage = 1;\n    if (progress >= 0.16 && progress < 0.38) stage = 2;\n    else if (progress >= 0.38 && progress < 0.63) stage = 3;\n    else if (progress >= 0.63 && progress < 0.83) stage = 4;\n    else if (progress >= 0.83) stage = 5;\n\n    // Draw first 3 blocks\n    for (var i = 0; i < 3; i++) {\n      ctx.fillStyle = (stage >= 4) ? '#10B981' : '#1F2937'; // Green if done\n      ctx.fillRect(startX + i * blockW, startY, blockW, barH);\n      ctx.strokeStyle = (stage >= 4) ? '#34D399' : '#4B5563';\n      ctx.strokeRect(startX + i * blockW, startY, blockW, barH);\n      \n      // Label '20' inside\n      ctx.fillStyle = (stage >= 4) ? '#FFFFFF' : '#9CA3AF';\n      ctx.font = 'bold 10px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.textBaseline = 'middle';\n      ctx.fillText('20', startX + i * blockW + blockW / 2, startY + barH / 2);\n    }\n\n    // Draw 4th block (the decrease)\n    if (stage === 1) {\n      ctx.fillStyle = '#1F2937';\n      ctx.fillRect(startX + 3 * blockW, startY, blockW, barH);\n      ctx.strokeStyle = '#4B5563';\n      ctx.strokeRect(startX + 3 * blockW, startY, blockW, barH);\n      \n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = 'bold 10px -apple-system, sans-serif';\n      ctx.fillText('20', startX + 3 * blockW + blockW / 2, startY + barH / 2);\n    } else if (stage === 2) {\n      ctx.fillStyle = 'rgba(239, 68, 68, 0.4)'; // Red highlight\n      ctx.fillRect(startX + 3 * blockW, startY, blockW, barH);\n      ctx.strokeStyle = '#EF4444';\n      ctx.strokeRect(startX + 3 * blockW, startY, blockW, barH);\n      \n      ctx.fillStyle = '#EF4444';\n      ctx.font = 'bold 10px -apple-system, sans-serif';\n      ctx.fillText('20', startX + 3 * blockW + blockW / 2, startY + barH / 2);\n    } else if (stage === 3) {\n      var fadeVal = (progress - 0.38) / 0.25;\n      var currentOpacity = 1 - fadeVal;\n      var currentSlideY = startY + 25 * fadeVal;\n      \n      ctx.fillStyle = 'rgba(239, 68, 68, ' + (0.4 * currentOpacity) + ')';\n      ctx.fillRect(startX + 3 * blockW, currentSlideY, blockW, barH);\n      ctx.strokeStyle = 'rgba(239, 68, 68, ' + currentOpacity + ')';\n      ctx.strokeRect(startX + 3 * blockW, currentSlideY, blockW, barH);\n      \n      ctx.fillStyle = 'rgba(239, 68, 68, ' + currentOpacity + ')';\n      ctx.font = 'bold 10px -apple-system, sans-serif';\n      ctx.fillText('20', startX + 3 * blockW + blockW / 2, currentSlideY + barH / 2);\n    }\n\n    // Top labels\n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 12px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n    if (stage <= 2) {\n      ctx.fillText('Original = 80 (100%)', W / 2, startY - 18);\n    } else if (stage === 3) {\n      ctx.fillText('Original = 80', startX + 1.5 * blockW, startY - 18);\n      ctx.fillStyle = '#EF4444';\n      ctx.fillText('-20 (25% Decrease)', startX + 3.5 * blockW, startY - 18);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.fillText('New Value = 60 (75% remaining)', W / 2, startY - 18);\n    }\n\n    // Bottom text instructions\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.fillStyle = '#9CA3AF';\n\n    if (stage === 1) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Original Value', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('The starting value is 80, represented by four equal blocks of 20.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#EF4444';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Find 25% of 80', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('25% of 80 is 20 (exactly one of the four blocks).', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#EF4444';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Subtracting the 25% Decrease', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Remove the highlighted block (worth 20) from the total.', W / 2, H - 22);\n    } else if (stage === 4) {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('New Total = 60', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('The remaining value is 80 - 20 = 60 (75% of the original).', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('80 \u00d7 0.75 = 60', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Multiply by 0.75 directly to calculate a 25% decrease.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

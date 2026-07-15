@@ -2,15 +2,23 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Division",
-      "content": "A practical example demonstrating Division",
-      "source": "Generated",
-      "difficulty": "beginner",
+      "title": "Long Division with Remainder",
+      "content": "Divide **$827$** by **$6$** using the long division method. Detail each step.",
+      "solution": "### Step-by-Step Solution\n\nWrite the division problem with 827 as the dividend and 6 as the divisor:\n\n$$6 \\overline{) \\phantom{0}827}$$\n\n**Step 1: Divide the hundreds digit (8)**\n- How many times does 6 go into 8? **1** time.\n- Write **1** above the 8.\n- Multiply: $1 \\times 6 = 6$.\n- Subtract: $8 - 6 = 2$.\n\n**Step 2: Bring down the tens digit (2)**\n- Bring down the 2 to make the remaining value **22**.\n- How many times does 6 go into 22? **3** times ($3 \\times 6 = 18$).\n- Write **3** above the 2.\n- Multiply: $3 \\times 6 = 18$.\n- Subtract: $22 - 18 = 4$.\n\n**Step 3: Bring down the ones digit (7)**\n- Bring down the 7 to make the remaining value **47**.\n- How many times does 6 go into 47? **7** times ($7 \\times 6 = 42$).\n- Write **7** above the 7.\n- Multiply: $7 \\times 6 = 42$.\n- Subtract: $47 - 42 = 5$.\n- There are no more digits to bring down. The quotient is **137** and the remainder is **5**.\n\nLet's write the complete layout:\n\n$$\\begin{array}{rll}\n  \\phantom{0}137 & \\text{R } 5 \\\\\n  6 \\overline{) \\phantom{0}827} \\\\\n  -6 \\phantom{00} \\\\\n  \\hline\n  \\phantom{0}22 \\phantom{0} \\\\\n  -18 \\phantom{0} \\\\\n  \\hline\n  \\phantom{00}47 \\\\\n  -42 \\\\\n  \\hline\n  \\phantom{000}5\n\\end{array}$$\n\n**Answer**: $827 \\div 6 = 137$ with a remainder of $5$ (written as $137$ R $5$).",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
       "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "division"
-      ]
+      "tags": ["Arithmetic", "Division", "Long Division"]
+    },
+    {
+      "id": "example-02",
+      "title": "Real-World Application: Equal Sharing",
+      "content": "A school library has **245** books that need to be distributed equally among **8** classrooms. How many books will each classroom receive, and how many books will be left over?",
+      "solution": "### Step-by-Step Solution\n\nTo find the number of books per classroom and the leftovers, we divide 245 by 8:\n$$\\text{Books per Classroom} = 245 \\div 8$$\n\nLet's perform long division:\n1. **Divide 2 by 8**: 8 goes into 2 zero times. Consider 24 instead.\n2. **Divide 24 by 8**: 8 goes into 24 exactly **3** times ($3 \\times 8 = 24$).\n   - Write 3 in the quotient.\n   - Subtract: $24 - 24 = 0$.\n3. **Bring down 5**:\n   - Divide 5 by 8: 8 goes into 5 exactly **0** times.\n   - Write 0 in the quotient.\n   - Subtract: $5 - 0 = 5$.\n   - Remainder is 5.\n\n$$\\begin{array}{rll}\n  \\phantom{0}30 & \\text{R } 5 \\\\\n  8 \\overline{) \\phantom{0}245} \\\\\n  -240 \\phantom{0} \\\\\n  \\hline\n  \\phantom{000}5\n\\end{array}$$\n\n**Answer**: Each classroom will receive **30 books**, and there will be **5 books** left over.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Division", "Word Problem"]
     }
   ]
 }

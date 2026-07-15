@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Improper Fractions?",
+      "question": "What is the definition of an improper fraction?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A fraction whose numerator is strictly less than the denominator.",
+        "A fraction whose numerator is greater than or equal to the denominator.",
+        "A fraction that has a zero in the denominator.",
+        "A fraction that cannot be simplified."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "An improper fraction has a top number (numerator) that is greater than or equal to the bottom number (denominator), representing 1 or more wholes.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Improper Fractions is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following is an improper fraction?",
       "options": [
-        "True",
-        "False"
+        "$\\frac{1}{9}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{9}{8}$",
+        "$\\frac{2}{3}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "In $\\frac{9}{8}$, the numerator (9) is greater than the denominator (8), making it improper. All other options have numerators smaller than their denominators.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of these fractions is equal to exactly 1 whole?",
+      "options": [
+        "$\\frac{1}{10}$",
+        "$\\frac{10}{1}$",
+        "$\\frac{10}{10}$",
+        "$\\frac{0}{10}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "A fraction where the numerator is equal to the denominator (and not zero) is equal to 1 whole, since all pieces of the divided unit are selected.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which statement is true regarding the value of an improper fraction?",
+      "options": [
+        "It is always strictly less than 1.",
+        "It is always equal to or greater than 1.",
+        "It is always equal to 0.",
+        "It is always a decimal between 0 and 1."
       ],
       "correctIndex": 1,
-      "explanation": "Improper Fractions has many practical applications.",
+      "explanation": "Because the numerator is greater than or equal to the denominator, the value is always greater than or equal to 1 whole.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If you have 11 pieces of bread, and each whole loaf is cut into 3 equal pieces, what fraction of a loaf do you have?",
+      "options": [
+        "$\\frac{3}{11}$",
+        "$\\frac{11}{3}$",
+        "$\\frac{11}{11}$",
+        "$\\frac{3}{3}$"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each loaf is divided into 3 parts (denominator = 3), and you have 11 parts (numerator = 11), giving you the improper fraction $\\frac{11}{3}$.",
+      "difficulty": "medium"
     }
   ]
 }

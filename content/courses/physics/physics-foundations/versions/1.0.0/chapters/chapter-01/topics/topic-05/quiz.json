@@ -2,29 +2,55 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "multiple-choice",
-      "question": "Which statement best describes Models in Physics?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q-02",
       "type": "true-false",
-      "question": "Models in Physics is only applicable in theoretical contexts.",
+      "question": "A model in physics must be 100% accurate to reality.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Models in Physics has many practical applications.",
+      "explanation": "No! Models are simplified versions. They're not perfect. They're good enough to understand and predict.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-02",
+      "type": "multiple-choice",
+      "question": "What's the main purpose of using a model?",
+      "options": [
+        "To copy reality exactly",
+        "To make things simpler without losing important details",
+        "To avoid using math",
+        "To hide what we don't understand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Models simplify reality so we can understand and solve problems. They're simpler but still accurate enough to work.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "true-false",
+      "question": "When a model stops working in a new situation, the model is bad.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "No! It just means you need a different model for that situation. Every model has a limit—that's expected.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "When might the 'ball as a point' model NOT work?",
+      "options": [
+        "Predicting where a ball lands",
+        "Calculating how the ball spins",
+        "Calculating how far the ball travels",
+        "Predicting the ball's path"
+      ],
+      "correctIndex": 1,
+      "explanation": "If you need to know spin, size matters. The 'point' model ignores size, so it breaks for that.",
+      "difficulty": "medium"
     }
   ]
 }

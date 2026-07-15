@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Comparing Decimals.",
-      "solution": "Step-by-step solution for Comparing Decimals problem.",
+      "prompt": "Compare the decimals **$0.58$** and **$0.6$** using the symbols $<$, $>$, or $=$. Explain your reasoning.",
+      "solution": "1. **Pad the numbers** so they have the same length:\n   - $0.58$ remains $0.58$.\n   - $0.6$ becomes $0.60$ by adding a trailing zero.\n2. **Compare place values from left to right**:\n   - **Ones place**: Both have $0$.\n   - **Tenths place**: Compare $5$ (in $0.58$) and $6$ (in $0.60$).\n   - Since $6 > 5$, the number $0.60$ is greater than $0.58$.\n3. **Conclusion**:\n   $$0.58 < 0.60 \\implies 0.58 < 0.6$$\n\n**Answer**: **$0.58 < 0.6$** because $0.6$ is equivalent to $0.60$, and 60 hundredths is greater than 58 hundredths.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Write 0.6 as a decimal with two decimal places by adding a zero at the end.",
+        "Compare the tenths digits (the first numbers after the decimal point)."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "comparing-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Comparing"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Comparing Decimals to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Arrange the following numbers in **descending order** (from largest to smallest):\n$$1.103, \\quad 1.13, \\quad 1.013, \\quad 1.3$$",
+      "solution": "1. **Align and pad with trailing zeros**:\n   - $1.103$\n   - $1.130$\n   - $1.013$\n   - $1.300$\n2. **Compare from left to right**:\n   - **Ones place**: All are equal to $1$.\n   - **Tenths place**: Compare digits: $1$ (in $1.103$), $1$ (in $1.130$), $0$ (in $1.013$), and $3$ (in $1.300$).\n     - $1.300$ is the largest (tenths digit is 3).\n     - $1.013$ is the smallest (tenths digit is 0).\n     - The other two ($1.103$ and $1.130$) both have 1 in the tenths place.\n   - **Compare hundredths place of the remaining two**:\n     - In $1.130$, the hundredths digit is $3$.\n     - In $1.103$, the hundredths digit is $0$.\n     - Since $3 > 0$, we have $1.130 > 1.103$.\n3. **Descending Order**:\n   $$1.300 > 1.130 > 1.103 > 1.013$$\n4. **Write with original values**:\n   $$1.3, \\quad 1.13, \\quad 1.103, \\quad 1.013$$\n\n**Answer**: **$1.3, \\ 1.13, \\ 1.103, \\ 1.013$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Align the decimal points and add zeros to make each number have three digits after the decimal point.",
+        "Compare the tenths place first to identify the largest and smallest numbers."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "comparing-decimals"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Ordering"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A science lab experiment measures the mass of two samples:\n-   Sample A: **$12.04$ grams**\n-   Sample B: **$12.4$ grams**\n\nWhich sample is heavier? Explain your answer.",
+      "solution": "To find the heavier sample, compare their masses:\n1. **Align and pad**:\n   - Sample A: $12.04$ grams\n   - Sample B: $12.40$ grams (padded with a trailing zero)\n2. **Compare left-to-right**:\n   - **Tens place**: Both have $1$.\n   - **Ones place**: Both have $2$.\n   - **Tenths place**: Compare $0$ (in $12.04$) and $4$ (in $12.40$).\n   - Since $4 > 0$, Sample B is heavier ($12.40 > 12.04$).\n\n**Answer**: **Sample B** is heavier because $12.4$ grams is equivalent to $12.40$ grams, which is greater than $12.04$ grams.",
+      "hints": [
+        "Don't assume 12.04 is heavier just because it has more digits.",
+        "Write both masses with two decimal digits: 12.04 and 12.40."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Word Problems"]
     }
   ]
 }

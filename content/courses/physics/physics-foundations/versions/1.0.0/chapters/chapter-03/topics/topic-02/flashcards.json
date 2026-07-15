@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Precision?",
-      "back": "Precision is a fundamental concept in physics.",
+      "front": "What's precision?",
+      "back": "How exact/consistent your measurements are. More decimal places = more precise.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Precision important?",
-      "back": "Precision is essential for understanding Physics Foundations.",
+      "front": "65.347 kg or 65 kg. Which is more precise?",
+      "back": "65.347 kg (more decimal places = more precise).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Can you be precise but inaccurate?",
+      "back": "Yes! A scale that always reads 70 kg when true is 75 kg is precise (consistent) but inaccurate (wrong).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Accuracy vs Precision?",
+      "back": "Accuracy = close to true value (correctness). Precision = exact/consistent (exactness).",
       "difficulty": "medium"
     }
   ]

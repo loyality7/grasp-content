@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Least Common Multiple (LCM).",
-      "solution": "Step-by-step solution for Least Common Multiple (LCM) problem.",
+      "prompt": "Calculate the Least Common Multiple (LCM) of **9** and **12**.",
+      "solution": "Let's use the prime factorization method:\n- **Prime factorization of 9**:\n  $$9 = 3^2$$\n- **Prime factorization of 12**:\n  $$12 = 2^2 \\times 3^1$$\n\nCollect all prime bases with the highest exponent:\n- For base 2: highest is $2^2$\n- For base 3: highest is $3^2$\n\nMultiply them:\n$$\\text{LCM} = 2^2 \\times 3^2 = 4 \\times 9 = 36$$\n\n**Answer**: **36**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Find the prime factorization of 9 and 12.",
+        "Take the highest power of 2 and the highest power of 3 that appear, and multiply them.",
+        "Alternatively, list the multiples of 12 and see which one is also divisible by 9."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "least-common-multiple-lcm"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "LCM"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Least Common Multiple (LCM) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Two racers run on a circular track. Racer A completes one lap every **60** seconds, and Racer B completes one lap every **80** seconds. If they start at the same time, after how many **minutes** will they next cross the start line together?",
+      "solution": "The time they cross the start line together must be a common multiple of their lap times, 60 and 80. To find the *next* time, we find the Least Common Multiple (LCM):\n\n1. **Prime factorization of 60**:\n   $$60 = 6 \\times 10 = (2 \\times 3) \\times (2 \\times 5) = 2^2 \\times 3^1 \\times 5^1$$\n2. **Prime factorization of 80**:\n   $$80 = 8 \\times 10 = 2^3 \\times (2 \\times 5) = 2^4 \\times 5^1$$\n3. **Select highest exponents**:\n   - Base 2: $2^4$\n   - Base 3: $3^1$\n   - Base 5: $5^1$\n4. **Evaluate LCM**:\n   $$\\text{LCM} = 2^4 \\times 3^1 \\times 5^1 = 16 \\times 3 \\times 5 = 48 \\times 5 = 240 \\text{ seconds}$$\n\n5. **Convert seconds to minutes**:\n   $$240 \\div 60 = 4 \\text{ minutes}$$\n\n**Answer**: They will next cross the start line together after **4 minutes**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Find the LCM of 60 and 80 to get the answer in seconds.",
+        "Remember to convert the final answer from seconds to minutes by dividing by 60."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "least-common-multiple-lcm"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "LCM", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Verify the relationship $\\text{LCM}(a, b) \\times \\text{GCD}(a, b) = a \\times b$ for the values $a = 6$ and $b = 8$. Show your calculations.",
+      "solution": "1. **Find the GCD of 6 and 8**:\n   - Factors of 6: $\\{1, 2, 3, 6\\}$\n   - Factors of 8: $\\{1, 2, 4, 8\\}$\n   - Shared factors: $\\{1, 2\\} \\implies \\text{GCD}(6, 8) = 2$\n\n2. **Find the LCM of 6 and 8**:\n   - Multiples of 6: $\\{6, 12, 18, 24, 30, \\dots\\}$\n   - Multiples of 8: $\\{8, 16, 24, 32, \\dots\\}$\n   - Smallest shared multiple: $\\text{LCM}(6, 8) = 24$\n\n3. **Calculate Left-Hand Side (LHS)**:\n   $$\\text{LCM} \\times \\text{GCD} = 24 \\times 2 = 48$$\n\n4. **Calculate Right-Hand Side (RHS)**:\n   $$a \\times b = 6 \\times 8 = 48$$\n\nSince both sides equal 48, the formula is verified.\n\n**Answer**: LHS = $24 \\times 2 = 48$ and RHS = $6 \\times 8 = 48$. Both are equal, verifying the theorem.",
+      "hints": [
+        "Find the GCD and LCM of 6 and 8 first.",
+        "Multiply the GCD and LCM together, and compare that with the product of 6 and 8."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "LCM", "Proof"]
     }
   ]
 }

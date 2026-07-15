@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Proportion?",
-      "back": "Proportion is a fundamental concept in mathematics.",
+      "front": "What is a proportion?",
+      "back": "An equation stating that two ratios are equal (e.g. $\\frac{a}{b} = \\frac{c}{d}$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Proportion important?",
-      "back": "Proportion is essential for understanding Arithmetic.",
+      "front": "In the proportion $a:b = c:d$, what are the terms $b$ and $c$ called?",
+      "back": "The means (inner terms).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-03",
+      "front": "In the proportion $a:b = c:d$, what are the terms $a$ and $d$ called?",
+      "back": "The extremes (outer terms).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the cross-multiplication property of proportions?",
+      "back": "The product of the extremes equals the product of the means ($a \\cdot d = b \\cdot c$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "How do you read the proportion $2:5 = 6:15$ aloud?",
+      "back": "\"2 is to 5 as 6 is to 15.\"",
+      "difficulty": "easy"
     }
   ]
 }

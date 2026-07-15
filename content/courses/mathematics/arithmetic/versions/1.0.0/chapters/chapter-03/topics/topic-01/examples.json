@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Addition",
-      "content": "A practical example demonstrating Addition",
-      "source": "Generated",
+      "title": "Adding with Large Numbers (Carrying)",
+      "content": "Add the numbers **$5,784$** and **$3,629$** and explain each step including carrying.\n\n### Step-by-Step Solution\n\nFirst, line up the two numbers vertically by their place values:\n\n$$\\begin{array}{r@{\\quad}l}\n  5784 \\\\\n+ 3629 \\\\\n\\hline\n\\end{array}$$\n\nNow, add starting from the rightmost column (ones place):\n\n1. **Ones place**: Add $4 + 9 = 13$.\n   - Write **3** in the ones column.\n   - Carry **1** to the tens column.\n\n2. **Tens place**: Add $1 \\text{ (carry)} + 8 + 2 = 11$.\n   - Write **1** in the tens column.\n   - Carry **1** to the hundreds column.\n\n3. **Hundreds place**: Add $1 \\text{ (carry)} + 7 + 6 = 14$.\n   - Write **4** in the hundreds column.\n   - Carry **1** to the thousands column.\n\n4. **Thousands place**: Add $1 \\text{ (carry)} + 5 + 3 = 9$.\n   - Write **9** in the thousands column.\n\nLet's write it down with carries shown:\n\n$$\\begin{array}{r@{\\quad}l}\n  \\text{Carries:} & \\color{red}{111} \\\\\n  & 5784 \\\\\n+ & 3629 \\\\\n\\hline\n  & 9413\n\\end{array}$$\n\n**Answer**: $5,784 + 3,629 = 9,413$.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Addition", "Carrying"]
+    },
+    {
+      "id": "example-02",
+      "title": "Real-World Application: Total Distance Traveled",
+      "content": "A courier driver travels **$142$ km** on Monday, **$89$ km** on Tuesday, and **$215$ km** on Wednesday. What is the total distance traveled by the driver over these three days?\n\n### Step-by-Step Solution\n\nTo find the total distance, we need to add the distance of each day together:\n$$\\text{Total Distance} = 142 + 89 + 215$$\n\nLet's arrange them vertically:\n\n$$\\begin{array}{r@{\\quad}l}\n  142 \\\\\n  89 \\\\\n+ 215 \\\\\n\\hline\n\\end{array}$$\n\n1. **Ones place**: $2 + 9 + 5 = 16$.\n   - Write **6** in the ones column.\n   - Carry **1** to the tens column.\n\n2. **Tens place**: $1 \\text{ (carry)} + 4 + 8 + 1 = 14$.\n   - Write **4** in the tens column.\n   - Carry **1** to the hundreds column.\n\n3. **Hundreds place**: $1 \\text{ (carry)} + 1 + 2 = 4$.\n   - Write **4** in the hundreds column.\n\n$$\\begin{array}{r@{\\quad}l}\n  \\text{Carries:} & \\color{red}{11} \\\\\n  & 142 \\\\\n  & \\phantom{0}89 \\\\\n+ & 215 \\\\\n\\hline\n  & 446\n\\end{array}$$\n\n**Answer**: The total distance traveled is **446 kilometers**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
       "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "addition"
-      ]
+      "tags": ["Arithmetic", "Addition", "Word Problem"]
     }
   ]
 }

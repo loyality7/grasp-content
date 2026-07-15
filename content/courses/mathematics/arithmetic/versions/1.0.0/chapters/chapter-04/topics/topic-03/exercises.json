@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Prime Numbers.",
-      "solution": "Step-by-step solution for Prime Numbers problem.",
+      "prompt": "Determine whether the number **43** is a prime number or a composite number. Explain your reasoning.",
+      "solution": "We need to test prime divisors up to the square root of 43 (which is between 6 and 7, since $6^2=36$ and $7^2=49$):\n- **Test 2**: 43 is odd, so it is not divisible by 2.\n- **Test 3**: $4 + 3 = 7$, which is not divisible by 3 ($43 \\div 3 = 14$ R 1).\n- **Test 5**: 43 does not end in 0 or 5, so it is not divisible by 5 ($43 \\div 5 = 8$ R 3).\n\nSince 43 has no prime factors less than or equal to 6, it cannot be factored into smaller integers.\n\n**Answer**: **43 is a prime number** because it is only divisible by 1 and 43.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Test prime divisors like 2, 3, and 5.",
+        "You only need to test divisors up to the square root of 43, which is about 6.5."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "prime-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Numbers", "Verification"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Prime Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "List all the prime numbers between **20** and **40**.",
+      "solution": "Let's check each number in the range 21 to 39:\n- 21: Divisible by 3 ($3 \\times 7$)\n- 22: Divisible by 2\n- **23**: **Prime** (only factors are 1, 23)\n- 24: Divisible by 2\n- 25: Divisible by 5\n- 26: Divisible by 2\n- 27: Divisible by 3 ($3 \\times 9$)\n- 28: Divisible by 2\n- **29**: **Prime** (only factors are 1, 29)\n- 30: Divisible by 2\n- **31**: **Prime** (only factors are 1, 31)\n- 32: Divisible by 2\n- 33: Divisible by 3 ($3 \\times 11$)\n- 34: Divisible by 2\n- 35: Divisible by 5\n- 36: Divisible by 2\n- **37**: **Prime** (only factors are 1, 37)\n- 38: Divisible by 2\n- 39: Divisible by 3 ($3 \\times 13$)\n\n**Answer**: The prime numbers between 20 and 40 are **23, 29, 31, and 37**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Eliminate all even numbers first (except 2, but 2 is not in this range).",
+        "Eliminate numbers ending in 5.",
+        "Check divisibility by 3 for the remaining odd numbers."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "prime-numbers"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Numbers", "Listing"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why **2** is the only even prime number. Why can no other even number be prime?",
+      "solution": "1. **Factor structure of even numbers**:\n   By definition, any even number is divisible by 2.\n   Therefore, for any even number $E > 2$:\n   - Its factors must include at least **1, 2, and $E$**.\n2. **Analysis**:\n   Since it has at least three distinct factors (1, 2, and the number itself), it cannot be a prime number, which requires exactly two distinct factors.\n   2 itself only has two factors (1 and 2), so it is prime.\n\n**Answer**: 2 is the only even prime because any other even number is divisible by 2, meaning it will have at least three factors (1, 2, and itself), making it composite.",
+      "hints": [
+        "Think about the definition of an even number.",
+        "What divisor do all even numbers share?"
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Prime Numbers", "Concepts"]
     }
   ]
 }

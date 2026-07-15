@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Dimensional Analysis",
-      "content": "A practical example demonstrating Dimensional Analysis",
-      "source": "Generated",
+      "title": "Checking Force = Mass × Acceleration",
+      "content": "F = ma. Left: F = [M L T⁻²]. Right: m × a = [M] × [L T⁻²] = [M L T⁻²]. ✓ Dimensions match! Equation is plausible.",
+      "source": "Newton's Laws",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "dimensional-analysis"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["checking-equations"]
+    },
+    {
+      "id": "example-02",
+      "title": "Catching a Mistake",
+      "content": "Someone writes: distance = speed + time. Left: [L]. Right: [L T⁻¹] + [T] = ???. Dimensions don't match! The equation is WRONG.",
+      "source": "Error Detection",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["mistake-catching"]
+    },
+    {
+      "id": "example-03",
+      "title": "Checking E = mc²",
+      "content": "E = mc². Left: [M L² T⁻²]. Right: [M] × ([L T⁻¹])² = [M L² T⁻²]. ✓ Perfect match!",
+      "source": "Relativity",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["famous-equation"]
     }
   ]
 }

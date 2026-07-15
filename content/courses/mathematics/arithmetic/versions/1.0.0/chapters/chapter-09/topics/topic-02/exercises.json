@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Squares.",
-      "solution": "Step-by-step solution for Squares problem.",
+      "prompt": "Find and list all the **perfect squares** that lie strictly between **$10$ and $50$**.",
+      "solution": "1. **Understand what perfect squares are**:\n   Perfect squares are numbers created by squaring whole integers ($1^2, 2^2, 3^2, \\dots$).\n2. **Test whole numbers**:\n   - $3^2 = 9$ (not between 10 and 50)\n   - $4^2 = 16$\n   - $5^2 = 25$\n   - $6^2 = 36$\n   - $7^2 = 49$\n   - $8^2 = 64$ (greater than 50)\n3. **List the values**:\n   The perfect squares between 10 and 50 are 16, 25, 36, and 49.\n\n**Answer**: **$16, 25, 36, 49$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Recall the list of squares of consecutive integers: 3 squared is 9, 4 squared is 16...",
+        "Only list the resulting square values that are greater than 10 and less than 50."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "squares"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Perfect Squares"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Squares to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Evaluate the following squares:\n1.  **$15^2$**\n2.  **$(-12)^2$**",
+      "solution": "1. **Evaluate $15^2$**:\n   $$15^2 = 15 \\times 15 = 225$$\n2. **Evaluate $(-12)^2$**:\n   $$(-12)^2 = (-12) \\times (-12) = 144$$\n   *(Note: The product of two negatives is positive, so the square is positive).* \n\n**Answer**: 1. **$225$**, 2. **$144$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Multiply 15 by 15.",
+        "Remember that when multiplying two negative values, the signs cancel out to make a positive product."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "squares"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Squares", "Negative Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A square photo frame has a side length of **$9$ inches**. Calculate the total area of the photo frame.",
+      "solution": "1. **Recall the area of a square formula**:\n   $$\\text{Area} = \\text{side}^2$$\n2. **Substitute side = 9 inches**:\n   $$\\text{Area} = 9^2 = 9 \\times 9 = 81 \\text{ square inches}$$\n\n**Answer**: The total area is **$81$ square inches**.",
+      "hints": [
+        "Geometrically, the area of a square is the side length multiplied by itself.",
+        "Compute the square of 9."
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Squares", "Geometry", "Area"]
     }
   ]
 }

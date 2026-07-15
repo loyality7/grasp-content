@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Slope",
-      "content": "A practical example demonstrating Slope",
-      "source": "Generated",
+      "title": "Speed from Distance-Time Graph",
+      "content": "In 10 seconds you go 100 meters. Slope = 100/10 = 10 m/s. That's your speed!",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "slope"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["speed", "slope"]
+    },
+    {
+      "id": "example-02",
+      "title": "Acceleration from Velocity Graph",
+      "content": "Velocity increases from 0 to 20 m/s in 5 seconds. Slope = 20/5 = 4 m/s². That's acceleration!",
+      "source": "Kinematics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["acceleration", "slope"]
+    },
+    {
+      "id": "example-03",
+      "title": "Cost per Item",
+      "content": "Total cost vs quantity: 10 items cost $30, 20 items cost $60. Slope = 30/10 = $3 per item.",
+      "source": "Economics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["slope", "economics"]
     }
   ]
 }

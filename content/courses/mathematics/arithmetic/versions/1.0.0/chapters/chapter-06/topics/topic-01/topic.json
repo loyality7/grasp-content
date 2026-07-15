@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Decimal Place Value",
   "topicId": "mathematics.arithmetic.chapter-06.topic-01",
-  "description": "Learn about Decimal Place Value and its applications in mathematics.",
+  "description": "Understand decimal place value, the naming conventions to the right of the decimal point, and expanded form representation.",
   "content": {
-    "overview": "Decimal Place Value is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Decimal Place Value. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Decimal Place Value requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A decimal number is a way of representing fractional values using base-10 notation. Place values to the right of the decimal point describe tenths, hundredths, thousandths, and beyond.",
+    "explanation": "### What is a Decimal?\n\nOur number system is base-10, meaning each place value is **10 times larger** than the place to its right. We can extend this system to represent values smaller than 1 by placing a **decimal point** and adding places to the right.\n\n$$\\dots \\quad \\text{Tens} \\quad \\text{Ones} \\quad \\mathbf{.} \\quad \\text{Tenths} \\quad \\text{Hundredths} \\quad \\text{Thousandths} \\quad \\dots$$\n\n-   Digits to the **left** of the decimal point represent **whole numbers**.\n-   Digits to the **right** of the decimal point represent **fractional parts**.\n\n### Place Values to the Right of the Point\n\n1.  **Tenths place** (first digit right of the decimal): Represents parts divided into 10. \n    -   $0.1 = \\frac{1}{10}$\n2.  **Hundredths place** (second digit right of the decimal): Represents parts divided into 100.\n    -   $0.01 = \\frac{1}{100}$\n3.  **Thousandths place** (third digit right of the decimal): Represents parts divided into 1000.\n    -   $0.001 = \\frac{1}{1000}$\n\nNotice the symmetry around the ones place: Tens is matching Tenths, Hundreds matching Hundredths, and so on. (Note: There is no 'oneths' place!).\n\n### Expanded Form\n\nJust as we can write 345 as $300 + 40 + 5$, we can write decimals in **expanded form** to show the individual value of each digit.\n\n{{viz:formula-01}}\n\nLet's write **$42.375$** in expanded form:\n-   $4$ is in the Tens place $\\to 40$\n-   $2$ is in the Ones place $\\to 2$\n-   $3$ is in the Tenths place $\\to 0.3 = \\frac{3}{10}$\n-   $7$ is in the Hundredths place $\\to 0.07 = \\frac{7}{100}$\n-   $5$ is in the Thousandths place $\\to 0.005 = \\frac{5}{1000}$\n\nAdding these values together gives us the original number:\n$$42.375 = 40 + 2 + 0.3 + 0.07 + 0.005$$\n$$42.375 = (4 \\times 10) + (2 \\times 1) + \\left(3 \\times \\frac{1}{10}\\right) + \\left(7 \\times \\frac{1}{100}\\right) + \\left(5 \\times \\frac{1}{1000}\\right)$$\n\n### Visualizing Place Value\n\nLet's inspect the placing of each digit in the number $42.375$ on a place value chart, highlighting their values one-by-one:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The decimal point separates whole numbers on the left from fractional values on the right.",
+      "Each place value to the right of the decimal is 10 times smaller than the one before it.",
+      "The place values are: tenths (1/10), hundredths (1/100), thousandths (1/1000), etc.",
+      "Expanded form represents a decimal as a sum of the values of its individual digits."
     ],
-    "whyItMatters": "Decimal Place Value is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Decimal place value is crucial for understanding money (cents are hundredths of a dollar), scientific measurements (like measuring lengths to the millimeter or thousandth of a second), and computer arithmetic."
   },
   "availableLanguages": [
     "en"

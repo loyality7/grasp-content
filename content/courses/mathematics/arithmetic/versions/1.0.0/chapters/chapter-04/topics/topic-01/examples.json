@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Factors",
-      "content": "A practical example demonstrating Factors",
-      "source": "Generated",
+      "title": "Finding All Factors of a Number",
+      "content": "Find all the factors of **24** using the factor pairs method.\n\n### Step-by-Step Solution\n\nTo find all factors of 24, we write down all pairs of whole numbers that multiply together to equal 24. We start with 1 and test each consecutive integer:\n\n1.  **Divide by 1**: $1 \\times 24 = 24$ (Factors: **1, 24**)\n2.  **Divide by 2**: $2 \\times 12 = 24$ (Factors: **2, 12**)\n3.  **Divide by 3**: $3 \\times 8 = 24$ (Factors: **3, 8**)\n4.  **Divide by 4**: $4 \\times 6 = 24$ (Factors: **4, 6**)\n5.  **Divide by 5**: 24 is not divisible by 5 (leaves remainder 4).\n6.  **Divide by 6**: $6 \\times 4 = 24$. Since 6 and 4 are already in our list, we have found all pairs and can stop.\n\nNow, list all of these factors in increasing order:\n$$\\text{Factors of 24} = \\{1, 2, 3, 4, 6, 8, 12, 24\\}$$\n\n**Answer**: The factors of 24 are **1, 2, 3, 4, 6, 8, 12, and 24**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "factors"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Factors", "Listing"]
+    },
+    {
+      "id": "example-02",
+      "title": "Pedagogical Insight: Factors of a Perfect Square",
+      "content": "Find all the factors of **36**. Explain why perfect squares like 36 have an **odd** number of factors, while other numbers have an even number of factors.\n\n### Step-by-Step Solution\n\nLet's list the factor pairs of 36:\n- $1 \\times 36 = 36$ (Pairs: 1, 36)\n- $2 \\times 18 = 36$ (Pairs: 2, 18)\n- $3 \\times 12 = 36$ (Pairs: 3, 12)\n- $4 \\times 9 = 36$ (Pairs: 4, 9)\n- 36 is not divisible by 5.\n- $6 \\times 6 = 36$ (Pair: 6, 6 — since the digits are equal, we stop here).\n\nNow list the distinct factors in order:\n$$\\text{Factors of 36} = \\{1, 2, 3, 4, 6, 9, 12, 18, 36\\}$$\n\nLet's count them: 36 has **9 factors** (an odd number).\n\n### Why is the count odd?\nNormally, factors come in distinct pairs (like 2 and 18). However, for perfect square numbers, one of the pairs consists of a number multiplied by itself ($6 \\times 6$). When listing distinct factors, we only write the number 6 once. This leaves the number 6 without a separate partner in the final list, making the total count of factors **odd**.\n\n**Answer**: The factors are **1, 2, 3, 4, 6, 9, 12, 18, 36**. The count is odd (9 factors) because the factor pair $6 \\times 6$ contains two identical numbers, so 6 is only counted once.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Factors", "Perfect Squares"]
     }
   ]
 }

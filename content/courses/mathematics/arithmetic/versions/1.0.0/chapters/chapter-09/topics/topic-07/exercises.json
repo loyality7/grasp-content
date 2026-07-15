@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Laws of Exponents (Introduction).",
-      "solution": "Step-by-step solution for Laws of Exponents (Introduction) problem.",
+      "prompt": "Simplify the expression **$(4^2)^4$** into a single power of 4.",
+      "solution": "1. **Identify the exponent rule**:\n   We have an exponent raised to another exponent. This requires the **Power of a Power Rule**:\n   $$(a^m)^n = a^{m \\times n}$$\n2. **Multiply the exponents**:\n   Multiply the inside exponent ($2$) by the outside exponent ($4$):\n   $$(4^2)^4 = 4^{2 \\times 4} = 4^8$$\n\n**Answer**: **$4^8$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Recall the rule for raising a power to another power: you multiply the exponents.",
+        "Compute the product of the exponents 2 and 4, keeping the base as 4."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "laws-of-exponents-introduction"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Exponents", "Power Rule"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Laws of Exponents (Introduction) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Simplify and evaluate: **$3^2 \\times 3^3$**.",
+      "solution": "1. **Simplify using the Product Rule**:\n   Since the bases are both 3, keep the base and add the exponents:\n   $$3^2 \\times 3^3 = 3^{2+3} = 3^5$$\n2. **Evaluate $3^5$**:\n   $$3^5 = 3 \\times 3 \\times 3 \\times 3 \\times 3$$\n   - $3 \\times 3 = 9$\n   - $9 \\times 3 = 27$\n   - $27 \\times 3 = 81$\n   - $81 \\times 3 = 243$\n\n**Answer**: Simplified form: **$3^5$**. Evaluated value: **$243$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Multiply terms with the same base by adding their exponents.",
+        "Multiply 3 by itself 5 times to evaluate."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "laws-of-exponents-introduction"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Product Rule", "Evaluation"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why you cannot simplify the expression **$2^5 \\times 5^2$** using the Product Rule of exponents.",
+      "solution": "1. **Recall the conditions for the Product Rule**:\n   The Product Rule ($a^m \\times a^n = a^{m+n}$) states that terms can only be combined if they have the **same base** $a$.\n2. **Identify bases in the given expression**:\n   - The first term $2^5$ has base **$2$**.\n   - The second term $5^2$ has base **$5$**.\n3. **Conclusion**:\n   Since the bases ($2$ and $5$) are different, the Product Rule does not apply. The expression can only be computed by evaluating each term separately ($32 \\times 25 = 800$).\n\n**Answer**: The base numbers are 2 and 5, which are different. The Product Rule only applies to terms with identical bases.",
+      "hints": [
+        "Check if the bases of both terms are identical.",
+        "What are the base numbers in 2 raised to 5 and 5 raised to 2?"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Bases"]
     }
   ]
 }

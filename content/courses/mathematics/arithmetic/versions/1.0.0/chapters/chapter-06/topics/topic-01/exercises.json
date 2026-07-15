@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Decimal Place Value.",
-      "solution": "Step-by-step solution for Decimal Place Value problem.",
+      "prompt": "For the number **$238.94$**:\n1. Identify the digit in the Tenths place.\n2. State the value of the digit 8.",
+      "solution": "1. **Identify the Tenths digit**:\n   - Digits to the right of the decimal point start with Tenths, then Hundredths.\n   - The first digit to the right of the decimal point is **9**, so 9 is in the Tenths place.\n2. **State the value of 8**:\n   - 8 is to the left of the decimal point in the Ones place.\n   - Value = $8 \\times 1 = 8$.\n\n**Answer**: The Tenths digit is **9**; the value of the digit 8 is **8**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Recall that tenths are the first place value to the right of the decimal point.",
+        "Check which side of the decimal point the digit 8 lies on."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "decimal-place-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Place Value"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Decimal Place Value to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Write the decimal number **$0.603$** in expanded form using fractions.",
+      "solution": "1. Analyze digit positions:\n   - 0 is in Ones place (we skip this in expansion).\n   - 6 is in Tenths place $\\to \\frac{6}{10}$.\n   - 0 is in Hundredths place (we skip this).\n   - 3 is in Thousandths place $\\to \\frac{3}{1000}$.\n2. Combine terms:\n   $$0.603 = \\frac{6}{10} + \\frac{3}{1000}$$\n\n**Answer**: **$\\frac{6}{10} + \\frac{3}{1000}$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Identify the place value of 6 and 3.",
+        "Since the hundredths place has a 0, you do not need to include it in the sum."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "decimal-place-value"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Expanded Form"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A stopwatch records a running speed of **$12.045$ seconds**.\n1. Write this decimal number in words.\n2. Which digit represents the thousandths of a second, and what is its fractional value?",
+      "solution": "1. **Write in words**:\n   - The whole number part is 12 (\"twelve\").\n   - The decimal point is written as \"and\".\n   - The fractional part has digits 045, ending in the thousandths place, read as \"forty-five thousandths\".\n   - Word form: **Twelve and forty-five thousandths**.\n2. **Identify thousandths digit**:\n   - Tenths place: 0\n   - Hundredths place: 4\n   - Thousandths place: **5**\n   - The digit is **5**.\n   - Its value is **$\\frac{5}{1000}$** (or $0.005$).\n\n**Answer**: Word form: **Twelve and forty-five thousandths**. Digit 5 represents thousandths of a second, with a value of **$\\frac{5}{1000}$**.",
+      "hints": [
+        "Read the decimal as: [Whole Number] and [Decimal digits read as a whole number] [Last Place Value name].",
+        "Count the positions to the right of the decimal: first is tenths, second is hundredths, third is thousandths."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Place Value", "Word Problems"]
     }
   ]
 }

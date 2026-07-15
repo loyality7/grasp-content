@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Integer Operations?",
+      "question": "Evaluate the expression: $(-7) + (-9)$",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "2",
+        "-2",
+        "16",
+        "-16"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Since both numbers have the same sign (negative), we add their absolute values ($7 + 9 = 16$) and keep the negative sign, yielding $-16$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Integer Operations is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Solve the subtraction problem: $4 - (-5)$",
       "options": [
-        "True",
-        "False"
+        "-1",
+        "9",
+        "-9",
+        "1"
       ],
       "correctIndex": 1,
-      "explanation": "Integer Operations has many practical applications.",
+      "explanation": "Subtracting a negative number is equivalent to adding its positive opposite: $4 - (-5) = 4 + 5 = 9$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the product of $(-8)$ and $(-4)$?",
+      "options": [
+        "-32",
+        "32",
+        "-12",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplying two negative numbers (same signs) always results in a positive product: $(-8) \\times (-4) = 32$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Evaluate the quotient: $(-42) \\div (+6)$",
+      "options": [
+        "7",
+        "-7",
+        "-8",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dividing two numbers with different signs results in a negative quotient: $42 \\div 6 = 7$, so the answer is $-7$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which of the following arithmetic expressions results in a negative integer?",
+      "options": [
+        "$(-5) \\times (-2)$",
+        "$(-12) \\div (-3)$",
+        "$(-8) + 15$",
+        "$(-3) \\times 4$"
+      ],
+      "correctIndex": 3,
+      "explanation": "Let's check each: (-5) x (-2) = 10 (positive); (-12) / (-3) = 4 (positive); (-8) + 15 = 7 (positive); (-3) x 4 = -12 (negative).",
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Squares Flowchart",
-      "description": "Flowchart showing Squares process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Squares",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Squares Formula",
-      "description": "Mathematical definition",
+      "title": "Squaring Equation",
+      "description": "The algebraic definition of squaring a value.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "n^2 = n \\times n",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "n^2",
+            "explanation": "n raised to the power of 2 (or 'n squared')."
+          },
+          {
+            "latex": "n \\times n",
+            "explanation": "Multiply the base number n by itself exactly once."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Squares 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Squares Animation",
-      "description": "Canvas animation",
+      "title": "Geometric Grid of Squares",
+      "description": "Watch how multiplying a number by itself forms a square grid, scaling its area geometrically.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Squares Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Squares.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Squares Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Squares Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Squares",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var size = 1;\n    var color = '#EF4444';\n    if (progress >= 0.25 && progress < 0.50) {\n      size = 2;\n      color = '#3B82F6';\n    } else if (progress >= 0.50 && progress < 0.75) {\n      size = 3;\n      color = '#10B981';\n    } else if (progress >= 0.75) {\n      size = 4;\n      color = '#F59E0B';\n    }\n\n    var midY = H / 2 - 25;\n    var midX = W / 2;\n    var cellSize = 22;\n    \n    // Draw grid of cells centered\n    var startX = midX - (size * cellSize) / 2;\n    var startY = midY - (size * cellSize) / 2;\n\n    for (var r = 0; r < size; r++) {\n      for (var c = 0; c < size; c++) {\n        var cx = startX + c * cellSize;\n        var cy = startY + r * cellSize;\n        \n        ctx.fillStyle = color;\n        ctx.fillRect(cx, cy, cellSize - 2, cellSize - 2);\n        ctx.strokeStyle = '#FFFFFF';\n        ctx.lineWidth = 0.5;\n        ctx.strokeRect(cx, cy, cellSize - 2, cellSize - 2);\n      }\n    }\n\n    // Bottom text explanations\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (size === 1) {\n      ctx.fillText('1\u00b2 = 1 \u00d7 1 = 1', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('1 unit block wide, 1 unit block high.', W / 2, H - 22);\n    } else if (size === 2) {\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('2\u00b2 = 2 \u00d7 2 = 4', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('2 unit blocks wide, 2 unit blocks high. Total = 4 blocks.', W / 2, H - 22);\n    } else if (size === 3) {\n      ctx.fillStyle = '#34D399';\n      ctx.fillText('3\u00b2 = 3 \u00d7 3 = 9', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('3 unit blocks wide, 3 unit blocks high. Total = 9 blocks.', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('4\u00b2 = 4 \u00d7 4 = 16', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('4 unit blocks wide, 4 unit blocks high. Total = 16 blocks.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

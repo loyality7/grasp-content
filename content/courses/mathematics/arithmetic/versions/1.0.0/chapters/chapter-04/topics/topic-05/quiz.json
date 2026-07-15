@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Prime Factorization?",
+      "question": "What is the prime factorization of 18?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$2 \\times 9$",
+        "$3 \\times 6$",
+        "$2 \\times 3 \\times 3$",
+        "$2^2 \\times 3$"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "$2 \\times 9$ and $3 \\times 6$ are factorizations, but 9 and 6 are composite numbers. $2 \\times 3 \\times 3$ (or $2 \\times 3^2$) consists entirely of prime numbers that multiply to 18.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Prime Factorization is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following is the correct prime factorization of 100?",
       "options": [
-        "True",
-        "False"
+        "$10 \\times 10$",
+        "$4 \\times 25$",
+        "$2^2 \\times 5^2$",
+        "$2 \\times 5 \\times 10$"
+      ],
+      "correctIndex": 2,
+      "explanation": "$2^2 \\times 5^2$ expands to $4 \\times 25 = 100$. Since 2 and 5 are prime, this is the prime factorization. The other choices contain composite numbers (10, 4, 25).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the value of the composite number represented by $2^3 \\times 3 \\times 5$?",
+      "options": [
+        "60",
+        "90",
+        "120",
+        "150"
+      ],
+      "correctIndex": 2,
+      "explanation": "Evaluate step-by-step: $2^3 = 8$. Now multiply: $8 \\times 3 = 24$. Then multiply by 5: $24 \\times 5 = 120$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which theorem states that every integer greater than 1 has a unique prime factorization?",
+      "options": [
+        "Pythagorean Theorem",
+        "Fundamental Theorem of Arithmetic",
+        "Commutative Law of Multiplication",
+        "Euclid's Division Lemma"
       ],
       "correctIndex": 1,
-      "explanation": "Prime Factorization has many practical applications.",
+      "explanation": "The Fundamental Theorem of Arithmetic states that every integer greater than 1 is prime or can be written as a unique product of prime numbers.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "When constructing a factor tree for the number 36, which starting factor pair will lead to the correct prime factorization?",
+      "options": [
+        "Only $6 \\times 6$",
+        "Only $2 \\times 18$",
+        "Only $4 \\times 9$",
+        "Any starting factor pair will yield the same final prime factorization."
+      ],
+      "correctIndex": 3,
+      "explanation": "By the Fundamental Theorem of Arithmetic, the prime factorization of a number is unique. No matter which factor pair you choose to start your tree with, you will always get the same set of prime leaves: $2^2 \\times 3^2$.",
+      "difficulty": "medium"
     }
   ]
 }

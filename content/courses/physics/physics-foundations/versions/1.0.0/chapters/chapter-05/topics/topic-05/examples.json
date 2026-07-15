@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Components of a Vector",
-      "content": "A practical example demonstrating Components of a Vector",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "components-of-a-vector"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Velocity Components","content":"An arrow fired at 30° angle with 20 m/s. Horizontal: 20×cos(30°)≈17.3 m/s. Vertical: 20×sin(30°)=10 m/s. Break the vector into parts!","source":"Projectile Motion","difficulty":"beginner","estimatedMinutes":2,"tags":["components","velocity"]},{"id":"example-02","title":"Force On Incline","content":"10 N force on a 30° slope. Parallel to slope: 10×sin(30°)=5 N. Perpendicular: 10×cos(30°)≈8.7 N. Components show what matters.","source":"Mechanics","difficulty":"beginner","estimatedMinutes":2,"tags":["force","incline"]},{"id":"example-03","title":"Reconstructing Vector","content":"Components: (3,4). Magnitude = √(3²+4²)=5. Angle = arctan(4/3)≈53°. Go from components back to the vector.","source":"Vector Math","difficulty":"beginner","estimatedMinutes":2,"tags":["components","reconstruction"]}]}

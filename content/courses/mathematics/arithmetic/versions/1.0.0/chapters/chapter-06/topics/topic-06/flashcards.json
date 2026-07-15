@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Multiplying Decimals?",
-      "back": "Multiplying Decimals is a fundamental concept in mathematics.",
+      "front": "Do you need to line up decimal points when multiplying decimals?",
+      "back": "No, decimal points do not need to line up during multiplication (unlike addition and subtraction).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Multiplying Decimals important?",
-      "back": "Multiplying Decimals is essential for understanding Arithmetic.",
+      "front": "How do you determine where the decimal point goes in a product?",
+      "back": "The product will have the same number of decimal places as the sum of the decimal places in the two factors.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What should you do if the product has fewer digits than required decimal places?",
+      "back": "Add placeholder zeros to the left of the product digits before placing the decimal point (e.g. $2 \\times 3 = 6 \\to 0.006$ for 3 places).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the shortcut for multiplying a decimal by 10?",
+      "back": "Move the decimal point one place to the right (e.g., $1.25 \\times 10 = 12.5$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Why does $0.2 \\times 0.3 = 0.06$ instead of $0.6$?",
+      "back": "Because 2 tenths of 3 tenths is 6 hundredths ($\\frac{2}{10} \\times \\frac{3}{10} = \\frac{6}{100} = 0.06$).",
+      "difficulty": "easy"
     }
   ]
 }

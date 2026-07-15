@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Converting Fractions ↔ Decimals?",
+      "question": "What is the decimal equivalent of the fraction $\\frac{1}{8}$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "0.8",
+        "0.12",
+        "0.125",
+        "0.08"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Divide 1 by 8 using long division: $1.000 \\div 8 = 0.125$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Converting Fractions ↔ Decimals is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Convert the decimal $0.6$ to a simplified fraction.",
       "options": [
-        "True",
-        "False"
+        "$\\frac{6}{10}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{6}$"
       ],
       "correctIndex": 1,
-      "explanation": "Converting Fractions ↔ Decimals has many practical applications.",
+      "explanation": "Write $0.6$ as $\\frac{6}{10}$. Divide the numerator and denominator by their GCD of 2 to simplify: $\\frac{6 \\div 2}{10 \\div 2} = \\frac{3}{5}$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of the following represents $\\frac{2}{3}$ written as a decimal?",
+      "options": [
+        "0.6",
+        "$0.\\bar{6}$ (or $0.666\\dots$)",
+        "0.67",
+        "0.23"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dividing 2 by 3 yields $2.0000\\dots \\div 3 = 0.6666\\dots$ where the digit 6 repeats infinitely. This is written using bar notation as $0.\\bar{6}$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Convert $0.05$ into a fraction in simplest terms.",
+      "options": [
+        "$\\frac{5}{10}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{20}$",
+        "$\\frac{5}{1000}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "The decimal $0.05$ has the digit 5 in the hundredths place, so it is $\\frac{5}{100}$. Dividing the numerator and denominator by 5 simplifies it to $\\frac{1}{20}$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Solve the calculation: $\\frac{4}{5} + 0.15$ by first converting the fraction to a decimal.",
+      "options": [
+        "0.95",
+        "0.55",
+        "0.19",
+        "0.415"
+      ],
+      "correctIndex": 0,
+      "explanation": "Convert $\\frac{4}{5}$ to a decimal: $\\frac{4 \\times 2}{5 \\times 2} = \\frac{8}{10} = 0.8$. Now, add $0.8$ (which is $0.80$) and $0.15$: $0.80 + 0.15 = 0.95$.",
+      "difficulty": "medium"
     }
   ]
 }

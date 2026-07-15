@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Exponents?",
-      "back": "Exponents is a fundamental concept in mathematics.",
+      "front": "What does an Exponent represent?",
+      "back": "The number of times a base is multiplied by itself.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Exponents important?",
-      "back": "Exponents is essential for understanding Arithmetic.",
+      "front": "What is the Base in an exponential expression?",
+      "back": "The number that is being repeatedly multiplied by itself.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the rule for any number raised to the power of 1 (e.g. $x^1$)?",
+      "back": "It is equal to the number itself ($x^1 = x$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the rule for a non-zero number raised to the power of 0 (e.g. $x^0$)?",
+      "back": "It is always equal to 1 ($x^0 = 1$).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Evaluate the expression $2^5$.",
+      "back": "$32$ (since $2 \\times 2 \\times 2 \\times 2 \\times 2 = 32$).",
+      "difficulty": "easy"
     }
   ]
 }

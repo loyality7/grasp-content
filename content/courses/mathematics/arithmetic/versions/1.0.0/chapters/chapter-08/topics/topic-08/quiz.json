@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Scale?",
+      "question": "What is the primary objective of the first step in the unitary method?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "To find the sum of all values.",
+        "To calculate the value of exactly one single unit.",
+        "To multiply the numbers by their common factor.",
+        "To convert the units into percentages."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "The unitary method is named after 'unit' (one). The first step is always to find the value of one single unit using division.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Scale is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "If $5$ identical shirts cost a total of $50$ dollars, how much will $8$ of these shirts cost?",
       "options": [
-        "True",
-        "False"
+        "70 dollars",
+        "80 dollars",
+        "90 dollars",
+        "100 dollars"
       ],
       "correctIndex": 1,
-      "explanation": "Scale has many practical applications.",
+      "explanation": "First, find the unit price: $50 \\div 5 = 10$ dollars per shirt. Then, multiply by the desired quantity: $10 \\times 8 = 80$ dollars.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If a vehicle travels $200$ miles in $4$ hours at a constant speed, how far will it travel in $7$ hours?",
+      "options": [
+        "300 miles",
+        "320 miles",
+        "350 miles",
+        "400 miles"
+      ],
+      "correctIndex": 2,
+      "explanation": "First, find distance traveled in 1 hour: $200 \\div 4 = 50$ miles. Then, multiply by the new duration: $50 \\times 7 = 350$ miles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which mathematical operations are executed, in order, when using the unitary method for direct proportions?",
+      "options": [
+        "Addition, then Subtraction",
+        "Multiplication, then Division",
+        "Division, then Multiplication",
+        "Subtraction, then Division"
+      ],
+      "correctIndex": 2,
+      "explanation": "We first divide to find the unit value, and then multiply that unit value by the new quantity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If $12$ identical cans of tomato soup cost $18$ dollars, what is the cost of $8$ cans of this soup?",
+      "options": [
+        "10 dollars",
+        "12 dollars",
+        "14 dollars",
+        "15 dollars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Find cost of 1 can: $18 \\div 12 = 1.50$ dollars per can. Find cost of 8 cans: $1.50 \\times 8 = 12$ dollars.",
+      "difficulty": "medium"
     }
   ]
 }

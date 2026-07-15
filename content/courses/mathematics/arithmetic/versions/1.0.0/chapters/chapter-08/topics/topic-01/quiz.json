@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Ratio?",
+      "question": "Which of the following is NOT a valid way to write the ratio of $3$ to $4$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "3 : 4",
+        "$\\frac{3}{4}$",
+        "3 to 4",
+        "$3 \\times 4$"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Ratios compare numbers by division, so multiplication ($3 \\times 4$) is not a valid format.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Ratio is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "In a bag of marbles, the ratio of red to green marbles is $2:5$. What is the part-to-whole ratio of green marbles to total marbles?",
       "options": [
-        "True",
-        "False"
+        "$\\frac{2}{5}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{5}{7}$",
+        "$\\frac{2}{7}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "The green marbles represent $5$ parts. The total parts in the bag is $2 \\text{ (red)} + 5 \\text{ (green)} = 7$ parts. Therefore, the part-to-whole ratio is $\\frac{5}{7}$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If a box contains $8$ chocolate cookies and $12$ vanilla cookies, what is the ratio of chocolate to vanilla cookies?",
+      "options": [
+        "12 : 8",
+        "8 : 12",
+        "8 : 20",
+        "20 : 12"
       ],
       "correctIndex": 1,
-      "explanation": "Ratio has many practical applications.",
+      "explanation": "The order matters: chocolate ($8$) is the first term, and vanilla ($12$) is the second term, so the ratio is $8:12$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "In a drawing, there are $5$ stars and $2$ hearts. What is the part-to-whole ratio of stars to total shapes?",
+      "options": [
+        "5 : 2",
+        "2 : 5",
+        "5 : 7",
+        "2 : 7"
+      ],
+      "correctIndex": 2,
+      "explanation": "There are $5$ stars, and the total shapes are $5 + 2 = 7$. The part-to-whole ratio is $5:7$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "In the ratio $x:y$, what is the mathematical name for the first term $x$?",
+      "options": [
+        "Consequent",
+        "Denominator",
+        "Antecedent",
+        "Numerator"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a ratio, the first term is the antecedent, and the second term is the consequent.",
+      "difficulty": "medium"
     }
   ]
 }

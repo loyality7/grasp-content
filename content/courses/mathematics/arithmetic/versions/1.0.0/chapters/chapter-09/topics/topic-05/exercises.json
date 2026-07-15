@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Cube Roots.",
-      "solution": "Step-by-step solution for Cube Roots problem.",
+      "prompt": "Evaluate the following cube roots:\n1.  **$\\sqrt[3]{27}$**\n2.  **$\\sqrt[3]{-64}$**",
+      "solution": "1. **Evaluate $\\sqrt[3]{27}$**:\n   We seek a number $y$ such that $y \\times y \\times y = 27$. Since $3 \\times 3 \\times 3 = 27$, we have:\n   $$\\sqrt[3]{27} = 3$$\n2. **Evaluate $\\sqrt[3]{-64}$**:\n   We seek a number $y$ such that $y \\times y \\times y = -64$. Since $(-4) \\times (-4) \\times (-4) = -64$, we have:\n   $$\\sqrt[3]{-64} = -4$$\n\n**Answer**: 1. **$3$**, 2. **$-4$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "What number cubed equals 27?",
+        "What negative number cubed equals -64?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "cube-roots"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Cube Roots", "Perfect Cubes"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Cube Roots to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Explain why you can evaluate the cube root of a negative number (e.g. $\\sqrt[3]{-8} = -2$) but you cannot evaluate the square root of a negative number (e.g. $\\sqrt{-4}$) in real numbers.",
+      "solution": "1. **Analyze the multiplication rules of signs**:\n   - **For Squares**: When you square a number, you multiply *two* factors of that number. A positive times a positive is positive, and a negative times a negative is also positive. There is no way to multiply two identical real numbers to get a negative product. Thus, $\\sqrt{-4}$ is not a real number.\n   - **For Cubes**: When you cube a number, you multiply *three* factors. Multiplying three negative numbers yields a negative result (negative $\\times$ negative $\\times$ negative $=$ positive $\\times$ negative $=$ negative). \n2. **Formulate the explanation**:\n   Because $(-2) \\times (-2) \\times (-2) = -8$, a negative base cubed produces a negative product. Therefore, negative numbers have real cube roots, whereas they do not have real square roots.\n\n**Answer**: Multiplying an odd number of negative signs (three) results in a negative product, allowing negative cube roots, whereas squaring (two factors) always results in a positive product.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Think about what sign you get when you multiply a negative by a negative.",
+        "Think about what sign you get when you multiply a negative by a negative and then by another negative."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "cube-roots"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Cube Roots", "Square Roots", "Signs"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A solid cubic container has an internal volume of **$1000\\text{ cubic feet}$**. What is the area of the container's base?",
+      "solution": "1. **Find the side length of the cube**:\n   $$\\text{side} = \\sqrt[3]{\\text{Volume}} = \\sqrt[3]{1000} = 10 \\text{ feet}$$\n2. **Calculate the area of the base (which is a square)**:\n   $$\\text{Base Area} = \\text{side}^2 = 10 \\times 10 = 100 \\text{ square feet}$$\n\n**Answer**: The area of the container's base is **$100\\text{ square feet}$**.",
+      "hints": [
+        "First find the side length of the container by taking the cube root of its volume (1000).",
+        "The base of a cube is a square. Square the side length you found to find the area of this base."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Cube Roots", "Squares", "Geometry", "Area"]
     }
   ]
 }

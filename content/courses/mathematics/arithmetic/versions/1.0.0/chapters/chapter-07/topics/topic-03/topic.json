@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Increase Percentage",
   "topicId": "mathematics.arithmetic.chapter-07.topic-03",
-  "description": "Learn about Increase Percentage and its applications in mathematics.",
+  "description": "Learn to calculate the new value of an amount after a percentage increase using addition and multiplier methods.",
   "content": {
-    "overview": "Increase Percentage is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Increase Percentage. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Increase Percentage requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A percentage increase occurs when an amount grows by a certain percent of its original value. We see this in real life with raises in salary, inflation, population growth, and sales tax.",
+    "explanation": "### Two Methods to Calculate Increase\n\nThere are two main ways to find the new value after a percentage increase. Let's look at both using the example: **Increase $80$ by $25\\%$**.\n\n#### Method 1: Two-Step (Calculate & Add)\n1.  **Calculate the increase amount**: Find $25\\%$ of $80$.\n    $$\\text{Increase} = 25\\% \\times 80 = \\frac{1}{4} \\times 80 = 20$$\n2.  **Add the increase to the original value**:\n    $$\\text{New Value} = \\text{Original} + \\text{Increase}$$\n    $$\\text{New Value} = 80 + 20 = 100$$\n\n#### Method 2: One-Step (The Multiplier Method)\nSince the new value includes $100\\%$ of the original plus an extra $25\\%$, the new value is actually **$125\\%$** of the original.\n\nWe can find this directly by multiplying the original by the decimal representation of $125\\%$ (which is $1.25$):\n\n{{viz:formula-01}}\n\nUsing this multiplier:\n$$\\text{New Value} = 80 \\times 1.25 = 100$$\n\n### Multiplier Cheat Sheet\n-   For a **$10\\%$ increase**: Multiply by **$1.10$** (or $1.1$)\n-   For a **$5\\%$ increase**: Multiply by **$1.05$**\n-   For a **$50\\%$ increase**: Multiply by **$1.50$** (or $1.5$)\n-   For a **$100\\%$ increase**: Multiply by **$2.00$** (doubles the original)\n\n### Visualizing Percentage Increase\n\nWatch how adding a $25\\%$ segment (worth $20$) to our original bar of $80$ creates a total of $100$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A percentage increase adds a portion of the original value back onto itself.",
+      "The multiplier for a percentage increase is always (1 + decimal percent).",
+      "Increasing a value by 100% is equivalent to multiplying it by 2 (doubling it).",
+      "Always calculate the percentage based on the starting original value, not the final value."
     ],
-    "whyItMatters": "Increase Percentage is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Understanding percentage increases helps you calculate your new salary after a raise, find the total cost of a purchase including sales tax, or determine the final price of an item including a tip."
   },
   "availableLanguages": [
     "en"

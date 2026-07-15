@@ -2,14 +2,38 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is What is Physics??",
-      "back": "What is Physics? is a fundamental concept in physics.",
+      "front": "What is physics?",
+      "back": "Figuring out how and why things work in nature. Observing, understanding, predicting.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is What is Physics? important?",
-      "back": "What is Physics? is essential for understanding Physics Foundations.",
+      "front": "What's the basic cycle of physics?",
+      "back": "Observe → Understand → Predict → Build. See what happens, figure out why, know what comes next, make cool stuff.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Is physics only for scientists?",
+      "back": "No! Physics is everywhere. Your phone, food, body, everything. You use it every day.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why does physics use math?",
+      "back": "Math lets you be exact about predictions. Words are vague. Numbers are precise. Physics needs precision.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Give one example of physics.",
+      "back": "Ball falling down = gravity. Light bouncing = reflection. Phone charging = electricity. Sky being blue = light scattering.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-06",
+      "front": "What can you do if you understand physics?",
+      "back": "Predict what will happen. Design better products. Explain why things work. Solve problems.",
       "difficulty": "medium"
     }
   ]

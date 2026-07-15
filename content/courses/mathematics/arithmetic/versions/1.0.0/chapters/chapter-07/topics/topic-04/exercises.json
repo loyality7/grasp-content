@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Decrease Percentage.",
-      "solution": "Step-by-step solution for Decrease Percentage problem.",
+      "prompt": "Decrease **$150$** by **$20\\%$**.",
+      "solution": "1. **Method 1: Two-step**:\n   - Find 20% of 150:\n     $$\\text{Decrease} = 0.20 \\times 150 = 30$$\n   - Subtract from original:\n     $$\\text{New Value} = 150 - 30 = 120$$\n2. **Method 2: Multiplier**:\n   - Multiplier = $1 - 0.20 = 0.80$.\n   - Multiply: \n     $$150 \\times 0.8 = 120$$\n\n**Answer**: **$120$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First find 10% of 150, which is 15. Double that to find 20%.",
+        "Subtract that 20% amount from the original 150."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "decrease-percentage"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Decrease Percentage to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A new car is purchased for **$20,000$ dollars**. During its first year, it depreciates (loses value) by **$12\\%$**. What is the car's value after one year?",
+      "solution": "1. **Find the depreciation amount**:\n   Calculate 12% of 20,000:\n   $$12\\% \\times 20000 = 0.12 \\times 20000 = 2400 \\text{ dollars}$$\n2. **Subtract from the starting price**:\n   $$\\text{New Value} = 20000 - 2400 = 17600 \\text{ dollars}$$\n3. **Using multiplier**:\n   - Multiplier = $1 - 0.12 = 0.88$.\n   - Multiply: \n     $$20000 \\times 0.88 = 17600$$\n\n**Answer**: The car's value after one year is **$17,600$ dollars**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Losing 12% of its value means the car is now worth 88% of its original price.",
+        "Multiply 20,000 by 0.88 directly or find 12% of 20,000 and subtract it from 20,000."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "decrease-percentage"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A backyard pool contains **$1,200$ gallons** of water. Over a hot week, it loses **$10\\%$** of its water due to evaporation. How many gallons of water remain in the pool?",
+      "solution": "1. **Find the evaporated water volume**:\n   - 10% of 1,200 = $120$ gallons.\n2. **Subtract from original volume**:\n   $$\\text{Remaining Water} = 1200 - 120 = 1080 \\text{ gallons}$$\n3. **Using multiplier**:\n   - Multiplier = $1 - 0.10 = 0.90$.\n   - Multiply: \n     $$1200 \\times 0.90 = 1080$$\n\n**Answer**: **$1,080$ gallons** of water remain.",
+      "hints": [
+        "Calculate 10% of 1,200 by moving the decimal point one place to the left.",
+        "Subtract this amount from the starting volume."
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
     }
   ]
 }

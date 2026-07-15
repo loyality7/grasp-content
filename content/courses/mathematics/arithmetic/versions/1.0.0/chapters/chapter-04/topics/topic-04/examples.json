@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Composite Numbers",
-      "content": "A practical example demonstrating Composite Numbers",
-      "source": "Generated",
+      "title": "Verifying a Composite Number",
+      "content": "Prove that the number **15** is a composite number.\n\n### Step-by-Step Solution\n\n1.  **Recall the definition**:\n    A composite number must be a positive integer greater than 1 that has more than two factors.\n\n2.  **Find all positive factors of 15**:\n    - $1 \\times 15 = 15$\n    - $3 \\times 5 = 15$\n    - Other integers (2, 4) leave remainders.\n\n    So, the positive factors of 15 are:\n    $$\\text{Factors of 15} = \\{1, 3, 5, 15\\}$$\n\n3.  **Count the factors**:\n    The number of positive factors is 4.\n\n4.  **Conclude**:\n    Since 15 has 4 positive factors (which is more than two), it satisfies the definition of a composite number.\n\n**Answer**: **15 is a composite number** because it has 4 positive factors: 1, 3, 5, and 15.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "composite-numbers"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Composite Numbers", "Verification"]
+    },
+    {
+      "id": "example-02",
+      "title": "Identifying Odd Composite Numbers",
+      "content": "Identify and list the first five **odd** composite numbers. Explain why each is composite.\n\n### Step-by-Step Solution\n\nWe need numbers that are odd (not divisible by 2) and composite (have more than 2 factors). Let's check positive odd numbers starting from 3:\n\n1.  **3**: Prime (factors: 1, 3)\n2.  **5**: Prime (factors: 1, 5)\n3.  **7**: Prime (factors: 1, 7)\n4.  **9**: **Composite** (factors: 1, 3, 9 — since $3 \\times 3 = 9$)\n5.  **11**: Prime (factors: 1, 11)\n6.  **13**: Prime (factors: 1, 13)\n7.  **15**: **Composite** (factors: 1, 3, 5, 15 — since $3 \\times 5 = 15$)\n8.  **17**: Prime (factors: 1, 17)\n9.  **19**: Prime (factors: 1, 19)\n10. **21**: **Composite** (factors: 1, 3, 7, 21 — since $3 \\times 7 = 21$)\n11. **23**: Prime (factors: 1, 23)\n12. **25**: **Composite** (factors: 1, 5, 25 — since $5 \\times 5 = 25$)\n13. **27**: **Composite** (factors: 1, 3, 9, 27 — since $3 \\times 9 = 27$)\n\nListing the first five odd composites: **9, 15, 21, 25, and 27**.\n\n**Answer**: The first five odd composite numbers are **9, 15, 21, 25, and 27**. They are odd because they are not divisible by 2, and composite because they each have at least three factors.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Composite Numbers", "Odd Composites"]
     }
   ]
 }

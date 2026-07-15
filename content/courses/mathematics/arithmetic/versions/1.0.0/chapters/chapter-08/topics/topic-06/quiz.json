@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Inverse Proportion?",
+      "question": "In an inverse proportion relationship, if variable $X$ is multiplied by $3$, what must happen to variable $Y$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Y is multiplied by 3.",
+        "Y is divided by 3.",
+        "Y remains constant.",
+        "Y is increased by 3."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "In an inverse proportion, multiplying one variable by a factor requires dividing the other variable by that same factor.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Inverse Proportion is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "If two variables $a$ and $b$ are in an inverse proportion, which of the following is always constant?",
       "options": [
-        "True",
-        "False"
+        "$\\frac{a}{b}$",
+        "$a + b$",
+        "$a \\times b$",
+        "$a - b$"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inverse variation is characterized by a constant product: $a \\times b = k$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If $4$ workers can unpack a shipment of stock in $3$ hours, how many hours will it take $6$ workers to do the same task?",
+      "options": [
+        "1.5 hours",
+        "2 hours",
+        "4.5 hours",
+        "5 hours"
       ],
       "correctIndex": 1,
-      "explanation": "Inverse Proportion has many practical applications.",
-      "difficulty": "easy"
+      "explanation": "First find the total labor: $4 \\times 3 = 12$ worker-hours. Divide by the new crew size: $\\frac{12}{6} = 2$ hours.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "In the inverse proportion equation $y = \\frac{k}{x}$ (where $k > 0$), what happens to $y$ as $x$ increases to a very large number?",
+      "options": [
+        "y increases proportionally.",
+        "y approaches zero.",
+        "y becomes equal to k.",
+        "y becomes negative."
+      ],
+      "correctIndex": 1,
+      "explanation": "As the denominator $x$ grows larger, the fraction $\\frac{k}{x}$ becomes smaller, meaning $y$ approaches zero.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If $y = 6$ when $x = 4$, and they vary inversely, what is the value of $y$ when $x = 12$?",
+      "options": [
+        "18",
+        "2",
+        "8",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "The constant product is $k = 4 \\times 6 = 24$. When $x = 12$, we find $y = \\frac{24}{12} = 2$.",
+      "difficulty": "medium"
     }
   ]
 }

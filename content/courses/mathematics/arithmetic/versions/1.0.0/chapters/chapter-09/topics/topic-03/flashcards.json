@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Cubes?",
-      "back": "Cubes is a fundamental concept in mathematics.",
+      "front": "What does it mean to cube a number?",
+      "back": "To multiply the number by itself three times (raising it to the power of 3).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Cubes important?",
-      "back": "Cubes is essential for understanding Arithmetic.",
+      "front": "What is a Perfect Cube?",
+      "back": "The product of an integer multiplied by itself three times (e.g. 1, 8, 27, 64, 125...).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Is the cube of a negative number positive or negative?",
+      "back": "It is always negative (e.g. $(-2)^3 = -8$) because multiplying three negatives yields a negative result.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the cube of 10?",
+      "back": "$1000$ (since $10 \\times 10 \\times 10 = 1000$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What geometric measurement represents the cube of a number?",
+      "back": "The volume of a 3D cube with side lengths equal to that number.",
+      "difficulty": "easy"
     }
   ]
 }

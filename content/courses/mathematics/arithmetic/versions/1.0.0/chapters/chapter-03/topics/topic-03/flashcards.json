@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Multiplication?",
-      "back": "Multiplication is a fundamental concept in mathematics.",
+      "front": "What is a Factor?",
+      "back": "A factor is a number that is multiplied by another number to find a product. In $a \\times b = c$, both $a$ and $b$ are factors.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Multiplication important?",
-      "back": "Multiplication is essential for understanding Arithmetic.",
+      "front": "What is a Product?",
+      "back": "The product is the result of multiplying two or more factors together. In $a \\times b = c$, $c$ is the product.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the Commutative Property of Multiplication?",
+      "back": "It states that the order of the factors does not change the product. For example: $a \\times b = b \\times a$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the Distributive Property?",
+      "back": "It states that multiplying a sum by a number is equivalent to multiplying each addend separately and adding the products: $a \\times (b + c) = (a \\times b) + (a \\times c)$.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the Zero Property of Multiplication?",
+      "back": "It states that multiplying any number by zero always results in zero ($a \\times 0 = 0$).",
+      "difficulty": "easy"
     }
   ]
 }

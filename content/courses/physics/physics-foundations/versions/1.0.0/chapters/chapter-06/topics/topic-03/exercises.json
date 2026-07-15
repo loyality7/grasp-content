@@ -1,35 +1,33 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Cylindrical Coordinates (Introduction).",
-      "solution": "Step-by-step solution for Cylindrical Coordinates (Introduction) problem.",
+      "id": "exercise-01",
+      "type": "describe",
+      "title": "Describe in Cylindrical",
+      "content": "A point is 3m from the center axis, at 120° angle, 5m above the base. Write its cylindrical coordinates (r, θ, z).",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "r = distance from axis = 3m",
+        "θ = angle = 120°",
+        "z = height = 5m",
+        "Answer: (3, 120°, 5)"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "cylindrical-coordinates-introduction"
-      ]
+      "tags": ["3d-position"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Cylindrical Coordinates (Introduction) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "identify",
+      "title": "Cylindrical vs Other",
+      "content": "For spiral staircase, tornado, rotating machinery—which system (Cartesian, cylindrical) is best? Why?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 4,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "All have rotation/symmetry around an axis",
+        "Cylindrical handles this naturally",
+        "Cartesian would need complex equations"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "cylindrical-coordinates-introduction"
-      ]
+      "tags": ["comparison"]
     }
   ]
 }

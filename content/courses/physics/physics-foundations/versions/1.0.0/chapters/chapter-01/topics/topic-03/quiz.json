@@ -3,28 +3,54 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Scientific Method?",
+      "question": "What's the first step of the scientific method?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Do an experiment",
+        "Ask a question",
+        "Write down your conclusion",
+        "Make equipment"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "You start by wondering about something. 'Why does this happen?' That's your question.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Scientific Method is only applicable in theoretical contexts.",
+      "question": "If your prediction turns out to be wrong, your experiment failed.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Scientific Method has many practical applications.",
+      "explanation": "Wrong! Getting a wrong prediction is still success. You learned something. That's how science works.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What do you do after you experiment?",
+      "options": [
+        "Conclude immediately",
+        "Ask another question",
+        "Analyze your results and look for patterns",
+        "Give up"
+      ],
+      "correctIndex": 2,
+      "explanation": "After experimenting, you analyze. What patterns do you see? What does the data tell you?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "true-false",
+      "question": "The scientific method has to follow the exact same steps every time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Not really. Sometimes you ask multiple questions. Sometimes you re-test. The basic idea stays the same, but it's flexible.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Positive & Negative Numbers.",
-      "solution": "Step-by-step solution for Positive & Negative Numbers problem.",
+      "prompt": "Arrange the following list of integers in **ascending order** (from smallest to largest):\n**$-6, \\ 3, \\ 0, \\ -2, \\ 5, \\ -9$**",
+      "solution": "1. **Identify the negative numbers**:\n   Our negative numbers are $-6, -2, -9$. The further left a number is, the smaller it is. Comparing them: \n   $$-9 < -6 < -2$$\n2. **Identify zero**:\n   $0$ is larger than any negative number but smaller than any positive number.\n3. **Identify the positive numbers**:\n   Our positive numbers are $3, 5$. Comparing them:\n   $$3 < 5$$\n4. **Combine the sequence**:\n   $$-9, \\ -6, \\ -2, \\ 0, \\ 3, \\ 5$$\n\n**Answer**: **$-9, -6, -2, 0, 3, 5$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Negative numbers are always smaller than zero and positive numbers.",
+        "The negative number that looks 'biggest' (like -9) is actually the smallest because it is furthest to the left on the number line."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "positive-negative-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Integers", "Ordering"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Positive & Negative Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "State the **opposite** of each of the following integers:\n1.  **$+14$**\n2.  **$-72$**\n3.  **$0$**",
+      "solution": "1. **Opposite of $+14$**:\n   Change the sign from positive to negative: **$-14$**.\n2. **Opposite of $-72$**:\n   Change the sign from negative to positive: **$+72$** (or **$72$**).\n3. **Opposite of $0$**:\n   Zero is neutral and represents its own opposite: **$0$**.\n\n**Answer**: 1. **$-14$**, 2. **$72$**, 3. **$0$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "The opposite of a number has the same distance from zero on the number line, but on the other side.",
+        "Zero is its own opposite."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "positive-negative-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Integers", "Opposites"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A scuba diver is exploring a reef at **$25\\text{ feet}$ below the surface of the ocean**. Write this elevation position as an integer, and describe what the number $0$ represents in this context.",
+      "solution": "1. **Represent the depth**:\n   Since the diver is *below* the surface of the water, it is a negative depth:\n   $$\\text{Position} = -25$$\n2. **Define the zero point**:\n   In this context, $0$ represents the sea level (the surface of the ocean water).\n\n**Answer**: Integer position is **$-25$**. The value $0$ represents **sea level (ocean surface)**.",
+      "hints": [
+        "Depth below a surface is a negative quantity.",
+        "What boundary separating positive altitude and negative depth represents the neutral starting point?"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Integers", "Applications", "Word Problems"]
     }
   ]
 }

@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Variables?",
-      "back": "Variables is a fundamental concept in physics.",
+      "front": "Independent variable?",
+      "back": "What YOU change. The cause.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Variables important?",
-      "back": "Variables is essential for understanding Physics Foundations.",
+      "front": "Dependent variable?",
+      "back": "What YOU measure. Changes because of independent variable.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Control variable?",
+      "back": "What you keep THE SAME so it doesn't affect results.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why control variables matter?",
+      "back": "If you don't control them, you won't know what caused results.",
       "difficulty": "medium"
     }
   ]

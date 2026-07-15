@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Simplifying Ratios",
   "topicId": "mathematics.arithmetic.chapter-08.topic-03",
-  "description": "Learn about Simplifying Ratios and its applications in mathematics.",
+  "description": "Learn to write ratios in simplest form by dividing by the Greatest Common Divisor (GCD), and simplify ratios that contain fractions or decimals.",
   "content": {
-    "overview": "Simplifying Ratios is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Simplifying Ratios. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Simplifying Ratios requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Simplifying a ratio means expressing it using the smallest possible whole numbers. A simplified ratio is easier to understand and compare, and is mathematically equivalent to the original ratio.",
+    "explanation": "### What is the Simplest Form of a Ratio?\n\nA ratio is in its **simplest form** (or lowest terms) when its terms are whole numbers that share no common factors other than $1$. \n\nFor example, the ratio **$6:9$** is not in simplest form because both $6$ and $9$ can be divided by $3$. When we divide both by $3$, we get **$2:3$**, which is in simplest form because $2$ and $3$ share no common factors besides $1$.\n\n### How to Simplify Ratios\n\nTo simplify a ratio of whole numbers, divide both terms by their **Greatest Common Divisor (GCD)**:\n\n{{viz:formula-01}}\n\n*Example: Simplify $24 : 36$*\n1.  Find the GCD of $24$ and $36$. The factors of $24$ are $1, 2, 3, 4, 6, 8, 12, 24$, and the factors of $36$ are $1, 2, 3, 4, 6, 9, 12, 18, 36$. The greatest common factor is **$12$**.\n2.  Divide both terms by $12$:\n    $$(24 \\div 12) : (36 \\div 12) = 2 : 3$$\n\n*(Alternatively, you can divide by smaller common factors in multiple steps, like dividing by 2, then 2 again, then 3, until you can't divide any further).* \n\n### Simplifying Ratios with Fractions or Decimals\n\nIf a ratio contains decimals or fractions, convert them to whole numbers first:\n\n#### 1. Ratios with Decimals\nMultiply both terms by $10, 100$, or $1000$ to clear the decimal points:\n-   Start with $0.8 : 1.2$\n-   Multiply both by $10 \\to 8 : 12$\n-   Divide by GCD ($4$) to simplify: **$2 : 3$**\n\n#### 2. Ratios with Fractions\nMultiply both terms by the **Least Common Denominator (LCD)** of the fractions:\n-   Start with $\\frac{1}{2} : \\frac{2}{3}$\n-   The LCD of $2$ and $3$ is $6$. Multiply both parts by $6$:\n    $$\\left(\\frac{1}{2} \\times 6\\right) : \\left(\\frac{2}{3} \\times 6\\right) = 3 : 4$$\n-   Since $3$ and $4$ share no common factors, the simplest form is **$3 : 4$**.\n\n### Visualizing Ratio Simplification\n\nWatch how grouping $6$ red circles and $9$ blue circles into clusters of $3$ simplifies the ratio to $2:3$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A ratio is simplified when its terms share no common factors other than 1.",
+      "Divide terms by their GCD to simplify in a single step.",
+      "Convert fractional ratios by multiplying by the LCD of the denominators.",
+      "Convert decimal ratios by multiplying by a power of 10 to clear decimal places."
     ],
-    "whyItMatters": "Simplifying Ratios is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Simplified ratios are essential for reading maps (scale models), mixing proportions in chemistry, and reducing recipe calculations to their most basic forms."
   },
   "availableLanguages": [
     "en"

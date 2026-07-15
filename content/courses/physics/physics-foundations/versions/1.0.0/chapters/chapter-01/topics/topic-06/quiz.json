@@ -3,28 +3,54 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Measurement & Observation?",
+      "question": "What's the difference between accuracy and precision?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "They're the same thing",
+        "Accuracy = closeness to true value. Precision = exactness of measurement.",
+        "Precision = closeness to true value. Accuracy = exactness of measurement.",
+        "Accuracy is for numbers, precision is for words"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
+      "correctIndex": 1,
+      "explanation": "Accurate = correct value. Precise = exact (many decimal places). A scale might be precise (says 65.347 kg) but not accurate (true weight is 62 kg).",
       "difficulty": "medium"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Measurement & Observation is only applicable in theoretical contexts.",
+      "question": "Every measurement is perfectly accurate.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Measurement & Observation has many practical applications.",
+      "explanation": "No measurement is perfect. Tools have limits, people make errors, conditions change. Good scientists acknowledge this.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What limits how small a measurement can be?",
+      "options": [
+        "The observer's eyesight",
+        "The measuring tool's smallest marking",
+        "How much money you spend on the tool",
+        "The laws of physics"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ruler marked in centimeters can't measure millimeters accurately. The tool's design limits precision.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "true-false",
+      "question": "When you measure something twice and get different answers, you failed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Not necessarily. Small variations are normal. That variation tells you about the measurement's uncertainty.",
+      "difficulty": "medium"
     }
   ]
 }

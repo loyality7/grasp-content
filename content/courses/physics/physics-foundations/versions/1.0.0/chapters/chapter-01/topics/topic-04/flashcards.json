@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Physical Quantities?",
-      "back": "Physical Quantities is a fundamental concept in physics.",
+      "front": "What is a physical quantity?",
+      "back": "Something you can measure = a number + a unit. Example: 5 meters, 10 kg, 20 seconds.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Physical Quantities important?",
-      "back": "Physical Quantities is essential for understanding Physics Foundations.",
+      "front": "What's a scalar?",
+      "back": "A physical quantity that is just a number. No direction needed. Mass, temperature, time are scalars.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What's a vector?",
+      "back": "A physical quantity that has a number AND a direction. Velocity, force, acceleration are vectors.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Speed vs Velocity?",
+      "back": "Speed = how fast (60 km/h). Velocity = how fast + which way (60 km/h north). Velocity is a vector.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Why do units matter?",
+      "back": "Without units, a number is meaningless. Is it 10 meters or 10 millimeters? Huge difference!",
       "difficulty": "medium"
     }
   ]

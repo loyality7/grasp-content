@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Cartesian Coordinates?",
-      "back": "Cartesian Coordinates is a fundamental concept in physics.",
+      "front": "What does (3, 4) mean in Cartesian?",
+      "back": "3 units along x-axis (right), 4 units along y-axis (up).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Cartesian Coordinates important?",
-      "back": "Cartesian Coordinates is essential for understanding Physics Foundations.",
+      "front": "What's the origin?",
+      "back": "The point (0, 0) where the axes cross.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How many numbers in 3D Cartesian?",
+      "back": "Three: (x, y, z) for right, up, and forward/back.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "When is Cartesian best?",
+      "back": "When things move along straight lines or in grids. Intuitive and straightforward.",
       "difficulty": "medium"
     }
   ]

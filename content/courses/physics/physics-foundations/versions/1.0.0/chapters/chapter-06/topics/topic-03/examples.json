@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Cylindrical Coordinates (Introduction)",
-      "content": "A practical example demonstrating Cylindrical Coordinates (Introduction)",
-      "source": "Generated",
+      "title": "Water Vortex",
+      "content": "Water spirals down a drain. At distance r=2cm from center, angle θ=90°, height z=5cm. Cylindrical (2, 90°, 5) describes it perfectly.",
+      "source": "Fluid Dynamics",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "cylindrical-coordinates-introduction"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["rotation", "3d"]
+    },
+    {
+      "id": "example-02",
+      "title": "Spinning Top",
+      "content": "A top spins at radius r=3cm, angle changing with time, height z=8cm. Polar (r,θ) for the spin, plus z for height.",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["rotation", "spinning"]
+    },
+    {
+      "id": "example-03",
+      "title": "Cylinder Geometry",
+      "content": "A point on a cylinder: distance r=1 from the axis, angle θ=45°, height z=2m. Just cylindrical coordinates (1, 45°, 2).",
+      "source": "Geometry",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["3d", "geometry"]
     }
   ]
 }

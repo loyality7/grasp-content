@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Addition?",
+      "question": "In the equation $12 + 15 = 27$, what term is used to describe the numbers 12 and 15?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Sums",
+        "Addends",
+        "Factors",
+        "Quotients"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "In an addition equation, the numbers that are added together are called 'addends'. The result (27) is called the 'sum'.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Addition is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following equations demonstrates the Commutative Property of Addition?",
       "options": [
-        "True",
-        "False"
+        "$(5 + 2) + 3 = 5 + (2 + 3)$",
+        "$9 + 0 = 9$",
+        "$6 + 8 = 8 + 6$",
+        "$7 + (3 + 1) = 11$"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Commutative Property states that order does not affect the sum ($a + b = b + a$). Therefore, $6 + 8 = 8 + 6$ is the correct representation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If you are asked to simplify $(14 + 19) + 81$ by first calculating $19 + 81 = 100$ and then adding $14$, which property of addition are you using?",
+      "options": [
+        "Commutative Property",
+        "Associative Property",
+        "Identity Property",
+        "Distributive Property"
       ],
       "correctIndex": 1,
-      "explanation": "Addition has many practical applications.",
+      "explanation": "The Associative Property states that how addends are grouped does not change the sum: $(a + b) + c = a + (b + c)$. Here we change grouping from $(14+19)+81$ to $14+(19+81)$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Solve: $749 + 865$.",
+      "options": [
+        "1,504",
+        "1,614",
+        "1,604",
+        "1,514"
+      ],
+      "correctIndex": 1,
+      "explanation": "Let's align and add: Ones: $9 + 5 = 14$ (write 4, carry 1). Tens: $1 \\text{ (carry)} + 4 + 6 = 11$ (write 1, carry 1). Hundreds: $1 \\text{ (carry)} + 7 + 8 = 16$ (write 16). The result is $1,614$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "What is the additive identity?",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "Any number"
+      ],
+      "correctIndex": 2,
+      "explanation": "The additive identity is 0, because adding 0 to any number leaves the identity of that number unchanged ($a + 0 = a$).",
       "difficulty": "easy"
     }
   ]

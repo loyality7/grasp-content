@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Divisibility Rules?",
+      "question": "Which of the following numbers is divisible by 3?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "125",
+        "341",
+        "456",
+        "812"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Sum of digits for 456 is $4+5+6=15$. Since 15 is divisible by 3, 456 is divisible by 3. The other sums are 8, 8, and 11, which are not divisible by 3.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Divisibility Rules is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following numbers is divisible by 4?",
       "options": [
-        "True",
-        "False"
+        "1,018",
+        "1,024",
+        "1,038",
+        "1,050"
       ],
       "correctIndex": 1,
-      "explanation": "Divisibility Rules has many practical applications.",
+      "explanation": "Look at the last two digits of each: 18, 24, 38, 50. Since 24 is divisible by 4, 1,024 is divisible by 4. The other double-digits are not divisible by 4.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Under what condition is a number divisible by 6?",
+      "options": [
+        "If it is odd and divisible by 3.",
+        "If it ends in 6.",
+        "If it is divisible by both 2 and 3.",
+        "If it is divisible by 12."
+      ],
+      "correctIndex": 2,
+      "explanation": "A number is divisible by 6 if it satisfies both rules for 2 (ends in 0, 2, 4, 6, 8) and 3 (digits sum is divisible by 3).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which of the following numbers is divisible by 9?",
+      "options": [
+        "289",
+        "512",
+        "819",
+        "993"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sum of digits of 819 is $8 + 1 + 9 = 18$. Since 18 is divisible by 9, 819 is divisible by 9. The other sums are 19, 8, and 21, which are not divisible by 9.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "A number $N$ ends in the digit 5. Which statement is always true?",
+      "options": [
+        "$N$ is divisible by 10.",
+        "$N$ is divisible by 5, but not by 10.",
+        "$N$ is a prime number.",
+        "$N$ is divisible by 25."
+      ],
+      "correctIndex": 1,
+      "explanation": "By the rule for 5, since it ends in 5, it is divisible by 5. By the rule for 10, since it does not end in 0, it is not divisible by 10. (e.g., 15 is divisible by 5, but not by 10 or 25).",
+      "difficulty": "medium"
     }
   ]
 }

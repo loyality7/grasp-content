@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Equivalent Ratios",
-      "content": "A practical example demonstrating Equivalent Ratios",
-      "source": "Generated",
+      "title": "Finding Multiple Equivalent Ratios",
+      "content": "Find three ratios equivalent to **$3:4$** by scaling up.\n\n### Step-by-Step Solution\n\nTo find equivalent ratios, multiply both the first and second terms by the same whole number ($2, 3, 4$, etc.):\n\n1.  **Multiply by 2**:\n    $$(3 \\times 2) : (4 \\times 2) = 6:8$$\n\n2.  **Multiply by 3**:\n    $$(3 \\times 3) : (4 \\times 3) = 9:12$$\n\n3.  **Multiply by 4**:\n    $$(3 \\times 4) : (4 \\times 4) = 12:16$$\n\n**Answer**: Three ratios equivalent to $3:4$ are **$6:8$**, **$9:12$**, and **$12:16$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "equivalent-ratios"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Ratios", "Scaling Up"]
+    },
+    {
+      "id": "example-02",
+      "title": "Solving for a Missing Term in Equivalent Ratios",
+      "content": "Find the value of **$x$** that makes the following ratio statement true:\n$$5 : 6 = 20 : x$$\n\n### Step-by-Step Solution\n\n1.  **Identify the relationship between the first terms**:\n    Compare the first term of the first ratio ($5$) to the first term of the second ratio ($20$). What number multiplies by $5$ to get $20$?\n    $$20 \\div 5 = 4$$\n    So, the scale factor is **$4$**.\n\n2.  **Apply the scale factor to the second terms**:\n    Multiply the second term of the first ratio ($6$) by the same scale factor ($4$) to find $x$:\n    $$x = 6 \\times 4$$\n    $$x = 24$$\n\n**Answer**: **$x = 24$** (the equivalent ratio is $20:24$).",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Ratios", "Solving for Variable"]
     }
   ]
 }

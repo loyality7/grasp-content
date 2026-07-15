@@ -2,28 +2,29 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "multiple-choice",
-      "question": "Which statement best describes Spherical Coordinates (Introduction)?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
+      "type": "true-false",
+      "question": "In spherical (r, θ, φ), r is always distance from the origin.",
+      "options": ["True", "False"],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Yes, r (radius) is the distance from the central point. θ and φ are angles.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Spherical Coordinates (Introduction) is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
+      "type": "multiple-choice",
+      "question": "What's θ in spherical coordinates?",
+      "options": ["Height", "Azimuthal angle (horizontal)", "Polar angle (vertical)", "Radius"],
       "correctIndex": 1,
-      "explanation": "Spherical Coordinates (Introduction) has many practical applications.",
+      "explanation": "θ is the azimuthal angle—the horizontal angle (like longitude). φ is the polar angle (like latitude).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "true-false",
+      "question": "Spherical is best for things radiating from a point.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes! Light, radiation, waves from a source—all natural in spherical.",
       "difficulty": "easy"
     }
   ]

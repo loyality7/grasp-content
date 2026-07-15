@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Scalars",
-      "content": "A practical example demonstrating Scalars",
-      "source": "Generated",
+      "title": "Your Weight",
+      "content": "You weigh 70 kg. That's a scalar. Just a number. No direction. You don't weigh 70 kg north or downward—just 70 kg.",
+      "source": "Everyday",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "scalars"
-      ]
+      "estimatedMinutes": 1,
+      "tags": ["mass", "scalar"]
+    },
+    {
+      "id": "example-02",
+      "title": "Room Temperature",
+      "content": "The room is 22°C. Temperature is a scalar. You can't have temperature pointing in a direction. It's just 22 degrees.",
+      "source": "Everyday",
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["temperature", "scalar"]
+    },
+    {
+      "id": "example-03",
+      "title": "Adding Flour to a Recipe",
+      "content": "You add 2 cups of flour, then 3 more cups. That's 5 cups total. Scalars add simply: 2 + 3 = 5.",
+      "source": "Cooking",
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["addition", "scalar"]
     }
   ]
 }

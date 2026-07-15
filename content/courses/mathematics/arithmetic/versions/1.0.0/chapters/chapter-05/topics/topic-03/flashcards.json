@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Mixed Numbers?",
-      "back": "Mixed Numbers is a fundamental concept in mathematics.",
+      "front": "What is a Mixed Number?",
+      "back": "A representation of a value greater than 1 that combines a whole number and a proper fraction (e.g., $1\\frac{1}{2}$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Mixed Numbers important?",
-      "back": "Mixed Numbers is essential for understanding Arithmetic.",
+      "front": "How do you convert a Mixed Number to an Improper Fraction?",
+      "back": "Multiply the whole number by the denominator, add the numerator, and place the result over the original denominator.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you convert an Improper Fraction to a Mixed Number?",
+      "back": "Divide the numerator by the denominator. The quotient is the whole number, the remainder is the new numerator, and the denominator stays the same.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What does the remainder represent when converting an improper fraction to a mixed number?",
+      "back": "The numerator of the proper fraction part (the remaining fractional pieces that could not make a whole).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Convert $2\\frac{3}{5}$ to an improper fraction.",
+      "back": "$$\\frac{(2 \\times 5) + 3}{5} = \\frac{13}{5}$$",
+      "difficulty": "easy"
     }
   ]
 }

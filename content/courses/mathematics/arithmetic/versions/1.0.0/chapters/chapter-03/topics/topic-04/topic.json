@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Division",
   "topicId": "mathematics.arithmetic.chapter-03.topic-04",
-  "description": "Learn about Division and its applications in mathematics.",
+  "description": "Learn about division as sharing and grouping, terms (dividend, divisor, quotient, remainder), properties of division, and long division.",
   "content": {
-    "overview": "Division is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Division. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Division requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Division is the process of splitting a number into equal parts or groups. It is the direct inverse operation of multiplication.",
+    "explanation": "### What is Division?\n\nIf you have 12 cookies and want to share them equally among 3 friends, you divide them. Each friend gets 4 cookies. \n\nWe write this as:\n\n$$12 \\div 3 = 4 \\quad \\text{or} \\quad \\frac{12}{3} = 4$$\n\nIn division, each term has a distinct name:\n1. **Dividend**: The total quantity to be divided.\n2. **Divisor**: The number of parts or size of the group you are dividing by.\n3. **Quotient**: The main result of the division.\n4. **Remainder**: The leftover amount that cannot be divided evenly into whole parts.\n\n{{viz:formula-01}}\n\n### Sharing vs. Grouping Models\n\n1. **Sharing (Partitive)**: You know the total items (12) and the number of groups (3), and want to find how many items are in each group ($12 \\div 3 = 4$ per group).\n2. **Grouping (Quotitive)**: You know the total items (12) and the size of each group (3), and want to find how many groups you can make ($12 \\div 3 = 4$ groups).\n\n{{viz:anim-01}}\n\n### Key Properties of Division\n\nLike subtraction, division is not as flexible as addition or multiplication:\n\n1. **Not Commutative**: Changing the order changes the result:\n   $$a \\div b \\neq b \\div a$$\n   *Example*: $8 \\div 2 = 4$, but $2 \\div 8 = 0.25$.\n\n2. **Not Associative**: Changing the grouping changes the result:\n   $$(a \\div b) \\div c \\neq a \\div (b \\div c)$$\n   *Example*: $(24 \\div 4) \\div 2 = 6 \\div 2 = 3$, but $24 \\div (4 \\div 2) = 24 \\div 2 = 12$.\n\n3. **Division by 1**: Any number divided by 1 is the number itself:\n   $$a \\div 1 = a$$\n\n4. **Division by Self**: Any non-zero number divided by itself is 1:\n   $$a \\div a = 1 \\quad (a \\neq 0)$$\n\n5. **Division of Zero**: Zero divided by any non-zero number is zero:\n   $$0 \\div a = 0 \\quad (a \\neq 0)$$\n\n6. **Division by Zero is Undefined**: You cannot divide a number by zero. In math, $a \\div 0$ has no meaning because no number multiplied by 0 can equal $a$.\n\n### Long Division with Remainders\n\nWhen a number cannot be divided perfectly, we use **long division** to find the quotient and the leftover **remainder**.\n\n**Example: Divide $73 \\div 4$**\n\n1. **Divide**: How many times does 4 go into 7? **1** time.\n2. **Multiply**: $1 \\times 4 = 4$. Write 4 under 7.\n3. **Subtract**: $7 - 4 = 3$.\n4. **Bring down**: Bring down the 3 from 73 to make it **33**.\n5. **Repeat**:\n   - **Divide**: How many times does 4 go into 33? **8** times ($8 \\times 4 = 32$).\n   - **Multiply**: $8 \\times 4 = 32$. Write 32 under 33.\n   - **Subtract**: $33 - 32 = 1$.\n   - Nothing left to bring down. The **remainder is 1**.\n\n$$\\begin{array}{rll} \\phantom{0}18 & \\text{R } 1 \\\\ 4 \\overline{) \\phantom{0}73} \\\\ -4 \\phantom{0} \\\\ \\hline \\phantom{0}33 \\\\ -32 \\\\ \\hline \\phantom{00}1 \\end{array}$$\n\nThus, $73 \\div 4 = 18$ with a remainder of $1$ (written as $18$ R $1$).",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Division splits a dividend by a divisor to find a quotient and a remainder.",
+      "Division is the inverse of multiplication: $a \\div b = c$ means $c \\times b = a$.",
+      "Division by zero is mathematically undefined.",
+      "Long division uses a repeating sequence of division, multiplication, subtraction, and bringing down digits."
     ],
-    "whyItMatters": "Division is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Division is used to distribute resources fairly, split costs, find average rates (like speed or unit price), and scale dimensions. It is the direct precursor to fractions, decimals, percentages, and algebraic rational expressions."
   },
   "availableLanguages": [
     "en"

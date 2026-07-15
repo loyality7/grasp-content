@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Cube Roots?",
+      "question": "What is the cube root of $216$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "6",
+        "16",
+        "36",
+        "72"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Since $6 \\times 6 \\times 6 = 216$, the cube root of 216 is 6.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Cube Roots is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Evaluate the expression: $\\sqrt[3]{-8}$",
       "options": [
-        "True",
-        "False"
+        "-2",
+        "2",
+        "Non-real number",
+        "-4"
       ],
-      "correctIndex": 1,
-      "explanation": "Cube Roots has many practical applications.",
+      "correctIndex": 0,
+      "explanation": "Unlike square roots, cube roots of negative numbers are real and negative. Since $(-2) \\times (-2) \\times (-2) = -8$, the cube root is -2.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If a solid metal block is in the shape of a cube with a volume of $27$ cubic centimeters, what is the length of one of its edges?",
+      "options": [
+        "3 centimeters",
+        "9 centimeters",
+        "13.5 centimeters",
+        "81 centimeters"
+      ],
+      "correctIndex": 0,
+      "explanation": "Edge length is the cube root of volume: $\\sqrt[3]{27} = 3$ centimeters.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "In the cube root symbol $\\sqrt[3]{x}$, the number $3$ is called the:",
+      "options": [
+        "Base",
+        "Exponent",
+        "Index",
+        "Radicand"
+      ],
+      "correctIndex": 2,
+      "explanation": "The small number placed in the crook of the radical sign indicating which root is being taken is called the index.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Evaluate the expression: $\\sqrt[3]{0}$",
+      "options": [
+        "0",
+        "1",
+        "Undefined",
+        "-1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since $0 \\times 0 \\times 0 = 0$, the cube root of 0 is 0.",
       "difficulty": "easy"
     }
   ]

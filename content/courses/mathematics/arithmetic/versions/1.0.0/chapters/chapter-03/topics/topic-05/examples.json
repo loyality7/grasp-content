@@ -2,15 +2,23 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Order of Operations (BODMAS/PEMDAS)",
-      "content": "A practical example demonstrating Order of Operations (BODMAS/PEMDAS)",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "order-of-operations-bodmaspemdas"
-      ]
+      "title": "Applying Exponents and Parentheses",
+      "content": "Evaluate the expression: **$40 - 2^3 \\times (5 - 3) + 6$**.",
+      "solution": "### Step-by-Step Solution\n\nFollow the order of operations hierarchy (PEMDAS/BODMAS):\n\n1. **Parentheses (P)**: Evaluate $(5 - 3)$ first.\n   $$5 - 3 = 2$$\n   The expression becomes: $40 - 2^3 \\times 2 + 6$\n\n2. **Exponents (E)**: Evaluate $2^3$ next.\n   $$2^3 = 8$$\n   The expression becomes: $40 - 8 \\times 2 + 6$\n\n3. **Multiplication & Division (M/D)**: Perform multiplication next ($8 \\times 2$).\n   $$8 \\times 2 = 16$$\n   The expression becomes: $40 - 16 + 6$\n\n4. **Addition & Subtraction (A/S)**: Solve addition and subtraction from **left to right**.\n   - First, subtract: $40 - 16 = 24$.\n   - Next, add: $24 + 6 = 30$.\n\n**Answer**: $30$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Order of Operations", "PEMDAS"]
+    },
+    {
+      "id": "example-02",
+      "title": "Equal Priority and the Left-to-Right Rule",
+      "content": "Evaluate the expression: **$18 \\div 3 \\times 2 + (8 - 5)$**.",
+      "solution": "### Step-by-Step Solution\n\n1. **Parentheses**: Solve the operation inside the grouping first: $(8 - 5) \\to 3$.\n   $$18 \\div 3 \\times 2 + 3$$\n\n2. **Multiplication & Division (Left-to-Right)**: Evaluate multiplication and division from left to right. Since division appears first on the left, we perform division first:\n   - **Division**: $18 \\div 3 = 6$.\n     The expression becomes: $6 \\times 2 + 3$\n   - **Multiplication**: $6 \\times 2 = 12$.\n     The expression becomes: $12 + 3$\n   *(Note: If you had multiplied $3 \\times 2 = 6$ first, you would have got $18 \\div 6 + 3 = 3 + 3 = 6$, which is incorrect!)*\n\n3. **Addition & Subtraction**: Perform addition last.\n   $$12 + 3 = 15$$\n\n**Answer**: $15$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Order of Operations", "Left-to-Right"]
     }
   ]
 }

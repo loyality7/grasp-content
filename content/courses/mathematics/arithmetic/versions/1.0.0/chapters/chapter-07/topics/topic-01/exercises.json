@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Percentage Basics.",
-      "solution": "Step-by-step solution for Percentage Basics problem.",
+      "prompt": "Convert the percentage **$8\\%$** to:\n1. A simplified fraction.\n2. A decimal.",
+      "solution": "1. **Simplified Fraction**:\n   - Write as fraction over 100: $\\frac{8}{100}$.\n   - Divide both parts by the GCD of 4: \n     $$\\frac{8 \\div 4}{100 \\div 4} = \\frac{2}{25}$$\n2. **Decimal**:\n   - Write $8$ hundredths in decimal: $0.08$.\n\n**Answer**: Fraction form: **$\\frac{2}{25}$**; decimal form: **$0.08$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Recall that 8% means 8 out of 100.",
+        "To write a single digit percent as a decimal, make sure there is a zero in the tenths place (e.g. 8 hundredths = 0.08)."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "percentage-basics"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Converting"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Percentage Basics to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "If a student colors in **$60$ squares** of a $100$-grid, what fraction, decimal, and percentage of the grid has been colored?",
+      "solution": "1. **Percentage**: \n   - Colored squares = 60 out of 100, which is directly **$60\\%$**.\n2. **Fraction**:\n   - Fraction = $\\frac{60}{100}$.\n   - Divide by 20 to simplify: \n     $$\\frac{60 \\div 20}{100 \\div 20} = \\frac{3}{5}$$\n3. **Decimal**:\n   - $60$ hundredths = **$0.60$** (or $0.6$).\n\n**Answer**: Percentage: **$60\\%$**; fraction: **$\\frac{3}{5}$**; decimal: **$0.6$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Recall that coloring 60 out of 100 is the definition of 60%.",
+        "Simplify 60/100 by dividing top and bottom by their greatest common factor."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "percentage-basics"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Grid Model"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A park has exactly **$100$ trees**:\n-   $42$ are oak trees\n-   $18$ are maple trees\n-   The rest are pine trees\n\nWhat percentage of the trees in the park are pine trees?",
+      "solution": "1. **Find the number of pine trees**:\n   Subtract the oak and maple trees from the total of 100:\n   $$\\text{Pine Trees} = 100 - (42 + 18) = 100 - 60 = 40 \\text{ pine trees}$$\n2. **Express as a percentage**:\n   - Pine trees = $40$ out of $100$.\n   - This is $\\frac{40}{100}$, which is exactly **$40\\%$**.\n\n**Answer**: **$40\\%$** of the trees are pine trees.",
+      "hints": [
+        "First add the number of oak and maple trees to find the total non-pine trees.",
+        "Subtract this sum from 100 to get the count of pine trees, which corresponds directly to the percentage."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
     }
   ]
 }

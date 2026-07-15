@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Graphs?",
-      "back": "Graphs is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Graphs important?",
-      "back": "Graphs is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"c-01","front":"What is a graph?","back":"A visual way to show the relationship between two quantities. X-axis and Y-axis.","difficulty":"easy"},{"id":"c-02","front":"What does slope mean on a graph?","back":"How steep the line is. How fast Y changes when X changes.","difficulty":"easy"}]}

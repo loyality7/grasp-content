@@ -1,154 +1,35 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Proper Fractions Flowchart",
-      "description": "Flowchart showing Proper Fractions process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Proper Fractions",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Proper Fractions Formula",
-      "description": "Mathematical definition",
+      "title": "Proper Fraction Structure",
+      "description": "The formal definition of a proper fraction showing the numerator-denominator relationship.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{Fraction} = \\frac{n}{d} \\quad \\text{where } n < d \\text{ and } d \\neq 0",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "n",
+            "explanation": "Numerator: Represents the number of equal parts we have or are considering."
+          },
+          {
+            "latex": "d",
+            "explanation": "Denominator: Represents the total number of equal parts in one whole."
+          },
+          {
+            "latex": "n < d",
+            "explanation": "Condition for proper fraction: Numerator is strictly smaller than the denominator, making the value < 1."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Proper Fractions 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Proper Fractions Animation",
-      "description": "Canvas animation",
+      "title": "Representing 3/4 with a Circle Model",
+      "description": "Watch the circle divide into 4 equal segments, shading them one-by-one to represent 3/4.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Proper Fractions Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Proper Fractions.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Proper Fractions Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Proper Fractions Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Proper Fractions",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 8000;\n    var progress = (t % duration) / duration;\n\n    var centerX = W / 2;\n    var centerY = H / 2 - 15;\n    var radius = 70;\n\n    // Slices count\n    var totalSlices = 4;\n    var targetShaded = 3;\n\n    // Calculate current shaded slices based on progress\n    var currentShaded = 0;\n    if (progress >= 0.15 && progress < 0.35) currentShaded = 1;\n    else if (progress >= 0.35 && progress < 0.55) currentShaded = 2;\n    else if (progress >= 0.55) currentShaded = 3;\n\n    // Draw slices\n    for (var i = 0; i < totalSlices; i++) {\n      var startAngle = i * (Math.PI * 2 / totalSlices) - Math.PI / 2;\n      var endAngle = (i + 1) * (Math.PI * 2 / totalSlices) - Math.PI / 2;\n\n      ctx.beginPath();\n      ctx.moveTo(centerX, centerY);\n      ctx.arc(centerX, centerY, radius, startAngle, endAngle);\n      ctx.closePath();\n\n      if (i < currentShaded) {\n        ctx.fillStyle = '#3B82F6'; // Shaded blue\n        ctx.fill();\n        ctx.strokeStyle = '#60A5FA';\n      } else {\n        ctx.fillStyle = '#1F2937'; // Unshaded dark gray\n        ctx.fill();\n        ctx.strokeStyle = '#374151';\n      }\n      ctx.lineWidth = 2.5;\n      ctx.stroke();\n    }\n\n    // Label text\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    \n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 20px -apple-system, sans-serif';\n    \n    if (currentShaded === 0) {\n      ctx.fillText('0 / 4 Slices Shaded', centerX, H - 40);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '13px -apple-system, sans-serif';\n      ctx.fillText('Starting with an empty whole divided into 4 parts', centerX, H - 18);\n    } else if (currentShaded === 1) {\n      ctx.fillText('1 / 4 Shaded', centerX, H - 40);\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = '13px -apple-system, sans-serif';\n      ctx.fillText('One equal part of the whole (Numerator = 1)', centerX, H - 18);\n    } else if (currentShaded === 2) {\n      ctx.fillText('2 / 4 Shaded (or 1/2)', centerX, H - 40);\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = '13px -apple-system, sans-serif';\n      ctx.fillText('Two equal parts of the whole (Numerator = 2)', centerX, H - 18);\n    } else {\n      ctx.fillText('3 / 4 Shaded', centerX, H - 40);\n      ctx.fillStyle = '#34D399';\n      ctx.font = 'bold 14px -apple-system, sans-serif';\n      ctx.fillText('Proper Fraction: 3 < 4 (Value is less than 1 whole)', centerX, H - 18);\n    }\n  }\n};\n"
       }
     }
   ]

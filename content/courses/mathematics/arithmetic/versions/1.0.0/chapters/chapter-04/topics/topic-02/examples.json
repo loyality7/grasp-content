@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Multiples",
-      "content": "A practical example demonstrating Multiples",
-      "source": "Generated",
+      "title": "Finding the First Five Multiples",
+      "content": "Find the first five positive multiples of **7**.\n\n### Step-by-Step Solution\n\nTo find the first five positive multiples of 7, we multiply 7 by the first five positive integers (1, 2, 3, 4, and 5):\n\n1.  First multiple ($k = 1$): \n    $$7 \\times 1 = 7$$\n2.  Second multiple ($k = 2$): \n    $$7 \\times 2 = 14$$\n3.  Third multiple ($k = 3$): \n    $$7 \\times 3 = 21$$\n4.  Fourth multiple ($k = 4$): \n    $$7 \\times 4 = 28$$\n5.  Fifth multiple ($k = 5$): \n    $$7 \\times 5 = 35$$\n\n**Answer**: The first five multiples of 7 are **7, 14, 21, 28, and 35**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "multiples"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Multiples", "Listing"]
+    },
+    {
+      "id": "example-02",
+      "title": "Real-World Application: Transit Schedules",
+      "content": "At a transit station, Route A buses arrive every **6** minutes and Route B buses arrive every **8** minutes. Both buses just arrived at the same time. After how many minutes will they arrive together again?\n\n### Step-by-Step Solution\n\nTo solve this, we need to find the times when each bus arrives. These arrival times will be multiples of their frequency:\n\n- **Route A arrival times** (multiples of 6):\n  $$\\{6, 12, 18, 24, 30, 36, 42, 48, \\dots\\}$$\n- **Route B arrival times** (multiples of 8):\n  $$\\{8, 16, 24, 32, 40, 48, 56, \\dots\\}$$\n\nNow, look for the times that appear on **both** lists (common multiples):\n$$\\text{Common multiples of 6 and 8} = \\{24, 48, 72, \\dots\\}$$\n\nThe first time they arrive together again is the smallest number on this list (the Least Common Multiple):\n$$\\text{Time} = 24 \\text{ minutes}$$\n\n**Answer**: The two buses will arrive at the same time again after **24 minutes** (and then again at 48 minutes, 72 minutes, etc.).",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Multiples", "Word Problem"]
     }
   ]
 }

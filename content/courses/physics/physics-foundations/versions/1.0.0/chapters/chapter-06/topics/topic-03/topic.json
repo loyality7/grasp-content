@@ -2,16 +2,19 @@
   "id": "topic-03",
   "name": "Cylindrical Coordinates (Introduction)",
   "topicId": "physics.physics-foundations.chapter-06.topic-03",
-  "description": "Learn about Cylindrical Coordinates (Introduction) and its applications in physics.",
+  "description": "Extending polar to 3D: polar in the base, plus height above/below.",
   "content": {
-    "overview": "Cylindrical Coordinates (Introduction) is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Cylindrical Coordinates (Introduction). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Cylindrical Coordinates (Introduction) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Think of a cylinder (like a soda can). To describe a point in or on it, you use polar for the circular part (distance and angle) plus height (z). That's cylindrical! {{viz:diagram-01}}",
+    "explanation": "Cylindrical = polar + height. A point is (r, θ, z):\n- r = distance from the center axis (like polar)\n- θ = angle around the axis (like polar)\n- z = height up or down {{viz:diagram-02}}\n\nImagine standing on the floor looking down at a target. Polar (r, θ) tells you where on the floor. Add z and you know the height—maybe the target is on a shelf above! {{viz:anim-01}}\n\n**Best for:** Anything cylindrical or with circular symmetry. Spinning tops, water vortexes, engines, pipes. {{viz:chart-01}}\n\nCartesian (x, y, z) and cylindrical both describe 3D space. Cylindrical is just better when something has circular symmetry around an axis.\n\nThe axis is usually vertical (z), and you measure angle and distance around it. Like radar with altitude!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Cylindrical = (r, θ, z) in 3D",
+      "r = distance from vertical axis",
+      "θ = angle around the axis",
+      "z = height",
+      "Perfect for anything with circular symmetry",
+      "Like polar + height"
     ],
-    "whyItMatters": "Cylindrical Coordinates (Introduction) is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Rotating systems, vortexes, turbines—all are natural in cylindrical. Skip it and you're working harder than you need to."
   },
   "availableLanguages": [
     "en"

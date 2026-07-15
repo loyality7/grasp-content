@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Rounding Decimals?",
+      "question": "Round the decimal $5.48$ to the nearest tenth.",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$5.4$",
+        "$5.5$",
+        "$5.0$",
+        "$6.0$"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "The tenths digit is 4. The hundredths digit is 8. Since $8 \\ge 5$, we round up to get $5.5$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Rounding Decimals is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Round $12.342$ to the nearest hundredth.",
       "options": [
-        "True",
-        "False"
+        "$12.34$",
+        "$12.35$",
+        "$12.3$",
+        "$12.40$"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hundredths digit is 4. The neighbor digit is 2. Since $2 < 5$, we round down, keeping the 4, which yields $12.34$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Round $0.95$ to the nearest tenth.",
+      "options": [
+        "$0.9$",
+        "$1.0$",
+        "$0.95$",
+        "$1.1$"
       ],
       "correctIndex": 1,
-      "explanation": "Rounding Decimals has many practical applications.",
+      "explanation": "The tenths digit is 9. The neighbor is 5. Since neighbor is 5 or more, round up: $9 + 1 = 10$, which carries over to the ones place, giving $1.0$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "What is $7.5$ rounded to the nearest whole number?",
+      "options": [
+        "7",
+        "8",
+        "7.0",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ones digit is 7, and the neighbor in the tenths place is 5. Since neighbor is 5 or more, we round up to 8.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Round $2.0084$ to the nearest thousandth.",
+      "options": [
+        "$2.01$",
+        "$2.008$",
+        "$2.009$",
+        "$2.0084$"
+      ],
+      "correctIndex": 1,
+      "explanation": "The thousandths digit is 8. The neighbor digit (ten-thousandths) is 4. Since $4 < 5$, we round down, yielding $2.008$.",
+      "difficulty": "medium"
     }
   ]
 }

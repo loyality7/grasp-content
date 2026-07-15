@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Accuracy?",
-      "back": "Accuracy is a fundamental concept in physics.",
+      "front": "What's accuracy?",
+      "back": "How close your measurement is to the TRUE/CORRECT value.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Accuracy important?",
-      "back": "Accuracy is essential for understanding Physics Foundations.",
+      "front": "Thermometer reads 100.1°C, true value is 100°C. Accurate?",
+      "back": "Yes! Very close to the true value = accurate.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Can you judge accuracy without knowing the true value?",
+      "back": "No. You need to know what's correct to judge if you're close to it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Accuracy vs Precision?",
+      "back": "Accuracy = close to true value (correctness). Precision = exact/consistent (exactness).",
       "difficulty": "medium"
     }
   ]

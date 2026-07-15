@@ -3,28 +3,42 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Unit Checking?",
+      "question": "What units should velocity have?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "kg",
+        "m",
+        "m/s",
+        "kg·m/s²"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Velocity is distance per time = meters per second = m/s",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Unit Checking is only applicable in theoretical contexts.",
+      "question": "If your answer has wrong units, the calculation might still be right.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Unit Checking has many practical applications.",
+      "explanation": "If units are wrong, something in your calculation went wrong. Wrong units = wrong answer.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "You calculate: distance = speed / time. What units do you get?",
+      "options": [
+        "m/s",
+        "m/s²",
+        "m / (m/s) = s",
+        "Wrong—can't divide speed by time"
+      ],
+      "correctIndex": 2,
+      "explanation": "m/s divided by s = m/s ÷ s = (m/s) × (1/s) = m/s². Wait, that's acceleration units, not distance! So this formula is WRONG.",
+      "difficulty": "medium"
     }
   ]
 }

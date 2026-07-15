@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Direct Proportion Flowchart",
-      "description": "Flowchart showing Direct Proportion process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Direct Proportion",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Direct Proportion Formula",
-      "description": "Mathematical definition",
+      "title": "Direct Variation Formula",
+      "description": "The algebraic model of direct proportion using the constant of proportionality k.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "y = k \\cdot x \\quad \\text{or} \\quad \\frac{y}{x} = k",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "y = k \\cdot x",
+            "explanation": "y is equal to the constant of proportionality k multiplied by x."
+          },
+          {
+            "latex": "\\frac{y}{x} = k",
+            "explanation": "Dividing both sides by x shows that the ratio between y and x is constant."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Direct Proportion 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Direct Proportion Animation",
-      "description": "Canvas animation",
+      "title": "Constant Speed Motion (Direct Proportion)",
+      "description": "Watch the car move at a constant rate of 30 pixels per second. Notice how distance and time scale together.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Direct Proportion Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Direct Proportion.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Direct Proportion Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Direct Proportion Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Direct Proportion",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 8000;\n    var progressMs = t % duration;\n    var seconds = progressMs / 1000;\n    \n    // Stop moving after 5 seconds to let the user digest the final values\n    if (seconds > 5) {\n      seconds = 5;\n    }\n\n    var roadY = H / 2 + 10;\n    var startX = 35;\n    var speed = 32; // pixels per second\n    var carX = startX + speed * seconds;\n    var distance = Math.round(speed * seconds);\n\n    // Draw road\n    ctx.beginPath();\n    ctx.moveTo(15, roadY);\n    ctx.lineTo(W - 15, roadY);\n    ctx.strokeStyle = '#4B5563';\n    ctx.lineWidth = 2;\n    ctx.stroke();\n\n    // Draw ticks on road at 0, 32, 64, 96, 128, 160\n    ctx.fillStyle = '#6B7280';\n    ctx.font = '8px monospace';\n    ctx.textAlign = 'center';\n    for (var i = 0; i <= 5; i++) {\n      var tx = startX + speed * i;\n      ctx.beginPath();\n      ctx.moveTo(tx, roadY);\n      ctx.lineTo(tx, roadY + 4);\n      ctx.stroke();\n      ctx.fillText(i * 32, tx, roadY + 12);\n    }\n\n    // Draw Car\n    ctx.fillStyle = '#EF4444'; // Red car body\n    ctx.fillRect(carX - 18, roadY - 14, 26, 10);\n    ctx.fillRect(carX - 10, roadY - 20, 14, 7); // top cabin\n    \n    // Wheels\n    ctx.fillStyle = '#000000';\n    ctx.beginPath(); ctx.arc(carX - 12, roadY - 2, 3, 0, Math.PI * 2); ctx.fill();\n    ctx.beginPath(); ctx.arc(carX + 2, roadY - 2, 3, 0, Math.PI * 2); ctx.fill();\n\n    // Draw start line marker\n    ctx.beginPath();\n    ctx.moveTo(startX, roadY - 25);\n    ctx.lineTo(startX, roadY);\n    ctx.strokeStyle = 'rgba(239, 68, 68, 0.4)';\n    ctx.lineWidth = 1;\n    ctx.stroke();\n\n    // Displays\n    ctx.font = 'bold 12px monospace';\n    ctx.textAlign = 'left';\n    ctx.fillStyle = '#60A5FA';\n    ctx.fillText('Time (t):     ' + seconds.toFixed(2) + ' s', 20, 30);\n    ctx.fillStyle = '#10B981';\n    ctx.fillText('Distance (d): ' + distance + ' m', 20, 48);\n    ctx.fillStyle = '#F59E0B';\n    ctx.fillText('Ratio (d / t): 32 m/s (Constant)', 20, 66);\n\n    // Explanations\n    ctx.textAlign = 'center';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n    ctx.fillText('d = 32 \u00d7 t', W / 2, H - 42);\n    ctx.font = '11px -apple-system, sans-serif';\n    ctx.fillStyle = '#9CA3AF';\n    ctx.fillText('Double the time, double the distance. The speed is the constant k.', W / 2, H - 22);\n  }\n};\n"
       }
     }
   ]

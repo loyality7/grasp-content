@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Precision",
-      "content": "A practical example demonstrating Precision",
-      "source": "Generated",
+      "title": "Digital vs Analog Scale",
+      "content": "Digital scale reads 65.247 kg. Analog scale reads 65.2 kg. Digital is MORE PRECISE (3 decimal places vs 1). But both could be wrong by 2 kg (inaccurate).",
+      "source": "Measurement",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "precision"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["precision", "measurement"]
+    },
+    {
+      "id": "example-02",
+      "title": "Stopwatch Precision",
+      "content": "Cheap stopwatch: 10.5 seconds (one decimal). Precise stopwatch: 10.543 seconds (three decimals). More decimal places = more precision.",
+      "source": "Measurement",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["precision", "time"]
+    },
+    {
+      "id": "example-03",
+      "title": "Precise but Wrong",
+      "content": "A scale always reads 70 kg when you weigh yourself (your true weight is 75 kg). Super consistent/precise (same answer every time) but wrong/inaccurate (5 kg off).",
+      "source": "Measurement",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["precision", "accuracy"]
     }
   ]
 }

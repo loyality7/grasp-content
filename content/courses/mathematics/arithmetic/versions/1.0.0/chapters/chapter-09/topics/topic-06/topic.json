@@ -2,16 +2,17 @@
   "id": "topic-06",
   "name": "Scientific Notation",
   "topicId": "mathematics.arithmetic.chapter-09.topic-06",
-  "description": "Learn about Scientific Notation and its applications in mathematics.",
+  "description": "Learn to write extremely large or small numbers in scientific notation, convert between scientific and standard decimal notation, and interpret negative powers of 10.",
   "content": {
-    "overview": "Scientific Notation is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Scientific Notation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Scientific Notation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Scientific notation is a standard way of writing very large or very small numbers using powers of 10 so they are easier to read, write, and compare.",
+    "explanation": "### Why Do We Need Scientific Notation?\n\nIn science, we deal with extreme numbers:\n-   The distance from Earth to the Sun is roughly **$150,000,000 \\text{ km}$**.\n-   The width of a red blood cell is about **$0.000007 \\text{ meters}$**.\n\nWriting all these zeros is tedious and prone to errors. Scientific notation simplifies this by writing numbers in the form:\n\n{{viz:formula-01}}\n\nWhere:\n-   **$a$** is the **coefficient** and must be a number greater than or equal to $1$ but strictly less than $10$ ($1 \\le a < 10$).\n-   **$n$** is an **integer exponent** representing a power of $10$.\n\n---\n\n### Converting to Scientific Notation\n\n#### Rule for Large Numbers (Positive Exponent)\nMove the decimal point to the **left** until you have a number between $1$ and $10$. The number of places you moved is the positive exponent $n$.\n-   **$150,000,000$**:\n    Move decimal 8 places left: $150,000,000. \\to 1.5$\n    Scientific Notation: **$1.5 \\times 10^8$**\n\n#### Rule for Small Numbers (Negative Exponent)\nMove the decimal point to the **right** until you have a number between $1$ and $10$. The number of places you moved is the negative exponent $-n$.\n-   **$0.000007$**:\n    Move decimal 6 places right: $0.000007 \\to 7.0$\n    Scientific Notation: **$7 \\times 10^{-6}$**\n\n---\n\n### Converting Back to Standard Form\n\n-   **If the exponent is positive**, move the decimal to the **right** (add zeros if needed):\n    $$3.65 \\times 10^4 \\to 36,500$$\n-   **If the exponent is negative**, move the decimal to the **left** (add zeros if needed):\n    $$5.2 \\times 10^{-3} \\to 0.0052$$\n\n### Visualizing the Decimal Shift\n\nWatch this interactive animation demonstrating how a decimal point hops leftward to convert a standard number ($32,000$) into scientific notation ($3.2 \\times 10^4$):\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Scientific notation has the form a \u00d7 10\u207f, where 1 \u2264 a < 10.",
+      "Positive exponents represent large numbers (multiplying by powers of 10).",
+      "Negative exponents represent small decimals (dividing by powers of 10).",
+      "The exponent equals the number of decimal place hops."
     ],
-    "whyItMatters": "Scientific Notation is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Astronomers use scientific notation to measure light-years, biologists use it to count bacteria, and computer hardware engineers use it to describe processing speeds (gigahertz) and electrical capacities."
   },
   "availableLanguages": [
     "en"

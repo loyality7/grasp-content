@@ -3,28 +3,37 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Accuracy?",
+      "question": "What does accuracy measure?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "How exact the measurement is",
+        "How close to the true/correct value",
+        "How many decimal places",
+        "How expensive the tool is"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Accuracy = closeness to the TRUE value. It's about being RIGHT, not about exactness.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Accuracy is only applicable in theoretical contexts.",
+      "question": "You can judge if a measurement is accurate without knowing the true value.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Accuracy has many practical applications.",
+      "explanation": "False. You NEED the true value to compare against. Without it, you can't know if you're close or far off.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "A scale reads 65.3 kg when true weight is 65.2 kg. Accurate?",
+      "options": ["Yes, very accurate", "Somewhat accurate", "Not accurate", "Can't tell"],
+      "correctIndex": 0,
+      "explanation": "Yes! Only 0.1 kg off. Very close to the true value = accurate.",
+      "difficulty": "medium"
     }
   ]
 }

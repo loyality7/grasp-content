@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Multiples.",
-      "solution": "Step-by-step solution for Multiples problem.",
+      "prompt": "List the first six positive multiples of **12**.",
+      "solution": "Multiply 12 by 1, 2, 3, 4, 5, and 6:\n- $12 \\times 1 = 12$\n- $12 \\times 2 = 24$\n- $12 \\times 3 = 36$\n- $12 \\times 4 = 48$\n- $12 \\times 5 = 60$\n- $12 \\times 6 = 72$\n\n**Answer**: **12, 24, 36, 48, 60, 72**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Multiply 12 by positive integers starting from 1 up to 6.",
+        "You can also think of this as skip counting by 12 six times."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "multiples"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Multiples", "Listing"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Multiples to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A Lighthouse beacon flashes every **5** seconds, and a nearby warning buoy light flashes every **6** seconds. If they flash at the same instant, after how many seconds will they next flash together?",
+      "solution": "We need to find the common multiples of 5 and 6:\n- **Lighthouse flashes** (multiples of 5): $5, 10, 15, 20, 25, 30, 35, \\dots$\n- **Buoy flashes** (multiples of 6): $6, 12, 18, 24, 30, 36, \\dots$\n\nThe smallest common multiple is **30**.\n\n**Answer**: They will flash together next after **30 seconds**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "List the multiples of 5 and the multiples of 6.",
+        "Find the smallest positive number that is a multiple of both 5 and 6."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "multiples"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Multiples", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "For any number $x > 1$, explain the key differences between the set of **factors** of $x$ and the set of **multiples** of $x$ regarding: 1. size of the numbers, and 2. the total count of numbers.",
+      "solution": "1. **Size of the numbers**:\n   - **Factors** of $x$ are smaller than or equal to $x$ (lying in the range $[1, x]$).\n   - **Multiples** of $x$ are larger than or equal to $x$ (lying in the range $[x, \\infty)$).\n\n2. **Total count of numbers**:\n   - The set of **factors** is **finite** (limited). There is a maximum number of divisors a number can have.\n   - The set of **multiples** is **infinite** (unlimited) because you can multiply $x$ by integers indefinitely.\n\n**Answer**: Factors are $\\le x$ and finite in count; multiples are $\\ge x$ and infinite in count.",
+      "hints": [
+        "Think about what the maximum factor of a number can be.",
+        "Think about whether you can ever stop generating multiples of a number."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Multiples", "Concepts"]
     }
   ]
 }

@@ -2,16 +2,19 @@
   "id": "topic-01",
   "name": "Experimental Design",
   "topicId": "physics.physics-foundations.chapter-08.topic-01",
-  "description": "Learn about Experimental Design and its applications in physics.",
+  "description": "Planning an experiment so you get good, reliable results",
   "content": {
-    "overview": "Experimental Design is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Experimental Design. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Experimental Design requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Before you do an experiment, you need a plan. What are you testing? What will you measure? How? Good experimental design means you get answers you can trust. {{viz:diagram-01}}",
+    "explanation": "So you want to test something. Maybe: 'Does a heavier ball fall faster?' Before you start, you need to design your experiment.\n\nGood experimental design means:\n1. **Know what you're testing** - Your question should be clear. 'Does mass affect falling speed?' is clear. 'How does stuff fall?' is vague.\n\n2. **Decide what to measure** - If testing falling speed, you measure: how far the ball falls and how long it takes.\n\n3. **Control variables** - Change ONE thing (mass), keep everything else the same (drop height, location, air conditions).\n\n4. **Plan your measurements** - How many times will you test? How will you record results?\n\n5. **Think about errors** - What could go wrong? How will you handle mistakes? {{viz:diagram-02}}\n\n**Example:** Testing if ramp angle affects rolling speed.\n- Question: Does steeper ramps make balls roll faster?\n- What to measure: distance traveled, time taken\n- Change: ramp angle (30°, 45°, 60°, 90°)\n- Keep the same: ball mass, ball type, starting height, surface\n- How many: 3 trials per angle\n- Expected error: timing by hand is hard; use video if possible\n\nGood design = good data. {{viz:chart-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Ask a clear question first",
+      "Plan what you'll measure",
+      "Change ONE variable, keep others the same",
+      "Do multiple trials",
+      "Think about errors ahead of time",
+      "Good design = reliable results"
     ],
-    "whyItMatters": "Experimental Design is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Without good experimental design, your results are worthless. You might get luck results that look good but aren't real. Scientists spend more time planning experiments than running them."
   },
   "availableLanguages": [
     "en"

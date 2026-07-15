@@ -3,27 +3,33 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Precision?",
+      "question": "What does precision measure?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "How close to the true value",
+        "How exact and consistent the measurement is",
+        "How expensive the tool is",
+        "How hard to use the tool"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Precision = exactness and consistency. More decimal places = more precise.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Precision is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
+      "question": "You can be precise but not accurate.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "True! A broken clock that's always 10 minutes fast is precise (consistent) but inaccurate (always wrong).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "65.347 kg vs 65 kg. Which is more precise?",
+      "options": ["65 kg", "65.347 kg", "Same precision", "Can't tell"],
       "correctIndex": 1,
-      "explanation": "Precision has many practical applications.",
+      "explanation": "65.347 kg has more decimal places = more precise.",
       "difficulty": "easy"
     }
   ]

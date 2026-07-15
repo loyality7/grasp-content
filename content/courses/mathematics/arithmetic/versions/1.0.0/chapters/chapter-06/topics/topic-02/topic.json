@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Comparing Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-02",
-  "description": "Learn about Comparing Decimals and its applications in mathematics.",
+  "description": "Learn how to compare decimals by lining up decimal points and checking place values from left to right.",
   "content": {
-    "overview": "Comparing Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Comparing Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Comparing Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Comparing decimals determines which decimal number is larger, smaller, or if they are equal, by comparing digits starting from the highest place value on the left and moving right.",
+    "explanation": "### How to Compare Decimals\n\nComparing decimals can sometimes be tricky because a number with more digits isn't necessarily larger. For example, **0.4** is actually larger than **0.35**.\n\nTo compare decimals accurately, follow these three simple steps:\n\n1.  **Align the decimal points vertically**: Place the numbers on top of each other so that the decimal points and all place values line up.\n2.  **Add trailing zeros**: Pad the shorter decimal with zeros at the end so both numbers have the same number of digits to the right of the decimal point. (Adding trailing zeros does not change the value of a decimal).\n3.  **Compare place values from left to right**: Compare the digits in the highest place value first (Ones, Tens, etc.). If they are equal, compare the Tenths place, then the Hundredths place, and so on, until you find a difference.\n\n### Step-by-Step Example: Comparing $0.4$ and $0.35$\n\n-   Align and pad with zeros:\n    $$0.40$$\n    $$0.35$$\n-   Compare Tenths: $4$ tenths is greater than $3$ tenths ($4 > 3$).\n-   Therefore:\n    $$0.4 > 0.35 \\quad (\\text{since } 0.40 > 0.35)$$\n\n{{viz:formula-01}}\n\n### The Long Decimal Myth\n\nA common mistake is thinking that \"longer\" numbers are always larger because of how whole numbers work (e.g., $35 > 4$). With decimals, however, extra digits represent smaller parts (hundredths, thousandths). \n-   Comparing $0.72$ and $0.709$:\n    -   Add zero to pad: $0.720$ vs $0.709$.\n    -   Ones are equal ($0 = 0$).\n    -   Tenths are equal ($7 = 7$).\n    -   Hundredths differ: $2$ hundredths is greater than $0$ hundredths ($2 > 0$).\n    -   Therefore, $0.72 > 0.709$.\n\n### Visualizing Comparison\n\nLet's compare $0.4$ and $0.35$ using shaded area bars. Watch how padding $0.4$ to become $0.40$ makes it easy to see which represents a larger portion of the whole:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Always align the decimal points vertically before comparing.",
+      "Add trailing zeros to make the decimals the same length without changing their value.",
+      "Compare digits from left to right, starting with the highest place value.",
+      "A decimal with more digits is not necessarily larger than a decimal with fewer digits."
     ],
-    "whyItMatters": "Comparing Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Comparing decimals is vital for shopping (comparing prices like $4.29 vs $4.30), timing athletics races (comparing times like 9.58s vs 9.61s), and interpreting data in scientific research."
   },
   "availableLanguages": [
     "en"

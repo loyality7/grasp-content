@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Integer Operations.",
-      "solution": "Step-by-step solution for Integer Operations problem.",
+      "prompt": "Evaluate: **$(-8) - (-12)$** and write out the steps explaining how you rewrote the subtraction sign.",
+      "solution": "1. **Apply subtraction rewrite rule**:\n   Subtracting an integer is adding its opposite. Change subtraction ($-$) to addition ($+$) and flip $-12$ to $+12$:\n   $$(-8) - (-12) = (-8) + 12$$\n2. **Evaluate addition of different signs**:\n   Subtract the smaller magnitude (8) from the larger magnitude (12):\n   $$12 - 8 = 4$$\n   Since 12 is positive and larger, the result is positive:\n   $$(-8) + 12 = 4$$\n\n**Answer**: **$4$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Change the two negative signs in the middle into a single addition sign.",
+        "Solve: -8 + 12."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "integer-operations"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Integer Operations", "Subtraction"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Integer Operations to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Evaluate the multi-factor expression: **$(-3) \\times (+4) \\times (-2)$**.",
+      "solution": "1. **Multiply the first two terms**:\n   $$(-3) \\times (+4)$$\n   Since the signs are different, the product is negative:\n   $$(-3) \\times 4 = -12$$\n2. **Multiply the result by the third term**:\n   $$(-12) \\times (-2)$$\n   Since both terms are negative (same signs), the product is positive:\n   $$(-12) \\times (-2) = 24$$\n\n**Answer**: **$24$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Multiply left-to-right.",
+        "Keep track of the signs: negative times positive is negative, and then negative times negative is positive."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "integer-operations"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Integer Operations", "Multiplication"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A mountain hiker starts at an elevation of **$350\\text{ feet}$ above sea level**. The hiker then descends (goes down) **$450\\text{ feet}$**. Write an integer equation to represent this scenario and calculate the hiker's final altitude.",
+      "solution": "1. **Set up the operation**:\n   - Starting elevation: $+350$\n   - Descent: subtract $450$ (or add $-450$)\n   $$\\text{Final Altitude} = 350 - 450$$\n2. **Solve the subtraction**:\n   $$350 - 450 = 350 + (-450)$$\n   Subtract the magnitudes: $450 - 350 = 100$. Since the larger magnitude number is negative, the final value is negative:\n   $$350 - 450 = -100$$\n\n**Answer**: Equation: **$350 - 450 = -100$**. The final altitude is **$-100\\text{ feet}$** (meaning 100 feet below sea level).",
+      "hints": [
+        "A descent means subtracting elevation from the initial height.",
+        "Calculate 350 minus 450. Since the hiker went down further than they started high, the answer will be negative."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Integer Operations", "Word Problems"]
     }
   ]
 }

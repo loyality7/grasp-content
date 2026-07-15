@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Mixed Numbers",
-      "content": "A practical example demonstrating Mixed Numbers",
-      "source": "Generated",
+      "title": "Converting Mixed Number to Improper Fraction",
+      "content": "Convert the mixed number **$3\\frac{2}{5}$** into an improper fraction.\n\n### Step-by-Step Solution\n\nTo convert a mixed number $W\\frac{n}{d}$ to an improper fraction, we use the formula:\n$$\\frac{(W \\times d) + n}{d}$$\n\n1.  **Identify the values**:\n    -   Whole number $W = 3$\n    -   Numerator $n = 2$\n    -   Denominator $d = 5$\n\n2.  **Multiply the whole number by the denominator**:\n    $$3 \\times 5 = 15$$\n    *(This represents 15 fifths contained in the 3 wholes)*\n\n3.  **Add the numerator**:\n    $$15 + 2 = 17$$\n    *(This adds the 2 extra fifths)*\n\n4.  **Place the sum over the original denominator**:\n    $$\\frac{17}{5}$$\n\n**Answer**: The improper fraction is **$\\frac{17}{5}$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "mixed-numbers"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Mixed Numbers", "Conversion"]
+    },
+    {
+      "id": "example-02",
+      "title": "Converting Improper Fraction to Mixed Number",
+      "content": "Convert the improper fraction **$\\frac{17}{6}$** into a mixed number.\n\n### Step-by-Step Solution\n\nTo convert an improper fraction $\\frac{n}{d}$ to a mixed number, divide the numerator by the denominator:\n\n1.  **Perform division**:\n    Divide 17 by 6:\n    $$17 \\div 6 = 2 \\quad \\text{with a remainder of } 5$$\n    *(6 goes into 17 exactly 2 times, leaving 5 parts over)*\n\n2.  **Identify mixed number parts**:\n    -   The quotient (**2**) becomes the **whole number**.\n    -   The remainder (**5**) becomes the **numerator** of the proper fraction.\n    -   The denominator remains (**6**).\n\n3.  **Combine the parts**:\n    $$2\\frac{5}{6}$$\n\n**Answer**: The mixed number is **$2\\frac{5}{6}$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Improper Fractions", "Conversion"]
     }
   ]
 }

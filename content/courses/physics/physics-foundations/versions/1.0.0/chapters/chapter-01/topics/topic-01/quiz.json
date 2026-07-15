@@ -3,28 +3,68 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes What is Physics??",
+      "question": "What's physics really about?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Complicated math that only smart people understand",
+        "Figuring out how and why things work in nature",
+        "A class in school where you memorize formulas",
+        "Only stuff that happens in laboratories"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Physics is just understanding how things work. It's not about being smart—it's about being curious and asking 'why?'",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "What is Physics? is only applicable in theoretical contexts.",
+      "question": "Physics only matters for scientists.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "What is Physics? has many practical applications.",
+      "explanation": "Physics is everywhere! Your phone, your food, your body—all physics. Everyone needs to understand it.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of these is physics at work?",
+      "options": [
+        "A ball falling to the ground",
+        "A plant growing",
+        "A chemical reaction creating heat",
+        "A bird flying because it's alive"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ball falling is pure physics (gravity, motion). Growing plants involve biology, chemical reactions involve chemistry. Physics deals with motion, energy, and forces.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "true-false",
+      "question": "If you understand why a ball falls, you can predict where it will land.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes! Understanding the rules (physics) lets you predict what will happen. That's the whole point.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which order is correct for how physics works?",
+      "options": [
+        "Observe → Predict → Understand → Build",
+        "Observe → Understand → Predict → Build",
+        "Build → Observe → Understand → Predict",
+        "Understand → Observe → Build → Predict"
+      ],
+      "correctIndex": 1,
+      "explanation": "First you see something happen (observe). Then you figure out why (understand). Then you can say what will happen next (predict). Then you use that to make cool stuff (build).",
+      "difficulty": "medium"
     }
   ]
 }

@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Converting Fractions ↔ Decimals?",
-      "back": "Converting Fractions ↔ Decimals is a fundamental concept in mathematics.",
+      "front": "How do you convert any fraction into a decimal?",
+      "back": "Divide the numerator (top number) by the denominator (bottom number) using division.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Converting Fractions ↔ Decimals important?",
-      "back": "Converting Fractions ↔ Decimals is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "How do you convert a decimal into a fraction?",
+      "back": "Write the decimal digits in the numerator, and place 10, 100, or 1000 in the denominator based on the last digit's place value. Then simplify.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is a Terminating Decimal?",
+      "back": "A decimal number that has a finite number of digits (ends), such as $0.25$ or $0.125$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is a Repeating Decimal?",
+      "back": "A decimal in which one or more digits repeat infinitely (e.g., $0.3333\\dots$ or $0.181818\\dots$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is Bar Notation?",
+      "back": "A horizontal bar written above the repeating digit(s) of a repeating decimal (e.g. $0.\\bar{3}$ or $0.\\overline{18}$).",
+      "difficulty": "easy"
     }
   ]
 }

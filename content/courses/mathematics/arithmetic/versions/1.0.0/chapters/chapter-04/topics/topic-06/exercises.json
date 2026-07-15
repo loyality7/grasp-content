@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Greatest Common Divisor (GCD/HCF).",
-      "solution": "Step-by-step solution for Greatest Common Divisor (GCD/HCF) problem.",
+      "prompt": "Evaluate the Greatest Common Divisor (GCD) of **48** and **60**.",
+      "solution": "Let's use the prime factorization method:\n- **Prime factorization of 48**:\n  $$48 = 2 \\times 24 = 2^2 \\times 12 = 2^3 \\times 6 = 2^4 \\times 3^1$$\n- **Prime factorization of 60**:\n  $$60 = 2^2 \\times 3^1 \\times 5^1$$\n\nIdentify common bases and take lowest exponents:\n- Base 2: lowest is $2^2$\n- Base 3: lowest is $3^1$\n- Base 5: not common (ignore)\n\nMultiply the results:\n$$\\text{GCD} = 2^2 \\times 3^1 = 4 \\times 3 = 12$$\n\n**Answer**: **12**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Find the prime factorizations of 48 and 60 first.",
+        "Compare the powers of 2 and 3 that appear in both numbers, and choose the lower exponent for each.",
+        "Alternatively, list the factors of both numbers and look for the largest common factor."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "greatest-common-divisor-gcdhcf"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "GCD"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Greatest Common Divisor (GCD/HCF) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A florist has **36** red roses and **48** yellow roses. She wants to make identical bouquets containing the same number of red and yellow roses, using all of the flowers. What is the maximum number of bouquets she can create?",
+      "solution": "To make identical bouquets and use all the roses, the number of bouquets must divide both 36 and 48 evenly. To find the *maximum* number of bouquets, we must find the Greatest Common Divisor of 36 and 48:\n\n1. **Factors of 36**: $\\{1, 2, 3, 4, 6, 9, 12, 18, 36\\}$\n2. **Factors of 48**: $\\{1, 2, 3, 4, 6, 8, 12, 16, 24, 48\\}$\n3. **Common factors**: $\\{1, 2, 3, 4, 6, 12\\}$\n\nThe greatest common factor is **12**.\n\nSo she can make a maximum of 12 bouquets (each containing $36 \\div 12 = 3$ red roses and $48 \\div 12 = 4$ yellow roses).\n\n**Answer**: The florist can create a maximum of **12 bouquets**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "This is a word problem that requires finding the GCD of 36 and 48.",
+        "Find the largest positive integer that divides both 36 and 48."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "greatest-common-divisor-gcdhcf"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "GCD", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Show that the numbers **14** and **15** are coprime. What does this mean about their factors?",
+      "solution": "1. **List factors of 14**:\n   $$\\text{Factors of 14} = \\{1, 2, 7, 14\\}$$\n2. **List factors of 15**:\n   $$\\text{Factors of 15} = \\{1, 3, 5, 15\\}$$\n3. **Find the intersection (common factors)**:\n   The only number present in both sets is **1**.\n   $$\\text{GCD}(14, 15) = 1$$\n\nBecause their Greatest Common Divisor is 1, by definition, 14 and 15 are coprime (or relatively prime). This means they share no common divisors other than 1, despite the fact that both 14 and 15 are composite numbers on their own.\n\n**Answer**: $\\text{GCD}(14, 15) = 1$, which proves they are coprime. They share no common factors other than 1.",
+      "hints": [
+        "Write out the factors of 14 and the factors of 15.",
+        "Look for any matching factors. What is the greatest common factor?"
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "GCD", "Coprime"]
     }
   ]
 }

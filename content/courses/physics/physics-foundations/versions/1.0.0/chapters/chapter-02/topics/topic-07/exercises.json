@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Dimensional Homogeneity.",
-      "solution": "Step-by-step solution for Dimensional Homogeneity problem.",
+      "id": "exercise-01",
+      "type": "judge",
+      "title": "Can You Add These?",
+      "content": "Which can be added? (1) 10 m + 5 m  (2) 3 s + 7 kg  (3) 20 N + 15 N  (4) 8 m/s + 6 m. Say yes or no.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Same dimensions = can add",
+        "Different dimensions = cannot add",
+        "Check if units match"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "dimensional-homogeneity"
-      ]
+      "tags": ["addition-rule"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Dimensional Homogeneity to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "check",
+      "title": "Check Equations for Homogeneity",
+      "content": "Are these equations dimensionally homogeneous? (1) v = u + at  (2) s = v²t  (3) E = ½mv². Write why or why not.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Write dimensions on each side",
+        "Check if addition/subtraction terms match",
+        "Check if left = right dimension"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "dimensional-homogeneity"
-      ]
+      "tags": ["homogeneity-check"]
     }
   ]
 }

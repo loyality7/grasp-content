@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Decimals ↔ Percentages",
-      "content": "A practical example demonstrating Decimals ↔ Percentages",
-      "source": "Generated",
+      "title": "Converting Decimals to Percentages",
+      "content": "Convert the following decimal values to percentages:\n1.  **$0.085$**\n2.  **$1.6$**\n\n### Step-by-Step Solution\n\n1.  **Convert $0.085$**:\n    -   Move the decimal point two places to the right:\n        $$0.085 \\to 008.5 = 8.5$$\n    -   Add the `%` symbol: **$8.5\\%$**.\n\n2.  **Convert $1.6$**:\n    -   Add a trailing zero to help visualize two places: $1.60$.\n    -   Move the decimal point two places to the right:\n        $$1.60 \\to 160.$$\n    -   Add the `%` symbol: **$160\\%$**.\n\n**Answer**:\n1.  $0.085 = 8.5\\%$\n2.  $1.6 = 160\\%$",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "decimals-percentages"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Percentages", "Converting"]
+    },
+    {
+      "id": "example-02",
+      "title": "Converting Percentages to Decimals",
+      "content": "Convert the following percentages to decimals:\n1.  **$7.5\\%$**\n2.  **$120\\%$**\n\n### Step-by-Step Solution\n\n1.  **Convert $7.5\\%$**:\n    -   Remove the `%` sign: $7.5$.\n    -   Move the decimal point two places to the left (pad with a leading zero):\n        $$.075 = 0.075$$\n    -   **Answer**: **$0.075$**.\n\n2.  **Convert $120\\%$**:\n    -   Write with the decimal point visible: $120.0\\%$.\n    -   Remove the `%` sign: $120.0$.\n    -   Move the decimal point two places to the left:\n        $$1.200 = 1.2$$\n    -   **Answer**: **$1.2$**.\n\n**Answer**:\n1.  $7.5\\% = 0.075$\n2.  $120\\% = 1.2$",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Decimals", "Converting"]
     }
   ]
 }

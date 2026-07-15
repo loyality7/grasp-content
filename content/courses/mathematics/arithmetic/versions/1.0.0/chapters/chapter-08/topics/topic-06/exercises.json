@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Inverse Proportion.",
-      "solution": "Step-by-step solution for Inverse Proportion problem.",
+      "prompt": "A delivery driver travels a fixed route. Traveling at an average speed of **$60$ mph**, the trip takes **$4$ hours**. How long would the trip take if the driver averaged a speed of **$80$ mph**?",
+      "solution": "1. **Identify the constant product (total distance)**:\n   Let $s = \\text{speed}$ and $t = \\text{time}$. \n   $$d = s \\times t = 60 \\text{ mph} \\times 4 \\text{ hours} = 240 \\text{ miles}$$\n   The route is $240$ miles long.\n2. **Solve for the new time at 80 mph**:\n   $$t = \\frac{\\text{Distance}}{\\text{New Speed}} = \\frac{240 \\text{ miles}}{80 \\text{ mph}} = 3 \\text{ hours}$$\n\n**Answer**: The trip would take **$3$ hours**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First find the total distance traveled by multiplying the speed of 60 mph by the time of 4 hours.",
+        "Divide this total distance of 240 miles by the new speed of 80 mph to find the time."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "inverse-proportion"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Inverse Proportion", "Word Problems"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Inverse Proportion to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A single inlet water pipe takes **$12$ hours** to fill a community swimming pool. If the pool manager turns on **$3$ identical pipes** at the same time, how many hours will it take to fill the pool?",
+      "solution": "1. **Set up the inverse variation equation**:\n   Let $p = \\text{number of pipes}$ and $t = \\text{time (hours)}$.\n   The total work constant is the effort of 1 pipe for 12 hours:\n   $$k = 1 \\text{ pipe} \\times 12 \\text{ hours} = 12 \\text{ pipe-hours}$$\n2. **Solve for 3 pipes**:\n   $$3 \\times t = 12$$\n   $$t = \\frac{12}{3} = 4 \\text{ hours}$$\n\n**Answer**: It will take **$4$ hours** to fill the pool.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Adding more pipes means it will take LESS time. This is an inverse relationship.",
+        "Triple the number of pipes (1 to 3) means the time is divided by 3."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "inverse-proportion"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Inverse Proportion", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Compare direct variation and inverse variation. How can you tell them apart from their algebraic equations?",
+      "solution": "1. **Direct variation** represents a constant ratio: $\\frac{y}{x} = k$, which is written as $y = kx$. As $x$ increases, $y$ increases.\n2. **Inverse variation** represents a constant product: $x \\cdot y = k$, which is written as $y = \\frac{k}{x}$. As $x$ increases, $y$ decreases.\n3. Therefore, direct variation has the variables dividing each other to form a constant, while inverse variation has the variables multiplying each other to form a constant.\n\n**Answer**: Direct variation is written as $y = kx$ (constant ratio), whereas inverse variation is written as $y = \\frac{k}{x}$ (constant product).",
+      "hints": [
+        "Think about what remains constant in each type of variation (ratio vs product).",
+        "Look at where the variable x is positioned relative to y in the equation."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Direct Variation", "Inverse Variation"]
     }
   ]
 }

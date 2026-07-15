@@ -2,15 +2,39 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: What is Physics?",
-      "content": "A practical example demonstrating What is Physics?",
-      "source": "Generated",
+      "title": "Throwing a Ball",
+      "content": "You throw a ball up in the air. It goes up, slows down, stops for a second, then comes back down. Why? Gravity. How fast does it go? You can calculate that with physics. Where does it land? You can predict that too. This is physics: you see something (ball goes up), you understand why (gravity pulls it), you predict what happens next (it falls back down at this exact speed).",
+      "source": "Things we all see",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "what-is-physics"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["motion", "gravity", "everyday"]
+    },
+    {
+      "id": "example-02",
+      "title": "Why the Sky is Blue",
+      "content": "Ever notice the sky is blue and sunsets are orange/red? That's physics! Blue light bounces around in the air more than red light does. That's why the sky looks blue. At sunset, light has to travel through MORE air to reach you, so the blue gets scattered away and you see orange. Same rule (light bouncing), different situation, different result. That's how physics works.",
+      "source": "Light and colors",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["light", "color", "everyday"]
+    },
+    {
+      "id": "example-03",
+      "title": "Your Phone Charging",
+      "content": "Your phone charges because electricity flows through the battery. Why does it flow that way and not backwards? Physics rules. How fast does it charge? Physics tells us. How long will the battery last? Physics determines that too. Everything in your phone—from the screen lighting up to the speaker making sound—is just physics at work.",
+      "source": "Electricity and energy",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["electricity", "energy", "technology"]
+    },
+    {
+      "id": "example-04",
+      "title": "A Bridge That Broke Because of Wind",
+      "content": "In 1940, a bridge in America broke just from wind. Why? The wind made the bridge shake back and forth, and the shaking got bigger and bigger until BOOM—it fell. This happened because the wind frequency matched the bridge's natural frequency. Physics predicted this would happen. Now engineers use physics to prevent it. This shows physics isn't just theory—it keeps us safe.",
+      "source": "Vibrations and waves",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["vibration", "resonance", "safety"]
     }
   ]
 }

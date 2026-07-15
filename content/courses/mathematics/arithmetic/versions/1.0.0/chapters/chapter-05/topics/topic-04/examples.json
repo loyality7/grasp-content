@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Equivalent Fractions",
-      "content": "A practical example demonstrating Equivalent Fractions",
-      "source": "Generated",
+      "title": "Finding a Missing Numerator",
+      "content": "Find the missing number $x$ to make the fractions equivalent:\n$$\\frac{3}{5} = \\frac{x}{20}$$\n\n### Step-by-Step Solution\n\nTo find an equivalent fraction, we look at the relationship between the denominators and apply the same relationship to the numerators:\n\n1.  **Compare denominators**:\n    The denominator of the first fraction is 5, and the denominator of the second is 20.\n    What number do we multiply 5 by to get 20?\n    $$20 \\div 5 = 4 \\implies 5 \\times 4 = 20$$\n    So, the denominator is scaled by a factor of **4**.\n\n2.  **Scale the numerator**:\n    Multiply the numerator of the first fraction by the same factor (4):\n    $$x = 3 \\times 4 = 12$$\n\n3.  **Write the equivalent fraction**:\n    $$\\frac{3}{5} = \\frac{12}{20}$$\n\n**Answer**: The missing number $x$ is **12**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "equivalent-fractions"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Fractions", "Scaling"]
+    },
+    {
+      "id": "example-02",
+      "title": "Testing Equivalence with Cross-Multiplication",
+      "content": "Are the fractions **$\\frac{4}{6}$** and **$\\frac{10}{15}$** equivalent?\n\n### Step-by-Step Solution\n\nWe can determine if two fractions $\\frac{a}{b}$ and $\\frac{c}{d}$ are equivalent by using the cross-multiplication test, which checks if $a \\times d = b \\times c$:\n\n1.  **Identify the values**:\n    -   $a = 4, \\quad b = 6$\n    -   $c = 10, \\quad d = 15$\n\n2.  **Multiply the first numerator by the second denominator**:\n    $$4 \\times 15 = 60$$\n\n3.  **Multiply the first denominator by the second numerator**:\n    $$6 \\times 10 = 60$$\n\n4.  **Compare the products**:\n    -   The first product is 60.\n    -   The second product is 60.\n    -   Since $60 = 60$, the cross-products are equal.\n\n**Answer**: Yes, **$\\frac{4}{6}$** and **$\\frac{10}{15}$** are equivalent fractions.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Equivalent Fractions", "Cross-Multiplication"]
     }
   ]
 }

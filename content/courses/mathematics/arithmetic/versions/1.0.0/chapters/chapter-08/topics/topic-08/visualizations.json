@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Scale Flowchart",
-      "description": "Flowchart showing Scale process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Scale",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Scale Formula",
-      "description": "Mathematical definition",
+      "title": "The Unitary Formula Steps",
+      "description": "Divide to find the value of one unit, then multiply to find the value of the target units.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{Step 1: } u = \\frac{V_1}{N_1} \\quad \\implies \\quad \\text{Step 2: } V_2 = u \\cdot N_2",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "u = \\frac{V_1}{N_1}",
+            "explanation": "Divide the initial value V1 by the initial number of units N1 to find unit value u."
+          },
+          {
+            "latex": "V_2 = u \\cdot N_2",
+            "explanation": "Multiply the unit value u by the target number of units N2 to find final value V2."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Scale 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Scale Animation",
-      "description": "Canvas animation",
+      "title": "The Bag & Coin Model",
+      "description": "Watch how we determine the coin count for 7 bags by first figuring out the count inside 1 bag.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Scale Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Scale.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Scale Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Scale Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Scale",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.25 && progress < 0.54) stage = 2;\n    else if (progress >= 0.54 && progress < 0.79) stage = 3;\n    else if (progress >= 0.79) stage = 4;\n\n    var midY = H / 2 - 35;\n\n    // Helper to draw a coin bag\n    function drawBag(bx, by, drawCoins, coinCount) {\n      // Bag shape (draw a simple draw-string bag style)\n      ctx.fillStyle = '#10B981'; // Green bag\n      ctx.beginPath();\n      ctx.arc(bx, by + 4, 12, 0.15 * Math.PI, 0.85 * Math.PI, true);\n      ctx.lineTo(bx - 4, by - 12);\n      ctx.lineTo(bx + 4, by - 12);\n      ctx.closePath();\n      ctx.fill();\n      \n      // Draw tie ribbon\n      ctx.fillStyle = '#F59E0B';\n      ctx.fillRect(bx - 6, by - 7, 12, 2);\n\n      // Bag label '1'\n      ctx.fillStyle = '#FFFFFF';\n      ctx.font = 'bold 9px monospace';\n      ctx.textAlign = 'center';\n      ctx.textBaseline = 'middle';\n      ctx.fillText('1', bx, by + 3);\n\n      if (drawCoins) {\n        // Spill coins underneath\n        ctx.fillStyle = '#F59E0B';\n        for (var i = 0; i < coinCount; i++) {\n          var cx = bx - 14 + (i * 7);\n          var cy = by + 22;\n          ctx.beginPath();\n          ctx.arc(cx, cy, 2.5, 0, Math.PI * 2);\n          ctx.fill();\n        }\n      }\n    }\n\n    // Stage drawing\n    if (stage === 1) {\n      // Draw 4 bags\n      var startX = W / 2 - 45;\n      for (var i = 0; i < 4; i++) {\n        drawBag(startX + i * 30, midY, false);\n      }\n    } else if (stage === 2) {\n      // Draw 1 bag with 5 spilled coins\n      drawBag(W / 2, midY, true, 5);\n    } else if (stage >= 3) {\n      // Draw 7 bags\n      var startX = W / 2 - 90;\n      for (var i = 0; i < 7; i++) {\n        drawBag(startX + i * 30, midY, false);\n      }\n    }\n\n    // Details text on canvas\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (stage === 1) {\n      ctx.fillText('Given: 4 Bags = 20 Coins', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('We want to find how many coins are in 7 bags.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('Step 1: Find Coins in 1 Bag', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Divide total coins by bags: 20 \u00f7 4 = 5 coins per bag.', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#F59E0B';\n      ctx.fillText('Step 2: Scale up to 7 Bags', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Multiply unit value by 7 bags: 5 coins \u00d7 7 = 35 coins.', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.fillText('Result = 35 Coins', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('The unitary method successfully scaled the coins: 7 bags = 35.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

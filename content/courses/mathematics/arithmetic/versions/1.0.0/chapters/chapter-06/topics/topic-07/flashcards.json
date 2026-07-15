@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Dividing Decimals?",
-      "back": "Dividing Decimals is a fundamental concept in mathematics.",
+      "front": "What must you do first if the divisor in a division problem is a decimal?",
+      "back": "Shift its decimal point to the right until it is a whole number.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Dividing Decimals important?",
-      "back": "Dividing Decimals is essential for understanding Arithmetic.",
+      "front": "If you shift the divisor's decimal point, what must you do to the dividend?",
+      "back": "Shift the dividend's decimal point to the right by the exact same number of places.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Where does the decimal point go in the answer (quotient) row?",
+      "back": "Directly above the new decimal point position in the dividend.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why is shifting the decimal points in division allowed?",
+      "back": "Because it is equivalent to multiplying both the divisor and dividend by the same power of 10 (like 10 or 100), which keeps the ratio identical.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the quotient of $1.2 \\div 0.04$?",
+      "back": "$30$, because shifting 2 places makes it $120 \\div 4 = 30$.",
       "difficulty": "medium"
     }
   ]

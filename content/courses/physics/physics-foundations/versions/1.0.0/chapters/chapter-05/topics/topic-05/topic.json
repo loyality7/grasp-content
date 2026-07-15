@@ -2,18 +2,19 @@
   "id": "topic-05",
   "name": "Components of a Vector",
   "topicId": "physics.physics-foundations.chapter-05.topic-05",
-  "description": "Learn about Components of a Vector and its applications in physics.",
+  "description": "Breaking a vector into parts—the x-component, y-component, and z-component",
   "content": {
-    "overview": "Components of a Vector is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Components of a Vector. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Components of a Vector requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Instead of thinking of a vector as one arrow, think of it as pieces: how much in the x direction, how much in the y direction. Components make calculations easy. {{viz:diagram-01}}",
+    "explanation": "Any vector can be broken into components. {{viz:diagram-02}}\n\n**2D Example:**\n\nA vector pointing northeast with magnitude 10 can be split:\n- x-component (east): 10 × cos(45°) ≈ 7.07\n- y-component (north): 10 × sin(45°) ≈ 7.07\n\nInstead of one arrow pointing northeast, think of it as 7.07 units east PLUS 7.07 units north. {{viz:anim-01}}\n\n**Finding Components:**\n\nIf a vector makes angle θ with the x-axis and has magnitude R:\n- Vₓ = R × cos(θ)\n- Vᵧ = R × sin(θ)\n- (Vᵤ = R × cos(φ) if 3D, where φ is different angle)\n\n**Why Components?**\n\nAdding vectors with components is EASY:\n- A = (3, 4)\n- B = (1, 2)\n- A + B = (3+1, 4+2) = (4, 6)\n\nMuch simpler than geometry! {{viz:chart-01}}\n\n**Reconstructing from Components:**\n\nGiven components (Vₓ, Vᵧ), find magnitude and angle:\n- Magnitude: R = √(Vₓ² + Vᵧ²)\n- Angle: θ = arctan(Vᵧ/Vₓ)",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Break any vector into x, y, (z) components",
+      "Vₓ = R cos(θ), Vᵧ = R sin(θ)",
+      "Components make addition simple",
+      "Reconstruct: R = √(Vₓ² + Vᵧ²), θ = arctan(Vᵧ/Vₓ)",
+      "Works in 2D, 3D, or any dimension",
+      "Components are perpendicular to each other"
     ],
-    "whyItMatters": "Components of a Vector is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Components are the key to all vector calculations in physics. They transform geometry into simple algebra."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

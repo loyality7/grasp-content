@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Dot Product",
-      "content": "A practical example demonstrating Dot Product",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "dot-product"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Work Calculation","content":"Force 20 N. Displacement 5 m in same direction. Work = 20·5 = 100 J. Vectors pointing same way: dot product is positive.","source":"Mechanics","difficulty":"beginner","estimatedMinutes":2,"tags":["work","dot-product"]},{"id":"example-02","title":"Perpendicular Force","content":"Push a box 10 m north. Gravity pulls down with 50 N. Gravity·Displacement = 0 (perpendicular). Gravity does no work!","source":"Energy","difficulty":"beginner","estimatedMinutes":2,"tags":["work","perpendicular"]},{"id":"example-03","title":"Projection","content":"Vector A (5,0). Vector B (3,4). A·B/(|A|)=projection of B onto A = 3. Shows how much B points in A's direction.","source":"Vector Math","difficulty":"intermediate","estimatedMinutes":2,"tags":["projection","dot-product"]}]}

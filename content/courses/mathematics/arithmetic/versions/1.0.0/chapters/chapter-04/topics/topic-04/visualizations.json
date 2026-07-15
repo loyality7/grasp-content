@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Composite Numbers Flowchart",
-      "description": "Flowchart showing Composite Numbers process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Composite Numbers",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Composite Numbers Formula",
-      "description": "Mathematical definition",
+      "title": "Composite Number Conditions",
+      "description": "The mathematical requirements for a number to be composite.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "c \\in \\mathbb{Z}^+, \\quad c > 1, \\quad |\\text{Factors}(c)| > 2",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "c > 1",
+            "explanation": "Like primes, composite numbers must be strictly greater than 1."
+          },
+          {
+            "latex": "|\\text{Factors}(c)| > 2",
+            "explanation": "A composite number must have three or more distinct positive factors."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Composite Numbers 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Composite Numbers Animation",
-      "description": "Canvas animation",
+      "title": "Prime vs. Composite Grid Layouts",
+      "description": "Visualizing why 7 is prime (cannot form an even multi-row rectangle) and 8 is composite (forms a perfect 2 × 4 grid).",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Composite Numbers Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Composite Numbers.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Composite Numbers Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Composite Numbers Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Composite Numbers",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    // Middle separator line\n    ctx.strokeStyle = '#374151';\n    ctx.lineWidth = 2;\n    ctx.beginPath();\n    ctx.moveTo(W / 2, 20);\n    ctx.lineTo(W / 2, H - 20);\n    ctx.stroke();\n\n    // Labels\n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n    ctx.fillText('7 (Prime Number)', W / 4, 35);\n    ctx.fillText('8 (Composite Number)', W * 3 / 4, 35);\n\n    // Dot size\n    var r = 8;\n    var paddingX1 = W / 4;\n    var paddingX2 = W * 3 / 4;\n    var centerY = H / 2 + 10;\n\n    // Animation timing (6s cycle)\n    var duration = 6000;\n    var progress = (t % duration) / duration;\n\n    // --- LEFT SIDE: 7 Dots (Prime) ---\n    // Try to arrange 7 in a 2-row layout: 3 columns + 1 leftover\n    // We'll show the grid, then highlight the leftover flashing red\n    var cols1 = 3;\n    var dx = 28;\n    var dy = 28;\n\n    var startX1 = paddingX1 - ((cols1 - 1) * dx) / 2;\n    var startY1 = centerY - dy / 2;\n\n    for (var i = 0; i < 7; i++) {\n      var col = i % 3;\n      var row = Math.floor(i / 3);\n      var px = startX1 + col * dx;\n      var py = startY1 + row * dy;\n\n      if (i === 6) {\n        // Leftover dot\n        var flash = Math.sin(t * 0.015) > 0;\n        ctx.fillStyle = flash ? '#EF4444' : '#FBBF24'; // Red flashing warning\n        ctx.beginPath();\n        ctx.arc(px, py, r + 2, 0, Math.PI * 2);\n        ctx.fill();\n      } else {\n        ctx.fillStyle = '#6B7280'; // Neutral color for matched dots\n        ctx.beginPath();\n        ctx.arc(px, py, r, 0, Math.PI * 2);\n        ctx.fill();\n      }\n    }\n\n    // Sublabel left\n    ctx.fillStyle = '#EF4444';\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.fillText('Uneven! Leftover dot.', W / 4, H - 40);\n    ctx.fillStyle = '#9CA3AF';\n    ctx.fillText('Only 1 x 7 layout works', W / 4, H - 20);\n\n\n    // --- RIGHT SIDE: 8 Dots (Composite) ---\n    // Arrange 8 in a perfect 2 x 4 grid\n    var cols2 = 4;\n    var rows2 = 2;\n    var startX2 = paddingX2 - ((cols2 - 1) * dx) / 2;\n    var startY2 = centerY - ((rows2 - 1) * dy) / 2;\n\n    // Draw bounding box\n    ctx.strokeStyle = '#10B981';\n    ctx.lineWidth = 1.5;\n    ctx.beginPath();\n    ctx.roundRect(startX2 - r - 8, startY2 - r - 8, (cols2 - 1) * dx + r * 2 + 16, (rows2 - 1) * dy + r * 2 + 16, 6);\n    ctx.stroke();\n\n    for (var j = 0; j < 8; j++) {\n      var col2 = j % 4;\n      var row2 = Math.floor(j / 4);\n      var px2 = startX2 + col2 * dx;\n      var py2 = startY2 + row2 * dy;\n\n      ctx.fillStyle = '#34D399'; // Neat green dots\n      ctx.beginPath();\n      ctx.arc(px2, py2, r, 0, Math.PI * 2);\n      ctx.fill();\n    }\n\n    // Sublabel right\n    ctx.fillStyle = '#34D399';\n    ctx.font = 'bold 13px -apple-system, sans-serif';\n    ctx.fillText('Perfect 2 x 4 rectangle!', W * 3 / 4, H - 40);\n    ctx.fillStyle = '#9CA3AF';\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.fillText('Multiple layouts: 1x8, 2x4', W * 3 / 4, H - 20);\n  }\n};\n"
       }
     }
   ]

@@ -2,16 +2,18 @@
   "id": "topic-01",
   "name": "Cartesian Coordinates",
   "topicId": "physics.physics-foundations.chapter-06.topic-01",
-  "description": "Learn about Cartesian Coordinates and its applications in physics.",
+  "description": "Describing positions using x, y, and z axes—the most common way to locate things in space.",
   "content": {
-    "overview": "Cartesian Coordinates is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Cartesian Coordinates. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Cartesian Coordinates requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Cartesian coordinates are the most common way to describe where something is. You've probably seen them before—just axes on a graph! {{viz:diagram-01}}",
+    "explanation": "Imagine a grid like graph paper. To find any point, you just answer two questions:\n- How far horizontally? (x-axis)\n- How far vertically? (y-axis)\n\nThat's Cartesian coordinates! Named after René Descartes, a mathematician. {{viz:diagram-02}}\n\nIn 2D (flat): A point is (x, y). Like (3, 4) means 3 units right, 4 units up.\n\nIn 3D (space): A point is (x, y, z). Add a z-axis for depth. {{viz:anim-01}}\n\n**Why use Cartesian?** Because it's intuitive. Horizontal and vertical make sense. If you want to describe a location on a map or in a room, Cartesian works perfectly. {{viz:chart-01}}\n\nThe axes are perpendicular (90-degree angles). They cross at the origin (0, 0) or (0, 0, 0). Positive directions: usually right and up (2D) or right, up, and toward you (3D).",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Cartesian = position using (x, y) in 2D or (x, y, z) in 3D",
+      "Most intuitive: horizontal and vertical (and depth)",
+      "Axes are perpendicular (90°)",
+      "Origin at (0, 0) is where axes cross",
+      "Common in maps, graphs, physics problems"
     ],
-    "whyItMatters": "Cartesian Coordinates is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "You'll use Cartesian coordinates constantly in physics. Every motion problem, every position, every force vector starts here."
   },
   "availableLanguages": [
     "en"

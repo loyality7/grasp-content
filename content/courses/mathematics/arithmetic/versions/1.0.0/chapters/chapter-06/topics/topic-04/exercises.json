@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Adding Decimals.",
-      "solution": "Step-by-step solution for Adding Decimals problem.",
+      "prompt": "Calculate the sum of **$5.67$** and **$8.9$**.",
+      "solution": "1. **Align decimal points** and pad $8.9$ with a zero to make it $8.90$:\n   $$\\begin{array}{r@{\\quad}l}\n   5.67 \\\\\n   +\\ 8.90 \\\\\n   \\hline\n   \\end{array}$$\n2. **Add columns from right to left**:\n   - Hundredths: $7 + 0 = 7$\n   - Tenths: $6 + 9 = 15$. Write 5, carry 1 to Ones place.\n   - Drop the decimal point.\n   - Ones: $5 + 8 + 1 \\text{ (carry)} = 14$.\n3. Form the final sum:\n   $$\\mathbf{14.57}$$\n\n**Answer**: **$14.57$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Lining up the decimal points is the key step.",
+        "Add a 0 to 8.9 so it becomes 8.90 before adding."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "adding-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Adding"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Adding Decimals to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Solve: **$12.35 + 0.082$**.",
+      "solution": "1. **Align decimal points** and pad $12.35$ with a zero to make it $12.350$:\n   $$\\begin{array}{r@{\\quad}l}\n   12.350 \\\\\n   +\\ \\phantom{0}0.082 \\\\\n   \\hline\n   \\end{array}$$\n2. **Add columns from right to left**:\n   - Thousandths: $0 + 2 = 2$\n   - Hundredths: $5 + 8 = 13$. Write 3, carry 1 to tenths.\n   - Tenths: $3 + 0 + 1 \\text{ (carry)} = 4$\n   - Drop the decimal point.\n   - Ones: $2 + 0 = 2$\n   - Tens: $1 + 0 = 1$\n3. Form the final sum:\n   $$\\mathbf{12.432}$$\n\n**Answer**: **$12.432$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Align $12.35$ and $0.082$ vertically by the decimal point.",
+        "Pad $12.35$ with a trailing zero to match the thousandths column."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "adding-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Adding"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "An athlete runs two laps around a track. The first lap takes **$48.35$ seconds**, and the second lap takes **$51.8$ seconds**. What is the athlete's total running time?",
+      "solution": "To find the total running time, add the times of the two laps:\n1. **Align decimal points** and pad $51.8$ with a trailing zero:\n   $$\\begin{array}{r@{\\quad}l}\n   48.35 \\\\\n   +\\ 51.80 \\\\\n   \\hline\n   \\end{array}$$\n2. **Add columns**:\n   - Hundredths: $5 + 0 = 5$\n   - Tenths: $3 + 8 = 11$. Write 1, carry 1 to ones.\n   - Drop the decimal point.\n   - Ones: $8 + 1 + 1 \\text{ (carry)} = 10$. Write 0, carry 1 to tens.\n   - Tens: $4 + 5 + 1 \\text{ (carry)} = 10$. Write 10.\n3. Form the final sum:\n   $$\\mathbf{100.15}$$\n\n**Answer**: The total running time is **$100.15$ seconds**.",
+      "hints": [
+        "Set up the addition by lining up the decimal points of $48.35$ and $51.8$.",
+        "Write 51.8 as 51.80 to ensure the digits line up correctly."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Adding", "Word Problems"]
     }
   ]
 }

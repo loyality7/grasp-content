@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Multiplication",
-      "content": "A practical example demonstrating Multiplication",
-      "source": "Generated",
-      "difficulty": "beginner",
+      "title": "Multi-Digit Multiplication",
+      "content": "Multiply **$238$** by **$46$** step-by-step using the standard multiplication algorithm.\n\n### Step-by-Step Solution\n\nFirst, line up the numbers vertically:\n\n$$\\begin{array}{r@{\\quad}l}\n  238 \\\\\n\\times \\phantom{0}46 \\\\\n\\hline\n\\end{array}$$\n\n**Step 1: Multiply 238 by the ones digit (6)**\n- **$6 \\times 8 = 48$**: Write **8**, carry **4** to the tens column.\n- **$6 \\times 3 = 18 + 4 \\text{ (carry)} = 22$**: Write **2**, carry **2** to the hundreds column.\n- **$6 \\times 2 = 12 + 2 \\text{ (carry)} = 14$**: Write **14**.\n- First partial product: **1,428**.\n\n**Step 2: Multiply 238 by the tens digit (4)**\n- Start by writing a placeholder **0** in the ones place of the second partial product row.\n- **$4 \\times 8 = 32$**: Write **2**, carry **3** to the tens column.\n- **$4 \\times 3 = 12 + 3 \\text{ (carry)} = 15$**: Write **5**, carry **1** to the hundreds column.\n- **$4 \\times 2 = 8 + 1 \\text{ (carry)} = 9$**: Write **9**.\n- Second partial product: **9,520** (representing $238 \\times 40$).\n\n**Step 3: Add the partial products**\n- Add $1,428 + 9,520$:\n\n$$\\begin{array}{r@{\\quad}l}\n  & \\phantom{00}238 \\\\\n  \\times & \\phantom{00}46 \\\\\n  \\hline\n  & \\phantom{0}1428 \\quad (238 \\times 6) \\\\\n  + & \\phantom{0}9520 \\quad (238 \\times 40) \\\\\n  \\hline\n  & 10948 \\\\\n\\hline\n\\end{array}$$\n\n**Answer**: $238 \\times 46 = 10,948$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
       "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "multiplication"
-      ]
+      "tags": ["Arithmetic", "Multiplication", "Algorithm"]
+    },
+    {
+      "id": "example-02",
+      "title": "Real-World Application: Cost of Event Tickets",
+      "content": "A school is purchasing tickets for a field trip. Each ticket costs **$18$**. If there are **125** students attending, what is the total cost of all the tickets?\n\n### Step-by-Step Solution\n\nTo find the total cost, we multiply the number of students by the ticket price:\n$$\\text{Total Cost} = 125 \\times 18$$\n\nLine up vertically and multiply:\n\n$$\\begin{array}{r@{\\quad}l}\n  125 \\\\\n\\times \\phantom{0}18 \\\\\n\\hline\n\\end{array}$$\n\n1. **Multiply 125 by 8**:\n   - $8 \\times 5 = 40$ (Write 0, carry 4)\n   - $8 \\times 2 = 16 + 4 = 20$ (Write 0, carry 2)\n   - $8 \\times 1 = 8 + 2 = 10$ (Write 10)\n   - First row: **1,000**.\n\n2. **Multiply 125 by 1 (tens place)**:\n   - Write placeholder **0** in ones column.\n   - $1 \\times 125 = 125$.\n   - Second row: **1,250**.\n\n3. **Sum partial products**:\n   - $1000 + 1250 = 2250$.\n\n**Answer**: The total cost of the tickets is **$2,250$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Multiplication", "Word Problem"]
     }
   ]
 }

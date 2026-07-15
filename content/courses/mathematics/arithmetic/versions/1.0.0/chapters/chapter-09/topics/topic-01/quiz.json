@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Exponents?",
+      "question": "In the mathematical expression $4^5$, the number $4$ is called the:",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Exponent",
+        "Base",
+        "Product",
+        "Factor"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "In $a^n$, the number $a$ (which is multiplied repeatedly) is called the base.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Exponents is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the evaluated value of $3^4$?",
       "options": [
-        "True",
-        "False"
+        "12",
+        "64",
+        "81",
+        "27"
       ],
-      "correctIndex": 1,
-      "explanation": "Exponents has many practical applications.",
+      "correctIndex": 2,
+      "explanation": "$3^4 = 3 \\times 3 \\times 3 \\times 3 = 9 \\times 9 = 81$. Note that $3^4$ is not $3 \\times 4 = 12$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Any non-zero number raised to the power of $0$ is equal to:",
+      "options": [
+        "0",
+        "The number itself",
+        "1",
+        "Infinity"
+      ],
+      "correctIndex": 2,
+      "explanation": "By mathematical definition, any non-zero number to the power of 0 is equal to 1 ($a^0 = 1$).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Evaluate the value of $6^3$.",
+      "options": [
+        "18",
+        "36",
+        "108",
+        "216"
+      ],
+      "correctIndex": 3,
+      "explanation": "$6^3 = 6 \\times 6 \\times 6 = 36 \\times 6 = 216$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which of the following expressions is equivalent to the multiplication: $2 \\times 2 \\times 2 \\times 2 \\times 2$?",
+      "options": [
+        "$2^5$",
+        "$5^2$",
+        "$2 \\times 5$",
+        "$10$"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since 2 is multiplied by itself 5 times, it is written as $2^5$.",
       "difficulty": "easy"
     }
   ]

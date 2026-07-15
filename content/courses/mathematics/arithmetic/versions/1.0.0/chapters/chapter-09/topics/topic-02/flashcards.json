@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Squares?",
-      "back": "Squares is a fundamental concept in mathematics.",
+      "front": "What does it mean to square a number?",
+      "back": "To multiply the number by itself (raising it to the power of 2).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Squares important?",
-      "back": "Squares is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is a Perfect Square?",
+      "back": "The product of an integer multiplied by itself (e.g. 1, 4, 9, 16, 25...).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Is the square of a negative number positive or negative?",
+      "back": "It is always positive (e.g. $(-5)^2 = 25$) because negative times negative equals positive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the square of 12?",
+      "back": "$144$ (since $12 \\times 12 = 144$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What geometric calculation represents squaring a number?",
+      "back": "The area of a square with a side length equal to that number.",
+      "difficulty": "easy"
     }
   ]
 }

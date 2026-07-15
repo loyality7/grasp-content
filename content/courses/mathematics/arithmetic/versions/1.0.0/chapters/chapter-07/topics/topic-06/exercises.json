@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Fractions ↔ Percentages.",
-      "solution": "Step-by-step solution for Fractions ↔ Percentages problem.",
+      "prompt": "Convert the fraction **$\\frac{9}{20}$** to a percentage.",
+      "solution": "1. **Scale the denominator**:\n   Multiply both numerator and denominator by $5$ to get a denominator of $100$:\n   $$\\frac{9 \\times 5}{20 \\times 5} = \\frac{45}{100}$$\n2. **Express as a percentage**:\n   $$\\frac{45}{100} = 45\\%$$\n\n**Answer**: **$45\\%$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Multiply the denominator by a number that makes it equal 100.",
+        "Multiply the numerator by that same scaling factor (5) to find the percent value."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "fractions-percentages"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Percentages"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Fractions ↔ Percentages to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Convert **$16\\%$** to a fraction in simplest form.",
+      "solution": "1. **Write over 100**:\n   $$16\\% = \\frac{16}{100}$$\n2. **Simplify**:\n   Divide both numerator and denominator by their greatest common divisor ($4$):\n   $$\\frac{16 \\div 4}{100 \\div 4} = \\frac{4}{25}$$\n\n**Answer**: **$\\frac{4}{25}$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Write 16 in the numerator and 100 in the denominator.",
+        "Divide both top and bottom numbers by their common factor of 4."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "fractions-percentages"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Fractions"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A student scores **$18$ out of $24$** on a science quiz. What is their score as a percentage?",
+      "solution": "1. **Write as a fraction**:\n   $$\\text{Fraction} = \\frac{18}{24}$$\n2. **Simplify the fraction first**:\n   Divide top and bottom by $6$:\n   $$\\frac{18 \\div 6}{24 \\div 6} = \\frac{3}{4}$$\n3. **Convert to a percentage**:\n   We know that $\\frac{3}{4}$ is equivalent to $75\\%$:\n   $$\\frac{3 \\times 25}{4 \\times 25} = \\frac{75}{100} = 75\\%$$\n\n**Answer**: The student scored **$75\\%$**.",
+      "hints": [
+        "Write the score as the fraction 18/24.",
+        "Simplify 18/24 by dividing the numerator and denominator by 6 to get an easier fraction.",
+        "Scale that simplified fraction's denominator to 100."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Percentages", "Word Problems"]
     }
   ]
 }

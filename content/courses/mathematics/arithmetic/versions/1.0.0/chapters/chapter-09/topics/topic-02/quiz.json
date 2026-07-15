@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Squares?",
+      "question": "What is the square of $9$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "18",
+        "27",
+        "81",
+        "99"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Squaring a number means multiplying it by itself: $9^2 = 9 \\times 9 = 81$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Squares is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following integers is a perfect square?",
       "options": [
-        "True",
-        "False"
+        "12",
+        "24",
+        "49",
+        "50"
       ],
-      "correctIndex": 1,
-      "explanation": "Squares has many practical applications.",
+      "correctIndex": 2,
+      "explanation": "A perfect square is the square of an integer. Since $7 \\times 7 = 49$, it is a perfect square.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the value of the algebraic expression $(-8)^2$?",
+      "options": [
+        "-16",
+        "-64",
+        "16",
+        "64"
+      ],
+      "correctIndex": 3,
+      "explanation": "Squaring a negative number results in a positive value because negative times negative is positive: $(-8) \\times (-8) = 64$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "A square garden patch has a side length of $11$ meters. What is the garden's area?",
+      "options": [
+        "22 square meters",
+        "44 square meters",
+        "111 square meters",
+        "121 square meters"
+      ],
+      "correctIndex": 3,
+      "explanation": "The area of a square is side squared. $\\text{Area} = 11^2 = 11 \\times 11 = 121$ square meters.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "What is the square of $0$?",
+      "options": [
+        "0",
+        "1",
+        "Undefined",
+        "0.2"
+      ],
+      "correctIndex": 0,
+      "explanation": "$0^2 = 0 \\times 0 = 0$. Zero squared remains zero.",
       "difficulty": "easy"
     }
   ]

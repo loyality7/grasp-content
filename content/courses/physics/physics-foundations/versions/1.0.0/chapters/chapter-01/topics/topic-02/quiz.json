@@ -3,28 +3,68 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Branches of Physics?",
+      "question": "Why do physicists divide physics into branches?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Because physics is so big it's easier to focus on specific areas",
+        "Because different branches use different math",
+        "Because some branches are harder than others",
+        "Because different branches study different planets"
       ],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Physics covers too much to study all at once. Branches let physicists specialize and go deep in one area.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
+      "type": "multiple-choice",
+      "question": "Your car moves forward when you press the gas. Which branch explains this?",
+      "options": [
+        "Thermodynamics",
+        "Quantum mechanics",
+        "Classical mechanics",
+        "Waves and optics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Classical mechanics explains motion and forces. A car accelerating is all about forces and motion.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
       "type": "true-false",
-      "question": "Branches of Physics is only applicable in theoretical contexts.",
+      "question": "Electricity and Magnetism is the same branch as Waves and Optics.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Branches of Physics has many practical applications.",
-      "difficulty": "easy"
+      "explanation": "No, they're different branches. Electricity and Magnetism focuses on charged particles and fields. Waves and Optics focuses on light and sound.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Where does Quantum Mechanics matter most?",
+      "options": [
+        "When studying planets",
+        "When studying heat",
+        "When studying atoms and tiny particles",
+        "When studying sound"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quantum mechanics is about things at the atomic scale. Atoms, electrons, particles—that's where quantum rules apply.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "true-false",
+      "question": "All branches of physics are equally important for your everyday life.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes! Your phone (electricity), your car (classical mechanics), your stove (thermodynamics), light and sound (waves), even the atoms in your body (quantum). You interact with all branches every day.",
+      "difficulty": "medium"
     }
   ]
 }

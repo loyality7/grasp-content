@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Unit Checking?",
-      "back": "Unit Checking is a fundamental concept in physics.",
+      "front": "Unit checking: first step?",
+      "back": "Know what units your answer SHOULD have",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Unit Checking important?",
-      "back": "Unit Checking is essential for understanding Physics Foundations.",
+      "front": "What do you check?",
+      "back": "Compare your answer's units to what you expected",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Units don't match. What does that mean?",
+      "back": "Something went wrong. Your formula, calculation, or conversion was wrong.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Units DO match. What does that mean?",
+      "back": "Your answer is plausible. Doesn't guarantee it's correct, just that it's not obviously wrong.",
       "difficulty": "medium"
     }
   ]

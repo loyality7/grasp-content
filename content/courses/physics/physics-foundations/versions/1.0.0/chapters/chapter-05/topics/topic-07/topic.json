@@ -2,18 +2,19 @@
   "id": "topic-07",
   "name": "Cross Product",
   "topicId": "physics.physics-foundations.chapter-05.topic-07",
-  "description": "Learn about Cross Product and its applications in physics.",
+  "description": "Multiply two vectors and get a vector perpendicular to both—useful for rotations and torque",
   "content": {
-    "overview": "Cross Product is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Cross Product. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Cross Product requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The cross product A × B gives a vector perpendicular to both A and B. Its magnitude tells you how perpendicular they are. {{viz:diagram-01}}",
+    "explanation": "Unlike the dot product (which gives a scalar), the cross product gives a VECTOR. {{viz:diagram-02}}\n\n**Formula: Using Components**\nIf A = (Aₓ, Aᵧ, Aᵤ) and B = (Bₓ, Bᵧ, Bᵤ):\n\nA × B = (Aᵧ×Bᵤ - Aᵤ×Bᵧ, Aᵤ×Bₓ - Aₓ×Bᵤ, Aₓ×Bᵧ - Aᵧ×Bₓ)\n\n**Formula: Using Angle**\n|A × B| = |A| × |B| × sin(θ)\n\nThe direction is perpendicular to both (use right-hand rule). {{viz:anim-01}}\n\n**Right-Hand Rule:**\nPoint fingers in direction of A, curl toward B, thumb points in direction of A × B.\n\n**What It Means:** {{viz:chart-01}}\n- If θ = 0° (parallel): A × B = 0 (they don't create rotation)\n- If θ = 90° (perpendicular): |A × B| = |A| × |B| (maximum effect)\n- Order matters: A × B = -(B × A) (opposite direction)\n\n**Real Physics:**\n\nTorque = Position × Force (how much something spins)\nAngular Momentum = Position × Momentum\nMagnetic Force = Charge × (Velocity × Magnetic Field)\n\nAll use cross products!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A × B is a vector perpendicular to both A and B",
+      "|A × B| = |A| × |B| × sin(θ)",
+      "Use right-hand rule for direction",
+      "Parallel vectors: A × B = 0",
+      "Order matters: A × B ≠ B × A",
+      "Used for torque, angular momentum, magnetic force"
     ],
-    "whyItMatters": "Cross Product is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Anything involving rotation in physics uses the cross product. It's essential for understanding torque and angular quantities."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

@@ -1,17 +1,18 @@
 {
   "id": "topic-08",
-  "name": "Scale",
+  "name": "Unitary Method",
   "topicId": "mathematics.arithmetic.chapter-08.topic-08",
-  "description": "Learn about Scale and its applications in mathematics.",
+  "description": "Master the unitary method to solve multi-unit rate problems by first finding the value of one unit and then scaling up to the desired amount.",
   "content": {
-    "overview": "Scale is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Scale. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Scale requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The unitary method is a fundamental problem-solving technique in mathematics. You solve a multiple-unit problem by first calculating the value of a single (one) unit, and then multiplying that value by the target number of units.",
+    "explanation": "### What is the Unitary Method?\n\nThe word **unitary** comes from **unit**, which means **one**. The core strategy is simple:\n1.  **Reduce to one**: Find out how much a single item or unit is worth.\n2.  **Scale up**: Multiply that single-unit value to find the worth of any number of items.\n\n### The Two-Step Process\n\nTo solve any direct proportion problem using the unitary method, follow these two mathematical steps:\n\n{{viz:formula-01}}\n\n#### Step 1: Find the value of a single unit\nDivide the total value by the number of units you currently have:\n$$\\text{Unit Value} = \\frac{\\text{Total Value}}{\\text{Given Units}}$$\n\n#### Step 2: Find the value of the required number of units\nMultiply the unit value by the new quantity you want to find:\n$$\\text{Required Value} = \\text{Unit Value} \\times \\text{Required Units}$$\n\n---\n\n### Illustrative Example\n\n*Problem: If $6$ toy cars cost $30$ dollars, how much do $9$ toy cars cost?*\n\n1.  **Step 1: Find the cost of $1$ toy car**:\n    Divide the total cost by the quantity:\n    $$\\text{Cost of 1 car} = \\frac{30 \\text{ dollars}}{6 \\text{ cars}} = 5 \\text{ dollars per car}$$\n2.  **Step 2: Find the cost of $9$ toy cars**:\n    Multiply the cost of 1 car by the target quantity ($9$):\n    $$\\text{Cost of 9 cars} = 5 \\text{ dollars/car} \\times 9 \\text{ cars} = 45 \\text{ dollars}$$\n\n**Answer**: **$45$ dollars**.\n\n### Visualizing the Unitary Method\n\nWatch how we solve a coin-bag problem. First, we open a bag to determine how many coins are inside one unit, then we scale up to calculate coins in a larger number of bags:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The unitary method calculates the value of one item first.",
+      "Step 1 uses division: Total Value \u00f7 Quantity of Units.",
+      "Step 2 uses multiplication: Unit Value \u00d7 Desired Quantity.",
+      "It is one of the most reliable methods for solving direct proportions."
     ],
-    "whyItMatters": "Scale is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "The unitary method is the mental shortcut you use at the grocery store, when calculating travel costs, scaling restaurant recipes, and estimating fuel consumption."
   },
   "availableLanguages": [
     "en"

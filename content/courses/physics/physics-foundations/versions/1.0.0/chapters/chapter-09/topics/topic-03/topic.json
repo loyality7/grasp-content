@@ -2,16 +2,18 @@
   "id": "topic-03",
   "name": "Estimation",
   "topicId": "physics.physics-foundations.chapter-09.topic-03",
-  "description": "Learn about Estimation and its applications in physics.",
+  "description": "Guessing reasonable answers before doing the full calculation",
   "content": {
-    "overview": "Estimation is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Estimation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Estimation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Before you spend 10 minutes calculating, spend 10 seconds estimating. Estimation tells you if your final answer is in the right ballpark. {{viz:diagram-01}}",
+    "explanation": "Estimation means: guess a reasonable answer using simple approximations, then check if your calculated answer is close.\n\n**Example: How long does it take light to reach Earth from the sun?** {{viz:diagram-02}}\n\nEstimate:\n- Distance to sun ≈ 150 million km = 1.5 × 10¹¹ m\n- Speed of light ≈ 3 × 10⁸ m/s\n- Time = distance / speed = (1.5 × 10¹¹) / (3 × 10⁸) ≈ 500 seconds ≈ 8 minutes\n\nYou estimated ~8 minutes (rough guess!).\n\nIf your careful calculation gives 500 seconds, great! That matches your estimate.\n\nIf it gives 50 seconds or 5000 seconds, something went WRONG. {{viz:anim-01}}\n\n**Why estimation is powerful:** {{viz:chart-01}}\n\n1. Tells you if your answer is sane\n2. Catches order-of-magnitude mistakes\n3. Takes 30 seconds\n4. Uses approximations (10 million ≈ 10⁷, not exact)\n\nEstimation isn't about being exact. It's about being in the right neighborhood.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Before calculating, estimate using rough numbers",
+      "Use powers of 10, round generously",
+      "Calculate carefully",
+      "Compare: is your answer within 10x of your estimate?",
+      "If not, recheck your work"
     ],
-    "whyItMatters": "Estimation is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Estimation saves you from presenting wildly wrong answers with confidence. A 10-second estimate catches 90% of calculation mistakes."
   },
   "availableLanguages": [
     "en"

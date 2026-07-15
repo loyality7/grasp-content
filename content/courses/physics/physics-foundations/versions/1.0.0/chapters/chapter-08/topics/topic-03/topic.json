@@ -4,14 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-03",
   "description": "Learn about Data Collection and its applications in physics.",
   "content": {
-    "overview": "Data Collection is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Data Collection. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Data Collection requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Data collection is carefully gathering your measurements. Not just 'oh I measured something' but recording it properly so you can use it.",
+    "explanation": "Good data collection means:\n\n**1. Be careful and precise.** Use your tools correctly. Read measuring devices at eye level. Don't rush.\n\n**2. Record immediately.** Write down measurements right away. Don't trust memory. Write the actual number, not 'about 5'—write 5.2.\n\n**3. Be consistent.** Measure the same way every time. If measuring height, always measure from the same point. If timing, always use the same method.\n\n**4. Record units.** '5' alone is useless. '5 meters' means something. Always include units.\n\n**5. Do multiple trials.** One measurement is luck. Three or more is data.\n\n**6. Watch for mistakes.** If one measurement looks way different, note it. Maybe something went wrong—mark it!\n\n**Example:** Measuring pendulum period\n- Wrong: 'Period is about 2 seconds'\n- Right: Trial 1: 2.04 s, Trial 2: 2.06 s, Trial 3: 2.03 s\n\nGood data collection = data you can trust later.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Record numbers immediately, not from memory",
+      "Include units always",
+      "Measure the same way every time",
+      "Do multiple trials",
+      "Watch for mistakes or unusual results",
+      "Write clearly so others can read it"
     ],
-    "whyItMatters": "Data Collection is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Bad data collection ruins an experiment. Careful collection saves you time and gives you trustworthy results."
   },
   "availableLanguages": [
     "en"

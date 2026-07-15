@@ -2,14 +2,20 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Dimensional Analysis?",
-      "back": "Dimensional Analysis is a fundamental concept in physics.",
+      "front": "How do you check an equation with dimensional analysis?",
+      "back": "Replace variables with their dimensions. Check if both sides match. If not, the equation is wrong.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Dimensional Analysis important?",
-      "back": "Dimensional Analysis is essential for understanding Physics Foundations.",
+      "front": "[L T⁻¹] is the dimension of?",
+      "back": "Speed or velocity. Length divided by time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Can dimensional analysis prove an equation is RIGHT?",
+      "back": "No, only that it's plausible. It definitely proves an equation is WRONG if dimensions don't match.",
       "difficulty": "medium"
     }
   ]

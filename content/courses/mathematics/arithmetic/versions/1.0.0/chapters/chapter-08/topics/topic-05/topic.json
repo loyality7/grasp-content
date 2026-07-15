@@ -2,16 +2,17 @@
   "id": "topic-05",
   "name": "Direct Proportion",
   "topicId": "mathematics.arithmetic.chapter-08.topic-05",
-  "description": "Learn about Direct Proportion and its applications in mathematics.",
+  "description": "Learn the definition of direct proportion, write direct proportion equations using the constant of proportionality, and solve real-world problems.",
   "content": {
-    "overview": "Direct Proportion is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Direct Proportion. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Direct Proportion requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Direct proportion is a mathematical relationship between two variables where they increase or decrease at the same rate. The ratio between the two variables remains constant.",
+    "explanation": "### What is Direct Proportion?\n\nIf two quantities are in **direct proportion** (or direct variation), then as one quantity increases, the other increases by the exact same multiplier. Conversely, if one decreases, the other decreases. \n\n*Examples of Direct Proportion*:\n-   **Buying items**: If $1$ ticket costs $10$ dollars, then $2$ tickets cost $20$ dollars, and $5$ tickets cost $50$ dollars.\n-   **Speed and Distance**: If you drive at a constant speed, the distance you travel is directly proportional to the time you spend driving.\n\n### The Constant of Proportionality\n\nIf variable $y$ is directly proportional to $x$, we write this relation using a constant multiplier **$k$** (called the **constant of proportionality**):\n\n{{viz:formula-01}}\n\nThis means the ratio of $y$ to $x$ is always constant:\n$$k = \\frac{y}{x}$$\n\n### Solving Direct Proportion Problems\n\n#### Step-by-Step Method\n1.  **Find the constant $k$** using a known pair of values.\n2.  **Write the equation** connecting the variables ($y = kx$).\n3.  **Solve for the unknown value** using the equation.\n\n*Example: If $5$ kilograms of flour cost $10$ dollars, how much will $12$ kilograms cost?*\n1.  Let $x = \\text{flour (kg)}$ and $y = \\text{cost (dollars)}$. We know that when $x = 5$, $y = 10$.\n2.  Find $k$:\n    $$k = \\frac{y}{x} = \\frac{10}{5} = 2 \\text{ dollars per kg}$$\n3.  Write the formula:\n    $$y = 2x$$\n4.  Substitute the new value $x = 12$:\n    $$y = 2 \\times 12 = 24 \\text{ dollars}$$\n\n### Graphing Direct Proportion\n\nIf you plot a direct proportion on a coordinate plane, the graph is always a **straight line** that starts at the origin **$(0, 0)$** (because if $x = 0$, then $y = 0 \\times k = 0$).\n\n### Visualizing Direct Proportion\n\nWatch this animation of a vehicle traveling at a constant speed of $30$ pixels per second. Notice how the ratio of distance to time remains perfectly constant:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "In a direct proportion, variables scale up or down together.",
+      "The equation is y = kx, where k is the constant of proportionality.",
+      "The ratio y/x is always constant (equal to k).",
+      "The graph is a straight line passing through the origin (0, 0)."
     ],
-    "whyItMatters": "Direct Proportion is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Direct proportions govern wages earned (hours worked \u00d7 hourly rate), conversion of currencies, fuel usage in cars, and ingredient scaling in manufacturing."
   },
   "availableLanguages": [
     "en"

@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Improper Fractions",
-      "content": "A practical example demonstrating Improper Fractions",
-      "source": "Generated",
+      "title": "Identifying Improper Fractions",
+      "content": "Classify each of the following fractions as a **proper fraction** or an **improper fraction**:\n$$\\frac{8}{3}, \\quad \\frac{3}{7}, \\quad \\frac{5}{5}, \\quad \\frac{12}{12}$$\n\n### Step-by-Step Solution\n\n-   A fraction $\\frac{n}{d}$ is **proper** if $n < d$.\n-   A fraction $\\frac{n}{d}$ is **improper** if $n \\ge d$ (numerator is greater than or equal to the denominator).\n\n1.  **Fraction $\\frac{8}{3}$**:\n    -   Numerator $n = 8$, Denominator $d = 3$.\n    -   Check: $8 \\ge 3$. This is **true** ($8 > 3$).\n    -   **Classification**: Improper Fraction.\n2.  **Fraction $\\frac{3}{7}$**:\n    -   Numerator $n = 3$, Denominator $d = 7$.\n    -   Check: $3 < 7$. This is **true**.\n    -   **Classification**: Proper Fraction.\n3.  **Fraction $\\frac{5}{5}$**:\n    -   Numerator $n = 5$, Denominator $d = 5$.\n    -   Check: $5 \\ge 5$. This is **true** (they are equal).\n    -   **Classification**: Improper Fraction (represents exactly 1 whole).\n4.  **Fraction $\\frac{12}{12}$**:\n    -   Numerator $n = 12$, Denominator $d = 12$.\n    -   Check: $12 \\ge 12$. This is **true** (they are equal).\n    -   **Classification**: Improper Fraction (represents exactly 1 whole).\n\n**Answer**: The improper fractions are **$\\frac{8}{3}$**, **$\\frac{5}{5}$**, and **$\\frac{12}{12}$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "improper-fractions"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Improper Fractions"]
+    },
+    {
+      "id": "example-02",
+      "title": "Word Problem: Sharing Half-Pancakes",
+      "content": "At a breakfast restaurant, pancakes are sliced into **equal halves**. A family eats a total of **7 halves**.\n1.  Write a fraction representing the amount of pancakes the family ate.\n2.  Classify this fraction as proper or improper and explain your answer.\n\n### Step-by-Step Solution\n\n1.  **Form the fraction**:\n    -   Each pancake is cut into halves, so the size of each piece is $\\frac{1}{2}$. The **denominator** is $d = 2$.\n    -   The family ate 7 of these half-pieces, so the **numerator** is $n = 7$.\n    -   The fraction is:\n        $$\\frac{7}{2}$$\n\n2.  **Classify the fraction**:\n    -   Compare the numerator (7) and denominator (2):\n        $$7 \\ge 2 \\quad (7 > 2)$$\n    -   Since the numerator is strictly greater than the denominator, the value is greater than 1 whole (in fact, $7$ halves equals $3\\frac{1}{2}$ pancakes).\n    -   Therefore, this is an **improper fraction**.\n\n**Answer**: The portion eaten is **$\\frac{7}{2}$**, which is an **improper fraction** because the numerator (7) is greater than the denominator (2).",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Word Problems"]
     }
   ]
 }

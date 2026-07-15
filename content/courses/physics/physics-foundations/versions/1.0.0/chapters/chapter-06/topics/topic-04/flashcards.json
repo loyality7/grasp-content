@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Spherical Coordinates (Introduction)?",
-      "back": "Spherical Coordinates (Introduction) is a fundamental concept in physics.",
+      "front": "What's spherical (r, θ, φ)?",
+      "back": "Distance from center (r), azimuthal angle (θ), polar angle (φ).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Spherical Coordinates (Introduction) important?",
-      "back": "Spherical Coordinates (Introduction) is essential for understanding Physics Foundations.",
+      "front": "What's the difference: θ vs φ?",
+      "back": "θ = horizontal angle (longitude). φ = vertical angle (latitude/elevation).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-03",
+      "front": "When use spherical?",
+      "back": "Spherical symmetry. Atoms, planets, radiation from a point.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Point at (1000, 45°, 60°) spherical?",
+      "back": "1000 units from center, at 45° azimuth, 60° elevation.",
       "difficulty": "medium"
     }
   ]

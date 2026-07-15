@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Integer Operations?",
-      "back": "Integer Operations is a fundamental concept in mathematics.",
+      "front": "What is the sign rule when adding two negative numbers?",
+      "back": "Add their magnitudes and keep the negative sign (e.g. $-3 + (-4) = -7$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Integer Operations important?",
-      "back": "Integer Operations is essential for understanding Arithmetic.",
+      "front": "What is the sign rule when adding a positive and a negative number?",
+      "back": "Subtract the smaller magnitude from the larger magnitude, and keep the sign of the larger magnitude (e.g. $-10 + 4 = -6$).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you rewrite subtraction of integers?",
+      "back": "Add the opposite of the number being subtracted (e.g. $a - (-b) = a + b$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the sign of the product when multiplying two negative numbers?",
+      "back": "Positive (e.g. $(-5) \\times (-3) = 15$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the sign of the quotient when dividing a negative by a positive?",
+      "back": "Negative (e.g. $-12 \\div 3 = -4$).",
+      "difficulty": "easy"
     }
   ]
 }

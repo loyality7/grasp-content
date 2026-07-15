@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Experimental Design.",
-      "solution": "Step-by-step solution for Experimental Design problem.",
+      "id": "exercise-01",
+      "type": "design",
+      "title": "Design Your Experiment",
+      "content": "Pick a question like 'Does temperature affect magnet strength?' Write: what to measure, what to change, what to keep same, how many trials.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "What's your main question?",
+        "What's the one thing you change?",
+        "What must stay the same?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "experimental-design"
-      ]
+      "tags": ["design"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Experimental Design to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "critique",
+      "title": "Fix the Design",
+      "content": "Bad design: 'Test if water freezes. Use tap water, change temperature, measure time.' What's wrong? How would you fix it?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Is the question clear?",
+        "Is there ONE variable changing?",
+        "Are you using multiple trials?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "experimental-design"
-      ]
+      "tags": ["critique"]
     }
   ]
 }

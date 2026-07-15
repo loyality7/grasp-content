@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Decimal Place Value?",
+      "question": "What is the place value of the first digit directly to the right of the decimal point?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Ones",
+        "Tenths",
+        "Hundredths",
+        "Tens"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "The first place to the right of the decimal point is the tenths place, representing values divided by 10.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Decimal Place Value is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "In the number $7.428$, which digit is in the hundredths place?",
       "options": [
-        "True",
-        "False"
+        "7",
+        "4",
+        "2",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "The digit 4 is in the tenths place, 2 is in the hundredths place, and 8 is in the thousandths place.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the numerical value of the digit $5$ in the decimal $0.254$?",
+      "options": [
+        "50",
+        "0.5",
+        "0.05",
+        "0.005"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since 5 is in the second place to the right of the decimal point (the hundredths place), its value is $5 \\times 0.01 = 0.07$ (or 0.05).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Write the expanded sum $3 + 0.08$ in standard decimal form.",
+      "options": [
+        "3.8",
+        "3.08",
+        "30.8",
+        "0.38"
       ],
       "correctIndex": 1,
-      "explanation": "Decimal Place Value has many practical applications.",
+      "explanation": "Adding 3 ones and 8 hundredths gives 3.08. Note that there are 0 tenths.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which of the following is the correct fractional expanded form of $0.125$?",
+      "options": [
+        "$\\frac{1}{1} + \\frac{2}{10} + \\frac{5}{100}$",
+        "$\\frac{1}{10} + \\frac{2}{100} + \\frac{5}{1000}$",
+        "$\\frac{1}{100} + \\frac{2}{10} + \\frac{5}{1000}$",
+        "$10 + 2 + \\frac{5}{10}$"
+      ],
+      "correctIndex": 1,
+      "explanation": "The digit 1 is tenths (1/10), 2 is hundredths (2/100), and 5 is thousandths (5/1000), making the sum: $\\frac{1}{10} + \\frac{2}{100} + \\frac{5}{1000}$.",
       "difficulty": "easy"
     }
   ]

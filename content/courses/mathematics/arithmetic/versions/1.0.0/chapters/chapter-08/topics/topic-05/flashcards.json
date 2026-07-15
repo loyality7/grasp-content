@@ -3,14 +3,32 @@
     {
       "id": "card-01",
       "front": "What is Direct Proportion?",
-      "back": "Direct Proportion is a fundamental concept in mathematics.",
+      "back": "A relationship where two variables increase or decrease at the exact same rate, keeping their ratio constant.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Direct Proportion important?",
-      "back": "Direct Proportion is essential for understanding Arithmetic.",
+      "front": "What is the formula representing direct proportion?",
+      "back": "$y = kx$ (or $\\frac{y}{x} = k$), where $k$ is the constant of proportionality.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What does a direct proportion graph look like?",
+      "back": "A straight line that passes directly through the origin $(0, 0)$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How do you calculate the constant of proportionality $k$?",
+      "back": "Divide the dependent variable $y$ by the independent variable $x$ ($k = \\frac{y}{x}$).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Give a real-world example of direct proportion.",
+      "back": "The relationship between total cost and the number of items purchased at a constant unit price.",
+      "difficulty": "easy"
     }
   ]
 }

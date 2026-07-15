@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Order of Operations (BODMAS/PEMDAS).",
-      "solution": "Step-by-step solution for Order of Operations (BODMAS/PEMDAS) problem.",
+      "prompt": "Evaluate: **$(3 + 5)^2 - 6 \\times 4 + 8 \\div 2$**.",
+      "solution": "1. **Parentheses**: Solve $(3 + 5) \\to 8$.\n   $$8^2 - 6 \\times 4 + 8 \\div 2$$\n2. **Exponents**: Solve $8^2 \\to 64$.\n   $$64 - 6 \\times 4 + 8 \\div 2$$\n3. **Multiplication & Division**: Solve these from left to right:\n   - **Multiplication**: $6 \\times 4 = 24$.\n     $$64 - 24 + 8 \\div 2$$\n   - **Division**: $8 \\div 2 = 4$.\n     $$64 - 24 + 4$$\n4. **Addition & Subtraction**: Solve these from left to right:\n   - **Subtraction**: $64 - 24 = 40$.\n     $$40 + 4$$\n   - **Addition**: $40 + 4 = 44$.\n\n**Answer**: $44$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First calculate the value inside the parentheses: $(3 + 5)$.",
+        "Next, square the result of that calculation.",
+        "Perform multiplication ($6 \\times 4$) and division ($8 \\div 2$) before doing subtraction or addition."
       ],
       "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "order-of-operations-bodmaspemdas"
-      ]
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Order of Operations", "Algorithm"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Order of Operations (BODMAS/PEMDAS) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Evaluate: **$36 \\div 3 \\times 4 - 5$**.",
+      "solution": "1. **Multiplication & Division (Left-to-Right)**: Evaluate from left to right. Since division comes first, perform division:\n   - **Division**: $36 \\div 3 = 12$.\n     The expression becomes: $12 \\times 4 - 5$\n   - **Multiplication**: $12 \\times 4 = 48$.\n     The expression becomes: $48 - 5$\n2. **Subtraction**: Perform subtraction last.\n   $$48 - 5 = 43$$\n\n**Answer**: $43$.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Division and multiplication are of equal priority, so work from left to right.",
+        "Multiply the result of the division by 4 before subtracting 5."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "order-of-operations-bodmaspemdas"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Order of Operations", "Left-to-Right"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Evaluate $12 - 3 + 5$ and compare it with $12 - (3 + 5)$. Explain why they are different.",
+      "solution": "1. **First expression: $12 - 3 + 5$**\n   - Under standard rules, subtraction and addition are of equal priority and must be solved left-to-right.\n   - First: $12 - 3 = 9$.\n   - Next: $9 + 5 = 14$.\n\n2. **Second expression: $12 - (3 + 5)$**\n   - Parentheses dictate that we must add first: $(3 + 5) = 8$.\n   - Next: $12 - 8 = 4$.\n\nComparing the two, $14 \\neq 4$.\nParentheses change the grouping of operations, overriding the default left-to-right priority rule.\n\n**Answer**: $14$ and $4$. They are different because parentheses override the left-to-right sequence by forcing the addition to occur before the subtraction.",
+      "hints": [
+        "Solve $12 - 3 + 5$ from left to right.",
+        "Solve $12 - (3 + 5)$ by adding $3 + 5$ first."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Order of Operations", "Parentheses"]
     }
   ]
 }

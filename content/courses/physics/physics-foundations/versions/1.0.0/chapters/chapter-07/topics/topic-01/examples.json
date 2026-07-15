@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Graphs",
-      "content": "A practical example demonstrating Graphs",
-      "source": "Generated",
+      "title": "Distance vs Time",
+      "content": "Plot a journey: 0 sec → 0 m, 5 sec → 50 m, 10 sec → 100 m. Graph shows a straight line. Easy to see the pattern.",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "graphs"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["motion", "distance-time"]
+    },
+    {
+      "id": "example-02",
+      "title": "Temperature Over a Day",
+      "content": "Record temperature every hour. 6am → 10°C, noon → 20°C, 6pm → 18°C, midnight → 8°C. Graph shows the pattern without reading numbers.",
+      "source": "Temperature",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["temperature", "time-series"]
+    },
+    {
+      "id": "example-03",
+      "title": "Speed vs Fuel Efficiency",
+      "content": "Slower car = better mpg, faster car = worse mpg. Graph shows the relationship instantly. Points scattered, not perfectly linear.",
+      "source": "Engineering",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["efficiency", "speed"]
     }
   ]
 }

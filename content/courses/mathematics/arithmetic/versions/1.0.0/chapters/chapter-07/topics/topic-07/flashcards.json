@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Decimals ↔ Percentages?",
-      "back": "Decimals ↔ Percentages is a fundamental concept in mathematics.",
+      "front": "How do you convert a decimal to a percentage?",
+      "back": "Multiply by 100 by shifting the decimal point two places to the right and adding a '%' sign.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Decimals ↔ Percentages important?",
-      "back": "Decimals ↔ Percentages is essential for understanding Arithmetic.",
+      "front": "How do you convert a percentage to a decimal?",
+      "back": "Divide by 100 by shifting the decimal point two places to the left and removing the '%' sign.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the decimal equivalent of $7\\%$?",
+      "back": "$0.07$ (be sure to include the placeholder zero in the tenths place).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the percentage equivalent of $1.5$?",
+      "back": "$150\\%$ (shift 2 places right, adding a trailing zero).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the decimal equivalent of $100\\%$?",
+      "back": "$1.0$ or simply $1$.",
+      "difficulty": "easy"
     }
   ]
 }

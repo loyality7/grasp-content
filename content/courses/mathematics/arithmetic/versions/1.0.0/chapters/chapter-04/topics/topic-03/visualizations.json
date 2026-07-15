@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Prime Numbers Flowchart",
-      "description": "Flowchart showing Prime Numbers process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Prime Numbers",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Prime Numbers Formula",
-      "description": "Mathematical definition",
+      "title": "Prime Number Conditions",
+      "description": "The exact conditions that define whether a number is prime.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "p \\in \\mathbb{Z}^+, \\quad p > 1, \\quad \\text{Factors}(p) = \\{1, p\\}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "p > 1",
+            "explanation": "Primes must be greater than 1. This excludes 0 and 1."
+          },
+          {
+            "latex": "\\text{Factors}(p) = \\{1, p\\}",
+            "explanation": "Primes have exactly two positive factors: 1 and the number itself."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Prime Numbers 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Prime Numbers Animation",
-      "description": "Canvas animation",
+      "title": "Sieve of Eratosthenes (2 to 21)",
+      "description": "Watch the sieve algorithm in action as we identify primes by filtering out multiples of 2 and 3.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Prime Numbers Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Prime Numbers.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Prime Numbers Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Prime Numbers Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Prime Numbers",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var rows = 4;\n    var cols = 5;\n    var cellWidth = 50;\n    var cellHeight = 40;\n\n    var startX = (W - cols * cellWidth) / 2;\n    var startY = (H - rows * cellHeight) / 2 + 10;\n\n    // Animation phases (10s cycle)\n    var duration = 10000;\n    var progress = (t % duration) / duration;\n\n    var p1 = 0.20; // 0 to 2s: Initial state\n    var p2 = 0.50; // 2s to 5s: Sieve multiples of 2\n    var p3 = 0.80; // 5s to 8s: Sieve multiples of 3\n    var p4 = 0.95; // 8s to 9.5s: Reveal primes\n\n    // Numbers 2 to 21\n    var numbers = [];\n    for (var i = 2; i <= 21; i++) {\n      numbers.push(i);\n    }\n\n    // Helper to get number status\n    function getStatus(num) {\n      if (progress < p1) {\n        return 'neutral';\n      }\n      if (progress >= p1 && progress < p2) {\n        if (num === 2) return 'prime-prime';\n        if (num % 2 === 0) return 'crossed-2';\n        return 'neutral';\n      }\n      if (progress >= p2 && progress < p3) {\n        if (num === 2 || num === 3) return 'prime-prime';\n        if (num % 2 === 0) return 'crossed-2';\n        if (num % 3 === 0) return 'crossed-3';\n        return 'neutral';\n      }\n      // Reveal all remaining primes\n      var isPrime = [2, 3, 5, 7, 11, 13, 17, 19].indexOf(num) !== -1;\n      if (isPrime) return 'prime-final';\n      if (num % 2 === 0) return 'crossed-2';\n      if (num % 3 === 0) return 'crossed-3';\n      return 'crossed-other';\n    }\n\n    // Draw grid\n    for (var r = 0; r < rows; r++) {\n      for (var c = 0; c < cols; c++) {\n        var idx = r * cols + c;\n        var num = numbers[idx];\n        \n        var cx = startX + c * cellWidth + cellWidth / 2;\n        var cy = startY + r * cellHeight + cellHeight / 2;\n        \n        var status = getStatus(num);\n\n        // Circle background based on status\n        ctx.beginPath();\n        ctx.arc(cx, cy, 15, 0, Math.PI * 2);\n        \n        if (status === 'neutral') {\n          ctx.fillStyle = '#374151';\n          ctx.fill();\n          ctx.fillStyle = '#FFFFFF';\n        } else if (status === 'prime-prime') {\n          ctx.fillStyle = '#3B82F6'; // Blue for active prime filter\n          ctx.fill();\n          ctx.fillStyle = '#FFFFFF';\n        } else if (status === 'prime-final') {\n          var pulse = Math.sin(t * 0.01) * 2;\n          ctx.fillStyle = '#10B981'; // Green for final primes\n          ctx.beginPath();\n          ctx.arc(cx, cy, 15 + pulse, 0, Math.PI * 2);\n          ctx.fill();\n          ctx.fillStyle = '#FFFFFF';\n        } else if (status === 'crossed-2') {\n          ctx.strokeStyle = '#EF4444';\n          ctx.lineWidth = 1.5;\n          ctx.stroke();\n          ctx.fillStyle = '#6B7280';\n        } else if (status === 'crossed-3') {\n          ctx.strokeStyle = '#F59E0B';\n          ctx.lineWidth = 1.5;\n          ctx.stroke();\n          ctx.fillStyle = '#6B7280';\n        } else {\n          ctx.strokeStyle = '#4B5563';\n          ctx.lineWidth = 1.5;\n          ctx.stroke();\n          ctx.fillStyle = '#6B7280';\n        }\n\n        // Number text\n        ctx.font = 'bold 13px -apple-system, sans-serif';\n        ctx.textAlign = 'center';\n        ctx.textBaseline = 'middle';\n        ctx.fillText(num.toString(), cx, cy);\n\n        // Draw diagonal cross-out line if crossed\n        if (status.indexOf('crossed') !== -1) {\n          ctx.strokeStyle = '#EF4444';\n          ctx.lineWidth = 2;\n          ctx.beginPath();\n          ctx.moveTo(cx - 10, cy - 10);\n          ctx.lineTo(cx + 10, cy + 10);\n          ctx.stroke();\n        }\n      }\n    }\n\n    // Top Label\n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 16px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n\n    if (progress < p1) {\n      ctx.fillText('List numbers starting from 2...', W / 2, startY - 25);\n    } else if (progress < p2) {\n      ctx.fillText('Filter multiples of 2 (in red)', W / 2, startY - 25);\n    } else if (progress < p3) {\n      ctx.fillText('Filter multiples of 3 (in orange)', W / 2, startY - 25);\n    } else {\n      ctx.fillText('Remaining numbers are Primes!', W / 2, startY - 25);\n    }\n  }\n};\n"
       }
     }
   ]

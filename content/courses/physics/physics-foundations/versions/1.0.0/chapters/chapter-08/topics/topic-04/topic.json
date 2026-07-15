@@ -4,14 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-04",
   "description": "Learn about Tables and its applications in physics.",
   "content": {
-    "overview": "Tables is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Tables. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Tables requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Tables organize your data so you can see patterns. Instead of scattered numbers, a good table shows everything clearly.",
+    "explanation": "A good data table has:\n\n**1. Clear headers.** First row shows what each column measures. Example: 'Temperature (°C)', 'Spring Height (mm)', 'Trial Number'\n\n**2. Units in headers.** Not in every cell, just the header. Saves space.\n\n**3. Organized rows.** Each row = one trial or one test condition.\n\n**4. Consistent decimal places.** If one number has 2 decimals, all should: 2.50, 3.25, 2.85—not 2.5, 3.25, 2.85 (mixing is sloppy).\n\n**5. Title.** At the top so you remember what you tested.\n\n**Example bad table:**\ntemp | spring | ???\n20 | 15\n25 | 18\n\n**Example good table:**\nTemperature (°C) | Spring Height (mm)\n20 | 15.0\n25 | 18.0\n30 | 21.5\n\nTables let you spot patterns. If height increases steadily as temperature rises, you see it in the table. Random numbers with no pattern also show up—meaning there's no real relationship.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Clear headers with units",
+      "Organized by rows (one test per row)",
+      "Consistent formatting",
+      "A title explaining what data this is",
+      "Numbers align vertically to spot patterns",
+      "Tables make analysis easy"
     ],
-    "whyItMatters": "Tables is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "A messy table hides patterns. A clean table tells a story."
   },
   "availableLanguages": [
     "en"

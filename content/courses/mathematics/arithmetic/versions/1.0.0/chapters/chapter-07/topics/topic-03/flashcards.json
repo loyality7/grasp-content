@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Increase Percentage?",
-      "back": "Increase Percentage is a fundamental concept in mathematics.",
+      "front": "What are the two steps for calculating a percentage increase?",
+      "back": "1. Find the percentage of the original number. \n2. Add that increase back to the original number.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Increase Percentage important?",
-      "back": "Increase Percentage is essential for understanding Arithmetic.",
+      "front": "What is the decimal multiplier for a $35\\%$ increase?",
+      "back": "$1.35$ (since $100\\% + 35\\% = 135\\% \\to 1.35$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the decimal multiplier for a $5\\%$ increase?",
+      "back": "$1.05$ (be careful: $1.5$ represents a $50\\%$ increase).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "If an item increases in price by $100\\%$, what has happened to its price?",
+      "back": "The price has doubled.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Why is the final percentage after a $20\\%$ increase considered $120\\%$?",
+      "back": "Because it includes the original $100\\%$ of the value plus the added $20\\%$ increase.",
+      "difficulty": "easy"
     }
   ]
 }

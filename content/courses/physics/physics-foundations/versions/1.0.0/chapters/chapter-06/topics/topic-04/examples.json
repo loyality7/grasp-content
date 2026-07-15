@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Spherical Coordinates (Introduction)",
-      "content": "A practical example demonstrating Spherical Coordinates (Introduction)",
-      "source": "Generated",
+      "title": "Earth Location",
+      "content": "A city on Earth: 6371 km from center, 45°E longitude, 30°N latitude. Spherical (6371, 45°, 30°) describes it.",
+      "source": "Geography",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "spherical-coordinates-introduction"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["gps", "location"]
+    },
+    {
+      "id": "example-02",
+      "title": "Atom Electron",
+      "content": "An electron orbits at r=1 Bohr radius, angle θ, angle φ. Spherical coordinates natural for atomic physics.",
+      "source": "Quantum",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["atoms", "quantum"]
+    },
+    {
+      "id": "example-03",
+      "title": "Satellite",
+      "content": "Satellite 400 km above Earth, at longitude 60°W, latitude 45°N. Spherical (6771, 300°, 45°) pin-points it.",
+      "source": "Orbital",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["orbit", "space"]
     }
   ]
 }

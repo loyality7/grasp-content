@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Adding Decimals?",
-      "back": "Adding Decimals is a fundamental concept in mathematics.",
+      "front": "Where should the decimal points be placed when adding decimals vertically?",
+      "back": "In a straight vertical line, directly on top of each other.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Adding Decimals important?",
-      "back": "Adding Decimals is essential for understanding Arithmetic.",
+      "front": "Why do we add trailing zeros when adding decimals?",
+      "back": "To make the decimals the same length, ensuring that we align and add the correct place values without errors.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Where does the decimal point go in the final sum?",
+      "back": "Directly below the decimal points of the numbers that were added.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How do you add a whole number to a decimal?",
+      "back": "Write a decimal point and trailing zeros after the whole number (e.g. $8$ becomes $8.00$) before aligning and adding.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is $0.7 + 0.3$?",
+      "back": "$1.0$ (or 1), because 7 tenths plus 3 tenths equals 10 tenths, which regroup into 1 whole.",
+      "difficulty": "easy"
     }
   ]
 }

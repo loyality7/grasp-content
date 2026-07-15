@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Dimensional Formula",
-      "content": "A practical example demonstrating Dimensional Formula",
-      "source": "Generated",
+      "title": "Speed Formula",
+      "content": "Speed = distance/time. In symbols: [L T⁻¹]. This shorthand is the dimensional formula for speed.",
+      "source": "Kinematics",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "dimensional-formula"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["basic"]
+    },
+    {
+      "id": "example-02",
+      "title": "Newton (Force Unit)",
+      "content": "Newton = kg·m/s² = [M L T⁻²]. The dimensional formula shows what base units make a Newton.",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["force-unit"]
+    },
+    {
+      "id": "example-03",
+      "title": "Joule (Energy Unit)",
+      "content": "Joule = kg·m²/s² = [M L² T⁻²]. The dimensional formula tells you exactly what base units are 'inside' one Joule.",
+      "source": "Energy",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["energy-unit"]
     }
   ]
 }

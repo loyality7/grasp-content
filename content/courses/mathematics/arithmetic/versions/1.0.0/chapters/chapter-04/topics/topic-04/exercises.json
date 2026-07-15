@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Composite Numbers.",
-      "solution": "Step-by-step solution for Composite Numbers problem.",
+      "prompt": "Determine whether the number **39** is prime or composite. Show your factors.",
+      "solution": "Let's find the factors of 39:\n- $1 \\times 39 = 39$\n- Sum of digits is $3 + 9 = 12$, which is divisible by 3. $39 \\div 3 = 13$, so $3 \\times 13 = 39$.\n- 39 has no other factors.\n\nThe complete factor set is $\\{1, 3, 13, 39\\}$. Since 39 has 4 distinct positive factors (more than 2), it is composite.\n\n**Answer**: **39 is a composite number** because it has 4 factors: 1, 3, 13, and 39.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Check if 39 is divisible by any small prime numbers, like 2, 3, or 5.",
+        "Add the digits ($3 + 9$) to see if it is divisible by 3."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "composite-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Composite Numbers", "Verification"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Composite Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "List all the composite numbers between **10** and **20** (excluding 10 and 20).",
+      "solution": "Let's check the integers from 11 to 19:\n- 11: Prime\n- **12**: **Composite** (factors: 1, 2, 3, 4, 6, 12)\n- 13: Prime\n- **14**: **Composite** (factors: 1, 2, 7, 14)\n- **15**: **Composite** (factors: 1, 3, 5, 15)\n- **16**: **Composite** (factors: 1, 2, 4, 8, 16)\n- 17: Prime\n- **18**: **Composite** (factors: 1, 2, 3, 6, 9, 18)\n- 19: Prime\n\n**Answer**: The composite numbers between 10 and 20 are **12, 14, 15, 16, and 18**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Start by removing the prime numbers (11, 13, 17, 19) in that range.",
+        "The remaining whole numbers in that range must be composite."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "composite-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Composite Numbers", "Listing"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why **0** and **1** are excluded from both prime and composite classifications.",
+      "solution": "1. **The number 1**:\n   - A prime number requires exactly two distinct factors.\n   - A composite number requires more than two factors.\n   - 1 has only **one** factor (1), so it fails both definitions.\n\n2. **The number 0**:\n   - Classification of prime and composite is strictly defined for integers **greater than 1**.\n   - 0 is not greater than 1.\n   - Furthermore, 0 has infinitely many factors (since $0 \\times n = 0$ for any integer $n$), which does not fit standard algebraic factor properties.\n\n**Answer**: 1 has only one factor, failing both definitions. 0 is not greater than 1, and has infinitely many factors. Hence, both are neither prime nor composite.",
+      "hints": [
+        "Look at the first condition in the definitions of prime and composite numbers.",
+        "Count how many factors the number 1 has."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Composite Numbers", "Concepts"]
     }
   ]
 }

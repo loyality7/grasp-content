@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Polar Coordinates",
-      "content": "A practical example demonstrating Polar Coordinates",
-      "source": "Generated",
+      "title": "Radar Screen",
+      "content": "A target appears at (5 km, 45°) on radar. Distance 5 km from center, at 45° angle. Polar is natural for radar.",
+      "source": "Technology",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "polar-coordinates"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["radar", "navigation"]
+    },
+    {
+      "id": "example-02",
+      "title": "Circular Motion",
+      "content": "A ball spins in a circle: always 2m from center, angle changes with time. Polar (r=2, θ=changes) is simpler than Cartesian.",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["circular", "rotation"]
+    },
+    {
+      "id": "example-03",
+      "title": "Compass Bearing",
+      "content": "Navigate: 'go 10 km at bearing 30° northeast.' That's polar (r=10, θ=30). Much easier than (x, y) coordinates.",
+      "source": "Navigation",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["navigation", "bearing"]
     }
   ]
 }

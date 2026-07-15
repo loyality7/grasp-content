@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Adding Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-04",
-  "description": "Learn about Adding Decimals and its applications in mathematics.",
+  "description": "Learn to add decimal numbers by aligning decimal points, inserting placeholder zeros, and performing column addition.",
   "content": {
-    "overview": "Adding Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Adding Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Adding Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Adding decimals is very similar to adding whole numbers. The key is to align the decimal points vertically so that digits in the same place value are added together.",
+    "explanation": "### The Golden Rule: Align the Decimal Points\n\nWhen adding whole numbers, we line them up by their rightmost digits (Ones place). When adding decimals, we must **line up the decimal points**. This ensures we add Tenths to Tenths, Hundredths to Hundredths, and so on.\n\n### Steps to Add Decimals\n\n1.  **Line up vertically**: Write the numbers so that the decimal points are in a straight vertical line.\n2.  **Fill in empty spaces**: Pad numbers with trailing zeros if they have different lengths. For example, write $12.8$ as $12.80$.\n3.  **Add columns**: Add the digits from right to left, carrying over (regrouping) just as you would with whole numbers.\n4.  **Place the decimal point**: Drop the decimal point straight down into your final answer, in line with the other points.\n\n### Step-by-Step Example: $3.45 + 12.8$\n\n-   Align and pad with a zero:\n    $$\\begin{array}{r@{\\quad}l}\n    \\phantom{0}3.45 \\\\\n    +\\ 12.80 \\\\\n    \\hline\n    \\end{array}$$\n-   **Step 1**: Add hundredths: $5 + 0 = 5$.\n-   **Step 2**: Add tenths: $4 + 8 = 12$ tenths. Write $2$ and carry $1$ over to the ones column.\n-   **Step 3**: Drop the decimal point straight down.\n-   **Step 4**: Add ones: $3 + 2 + 1 \\text{ (carry)} = 6$.\n-   **Step 5**: Add tens: $0 + 1 = 1$.\n\n$$\\begin{array}{r@{\\quad}l}\n    \\text{}^{1}\\phantom{.}\\phantom{0}3.45 \\\\\n    +\\ 12.80 \\\\\n    \\hline\n    \\mathbf{16.25} \\\\\n    \\hline\n    \\end{array}$$\n\n{{viz:formula-01}}\n\n### Adding Whole Numbers to Decimals\n\nTo add a whole number like **$5$** to a decimal like **$1.24$**, write the whole number as **$5.00$** so that you can align the decimal points:\n$$\\begin{array}{r@{\\quad}l}\n    5.00 \\\\\n    +\\ 1.24 \\\\\n    \\hline\n    \\mathbf{6.24} \\\\\n    \\hline\n    \\end{array}$$\n\n### Visualizing Column Addition\n\nWatch how $4.75$ and $1.80$ are lined up, and follow the addition column-by-column from right to left:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Decimal points must be aligned vertically before adding.",
+      "Pad shorter decimals with trailing zeros to avoid confusion.",
+      "Add columns from right to left, carrying over values when a column sum is 10 or greater.",
+      "Place the decimal point in the final answer directly below the others."
     ],
-    "whyItMatters": "Adding Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Adding decimals is essential for summing shopping bills (e.g., $1.99 + $0.85), calculating distances in sports, and combining scientific measurements."
   },
   "availableLanguages": [
     "en"

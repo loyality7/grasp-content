@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Ratio",
   "topicId": "mathematics.arithmetic.chapter-08.topic-01",
-  "description": "Learn about Ratio and its applications in mathematics.",
+  "description": "Understand what a ratio is, learn the three different ways to write ratios, and distinguish between part-to-part and part-to-whole ratios.",
   "content": {
-    "overview": "Ratio is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Ratio. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Ratio requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A ratio is a mathematical comparison of two numbers or quantities. It tells us how one quantity compares to another in terms of size, amount, or frequency.",
+    "explanation": "### What is a Ratio?\n\nA ratio compares two quantities by division. For example, if you have a bowl containing **$3$ red apples** and **$2$ green apples**, you can compare them using a ratio:\n-   The ratio of red apples to green apples is **$3$ to $2$**.\n\n### The Three Ways to Write a Ratio\n\nEvery ratio can be expressed in three common formats:\n1.  **With a colon**: $3:2$\n2.  **As a fraction**: $\\frac{3}{2}$\n3.  **With the word 'to'**: $3$ to $2$\n\nMathematically, the colon format and fraction format are equivalent:\n\n{{viz:formula-01}}\n\nIn a ratio $a:b$, the first term ($a$) is called the **antecedent**, and the second term ($b$) is called the **consequent**.\n\n### Part-to-Part vs. Part-to-Whole Ratios\n\nThere are two main ways to compare items using ratios:\n\n1.  **Part-to-Part Ratios**: These compare one category (part) directly to another category (part).\n    -   *Example: The ratio of red apples to green apples is $3:2$.*\n2.  **Part-to-Whole Ratios**: These compare one category (part) to the combined sum of all categories (the whole).\n    -   *Example: The ratio of red apples to total apples is $3:5$ (since $3$ red + $2$ green = $5$ total apples).* Note that part-to-whole ratios are closely related to fractions and percentages!\n\n### Visualizing Ratios with Shapes\n\nLet's visualize these two comparison models using a group of colored circles and squares:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A ratio compares two numbers or quantities by division.",
+      "Ratios can be written with a colon, as a fraction, or with the word 'to'.",
+      "In a ratio a:b, 'a' is the antecedent and 'b' is the consequent.",
+      "Part-to-part compares subgroups, while part-to-whole compares a subgroup to the total."
     ],
-    "whyItMatters": "Ratio is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Ratios are used constantly in the real world: recipe ingredient balances, sports statistics, screen resolution aspect ratios (e.g. 16:9), and vehicle gear setups."
   },
   "availableLanguages": [
     "en"

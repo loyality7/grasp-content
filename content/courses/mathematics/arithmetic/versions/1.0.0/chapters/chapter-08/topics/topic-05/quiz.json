@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Direct Proportion?",
+      "question": "If two variables $A$ and $B$ are in a direct proportion, what happens to $B$ if $A$ is cut in half?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "B is doubled.",
+        "B remains unchanged.",
+        "B is cut in half.",
+        "B increases by a factor of 4."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "In direct variation, both variables scale in the exact same direction and by the exact same factor.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Direct Proportion is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "In the direct proportion equation $y = kx$, what is the term $k$ called?",
       "options": [
-        "True",
-        "False"
+        "Variable of Variation",
+        "Constant of Proportionality",
+        "Exponential Scale",
+        "Extremes Factor"
       ],
       "correctIndex": 1,
-      "explanation": "Direct Proportion has many practical applications.",
+      "explanation": "The constant multiplier $k$ is called the constant of proportionality.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If $y$ is directly proportional to $x$, and $y = 20$ when $x = 5$, what is the value of $y$ when $x = 8$?",
+      "options": [
+        "25",
+        "30",
+        "32",
+        "40"
+      ],
+      "correctIndex": 2,
+      "explanation": "Find $k = \\frac{y}{x} = \\frac{20}{5} = 4$. Then apply the constant to the new value: $y = 4 \\times 8 = 32$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which of the following describes the graph of a direct variation?",
+      "options": [
+        "A curve bending upwards from left to right.",
+        "A straight line passing through the origin (0, 0).",
+        "A straight horizontal line crossing the y-axis.",
+        "A line that never crosses the x-axis."
+      ],
+      "correctIndex": 1,
+      "explanation": "The graph of direct proportion is always a straight line passing through the origin $(0, 0)$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If $3$ pounds of gourmet apples cost $6$ dollars, how much will $7$ pounds of these apples cost?",
+      "options": [
+        "12 dollars",
+        "14 dollars",
+        "15 dollars",
+        "18 dollars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unit cost is $\\frac{6}{3} = 2$ dollars per pound. Thus, $7$ pounds of apples will cost $2 \\times 7 = 14$ dollars.",
       "difficulty": "easy"
     }
   ]

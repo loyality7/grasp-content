@@ -2,18 +2,19 @@
   "id": "topic-06",
   "name": "Dot Product",
   "topicId": "physics.physics-foundations.chapter-05.topic-06",
-  "description": "Learn about Dot Product and its applications in physics.",
+  "description": "Multiply two vectors and get a scalar—the dot product measures how parallel they are",
   "content": {
-    "overview": "Dot Product is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Dot Product. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Dot Product requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The dot product combines two vectors to give a single number (scalar). It measures how much the vectors point in the same direction. {{viz:diagram-01}}",
+    "explanation": "The dot product A · B answers: \"How much does B point in the direction of A?\" {{viz:diagram-02}}\n\n**Formula 1: Using Angle**\nA · B = |A| × |B| × cos(θ)\n\nWhere θ is the angle between them.\n\n**Formula 2: Using Components**\nIf A = (Aₓ, Aᵧ, Aᵤ) and B = (Bₓ, Bᵧ, Bᵤ):\nA · B = Aₓ×Bₓ + Aᵧ×Bᵧ + Aᵤ×Bᵤ\n\n**What It Means:** {{viz:anim-01}}\n- If θ = 0° (parallel): A · B = |A| × |B| (maximum)\n- If θ = 90° (perpendicular): A · B = 0\n- If θ = 180° (opposite): A · B = -|A| × |B| (minimum)\n\n**Real Physics Examples:** {{viz:chart-01}}\n\nWork = Force · Displacement (how much force helps movement)\nPower = Force · Velocity (how hard you're working)\n\nBoth use dot products!\n\n**Key Property:**\nA · A = |A|² (the dot product of a vector with itself gives its magnitude squared)",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A · B = |A| × |B| × cos(θ)",
+      "Result is a scalar (single number), not a vector",
+      "Measures how parallel two vectors are",
+      "Component method: A · B = Aₓ×Bₓ + Aᵧ×Bᵧ + Aᵤ×Bᵤ",
+      "Perpendicular vectors: A · B = 0",
+      "Used for work, power, projection calculations"
     ],
-    "whyItMatters": "Dot Product is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Dot product answers 'how much' questions in physics. Work, power, and projections all use it."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

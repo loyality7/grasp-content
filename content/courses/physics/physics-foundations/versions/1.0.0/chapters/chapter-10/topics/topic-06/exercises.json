@@ -1,35 +1,24 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Velocity.",
-      "solution": "Step-by-step solution for Velocity problem.",
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "velocity"
-      ]
+      "id": "exercise-01",
+      "type": "understanding",
+      "title": "Understand the Concept",
+      "content": "Exercise 1 for this topic",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "hints": ["Think about the definition", "Apply to real situations"],
+      "tags": ["learning"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Velocity to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "velocity"
-      ]
+      "id": "exercise-02",
+      "type": "application",
+      "title": "Apply to Real Situation",
+      "content": "Exercise 2 for this topic",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "hints": ["Use the concept", "Think of examples"],
+      "tags": ["application"]
     }
   ]
 }

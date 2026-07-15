@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Cartesian Coordinates.",
-      "solution": "Step-by-step solution for Cartesian Coordinates problem.",
+      "id": "exercise-01",
+      "type": "plot",
+      "title": "Plot Points on a Graph",
+      "content": "On a Cartesian graph, plot these points: (1,2), (3,4), (-2,1), (0,-3). Draw the axes, label them, mark each point.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "x-axis is horizontal, y-axis is vertical",
+        "Positive x goes right, positive y goes up",
+        "Negative goes left/down"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "cartesian-coordinates"
-      ]
+      "tags": ["plotting"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Cartesian Coordinates to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "describe",
+      "title": "Name the Coordinates",
+      "content": "Given 3 points on a graph, write their (x,y) coordinates. Be careful about the signs and exact values.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Count carefully along each axis",
+        "Remember the sign (+ or -)",
+        "x first, then y"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "cartesian-coordinates"
-      ]
+      "tags": ["reading-graphs"]
     }
   ]
 }

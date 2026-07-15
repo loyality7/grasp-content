@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Subtraction?",
+      "question": "In the subtraction equation $20 - 7 = 13$, what term is used to describe the number 20?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Subtrahend",
+        "Minuend",
+        "Difference",
+        "Sum"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "In subtraction, the starting number from which another is subtracted is the 'minuend'. The number being subtracted (7) is the 'subtrahend', and the result (13) is the 'difference'.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Subtraction is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which mathematical property does subtraction lack because $12 - 5$ does not equal $5 - 12$?",
       "options": [
-        "True",
-        "False"
+        "Associative Property",
+        "Commutative Property",
+        "Identity Property",
+        "Distributive Property"
       ],
       "correctIndex": 1,
-      "explanation": "Subtraction has many practical applications.",
+      "explanation": "The Commutative Property allows changing the order of the numbers. Subtraction is not commutative because changing the order changes the result ($12 - 5 = 7$, while $5 - 12 = -7$).",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Solve: $502 - 279$.",
+      "options": [
+        "323",
+        "223",
+        "233",
+        "333"
+      ],
+      "correctIndex": 1,
+      "explanation": "Let's subtract column-by-column: Ones: $2 - 9$. Borrow from tens (tens is 0, so borrow from hundreds first: $5 \\to 4$, tens becomes 10. Borrow from tens: $10 \\to 9$, ones becomes 12). $12 - 9 = 3$. Tens: $9 - 7 = 2$. Hundreds: $4 - 2 = 2$. The result is $223$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which addition equation corresponds to the subtraction equation $x - 14 = 35$?",
+      "options": [
+        "$35 + x = 14$",
+        "$35 + 14 = x$",
+        "$14 - 35 = x$",
+        "$x + 35 = 14$"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since subtraction is the inverse of addition, $a - b = c$ corresponds directly to $c + b = a$. Thus, $x - 14 = 35$ corresponds to $35 + 14 = x$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Is subtraction associative?",
+      "options": [
+        "Yes, always.",
+        "Yes, but only for integers.",
+        "No, because changing the grouping of numbers changes the result.",
+        "Yes, but only when subtracting zero."
+      ],
+      "correctIndex": 2,
+      "explanation": "Subtraction is not associative. For example, $(8 - 4) - 2 = 2$, but $8 - (4 - 2) = 6$. The results are different, showing that grouping matters.",
+      "difficulty": "medium"
     }
   ]
 }

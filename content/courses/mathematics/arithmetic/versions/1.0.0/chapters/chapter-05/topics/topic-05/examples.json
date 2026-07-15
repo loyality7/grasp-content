@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Simplifying Fractions",
-      "content": "A practical example demonstrating Simplifying Fractions",
-      "source": "Generated",
+      "title": "Simplifying via Greatest Common Divisor (GCD)",
+      "content": "Simplify the fraction **$\\frac{18}{30}$** to its simplest form using the GCD method.\n\n### Step-by-Step Solution\n\n1.  **Find the factors of both numbers**:\n    -   Factors of 18: $\\{1, 2, 3, 6, 9, 18\\}$\n    -   Factors of 30: $\\{1, 2, 3, 5, 6, 10, 15, 30\\}$\n\n2.  **Identify the Greatest Common Divisor (GCD)**:\n    -   The common factors are $\\{1, 2, 3, 6\\}$.\n    -   The largest is **6**.\n    -   Therefore, $\\text{GCD}(18, 30) = 6$.\n\n3.  **Divide numerator and denominator by the GCD**:\n    -   Numerator: $18 \\div 6 = 3$\n    -   Denominator: $30 \\div 6 = 5$\n\n4.  **Form the simplified fraction**:\n    $$\\frac{3}{5}$$\n    *(Since 3 and 5 are prime numbers, they share no factors other than 1, so this is in simplest form)*\n\n**Answer**: The simplified fraction is **$\\frac{3}{5}$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "simplifying-fractions"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Simplifying", "GCD"]
+    },
+    {
+      "id": "example-02",
+      "title": "Simplifying using Repeated Division",
+      "content": "Simplify the fraction **$\\frac{45}{60}$** using repeated division.\n\n### Step-by-Step Solution\n\nRepeated division allows you to reduce a fraction step-by-step using any common factors you notice:\n\n1.  **Look for an obvious common factor**:\n    -   Both 45 and 60 end in 5 or 0, so they are divisible by **5**.\n\n2.  **Divide by 5**:\n    $$\\frac{45 \\div 5}{60 \\div 5} = \\frac{9}{12}$$\n\n3.  **Look for common factors of the new fraction $\\frac{9}{12}$**:\n    -   Both 9 and 12 are multiples of **3**.\n\n4.  **Divide by 3**:\n    $$\\frac{9 \\div 3}{12 \\div 3} = \\frac{3}{4}$$\n\n5.  **Check if further division is possible**:\n    -   The numbers 3 and 4 share no common factors other than 1.\n    -   Therefore, the fraction is in its simplest form.\n\n**Answer**: The simplified fraction is **$\\frac{3}{4}$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Simplifying", "Division"]
     }
   ]
 }

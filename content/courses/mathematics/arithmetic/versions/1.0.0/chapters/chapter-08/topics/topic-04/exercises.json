@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Proportion.",
-      "solution": "Step-by-step solution for Proportion problem.",
+      "prompt": "Determine if the ratios **$6:8$** and **$9:12$** form a proportion by checking their cross-products.",
+      "solution": "1. **Set up the proportion equation**:\n   $$\\frac{6}{8} = \\frac{9}{12}$$\n2. **Cross-multiply**:\n   - Extremes product: \n     $$6 \\times 12 = 72$$\n   - Means product: \n     $$8 \\times 9 = 72$$\n3. **Compare**:\n   Since $72 = 72$, they form a true proportion.\n\n**Answer**: Yes, they form a proportion.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Multiply the numerator of the first fraction by the denominator of the second fraction.",
+        "Multiply the denominator of the first fraction by the numerator of the second fraction. Check if these two products match."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "proportion"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Proportions"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Proportion to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A photographer resizes a rectangular portrait that is originally **$4$ inches wide** and **$6$ inches tall**. If the new, enlarged portrait is **$10$ inches wide**, what must its height be to stay proportional?",
+      "solution": "1. **Set up the proportion equation**:\n   $$\\frac{\\text{Original Width}}{\\text{Original Height}} = \\frac{\\text{New Width}}{\\text{New Height}}$$\n   $$\\frac{4}{6} = \\frac{10}{h}$$\n2. **Cross-multiply**:\n   $$4 \\times h = 6 \\times 10$$\n   $$4h = 60$$\n3. **Solve for $h$**:\n   $$h = \\frac{60}{4} = 15 \\text{ inches}$$\n\n**Answer**: The new height must be **$15$ inches**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Create a fraction comparing width to height for both the original and resized pictures: 4/6 = 10/h.",
+        "Cross-multiply to get 4h = 60, then solve for h."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "proportion"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Proportions", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Solve for the unknown variable **$z$** in the proportion:\n$$z : 9 = 28 : 36$$",
+      "solution": "1. **Write as fraction equation**:\n   $$\\frac{z}{9} = \\frac{28}{36}$$\n2. **Identify scale relationship**:\n   Look at the denominators. We go from $9$ to $36$ by multiplying by $4$.\n   $$\\text{Scale Factor} = 4$$\n3. **Solve for $z$**:\n   We must have $z \\times 4 = 28$.\n   $$z = 28 \\div 4 = 7$$\n4. **Check by cross-multiplication**:\n   $$7 \\times 36 = 252$$\n   $$9 \\times 28 = 252$$\n   Both match.\n\n**Answer**: **$z = 7$**.",
+      "hints": [
+        "Compare the second terms of the ratios: 9 and 36. What is the multiplier?",
+        "Divide 28 by that same multiplier to find z."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Proportions", "Solving for Variable"]
     }
   ]
 }

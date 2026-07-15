@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Simplifying Ratios?",
-      "back": "Simplifying Ratios is a fundamental concept in mathematics.",
+      "front": "What does it mean for a ratio to be in simplest form?",
+      "back": "The terms are whole numbers that have no common factors other than 1.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Simplifying Ratios important?",
-      "back": "Simplifying Ratios is essential for understanding Arithmetic.",
+      "front": "How do you simplify a whole-number ratio in a single step?",
+      "back": "Divide both terms by their Greatest Common Divisor (GCD).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the first step to simplify a ratio containing decimals?",
+      "back": "Multiply both terms by a power of 10 (10, 100, etc.) to convert them into whole numbers.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the first step to simplify a ratio containing fractions?",
+      "back": "Multiply both terms by the Least Common Denominator (LCD) of the fractions to eliminate denominators.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Simplify the ratio $32 : 24$.",
+      "back": "$4 : 3$ (dividing both terms by the GCD, which is 8).",
+      "difficulty": "easy"
     }
   ]
 }

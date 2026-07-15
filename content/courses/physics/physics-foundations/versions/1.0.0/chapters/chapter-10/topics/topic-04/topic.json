@@ -2,16 +2,18 @@
   "id": "topic-04",
   "name": "Displacement",
   "topicId": "physics.physics-foundations.chapter-10.topic-04",
-  "description": "Learn about Displacement and its applications in physics.",
+  "description": "The straight-line distance from start to finish, including direction",
   "content": {
-    "overview": "Displacement is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Displacement. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Displacement requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Displacement is WHERE YOU ENDED UP relative to where you started. It doesn't care about the path taken—only the direct line from start to finish.",
+    "explanation": "Displacement answers: **What is the change in position?**\n\nDisplacement = final position - initial position.\n\nDisplacement is a VECTOR—it has both magnitude and direction.\n\n**Example:**\nYou walk 100 meters north, then 100 meters east. \n- Distance = 200 meters (you traveled 200 m total)\n- Displacement = √(100² + 100²) ≈ 141 meters northeast (direct line from start to finish)\n\n**Another example:**\nYou walk 5 km away from home, then walk back home.\n- Distance = 10 km (5 km out + 5 km back)\n- Displacement = 0 km (you're back where you started)\n\n**Key difference from distance:**\n- Distance: total path length (scalar)\n- Displacement: direct change in position (vector)\n\nDisplacement can be negative! If you move 10 meters right then 15 meters left, displacement = -5 meters.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Displacement = change in position (final - initial)",
+      "Vector quantity (has magnitude AND direction)",
+      "Straight-line distance from start to finish",
+      "Can be negative",
+      "Distance ≥ |Displacement|"
     ],
-    "whyItMatters": "Displacement is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Physics cares about displacement more than distance. Displacement tells you the actual change in position, which drives velocity and acceleration."
   },
   "availableLanguages": [
     "en"

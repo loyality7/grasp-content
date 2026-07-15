@@ -2,16 +2,17 @@
   "id": "topic-05",
   "name": "Subtracting Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-05",
-  "description": "Learn about Subtracting Decimals and its applications in mathematics.",
+  "description": "Learn to subtract decimal numbers by lining up decimal points, borrowing from neighboring places, and filling in empty spaces with placeholder zeros.",
   "content": {
-    "overview": "Subtracting Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Subtracting Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Subtracting Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Subtracting decimals uses the same place value alignment rules as addition. Adding placeholder zeros is particularly critical here to ensure correct borrowing when subtracting a longer decimal from a shorter one.",
+    "explanation": "### The Importance of Placeholder Zeros\n\nWhen subtracting decimals, you must write the numbers vertically and line up the decimal points. If the top number has fewer decimal digits than the bottom number, you **must** add trailing zeros. Without these zeros, you might make the common error of simply \"bringing down\" the bottom digit instead of subtracting it.\n\nFor example, to calculate **$5 - 0.35$**, you must set it up as:\n$$\\begin{array}{r@{\\quad}l}\n5.00 \\\\\n-\\ 0.35 \\\\\n\\hline\n\\end{array}$$\n\n### Steps to Subtract Decimals\n\n1.  **Align decimal points vertically**.\n2.  **Add trailing zeros** so both numbers have the same number of decimal places.\n3.  **Subtract column-by-column** from right to left.\n4.  **Borrow (regroup) from the left** when the top digit is smaller than the bottom digit in a column.\n5.  **Drop the decimal point** straight down into the difference row.\n\n### Step-by-Step Example: $15.4 - 3.82$\n\n-   Align and pad with a zero:\n    $$\\begin{array}{r@{\\quad}l}\n    15.40 \\\\\n    -\\ \\phantom{0}3.82 \\\\\n    \\hline\n    \\end{array}$$\n-   **Hundredths place**: Subtract $0 - 2$. Since $0 < 2$, borrow 1 tenth from the tenths place. The $4$ tenths becomes $3$ tenths, and the $0$ hundredths becomes $10$ hundredths.\n    $$10 - 2 = 8$$\n-   **Tenths place**: Subtract $3 - 8$. Since $3 < 8$, borrow 1 one from the ones place. The $5$ ones becomes $4$ ones, and the $3$ tenths becomes $13$ tenths.\n    $$13 - 8 = 5$$\n-   **Drop decimal point** straight down.\n-   **Ones place**: Subtract $4 - 3 = 1$.\n-   **Tens place**: Subtract $1 - 0 = 1$.\n\n$$\\begin{array}{r@{\\quad}l}\n    \\text{}^{14}\\text{}^{.3}\\text{}^{10} \\\\\n    15.40 \\\\\n    -\\ \\phantom{0}3.82 \\\\\n    \\hline\n    \\mathbf{11.58} \\\\\n    \\hline\n    \\end{array}$$\n\n{{viz:formula-01}}\n\n### Visualizing Subtraction and Borrowing\n\nWatch how $5.3$ is padded to $5.30$ and follow the borrowing steps as we subtract $1.75$ column-by-column:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Lining up the decimal points vertically is mandatory.",
+      "Add trailing zeros to the top number if it is shorter than the bottom number.",
+      "Borrow from the column to the left when subtracting a larger digit from a smaller one.",
+      "Place the decimal point in the answer directly beneath the other decimal points."
     ],
-    "whyItMatters": "Subtracting Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Subtracting decimals is used every day to calculate change from a transaction (e.g., paying with a $20 bill for a $14.25 item), measuring decreases in temperature, or tracking weight loss."
   },
   "availableLanguages": [
     "en"

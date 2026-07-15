@@ -2,16 +2,18 @@
   "id": "topic-06",
   "name": "Velocity",
   "topicId": "physics.physics-foundations.chapter-10.topic-06",
-  "description": "Learn about Velocity and its applications in physics.",
+  "description": "Speed with direction—how fast something is moving AND which way",
   "content": {
-    "overview": "Velocity is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Velocity. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Velocity requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Velocity = Speed + Direction. \"60 km/h\" is speed. \"60 km/h north\" is velocity. Velocity tells you both HOW FAST and WHICH WAY.",
+    "explanation": "Velocity = displacement ÷ time\n\nVelocity is a VECTOR—it has magnitude (how fast) and direction (which way).\n\n**Velocity vs Speed:**\n- Speed: \"60 km/h\" (scalar)\n- Velocity: \"60 km/h north\" (vector)\n\nBoth tell you how fast, but velocity also tells you the direction.\n\n**Average velocity vs instantaneous velocity:**\n- Average velocity = displacement ÷ time\n- Instantaneous velocity = velocity at one exact moment\n\n**Example:**\nYou drive 100 km north in 2 hours.\n- Average speed = 100 km ÷ 2 h = 50 km/h\n- Average velocity = 100 km north ÷ 2 h = 50 km/h north\n\n**Another example:**\nYou run 100 m east, then 100 m west (back to start).\n- Distance = 200 m, so average speed = (depends on time)\n- Displacement = 0 m, so average velocity = 0 m/s\n\nVelocity can be negative (moving backward/downward/westward). The direction matters!\n\n**Physics loves velocity:** In mechanics, velocity is more useful than speed because direction matters for forces and acceleration.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Velocity = displacement ÷ time",
+      "Vector quantity (magnitude + direction)",
+      "Speed = |Velocity| (ignore direction)",
+      "Can be negative (backwards, downward, etc.)",
+      "Physics prefers velocity over speed"
     ],
-    "whyItMatters": "Velocity is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Velocity is the key quantity in mechanics. It describes both how fast something moves AND where it's heading—essential for understanding forces and acceleration."
   },
   "availableLanguages": [
     "en"

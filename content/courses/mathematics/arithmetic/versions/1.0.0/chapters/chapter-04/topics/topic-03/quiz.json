@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Prime Numbers?",
+      "question": "A prime number is defined as a positive whole number greater than 1 that has:",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Only odd factors.",
+        "Exactly two distinct factors: 1 and itself.",
+        "At least three factors.",
+        "No factors other than 1."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "A prime number has exactly two factors: 1 and itself.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Prime Numbers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the smallest prime number?",
       "options": [
-        "True",
-        "False"
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 is the smallest prime number. 1 is not prime because it does not have two distinct factors.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Why is the number 1 not prime?",
+      "options": [
+        "Because it is an even number.",
+        "Because it only has one positive factor.",
+        "Because it is negative.",
+        "Because it can be divided by any number."
       ],
       "correctIndex": 1,
-      "explanation": "Prime Numbers has many practical applications.",
+      "explanation": "A prime number must have exactly two distinct factors. Since 1 has only one positive factor (1), it is not a prime number.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which of the following numbers is a prime number?",
+      "options": [
+        "15",
+        "21",
+        "27",
+        "29"
+      ],
+      "correctIndex": 3,
+      "explanation": "15 is divisible by 3 and 5; 21 is divisible by 3 and 7; 27 is divisible by 3 and 9. 29 has no positive factors other than 1 and 29, so it is prime.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "How many even prime numbers are there in the entire set of real numbers?",
+      "options": [
+        "None",
+        "Exactly one",
+        "Exactly two",
+        "Infinitely many"
+      ],
+      "correctIndex": 1,
+      "explanation": "There is exactly one even prime number, which is 2. Any other even number is divisible by 2, meaning it has at least three factors and is therefore composite.",
       "difficulty": "easy"
     }
   ]

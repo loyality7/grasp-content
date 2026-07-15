@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Percentage of a Number",
   "topicId": "mathematics.arithmetic.chapter-07.topic-02",
-  "description": "Learn about Percentage of a Number and its applications in mathematics.",
+  "description": "Learn how to calculate a specific percentage of a whole number using decimals, fractions, and mental math shortcuts.",
   "content": {
-    "overview": "Percentage of a Number is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Percentage of a Number. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Percentage of a Number requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Finding the percentage of a number calculates a portion of a whole amount. In mathematics, the word 'of' indicates multiplication, so finding '20% of 80' means multiplying 20% by 80.",
+    "explanation": "### The Fundamental Formula\n\nTo find the percentage of a number, we use the following formula:\n\n{{viz:formula-01}}\n\n### Methods of Calculation\n\nThere are two main ways to solve these problems on paper:\n\n#### Method 1: Using Decimals\n1.  Convert the percentage to a decimal by moving the decimal point two places to the left.\n2.  Multiply this decimal by the whole number.\n\n*Example: Find $15\\%$ of $60$*\n-   Convert $15\\% \\to 0.15$\n-   Multiply: \n    $$0.15 \\times 60 = 9$$\n\n#### Method 2: Using Fractions\n1.  Write the percentage as a fraction over $100$ and simplify it.\n2.  Multiply the fraction by the whole number.\n\n*Example: Find $20\\%$ of $80$*\n-   Convert $20\\% \\to \\frac{20}{100} = \\frac{1}{5}$\n-   Multiply: \n    $$\\frac{1}{5} \\times 80 = \\frac{80}{5} = 16$$\n\n### Mental Math Shortcuts\n\nYou can easily find common percentages in your head using a few simple rules:\n-   **To find $50\\%$**: Divide the number by $2$ (since $50\\% = \\frac{1}{2}$).\n-   **To find $25\\%$**: Divide the number by $4$ (since $25\\% = \\frac{1}{4}$).\n-   **To find $10\\%$**: Divide the number by $10$ (move the decimal point one place to the left).\n    -   *Example: $10\\%$ of $80$ is $8$.*\n-   **To find $5\\%$**: Find $10\\%$ first, then divide that result by $2$.\n    -   *Example: $5\\%$ of $80$ is half of $8$, which is $4$.*\n-   **To find $1\\%$**: Divide the number by $100$ (move the decimal point two places to the left).\n\n### Visualizing a Percentage of a Whole\n\nLet's visualize finding $20\\%$ of $80$. Since $20\\% = \\frac{1}{5}$, we divide a bar of $80$ into $5$ equal segments of $16$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The word 'of' in percentage problems means to multiply.",
+      "Convert the percentage to a decimal or fraction before multiplying.",
+      "Finding 10% of a number is a powerful building block for mental math.",
+      "A percentage of a number is always proportional to the size of the whole."
     ],
-    "whyItMatters": "Percentage of a Number is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Calculating percentages of numbers is used daily to determine restaurant tips (e.g., a 15% tip on a $40 bill), sales discounts, sales tax, and loan down payments."
   },
   "availableLanguages": [
     "en"

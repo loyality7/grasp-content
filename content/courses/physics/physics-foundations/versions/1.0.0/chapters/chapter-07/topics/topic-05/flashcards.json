@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Nonlinear Relationships?",
-      "back": "Nonlinear Relationships is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Nonlinear Relationships important?",
-      "back": "Nonlinear Relationships is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"c-01","front":"What is Nonlinear Relationships?","back":"A key concept in mathematical tools for physics.","difficulty":"easy"}]}

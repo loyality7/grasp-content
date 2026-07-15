@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Percentage of a Number",
-      "content": "A practical example demonstrating Percentage of a Number",
-      "source": "Generated",
+      "title": "Finding a Percentage Using Decimal Multiplication",
+      "content": "Find the value of: **$15\\%$ of $60$**.\n\n### Step-by-Step Solution\n\n1.  **Translate the expression**:\n    'Of' means multiply, so we want to calculate:\n    $$15\\% \\times 60$$\n\n2.  **Convert the percentage to a decimal**:\n    $$15\\% = \\frac{15}{100} = 0.15$$\n\n3.  **Multiply by the whole number**:\n    $$0.15 \\times 60$$\n    -   Multiply as whole numbers: $15 \\times 60 = 900$.\n    -   Count decimal places: $0.15$ has $2$ decimal places.\n    -   Place decimal point in product: $9.00$, which is $9$.\n\n**Answer**: **$9$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "percentage-of-a-number"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Decimal Method"]
+    },
+    {
+      "id": "example-02",
+      "title": "Calculating a Percentage with Fraction Equivalents",
+      "content": "A high-performance laptop costs **$800$ dollars**. The store requires a down payment of **$25\\%$** to reserve it. How much is the down payment in dollars?\n\n### Step-by-Step Solution\n\n1.  **Translate the problem**:\n    We need to find $25\\%$ of $800$:\n    $$\\text{Down Payment} = 25\\% \\times 800$$\n\n2.  **Convert the percentage to a simplified fraction**:\n    We know that $25\\% = \\frac{25}{100}$, which simplifies to:\n    $$25\\% = \\frac{1}{4}$$\n\n3.  **Multiply the fraction by the whole number**:\n    $$\\text{Down Payment} = \\frac{1}{4} \\times 800 = \\frac{800}{4}$$\n    $$800 \\div 4 = 200$$\n\n**Answer**: The required down payment is **$200$ dollars**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Percentages", "Fraction Method", "Word Problems"]
     }
   ]
 }

@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Divisibility Rules Flowchart",
-      "description": "Flowchart showing Divisibility Rules process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Divisibility Rules",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Divisibility Rules Formula",
-      "description": "Mathematical definition",
+      "title": "Divisibility Rules Summary Table",
+      "description": "Quick reference guidelines for divisibility testing.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\begin{array}{|c|l|} \\hline \\text{Divisor} & \\text{Rule} \\\\ \\hline 2 & \\text{Ends in 0, 2, 4, 6, 8} \\\\ 3 & \\text{Sum of digits is divisible by 3} \\\\ 4 & \\text{Last 2 digits divisible by 4} \\\\ 5 & \\text{Ends in 0 or 5} \\\\ 6 & \\text{Divisible by both 2 and 3} \\\\ 9 & \\text{Sum of digits is divisible by 9} \\\\ 10 & \\text{Ends in 0} \\\\ \\hline \\end{array}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\text{Even Rules}",
+            "explanation": "Rules for 2, 4, and 8 depend entirely on the final digits."
+          },
+          {
+            "latex": "\\text{Sum Rules}",
+            "explanation": "Rules for 3 and 9 require adding the digits together."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Divisibility Rules 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Divisibility Rules Animation",
-      "description": "Canvas animation",
+      "title": "Testing Divisibility of 168",
+      "description": "Watch the digit sum check: 1 + 6 + 8 = 15. Since 15 is divisible by 3 but not 9, 168 follows the same rules.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Divisibility Rules Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Divisibility Rules.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Divisibility Rules Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Divisibility Rules Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Divisibility Rules",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 8000;\n    var progress = (t % duration) / duration;\n\n    var p1 = 0.20; // 0 to 2s: Display 168\n    var p2 = 0.45; // 2s to 4.5s: Split into 1 + 6 + 8 = 15\n    var p3 = 0.70; // 4.5s to 7s: Test 3\n    var p4 = 0.95; // 7s to 9.5s: Test 9\n\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n\n    // Top original number\n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 28px -apple-system, sans-serif';\n    ctx.fillText('168', W / 2, H * 0.20);\n\n    if (progress < p1) {\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '14px -apple-system, sans-serif';\n      ctx.fillText('Let\\'s test 168 for divisibility by 3 and 9...', W / 2, H * 0.40);\n    }\n\n    // Digit sum expansion\n    if (progress >= p1) {\n      var tVal = (progress - p1) / (p2 - p1);\n      tVal = Math.min(1.0, tVal);\n\n      var dx = 40 * tVal;\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = 'bold 20px -apple-system, sans-serif';\n\n      // Draw '1', '+', '6', '+', '8'\n      ctx.fillText('1', W / 2 - dx, H * 0.42);\n      if (tVal > 0.5) ctx.fillText('+', W / 2 - dx/2, H * 0.42);\n      ctx.fillText('6', W / 2, H * 0.42);\n      if (tVal > 0.5) ctx.fillText('+', W / 2 + dx/2, H * 0.42);\n      ctx.fillText('8', W / 2 + dx, H * 0.42);\n\n      if (progress >= p2) {\n        ctx.fillStyle = '#FBBF24';\n        ctx.font = 'bold 22px -apple-system, sans-serif';\n        ctx.fillText(' = 15', W / 2, H * 0.55);\n      }\n    }\n\n    // Divisibility by 3 check\n    if (progress >= p2) {\n      ctx.font = 'bold 13px -apple-system, sans-serif';\n      if (progress >= p2 && progress < p3) {\n        ctx.fillStyle = '#9CA3AF';\n        ctx.fillText('Is the sum 15 divisible by 3?', W / 2, H * 0.70);\n      } else if (progress >= p3) {\n        ctx.fillStyle = '#34D399';\n        ctx.fillText('15 / 3 = 5 (R 0)  ✔  Divisible by 3!', W / 2, H * 0.70);\n        \n        // Divisibility by 9 check\n        if (progress >= p3 && progress < p4) {\n          ctx.fillStyle = '#9CA3AF';\n          ctx.fillText('Is the sum 15 divisible by 9?', W / 2, H * 0.82);\n        } else if (progress >= p4) {\n          ctx.fillStyle = '#F87171';\n          ctx.fillText('15 / 9 = 1 (R 6)  ✘  NOT divisible by 9!', W / 2, H * 0.82);\n        }\n      }\n    }\n  }\n};\n"
       }
     }
   ]

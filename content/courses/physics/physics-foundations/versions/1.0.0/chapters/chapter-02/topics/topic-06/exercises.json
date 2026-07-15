@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Dimensional Formula.",
-      "solution": "Step-by-step solution for Dimensional Formula problem.",
+      "id": "exercise-01",
+      "type": "write",
+      "title": "Write Dimensional Formulas",
+      "content": "Write the dimensional formula for: (1) acceleration  (2) force  (3) work/energy. (Hint: start with definitions)",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Acceleration = velocity/time = [L T⁻¹]/[T]",
+        "Force = mass × acceleration",
+        "Work = force × distance"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "dimensional-formula"
-      ]
+      "tags": ["construction"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Dimensional Formula to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "decode",
+      "title": "Decode the Formula",
+      "content": "What physical quantity has dimensional formula [M L T⁻²]? What about [M L² T⁻²]?",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "First one is a force",
+        "Second one is energy",
+        "Think about what base units go together"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "dimensional-formula"
-      ]
+      "tags": ["recognition"]
     }
   ]
 }

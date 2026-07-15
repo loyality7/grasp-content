@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Improper Fractions",
   "topicId": "mathematics.arithmetic.chapter-05.topic-02",
-  "description": "Learn about Improper Fractions and its applications in mathematics.",
+  "description": "Learn the definition of improper fractions, how they represent values equal to or greater than one whole, and how to identify them.",
   "content": {
-    "overview": "Improper Fractions is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Improper Fractions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Improper Fractions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "An improper fraction is a fraction where the numerator (top number) is greater than or equal to the denominator (bottom number). It represents a value that is equal to or greater than 1 whole.",
+    "explanation": "### What is an Improper Fraction?\n\nIn a proper fraction, we count parts that are less than a single whole. But what happens if we have more parts than make up one whole? \n\nFor example, if you slice pizzas into 4 equal quarters, and you have **5 quarters** in total, you have more than one whole pizza! We write this quantity as:\n\n$$\\frac{5}{4}$$\n\nHere, the numerator (5) is larger than the denominator (4). This is an **improper fraction**.\n\n### The Numerator-Denominator Relationship\n\nA fraction $\\frac{n}{d}$ is classified as improper when:\n\n$$\\text{Improper Fraction Condition: } n \\ge d \\quad (\\text{where } d \\neq 0)$$\n\n{{viz:formula-01}}\n\n### Key Characteristics of Improper Fractions\n\n1.  **Value is $\\ge 1$**: Since the numerator is equal to or greater than the denominator, the fraction represents **at least 1 whole**.\n    -   *Equal to 1*: When $n = d$. For example, $\\frac{3}{3} = 1$ whole, and $\\frac{8}{8} = 1$ whole. These are classified as improper fractions.\n    -   *Greater than 1*: When $n > d$. For example, $\\frac{7}{3}$ represents 2 wholes and $\\frac{1}{3}$ left over.\n2.  **Conversion**: Every improper fraction can also be written as a combination of a whole number and a proper fraction (called a **mixed number**).\n\n-   *Examples of Improper Fractions*:\n    -   $\\frac{4}{3}$ (Four-thirds: 4 is greater than 3)\n    -   $\\frac{9}{5}$ (Nine-fifths: 9 is greater than 5)\n    -   $\\frac{6}{6}$ (Six-sixths: 6 is equal to 6)\n\n### Visualizing Improper Fractions\n\nTo draw an improper fraction like $\\frac{5}{4}$, we draw multiple wholes, divide each whole into 4 equal parts, and then shade 5 parts in total. This clearly shows we have 1 fully shaded whole plus $\\frac{1}{4}$ of a second whole.\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "In an improper fraction, the numerator is greater than or equal to the denominator.",
+      "Improper fractions represent quantities that are greater than or equal to 1 whole.",
+      "Fractions where the numerator equals the denominator (like 3/3) are classified as improper fractions.",
+      "Improper fractions can be rewritten as mixed numbers."
     ],
-    "whyItMatters": "Improper Fractions is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Improper fractions are often easier to use in calculations (addition, multiplication, and division) than mixed numbers, making them the preferred form for intermediate algebraic and mathematical work."
   },
   "availableLanguages": [
     "en"

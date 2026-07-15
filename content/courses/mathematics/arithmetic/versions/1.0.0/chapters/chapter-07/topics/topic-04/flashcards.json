@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Decrease Percentage?",
-      "back": "Decrease Percentage is a fundamental concept in mathematics.",
+      "front": "What are the two steps for calculating a percentage decrease?",
+      "back": "1. Find the percentage of the original number. \n2. Subtract that decrease amount from the original number.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Decrease Percentage important?",
-      "back": "Decrease Percentage is essential for understanding Arithmetic.",
+      "front": "What is the decimal multiplier for a $35\\%$ decrease?",
+      "back": "$0.65$ (since $100\\% - 35\\% = 65\\% \\to 0.65$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the decimal multiplier for a $5\\%$ decrease?",
+      "back": "$0.95$ (be careful: $0.5$ represents a $50\\%$ decrease).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "If an item decreases in price by $50\\%$, what has happened to its price?",
+      "back": "The price has been cut in half.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Why is the final percentage after a $20\\%$ decrease considered $80\\%$?",
+      "back": "Because losing $20\\%$ from the starting $100\\%$ leaves exactly $80\\%$ of the value.",
+      "difficulty": "easy"
     }
   ]
 }

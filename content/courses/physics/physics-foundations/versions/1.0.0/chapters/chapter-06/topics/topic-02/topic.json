@@ -2,16 +2,18 @@
   "id": "topic-02",
   "name": "Polar Coordinates",
   "topicId": "physics.physics-foundations.chapter-06.topic-02",
-  "description": "Learn about Polar Coordinates and its applications in physics.",
+  "description": "Describing positions using distance and angle from a central point (center, not axes).",
   "content": {
-    "overview": "Polar Coordinates is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Polar Coordinates. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Polar Coordinates requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Instead of 'go right 3 units, up 4 units,' you say 'go 5 units in the direction 53 degrees.' That's polar! Distance + angle = position. {{viz:diagram-01}}",
+    "explanation": "Polar coordinates answer two questions differently than Cartesian:\n- How far from the center? (r = radius/distance)\n- At what angle? (θ = theta, the angle)\n\nSo a point is (r, θ) instead of (x, y). {{viz:diagram-02}}\n\n**Example:** A point at Cartesian (3, 4) is at polar (5, 53°). Distance 5 from origin, at angle 53°.\n\n**When is polar better?** When something circles around a point. Like orbits, spinning objects, waves spreading from a center. {{viz:anim-01}}\n\nImagine a radar screen. The center is the origin. Blips show up as (distance, angle). That's polar! Much better than saying (x, y) for circular things. {{viz:chart-01}}\n\nCartesian says 'go sideways then up.' Polar says 'go this far in this direction.' Both describe the same spot, just different ways.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Polar = position using (r, θ) where r is distance, θ is angle",
+      "r = radius from origin",
+      "θ = angle (usually from 0° to 360°)",
+      "Better for circular/orbital problems",
+      "Can convert between Cartesian and polar"
     ],
-    "whyItMatters": "Polar Coordinates is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Circular motion, orbits, rotations—all easier in polar. Some physics problems become simple in polar that are complicated in Cartesian."
   },
   "availableLanguages": [
     "en"

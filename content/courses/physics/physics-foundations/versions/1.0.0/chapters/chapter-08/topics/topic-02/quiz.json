@@ -3,28 +3,20 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Variables?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "question": "In 'test if ramp angle affects rolling speed,' what's independent?",
+      "options": ["Rolling speed", "Ramp angle", "Ball type", "Surface"],
+      "correctIndex": 1,
+      "explanation": "Independent = what you change. You change the angle.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Variables is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
+      "question": "Control variables should be different in each trial.",
+      "options": ["True", "False"],
       "correctIndex": 1,
-      "explanation": "Variables has many practical applications.",
-      "difficulty": "easy"
+      "explanation": "No! Control variables must STAY THE SAME. Otherwise you won't know what caused results.",
+      "difficulty": "medium"
     }
   ]
 }

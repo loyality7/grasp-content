@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Division.",
-      "solution": "Step-by-step solution for Division problem.",
+      "prompt": "Evaluate: **$732 \\div 4$** using long division. Verify if it divides evenly.",
+      "solution": "1. Set up the long division:\n   $$4 \\overline{) \\phantom{0}732}$$\n2. Divide step-by-step:\n   - **7 divided by 4**: Goes $1$ time. Subtract $4$ to leave $3$. Bring down the $3$ to make $33$.\n   - **33 divided by 4**: Goes $8$ times ($8 \\times 4 = 32$). Subtract $32$ to leave $1$. Bring down the $2$ to make $12$.\n   - **12 divided by 4**: Goes exactly $3$ times ($3 \\times 4 = 12$). Subtract $12$ to leave $0$.\n\n$$\\begin{array}{rll}\n  \\phantom{0}183 & \\\\\n  4 \\overline{) \\phantom{0}732} \\\\\n  -4 \\phantom{00} \\\\\n  \\hline\n  \\phantom{0}33 \\phantom{0} \\\\\n  -32 \\phantom{0} \\\\\n  \\hline\n  \\phantom{00}12 \\\\\n  -12 \\\\\n  \\hline\n  \\phantom{000}0\n\\end{array}$$\n\nSince the remainder is $0$, it divides evenly.\n\n**Answer**: $183$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Divide digit by digit from left to right.",
+        "Check each multiplication step: $1 \\times 4$, $8 \\times 4$, $3 \\times 4$.",
+        "A remainder of zero means the division is exact."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "division"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Division", "Algorithm"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Division to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "An event coordinator needs to seat **148** guests at tables. Each table can accommodate up to **6** guests. What is the minimum number of tables needed to seat everyone?",
+      "solution": "1. Divide total guests by guests per table: $148 \\div 6$.\n   - $14 \\div 6 = 2$ with remainder $2$. Bring down $8 \\to 28$.\n   - $28 \\div 6 = 4$ with remainder $4$ ($4 \\times 6 = 24$, $28 - 24 = 4$).\n   - So, $148 \\div 6 = 24$ tables with a remainder of $4$ guests.\n2. Since the 4 leftover guests also need seats, we must add one extra table:\n   $$\\text{Total Tables} = 24 + 1 = 25$$\n\n**Answer**: The coordinator needs **25 tables**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Divide 148 by 6 to find how many full tables of 6 can be seated.",
+        "Think about what to do with the leftover guests—do they also need a table?"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Division", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why division by zero (e.g., $5 \\div 0$) is mathematically **undefined** using the inverse relationship of division and multiplication.",
+      "solution": "By definition, division is the inverse of multiplication. If $a \\div b = c$, then it must be true that:\n\n$$c \\times b = a$$\n\nIf we try to divide $5$ by $0$, let's assume there is a number $c$ such that:\n\n$$5 \\div 0 = c$$\n\nThis means that:\n\n$$c \\times 0 = 5$$\n\nHowever, by the Zero Property of Multiplication, any number multiplied by zero is always zero ($c \\times 0 = 0$). It is impossible for $c \\times 0$ to equal $5$.\n\nSince no number can satisfy this equation, we say that division by zero is **undefined**.\n\n**Answer**: Division by zero is undefined because there is no number that, when multiplied by 0, can equal the dividend.",
+      "hints": [
+        "Rewrite the division equation $5 \\div 0 = c$ as a multiplication equation.",
+        "Recall what happens when you multiply any number by zero."
       ],
       "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "division"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Division", "Concept"]
     }
   ]
 }

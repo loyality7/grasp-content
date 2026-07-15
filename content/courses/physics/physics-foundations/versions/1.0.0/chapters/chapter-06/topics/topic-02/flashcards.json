@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Polar Coordinates?",
-      "back": "Polar Coordinates is a fundamental concept in physics.",
+      "front": "What does (5, 45°) mean in polar?",
+      "back": "Distance 5 from origin, at angle 45°.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Polar Coordinates important?",
-      "back": "Polar Coordinates is essential for understanding Physics Foundations.",
+      "front": "What's 'r' in polar (r, θ)?",
+      "back": "Radius—distance from the center origin.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "When use polar instead of Cartesian?",
+      "back": "Circular, orbital, or rotating systems. Things centered on a point.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "Convert (3, 4) Cartesian to polar",
+      "back": "r = 5, θ ≈ 53°. Use r = √(x²+y²) and θ = arctan(y/x).",
       "difficulty": "medium"
     }
   ]

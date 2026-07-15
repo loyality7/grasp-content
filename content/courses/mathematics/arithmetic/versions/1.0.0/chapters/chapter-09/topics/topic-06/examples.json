@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Scientific Notation",
-      "content": "A practical example demonstrating Scientific Notation",
-      "source": "Generated",
+      "title": "Converting a Large Number to Scientific Notation",
+      "content": "The average distance from the Earth to the Sun is approximately **$150,000,000\\text{ kilometers}$**. Express this distance in scientific notation.\n\n### Step-by-Step Solution\n\n1.  **Identify where the decimal point is initially**:\n    In a whole number, the decimal point sits at the very end:\n    $$150,000,000.$$\n\n2.  **Move the decimal point to the left**:\n    Shift the decimal leftward until there is exactly one non-zero digit to its left:\n    -   Move 1, 2, 3 places: $150,000.$\n    -   Move 4, 5, 6 places: $150.000$\n    -   Move 7 places: $15.0$\n    -   Move 8 places: $1.5$\n    We stop here because $1.5$ is between $1$ and $10$.\n\n3.  **Count the moves to determine the exponent**:\n    We shifted the decimal point **$8$ places** to the left. This means our power of $10$ is $10^8$.\n\n4.  **Combine the coefficient and the exponent**:\n    $$1.5 \\times 10^8$$\n\n**Answer**: **$1.5 \\times 10^8\\text{ kilometers}$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "scientific-notation"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Scientific Notation", "Large Numbers"]
+    },
+    {
+      "id": "example-02",
+      "title": "Converting a Small Decimal to Scientific Notation",
+      "content": "The average diameter of a red blood cell is **$0.0000074\\text{ meters}$**. Express this value in scientific notation.\n\n### Step-by-Step Solution\n\n1.  **Locate the starting decimal point**:\n    $$0.0000074$$\n\n2.  **Move the decimal point to the right**:\n    Shift the decimal point to the right until it is placed after the first non-zero digit ($7$):\n    -   Move 1, 2, 3, 4, 5 places: $0.074 \\to 0.74$\n    -   Move 6 places: $7.4$\n    We stop here because $7.4$ is between $1$ and $10$.\n\n3.  **Count the moves to determine the exponent**:\n    We shifted the decimal point **$6$ places** to the right. Because we moved to the right (representing a small number), the exponent is negative:\n    $$\\text{Exponent} = -6$$\n\n4.  **Combine the terms**:\n    $$7.4 \\times 10^{-6}$$\n\n**Answer**: **$7.4 \\times 10^{-6}\\text{ meters}$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Scientific Notation", "Small Numbers"]
     }
   ]
 }

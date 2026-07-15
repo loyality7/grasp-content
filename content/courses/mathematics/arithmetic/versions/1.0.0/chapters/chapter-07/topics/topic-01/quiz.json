@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Percentage Basics?",
+      "question": "What is the literal meaning of the word 'percent'?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Per thousand",
+        "Per hundred",
+        "Half of a whole",
+        "A decimal fraction"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Percent comes from the Latin 'per centum', meaning 'by the hundred' or 'out of 100'.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Percentage Basics is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Express $75\\%$ as a simplified fraction.",
       "options": [
-        "True",
-        "False"
+        "$\\frac{75}{100}$",
+        "$\\frac{7}{5}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "$75\\% = \\frac{75}{100}$. Dividing the numerator and denominator by 25 yields the simplified fraction $\\frac{3}{4}$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of the following is the decimal representation of $4\\%$?",
+      "options": [
+        "0.4",
+        "0.04",
+        "4.0",
+        "0.004"
       ],
       "correctIndex": 1,
-      "explanation": "Percentage Basics has many practical applications.",
+      "explanation": "$4\\% = \\frac{4}{100} = 0.04$. Note that 0.4 represents 40%, not 4%.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "What percentage value represents one complete whole?",
+      "options": [
+        "1%",
+        "10%",
+        "100%",
+        "1000%"
+      ],
+      "correctIndex": 2,
+      "explanation": "A complete whole is $1$ (or $\\frac{100}{100}$), which corresponds to $100\\%$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "If a library shelf holds $100$ books, and $12$ are science fiction, what percentage of the books are NOT science fiction?",
+      "options": [
+        "12%",
+        "88%",
+        "98%",
+        "80%"
+      ],
+      "correctIndex": 1,
+      "explanation": "First find books that are not science fiction: $100 - 12 = 88$. Out of 100 total books, 88 represents $88\\%$.",
+      "difficulty": "medium"
     }
   ]
 }

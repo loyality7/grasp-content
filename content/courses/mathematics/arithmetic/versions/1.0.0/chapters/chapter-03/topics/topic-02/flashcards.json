@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Subtraction?",
-      "back": "Subtraction is a fundamental concept in mathematics.",
+      "front": "What is a Minuend?",
+      "back": "The minuend is the initial quantity or number in a subtraction equation from which another number is subtracted. In $a - b = c$, $a$ is the minuend.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Subtraction important?",
-      "back": "Subtraction is essential for understanding Arithmetic.",
+      "front": "What is a Subtrahend?",
+      "back": "The subtrahend is the quantity or number that is being subtracted or taken away. In $a - b = c$, $b$ is the subtrahend.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is a Difference?",
+      "back": "The difference is the result of subtracting one number from another. In $a - b = c$, $c$ is the difference.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Is Subtraction Commutative?",
+      "back": "No. Subtraction is not commutative because changing the order of the numbers changes the result ($a - b \\neq b - a$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is Borrowing (Regrouping) in Subtraction?",
+      "back": "It is the process of taking 1 unit from a higher place value column to the left (e.g., taking 1 ten and turning it into 10 ones) to subtract a larger digit from a smaller one.",
       "difficulty": "medium"
     }
   ]

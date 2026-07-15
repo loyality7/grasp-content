@@ -1,17 +1,18 @@
 {
   "id": "topic-07",
-  "name": "Decimals ↔ Percentages",
+  "name": "Decimals \u2194 Percentages",
   "topicId": "mathematics.arithmetic.chapter-07.topic-07",
-  "description": "Learn about Decimals ↔ Percentages and its applications in mathematics.",
+  "description": "Learn the simple technique of moving the decimal point two places to convert back and forth between decimals and percentages.",
   "content": {
-    "overview": "Decimals ↔ Percentages is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Decimals ↔ Percentages. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Decimals ↔ Percentages requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Decimals and percentages are both representations of fractional parts. Converting between them only requires shifting the decimal point two places to the left or right, which is mathematically equivalent to dividing or multiplying by 100.",
+    "explanation": "### Converting Decimals to Percentages\n\nTo convert a decimal to a percentage, **multiply by 100** by shifting the decimal point **two places to the right** and appending the `%` sign.\n\n*Examples*:\n-   **$0.35$** becomes **$35\\%$** (decimal shifts right past 3 and 5).\n-   **$0.04$** becomes **$4\\%$** (decimal shifts right past 0 and 4).\n-   **$1.2$** becomes **$120\\%$** (add a trailing zero to make the second jump: $1.20 \\to 120$).\n\n### Converting Percentages to Decimals\n\nTo convert a percentage to a decimal, **divide by 100** by shifting the decimal point **two places to the left** and removing the `%` sign.\n\n*Examples*:\n-   **$78\\%$** (which has an invisible decimal point at the end: $78.0\\%$) becomes **$0.78$** (decimal shifts left past 8 and 7).\n-   **$6\\%$** becomes **$0.06$** (since we only have one digit, add a placeholder zero to the left: $06.0\\% \\to 0.06$).\n-   **$235\\%$** becomes **$2.35$** (shifts left past 5 and 3).\n\n{{viz:formula-01}}\n\n### Visualizing the Decimal Shift\n\nWatch how the decimal point jumps two places to the left or right depending on whether we are converting to a decimal or a percentage:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Decimal to percent: Multiply by 100 (move decimal point 2 places right).",
+      "Percent to decimal: Divide by 100 (move decimal point 2 places left).",
+      "Always fill empty spaces with placeholder zeros if you run out of digits when shifting.",
+      "A decimal greater than 1.0 represents a percentage greater than 100%."
     ],
-    "whyItMatters": "Decimals ↔ Percentages is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Calculators and computer systems work with decimals (e.g., storing a tax rate as 0.08), while humans prefer reading percentages (e.g., 8% tax). Being able to convert between them instantly is a vital real-world skill."
   },
   "availableLanguages": [
     "en"

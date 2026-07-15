@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Scientific Notation?",
+      "question": "Which of the following expressions is written in correct, standard scientific notation?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$35.2 \\times 10^4$",
+        "$0.45 \\times 10^{-3}$",
+        "$4.8 \\times 10^7$",
+        "$8.2 \\times 5^6$"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "In scientific notation, the coefficient must be $\\ge 1$ and $< 10$, and the base must be 10. Only $4.8 \\times 10^7$ fits this pattern ($1 \\le 4.8 < 10$).",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Scientific Notation is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Express the number $35,000$ in scientific notation.",
       "options": [
-        "True",
-        "False"
+        "$35 \\times 10^3$",
+        "$3.5 \\times 10^4$",
+        "$3.5 \\times 10^{-4}$",
+        "$0.35 \\times 10^5$"
       ],
       "correctIndex": 1,
-      "explanation": "Scientific Notation has many practical applications.",
+      "explanation": "To get a coefficient between 1 and 10, we move the decimal point 4 places to the left: $3.5$. Thus, it is $3.5 \\times 10^4$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Convert the scientific notation value $2.1 \\times 10^{-3}$ back to standard decimal form.",
+      "options": [
+        "2,100",
+        "0.021",
+        "0.0021",
+        "0.00021"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since the exponent is negative 3, we move the decimal point in 2.1 to the left by 3 places, yielding $0.0021$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "In standard scientific notation ($a \\times 10^n$), what mathematical constraint is placed on the coefficient $a$?",
+      "options": [
+        "$a$ must be an integer",
+        "$0 < a < 10$",
+        "$1 \\le a < 10$",
+        "$a$ can be any real number"
+      ],
+      "correctIndex": 2,
+      "explanation": "By standard definition, the coefficient $a$ must be greater than or equal to $1$ and strictly less than $10$ ($1 \\le a < 10$).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Express the decimal $0.00008$ in scientific notation.",
+      "options": [
+        "$8 \\times 10^{-4}$",
+        "$8 \\times 10^{-5}$",
+        "$8 \\times 10^5$",
+        "$0.8 \\times 10^{-4}$"
+      ],
+      "correctIndex": 1,
+      "explanation": "We move the decimal point 5 places to the right to place it after the 8: $8.0$. Since we shifted right, the exponent is negative: $8 \\times 10^{-5}$.",
       "difficulty": "easy"
     }
   ]

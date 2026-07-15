@@ -2,16 +2,18 @@
   "id": "topic-02",
   "name": "Vectors",
   "topicId": "physics.physics-foundations.chapter-04.topic-02",
-  "description": "Learn about Vectors and its applications in physics.",
+  "description": "Quantities that have both magnitude AND direction",
   "content": {
-    "overview": "Vectors is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Vectors. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Vectors requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A vector is like an arrow. It has size (magnitude) AND points somewhere (direction). Velocity, force, displacement. {{viz:diagram-01}}",
+    "explanation": "Unlike scalars, vectors need direction. You can't just say 'force is 50.' You need to say 'force is 50 newtons north.' {{viz:diagram-02}}\n\n**What's a Vector?** Magnitude + Direction = Vector.\n\n**How to Write Them:**\nVectors are often written with arrows: **F** (vector F) or **v** (vector velocity)\n\n**Examples of Vectors:** {{viz:anim-01}}\n- **Velocity**: 60 km/h east (not just 60 km/h)\n- **Force**: 100 newtons downward (not just 100 newtons)\n- **Displacement**: 5 meters north (not just 5 meters)\n- **Acceleration**: 9.8 m/s² downward\n\n**Why Direction Matters:** {{viz:chart-01}}\nImagine driving. If you drive 100 km/h north vs 100 km/h south, you end up in completely different places! Same speed (scalar), different velocity (vector).\n\nOr pushing: 50 N upward lifts something. 50 N downward pushes it. Same force magnitude, different direction = totally different result.\n\n**Vectors Have Parts:**\n- **Magnitude**: How much (the number and unit). Example: 50 newtons\n- **Direction**: Where it points. Example: north, upward, at 45°, toward the center\n\n**Drawing Vectors:**\nVectors are drawn as arrows.\n- Arrow length = magnitude (longer arrow = bigger number)\n- Arrow direction = the direction\n\nA vector pointing right with length 5 is different from a vector pointing left with length 5. Both have magnitude 5, but opposite directions.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Vectors have magnitude AND direction",
+      "Velocity, force, displacement are vectors",
+      "Direction matters! 50 N up ≠ 50 N down",
+      "Vectors are drawn as arrows",
+      "Arrow length = magnitude, arrow direction = direction"
     ],
-    "whyItMatters": "Vectors is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Physics is full of vectors. You can't solve motion, forces, or energy problems without understanding them."
   },
   "availableLanguages": [
     "en"

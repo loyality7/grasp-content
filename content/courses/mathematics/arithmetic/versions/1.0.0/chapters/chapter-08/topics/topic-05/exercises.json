@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Direct Proportion.",
-      "solution": "Step-by-step solution for Direct Proportion problem.",
+      "prompt": "A car travels **$150$ miles** in **$3$ hours** at a constant speed. Assuming the relationship is directly proportional, how many miles will it travel in **$5$ hours**?",
+      "solution": "1. **Find the constant speed (unit rate k)**:\n   $$k = \\frac{\\text{Distance}}{\\text{Time}} = \\frac{150 \\text{ miles}}{3 \\text{ hours}} = 50 \\text{ miles per hour}$$\n2. **Write the direct proportion equation**:\n   $$\\text{Distance} = 50 \\times \\text{Time}$$\n3. **Substitute Time = 5 hours**:\n   $$\\text{Distance} = 50 \\times 5 = 250 \\text{ miles}$$\n\n**Answer**: **$250$ miles**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First find how many miles the car travels in 1 hour by dividing 150 by 3.",
+        "Multiply that hourly speed (50 mph) by the 5 hours of travel time."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "direct-proportion"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Direct Proportion", "Word Problems"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Direct Proportion to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "An astronaut weighing **$180$ pounds** on Earth weighs only **$30$ pounds** on the Moon. If moon weight is directly proportional to Earth weight, how much would a satellite weighing **$120$ pounds** on Earth weigh on the Moon?",
+      "solution": "1. **Find the constant of proportionality (k)**:\n   Let $y$ be moon weight and $x$ be Earth weight:\n   $$k = \\frac{y}{x} = \\frac{30}{180} = \\frac{1}{6}$$\n   This means weight on the Moon is $\\frac{1}{6}$ of the weight on Earth.\n2. **Apply the scale factor to the satellite**:\n   $$\\text{Moon Weight} = k \\times \\text{Earth Weight}$$\n   $$\\text{Moon Weight} = \\frac{1}{6} \\times 120 = 20 \\text{ pounds}$$\n\n**Answer**: The satellite would weigh **$20$ pounds** on the Moon.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Find the ratio of moon weight to earth weight (30/180), which simplifies to 1/6.",
+        "Multiply the Earth weight of the satellite (120 lbs) by this fraction."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "direct-proportion"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Direct Proportion", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why the graph of a direct proportion must always pass through the origin $(0, 0)$.",
+      "solution": "1. The equation representing a direct proportion is $y = kx$, where $k$ is a non-zero constant of proportionality.\n2. If we substitute $x = 0$ into this equation, we get:\n   $$y = k \\times 0 = 0$$\n3. The point where $x=0$ and $y=0$ is coordinates $(0,0)$, which is the origin.\n4. Therefore, when the independent quantity is zero, the dependent quantity must also be zero, ensuring the line goes through the origin.\n\n**Answer**: Because substituting $x=0$ in the direct proportion equation $y=kx$ always yields $y=0$, representing the point $(0,0)$.",
+      "hints": [
+        "Consider what the value of y must be when x is 0 in the equation y = kx.",
+        "Remember that the coordinate (0,0) represents the origin point on a graph."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Direct Variation", "Graphing"]
     }
   ]
 }

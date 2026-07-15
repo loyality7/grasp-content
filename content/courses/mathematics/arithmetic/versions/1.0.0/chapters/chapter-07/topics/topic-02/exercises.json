@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Percentage of a Number.",
-      "solution": "Step-by-step solution for Percentage of a Number problem.",
+      "prompt": "Calculate: **$40\\%$ of $150$**.",
+      "solution": "1. **Convert to a decimal**:\n   $$40\\% = 0.40 \\text{ (or } 0.4)$$\n2. **Multiply by the whole**:\n   $$0.4 \\times 150 = 60$$\n3. **Alternative Fraction Method**:\n   $$40\\% = \\frac{40}{100} = \\frac{2}{5}$$\n   $$\\frac{2}{5} \\times 150 = 2 \\times \\frac{150}{5} = 2 \\times 30 = 60$$\n\n**Answer**: **$60$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Translate the problem to: 0.4 times 150.",
+        "You can also use fractions: 40% is equivalent to 2/5. Multiply 2/5 by 150."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "percentage-of-a-number"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Percentage of a Number to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Find **$5\\%$ of $240$** using mental math shortcuts.",
+      "solution": "1. **Find $10\\%$ of $240$ first**:\n   Divide by 10 (move the decimal point one place to the left):\n   $$10\\% \\text{ of } 240 = 24$$\n2. **Find $5\\%$**:\n   Since $5\\%$ is half of $10\\%$, divide the $10\\%$ result by 2:\n   $$5\\% \\text{ of } 240 = 24 \\div 2 = 12$$\n\n**Answer**: **$12$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "What is 10% of 240? Simply divide 240 by 10.",
+        "Since 5% is exactly half of 10%, divide your previous answer by 2."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "percentage-of-a-number"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Mental Math"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A winter jacket originally costs **$45$ dollars** and is on sale for **$20\\%$ off**. How much money (in dollars) do you save with this discount?",
+      "solution": "To find the discount savings, calculate $20\\%$ of $45$:\n1. **Convert percentage to decimal or fraction**:\n   $$20\\% = 0.20 = 0.2 \\quad \\text{or} \\quad 20\\% = \\frac{1}{5}$$\n2. **Perform multiplication**:\n   - **Using decimals**: $0.2 \\times 45 = 9.0 = 9$.\n   - **Using fractions**: $\\frac{1}{5} \\times 45 = 9$.\n\n**Answer**: You save **$9$ dollars**.",
+      "hints": [
+        "The question asks for the discount amount, which is 20% of 45.",
+        "Convert 20% to its simplified fraction equivalent (1/5) or decimal (0.2) and multiply by 45."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
     }
   ]
 }

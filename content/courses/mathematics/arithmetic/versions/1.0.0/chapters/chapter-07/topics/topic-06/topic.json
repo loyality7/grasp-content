@@ -1,17 +1,18 @@
 {
   "id": "topic-06",
-  "name": "Fractions ↔ Percentages",
+  "name": "Fractions \u2194 Percentages",
   "topicId": "mathematics.arithmetic.chapter-07.topic-06",
-  "description": "Learn about Fractions ↔ Percentages and its applications in mathematics.",
+  "description": "Master how to convert fractions to percentages using equivalent denominators or division, and convert percentages back to simplified fractions.",
   "content": {
-    "overview": "Fractions ↔ Percentages is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Fractions ↔ Percentages. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Fractions ↔ Percentages requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Fractions and percentages are two ways of representing portions of a whole. Converting fractions to percentages makes them easier to compare, while converting percentages to fractions simplifies algebraic calculations.",
+    "explanation": "### Converting Fractions to Percentages\n\nThere are two main methods to convert a fraction into a percentage:\n\n#### Method A: Equivalent Denominator (Scale to 100)\nIf the denominator of the fraction is a factor of $100$ (like $2, 4, 5, 10, 20, 25, 50$), you can multiply the top and bottom by the same number to get a denominator of $100$:\n\n$$\\frac{3}{5} = \\frac{3 \\times 20}{5 \\times 20} = \\frac{60}{100} = 60\\%$$\n\n#### Method B: The Division Method\nIf the denominator is not an easy factor of $100$ (like $3$ or $8$), divide the numerator by the denominator using long division to get a decimal, then multiply by $100$ (move the decimal point 2 places to the right):\n\n$$\\frac{3}{8} = 3 \\div 8 = 0.375 \\to 0.375 \\times 100 = 37.5\\%$$\n\n{{viz:formula-01}}\n\n### Converting Percentages to Fractions\n\nTo write a percentage as a fraction:\n1.  **Write the percentage over 100**: Remove the `%` symbol and place the number over a denominator of $100$.\n2.  **Simplify**: Divide both the numerator and denominator by their Greatest Common Divisor.\n\n*Example: Convert $45\\%$ to a simplified fraction*\n-   Write over 100: \n    $$\\frac{45}{100}$$\n-   Simplify (divide numerator and denominator by $5$):\n    $$\\frac{45 \\div 5}{100 \\div 5} = \\frac{9}{20}$$\n\n### Visualizing Fraction-Percentage Equivalence\n\nWatch the water level rise in this cylinder and notice how the fraction level on the left corresponds directly to the percentage on the right:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Fractions convert to percentages by finding an equivalent fraction out of 100 or dividing.",
+      "Percentages convert to fractions by writing the percentage value over 100 and simplifying.",
+      "A percentage greater than 100% represents a fraction greater than 1 (an improper fraction or mixed number).",
+      "Common conversions (like 1/2 = 50%, 1/4 = 25%) should be memorized for quick use."
     ],
-    "whyItMatters": "Fractions ↔ Percentages is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Fractions and percentages are used interchangeably in test scores (e.g., getting 18/20 is 90%), cooking measurements, financial interest rates, and recipe proportions."
   },
   "availableLanguages": [
     "en"

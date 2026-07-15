@@ -2,14 +2,26 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Motion?",
-      "back": "Motion is a fundamental concept in physics.",
+      "front": "What is motion?",
+      "back": "Change in position over time. An object moves when it's in a different location than before.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Motion important?",
-      "back": "Motion is essential for understanding Physics Foundations.",
+      "front": "Is motion absolute or relative?",
+      "back": "Relative! It depends on your reference frame. You're still relative to your chair, but moving relative to the sun.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What 3 things are needed for motion?",
+      "back": "An object, a change in position, and time. All three together = motion.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why does motion matter in mechanics?",
+      "back": "Everything in mechanics—speed, acceleration, forces—builds on motion. It's the foundation.",
       "difficulty": "medium"
     }
   ]

@@ -1,35 +1,31 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Precision.",
-      "solution": "Step-by-step solution for Precision problem.",
+      "id": "exercise-01",
+      "type": "compare",
+      "title": "More Precise?",
+      "content": "Which is more precise: 10.5 m or 10.534 m? Why?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Count the decimal places",
+        "More decimals = more precise"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "precision"
-      ]
+      "tags": ["precision"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Precision to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "thinking",
+      "title": "Precise but Wrong",
+      "content": "A scale always reads 70 kg when you actually weigh 75 kg. Is this precise? Is it accurate? Explain both.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Precise = consistent/exact",
+        "Accurate = close to true value",
+        "Can both be true/false at once?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "precision"
-      ]
+      "tags": ["understanding"]
     }
   ]
 }

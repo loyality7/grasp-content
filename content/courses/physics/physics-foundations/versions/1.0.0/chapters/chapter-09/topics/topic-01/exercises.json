@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Unit Checking.",
-      "solution": "Step-by-step solution for Unit Checking problem.",
+      "id": "exercise-01",
+      "type": "spot-the-error",
+      "title": "Find the Wrong Answer",
+      "content": "Three students calculated acceleration. Who got the right units? A) 5 m/s, B) 10 m/s², C) 8 kg",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Acceleration has units m/s²",
+        "Distance per time squared",
+        "Check which matches"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "unit-checking"
-      ]
+      "tags": ["unit-checking"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Unit Checking to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "verify",
+      "title": "Unit Check Your Own Answer",
+      "content": "Calculate F = 10 kg × 2 m/s². Write out your answer with units. Is it in kg·m/s² or kg·m/s or kg·m?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Multiply the units: kg × m/s²",
+        "Force is kg·m/s²",
+        "That's also called a Newton"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "unit-checking"
-      ]
+      "tags": ["force"]
     }
   ]
 }

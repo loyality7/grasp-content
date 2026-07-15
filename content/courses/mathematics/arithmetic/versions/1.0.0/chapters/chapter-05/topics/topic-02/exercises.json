@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Improper Fractions.",
-      "solution": "Step-by-step solution for Improper Fractions problem.",
+      "prompt": "For the fraction **$\\frac{9}{4}$**:\n1. Identify the numerator and denominator.\n2. Determine if it is proper or improper and explain why.\n3. How many full wholes are contained in this fraction?",
+      "solution": "1. **Identify terms**:\n   - Numerator (top number) = **9**.\n   - Denominator (bottom number) = **4**.\n2. **Classification**:\n   - Since the numerator (9) is greater than the denominator (4), i.e., $9 \\ge 4$, this is an **improper fraction**.\n3. **Calculate wholes**:\n   - Each whole contains 4 fourths.\n   - $9 \\div 4 = 2$ with a remainder of 1.\n   - So, $\\frac{9}{4}$ contains **2 full wholes** (which is $\\frac{8}{4}$) plus $\\frac{1}{4}$ left over.\n\n**Answer**: Numerator = 9, Denominator = 4. It is an improper fraction because $9 \\ge 4$. It contains 2 full wholes.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Compare the top and bottom numbers.",
+        "Divide the numerator by the denominator to find how many times the denominator fits into the numerator."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "improper-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Improper Fractions"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Improper Fractions to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "You are making cupcakes. Each cupcake tray holds **6 cupcakes** (one whole tray). If you bake **13 cupcakes** in total, write this quantity as a fraction of a tray. Is this fraction proper or improper?",
+      "solution": "1. **Form the fraction**:\n   - One whole tray contains 6 cupcake spaces, so the denominator $d = 6$.\n   - The total number of cupcakes baked is 13, so the numerator $n = 13$.\n   - The fraction is:\n     $$\\frac{13}{6}$$\n2. **Classify**:\n   - Since the numerator (13) is greater than the denominator (6), i.e., $13 \\ge 6$, it is an **improper fraction**.\n   - It represents more than 2 full trays of cupcakes ($13 \\div 6 = 2$ trays and $1$ cupcake left over).\n\n**Answer**: **$\\frac{13}{6}$**, which is an **improper fraction**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "The size of one whole unit (one tray) determines the denominator.",
+        "The number of parts you actually have determines the numerator."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "improper-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "If a fraction's numerator is exactly equal to its denominator (and not zero), what is its value? Why is it classified as an improper fraction?",
+      "solution": "If the numerator is equal to the denominator (e.g., $\\frac{7}{7}$), the fraction represents taking all the pieces of a divided whole, which equals **exactly 1 whole**.\n\nIt is classified as an **improper fraction** because the definition of an improper fraction $\\frac{n}{d}$ is that the numerator is greater than *or equal to* the denominator ($n \\ge d$). Since proper fractions must represent values strictly less than 1, a fraction equal to 1 cannot be proper; thus, it is grouped with improper fractions.\n\n**Answer**: Its value is exactly 1. It is classified as improper because its numerator is equal to its denominator ($n = d$), which violates the proper fraction rule of $n < d$.",
+      "hints": [
+        "Think of a fraction like $\\frac{5}{5}$. If you eat 5 out of 5 slices of a pizza, how much pizza did you eat?",
+        "Recall the condition for proper fractions ($n < d$). If $n = d$, does it fit the definition?"
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Improper Fractions", "Concepts"]
     }
   ]
 }

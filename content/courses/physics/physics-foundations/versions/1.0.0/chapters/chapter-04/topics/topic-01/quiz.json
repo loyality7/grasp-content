@@ -3,27 +3,24 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Scalars?",
+      "question": "What is a scalar?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A quantity with magnitude and direction",
+        "A quantity with only magnitude, no direction",
+        "An arrow in space",
+        "A type of vector"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "A scalar has only magnitude. Mass, temperature, time are scalars. Vectors have both magnitude and direction.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Scalars is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctIndex": 1,
-      "explanation": "Scalars has many practical applications.",
+      "question": "Temperature is a scalar.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes! Temperature is definitely a scalar. You can't have 25°C pointing north.",
       "difficulty": "easy"
     }
   ]

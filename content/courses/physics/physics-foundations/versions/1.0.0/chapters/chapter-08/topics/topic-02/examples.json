@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Variables",
-      "content": "A practical example demonstrating Variables",
-      "source": "Generated",
+      "title": "Ball Bounce Height",
+      "content": "Independent: ball type. Dependent: bounce height. Control: drop height, surface, temperature.",
+      "source": "Bouncing",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "variables"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["variables"]
+    },
+    {
+      "id": "example-02",
+      "title": "Water Freezing",
+      "content": "Independent: water type (tap, salt, sugar). Dependent: freezing time. Control: volume, starting temperature, container.",
+      "source": "Freezing",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["variables"]
+    },
+    {
+      "id": "example-03",
+      "title": "Pendulum Swings",
+      "content": "Independent: bob mass. Dependent: period (swing time). Control: length, angle, location.",
+      "source": "Pendulum",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["variables"]
     }
   ]
 }

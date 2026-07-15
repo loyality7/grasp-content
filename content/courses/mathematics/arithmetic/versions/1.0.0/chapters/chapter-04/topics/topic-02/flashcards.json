@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Multiples?",
-      "back": "Multiples is a fundamental concept in mathematics.",
+      "front": "What is a Multiple?",
+      "back": "The product of a given whole number and any other whole number. For example, 15 is a multiple of 5 because $5 \\times 3 = 15$.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Multiples important?",
-      "back": "Multiples is essential for understanding Arithmetic.",
+      "front": "What is the relationship between skip counting and multiples?",
+      "back": "Skip counting by a number $N$ generates the sequence of positive multiples of $N$ ($N, 2N, 3N, 4N, \\dots$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Are the multiples of a number finite or infinite?",
+      "back": "Infinite. You can multiply a whole number by larger and larger integers without end.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How do you distinguish a factor from a multiple?",
+      "back": "A factor divides the number evenly (smaller/equal, e.g., factors of 6 are 1, 2, 3, 6). A multiple is the result of multiplying the number (larger/equal, e.g., multiples of 6 are 6, 12, 18, ...).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the smallest positive multiple of a number $N$?",
+      "back": "The number $N$ itself, since $N \\times 1 = N$.",
+      "difficulty": "easy"
     }
   ]
 }

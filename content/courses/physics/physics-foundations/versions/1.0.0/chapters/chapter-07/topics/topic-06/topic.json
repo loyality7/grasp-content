@@ -2,16 +2,19 @@
   "id": "topic-06",
   "name": "Proportionality",
   "topicId": "physics.physics-foundations.chapter-07.topic-06",
-  "description": "Learn about Proportionality and its applications in physics.",
+  "description": "When two quantities change together in a predictable way (direct or inverse)",
   "content": {
-    "overview": "Proportionality is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Proportionality. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Proportionality requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Proportionality is when one quantity depends on another in a simple, predictable way. Either both increase together or one increases while the other decreases. {{viz:diagram-01}}",
+    "explanation": "There are two main types: {{viz:chart-01}}\n\n**Direct Proportionality:** y ∝ x (or y = kx)\n- As x increases, y increases\n- Same constant ratio\n- Example: distance = speed × time (at constant speed)\n- Example: force = mass × acceleration\n- Graph: straight line through the origin {{viz:anim-01}}\n\n**Inverse Proportionality:** y ∝ 1/x (or y = k/x)\n- As x increases, y decreases\n- The product stays constant\n- Example: pressure × volume = constant (gas at constant temperature)\n- Example: brightness ∝ 1/distance² (light spreading out)\n- Graph: hyperbola (curved)\n\n**How to recognize proportionality:**\n1. Set up the relationship: y = kx (direct) or xy = k (inverse)\n2. Find the constant k from one data point\n3. Use it to predict other values\n\n**Why proportionality matters:**\n- Super common in physics\n- Makes calculations easy\n- Shows that things are related\n- Lets you predict one from the other\n\nProportionality is like a shortcut: if you know the constant, you know everything about the relationship.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Direct proportionality: y = kx (both increase together)",
+      "Inverse proportionality: y = k/x (one up, one down)",
+      "k is the constant of proportionality",
+      "Direct: straight line through origin",
+      "Inverse: hyperbola curve",
+      "Very common in physics laws"
     ],
-    "whyItMatters": "Proportionality is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Many physics laws are proportional relationships. Recognizing them makes physics much easier."
   },
   "availableLanguages": [
     "en"

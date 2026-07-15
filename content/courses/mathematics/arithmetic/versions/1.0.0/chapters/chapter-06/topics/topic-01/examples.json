@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Decimal Place Value",
-      "content": "A practical example demonstrating Decimal Place Value",
-      "source": "Generated",
+      "title": "Writing a Decimal in Expanded Form",
+      "content": "Write the decimal number **$5.082$** in expanded form as both decimals and fractions.\n\n### Step-by-Step Solution\n\n1.  **Analyze the place value of each digit**:\n    -   **5** is in the Ones place $\\to 5$\n    -   **0** is in the Tenths place $\\to 0$\n    -   **8** is in the Hundredths place $\\to 0.08 = \\frac{8}{100}$\n    -   **2** is in the Thousandths place $\\to 0.002 = \\frac{2}{1000}$\n\n2.  **Write as a sum of decimals (decimal expanded form)**:\n    Do not include the term with 0:\n    $$5.082 = 5 + 0.08 + 0.002$$\n\n3.  **Write as a sum of fractions (fractional expanded form)**:\n    $$5.082 = 5 + \\frac{8}{100} + \\frac{2}{1000}$$\n    *(Or using factors: $5 \\times 1 + 8 \\times \\frac{1}{100} + 2 \\times \\frac{1}{1000}$)*\n\n**Answer**:\n-   Decimal form: **$5 + 0.08 + 0.002$**\n-   Fractional form: **$5 + \\frac{8}{100} + \\frac{2}{1000}$**",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "decimal-place-value"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Place Value", "Expanded Form"]
+    },
+    {
+      "id": "example-02",
+      "title": "Finding a Specific Digit's Value",
+      "content": "For the number **$14.872$**:\n1.  State the name of the place value containing the digit **7**.\n2.  What is the numerical value represented by that digit?\n\n### Step-by-Step Solution\n\n1.  **Determine the place value**:\n    Let's write out the positions of the digits to the right of the decimal point:\n    -   First digit after point (8) is Tenths.\n    -   Second digit after point (7) is **Hundredths**.\n    -   Third digit after point (2) is Thousandths.\n    -   Therefore, the digit 7 is in the **Hundredths** place.\n\n2.  **Calculate the numerical value**:\n    The digit is 7, and its place value is hundredths, which means we multiply the digit by $\\frac{1}{100}$ (or $0.01$):\n    $$\\text{Value} = 7 \\times 0.01 = 0.07$$\n    $$\\text{Value} = \\frac{7}{100}$$\n\n**Answer**: The digit 7 is in the **Hundredths** place, and its value is **$0.07$** (or **$\\frac{7}{100}$**).",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Place Value"]
     }
   ]
 }

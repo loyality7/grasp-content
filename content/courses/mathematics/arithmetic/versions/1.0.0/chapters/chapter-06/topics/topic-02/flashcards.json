@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Comparing Decimals?",
-      "back": "Comparing Decimals is a fundamental concept in mathematics.",
+      "front": "How do trailing zeros affect a decimal's value?",
+      "back": "They do not change the value. For example, $0.5 = 0.50 = 0.500$.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Comparing Decimals important?",
-      "back": "Comparing Decimals is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is the first step in comparing two decimals?",
+      "back": "Align the decimal points vertically, and pad the shorter decimal with trailing zeros so they have the same length.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Is $0.7$ larger or smaller than $0.68$?",
+      "back": "Larger, because $0.7 = 0.70$, and 70 hundredths is greater than 68 hundredths.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Does a decimal with more digits always have a larger value?",
+      "back": "No. In decimals, value is determined by place value from left to right, not the number of digits (e.g., $0.9 > 0.1234$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "How do you test if two decimals are equal?",
+      "back": "Compare them digit by digit from left to right after aligning their place values; they are equal if all digits match.",
+      "difficulty": "easy"
     }
   ]
 }

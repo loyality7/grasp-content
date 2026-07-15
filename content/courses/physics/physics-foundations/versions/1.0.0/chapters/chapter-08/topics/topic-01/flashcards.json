@@ -2,14 +2,20 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Experimental Design?",
-      "back": "Experimental Design is a fundamental concept in physics.",
+      "front": "What's the most important rule in experimental design?",
+      "back": "Change ONE variable, keep everything else the same.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Experimental Design important?",
-      "back": "Experimental Design is essential for understanding Physics Foundations.",
+      "front": "Why do you run multiple trials?",
+      "back": "Luck happens once. Multiple trials show the real pattern, not accidents.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What's a 'controlled variable'?",
+      "back": "Something you keep the same so it doesn't mess up your results. Example: use the same ball for all tests.",
       "difficulty": "medium"
     }
   ]

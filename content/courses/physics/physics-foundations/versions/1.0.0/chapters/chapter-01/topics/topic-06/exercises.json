@@ -1,35 +1,46 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Measurement & Observation.",
-      "solution": "Step-by-step solution for Measurement & Observation problem.",
+      "id": "exercise-01",
+      "type": "observation",
+      "title": "Find the Limits of Your Tools",
+      "content": "Take any measuring tool (ruler, scale, thermometer, stopwatch). What's the smallest change it can measure? What's the biggest? Report: 'This [tool] can measure from [min] to [max] with precision of [amount].'",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Look for the smallest markings",
+        "Try to read between the lines—can you?",
+        "What's one step on the scale?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "measurement-observation"
-      ]
+      "tags": ["observation", "tools"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Measurement & Observation to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "measurement",
+      "title": "Measure Something Twice, Get Twice",
+      "content": "Measure something (length, mass, time) with the same tool, the same way, twice. Do you get the same answer? Why or why not?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Measurements might vary slightly",
+        "Why would they vary?",
+        "What counts as 'the same'?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "measurement-observation"
-      ]
+      "tags": ["variability"]
+    },
+    {
+      "id": "exercise-03",
+      "type": "thinking",
+      "title": "Good Measurement Report",
+      "content": "Write how you'd report a measurement properly, including uncertainty. Example: 'The ball's mass is 250g ± 5g (measured with a bathroom scale).'",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "hints": [
+        "Include: the value, the uncertainty, the tool",
+        "Why is the uncertainty important?",
+        "How did you estimate the uncertainty?"
+      ],
+      "tags": ["reporting"]
     }
   ]
 }

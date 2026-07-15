@@ -2,29 +2,30 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "multiple-choice",
-      "question": "Which statement best describes Polar Coordinates?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
+      "type": "true-false",
+      "question": "In polar (r, θ), r is the distance from the origin.",
+      "options": ["True", "False"],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Yes, r (radius) is always distance from center. θ is the angle.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Polar Coordinates is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
+      "type": "multiple-choice",
+      "question": "Which system is best for circular motion?",
+      "options": ["Cartesian", "Polar", "They're equal", "Depends on speed"],
       "correctIndex": 1,
-      "explanation": "Polar Coordinates has many practical applications.",
+      "explanation": "Polar is perfect for circles. Distance stays constant, only angle changes.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "true-false",
+      "question": "Angles in polar are always 0° to 360°.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Usually yes, 0° to 360° covers all directions. Sometimes extended beyond.",
+      "difficulty": "medium"
     }
   ]
 }

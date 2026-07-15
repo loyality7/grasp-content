@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Simplifying Fractions?",
-      "back": "Simplifying Fractions is a fundamental concept in mathematics.",
+      "front": "What is Simplest Form (Lowest Terms)?",
+      "back": "The state of a fraction where the numerator and denominator share no common factors other than 1.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Simplifying Fractions important?",
-      "back": "Simplifying Fractions is essential for understanding Arithmetic.",
+      "front": "What does it mean for two numbers to be coprime?",
+      "back": "It means their greatest common divisor (GCD) is 1. When a fraction's numerator and denominator are coprime, the fraction is in simplest form.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you simplify a fraction in a single step?",
+      "back": "Divide both the numerator and the denominator by their Greatest Common Divisor (GCD).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How does repeated division help simplify a fraction?",
+      "back": "By dividing by any easy-to-spot common factor (like 2, 3, or 5) repeatedly until no more common factors exist.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Does simplifying a fraction change its value?",
+      "back": "No. It creates an equivalent fraction representing the exact same quantity, but written with the smallest possible whole numbers.",
+      "difficulty": "easy"
     }
   ]
 }

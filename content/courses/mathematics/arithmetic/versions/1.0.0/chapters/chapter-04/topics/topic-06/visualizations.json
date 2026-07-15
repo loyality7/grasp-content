@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Greatest Common Divisor (GCD/HCF) Flowchart",
-      "description": "Flowchart showing Greatest Common Divisor (GCD/HCF) process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Greatest Common Divisor (GCD/HCF)",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Greatest Common Divisor (GCD/HCF) Formula",
-      "description": "Mathematical definition",
+      "title": "Greatest Common Divisor Definition",
+      "description": "The largest element in the intersection of the factor sets of two numbers.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{GCD}(a, b) = \\max \\left( \\text{Factors}(a) \\cap \\text{Factors}(b) \\right)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\text{Factors}(a) \\cap \\text{Factors}(b)",
+            "explanation": "Intersection: The set of all positive integers that divide both a and b evenly."
+          },
+          {
+            "latex": "\\max",
+            "explanation": "Maximum: Selecting the single largest value in that shared set."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Greatest Common Divisor (GCD/HCF) 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Greatest Common Divisor (GCD/HCF) Animation",
-      "description": "Canvas animation",
+      "title": "Venn Diagram of Common Factors",
+      "description": "Watch how the factors of 12 and 18 are sorted, highlighting the common factors {1, 2, 3, 6} in the overlap and identifying 6 as the GCD.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Greatest Common Divisor (GCD/HCF) Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Greatest Common Divisor (GCD/HCF).",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Greatest Common Divisor (GCD/HCF) Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Greatest Common Divisor (GCD/HCF) Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Greatest Common Divisor (GCD/HCF)",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 8000;\n    var progress = (t % duration) / duration;\n\n    var centerX1 = W / 2 - 45;\n    var centerX2 = W / 2 + 45;\n    var centerY = H / 2 + 10;\n    var radius = 70;\n\n    // Phase boundaries\n    var p1 = 0.20; // 0 to 2s: draw empty circles\n    var p2 = 0.60; // 2s to 6s: animate numbers flying into positions\n    var p3 = 0.90; // 6s to 9s: highlight overlap and pulse 6\n\n    // Draw Venn Circles\n    ctx.lineWidth = 2.5;\n    \n    // Left Circle (12)\n    ctx.strokeStyle = '#3B82F6';\n    ctx.beginPath();\n    ctx.arc(centerX1, centerY, radius, 0, Math.PI * 2);\n    ctx.stroke();\n\n    // Right Circle (18)\n    ctx.strokeStyle = '#EC4899';\n    ctx.beginPath();\n    ctx.arc(centerX2, centerY, radius, 0, Math.PI * 2);\n    ctx.stroke();\n\n    // Labels above circles\n    ctx.fillStyle = '#9CA3AF';\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n    ctx.fillText('Factors of 12', centerX1 - 15, centerY - radius - 15);\n    ctx.fillText('Factors of 18', centerX2 + 15, centerY - radius - 15);\n\n    // Sorted factors data\n    var items = [\n      { val: 4, endX: centerX1 - 35, endY: centerY - 15, delay: 0.15 },\n      { val: 12, endX: centerX1 - 35, endY: centerY + 15, delay: 0.22 },\n      { val: 9, endX: centerX2 + 35, endY: centerY - 15, delay: 0.18 },\n      { val: 18, endX: centerX2 + 35, endY: centerY + 15, delay: 0.25 },\n      // Overlap\n      { val: 1, endX: W / 2, endY: centerY - 40, delay: 0.30 },\n      { val: 2, endX: W / 2, endY: centerY - 15, delay: 0.35 },\n      { val: 3, endX: W / 2, endY: centerY + 10, delay: 0.40 },\n      { val: 6, endX: W / 2, endY: centerY + 35, delay: 0.45, isGCD: true }\n    ];\n\n    // Draw elements\n    for (var i = 0; i < items.length; i++) {\n      var item = items[i];\n      \n      // Calculate fly-in transition\n      var itemProgress = Math.max(0, Math.min(1.0, (progress - item.delay) / 0.2));\n      var startX = item.val <= 12 && !item.isGCD && item.val !== 1 && item.val !== 2 && item.val !== 3 ? 30 : W - 30;\n      if (item.val === 1 || item.val === 2 || item.val === 3 || item.isGCD) startX = W / 2;\n      var startY = H - 25;\n\n      var curX = startX + (item.endX - startX) * itemProgress;\n      var curY = startY + (item.endY - startY) * itemProgress;\n\n      if (progress > item.delay) {\n        if (item.isGCD && progress >= p2) {\n          // Glow / Pulse the GCD (6)\n          var pulse = 1 + Math.sin(t * 0.015) * 0.15;\n          ctx.fillStyle = '#10B981';\n          ctx.font = 'bold ' + Math.floor(18 * pulse) + 'px -apple-system, sans-serif';\n          ctx.fillText(item.val.toString(), curX, curY);\n          \n          // Draw small highlight ring\n          ctx.strokeStyle = '#34D399';\n          ctx.lineWidth = 1.5;\n          ctx.beginPath();\n          ctx.arc(curX, curY - 1, 12 * pulse, 0, Math.PI * 2);\n          ctx.stroke();\n        } else {\n          ctx.fillStyle = (item.endX === W / 2) ? '#34D399' : '#F3F4F6'; // Green for common factors\n          ctx.font = 'bold 14px -apple-system, sans-serif';\n          ctx.fillText(item.val.toString(), curX, curY);\n        }\n      }\n    }\n\n    // Helper bottom text\n    ctx.fillStyle = '#FBBF24';\n    ctx.font = 'bold 16px -apple-system, sans-serif';\n    if (progress < p1) {\n      ctx.fillText('Analyzing factors...', W / 2, centerY - radius - 45);\n    } else if (progress < p2) {\n      ctx.fillText('Sorting factors into Venn Diagram', W / 2, centerY - radius - 45);\n    } else {\n      ctx.fillText('GCD(12, 18) = 6', W / 2, centerY - radius - 45);\n    }\n  }\n};\n"
       }
     }
   ]

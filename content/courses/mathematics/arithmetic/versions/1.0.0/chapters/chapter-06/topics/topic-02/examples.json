@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Comparing Decimals",
-      "content": "A practical example demonstrating Comparing Decimals",
-      "source": "Generated",
+      "title": "Comparing Decimals with Different Lengths",
+      "content": "Compare the decimal numbers **$0.72$** and **$0.709$** using the symbols $<$, $>$, or $=$.\n\n### Step-by-Step Solution\n\n1.  **Align the decimal points and digits vertically**:\n    -   $0.72$\n    -   $0.709$\n\n2.  **Add trailing zeros** to give both numbers the same number of decimal digits (three digits):\n    -   $0.720$\n    -   $0.709$\n\n3.  **Compare place values from left to right**:\n    -   **Ones place**: Both have $0$. ($0 = 0$)\n    -   **Tenths place**: Both have $7$. ($7 = 7$)\n    -   **Hundredths place**: Compare $2$ and $0$. Since $2 > 0$, the comparison is complete!\n\n4.  **State the conclusion**:\n    Since $2$ hundredths is larger than $0$ hundredths, $0.720$ is larger than $0.709$.\n\n**Answer**: **$0.72 > 0.709$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "comparing-decimals"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Comparing"]
+    },
+    {
+      "id": "example-02",
+      "title": "Ordering a List of Decimals",
+      "content": "Arrange the following decimals in **ascending order** (from smallest to largest):\n$$0.4, \\quad 0.402, \\quad 0.045, \\quad 0.45$$\n\n### Step-by-Step Solution\n\n1.  **List and align vertically**:\n    -   $0.4$\n    -   $0.402$\n    -   $0.045$\n    -   $0.45$\n\n2.  **Pad with trailing zeros** so all have three decimal places:\n    -   $0.400$\n    -   $0.402$\n    -   $0.045$\n    -   $0.450$\n\n3.  **Compare place values left to right**:\n    -   **Ones place**: All have $0$.\n    -   **Tenths place**: \n        -   $0.045$ has $0$ in the tenths place. This is the smallest number.\n        -   The others ($0.400$, $0.402$, $0.450$) have $4$ in the tenths place.\n    -   **Compare hundredths place of the remaining numbers**:\n        -   $0.400$ and $0.402$ have $0$ in the hundredths place.\n        -   $0.450$ has $5$ in the hundredths place. Since $5 > 0$, $0.450$ is the largest of these three.\n    -   **Compare thousandths place of the remaining two numbers**:\n        -   $0.400$ has $0$ in the thousandths place.\n        -   $0.402$ has $2$ in the thousandths place. Since $2 > 0$, $0.402 > 0.400$.\n\n4.  **Order from smallest to largest**:\n    $$0.045 < 0.400 < 0.402 < 0.450$$\n\n5.  **Write using original numbers**:\n    $$0.045, \\quad 0.4, \\quad 0.402, \\quad 0.45$$\n\n**Answer**: The ascending order is **$0.045, \\ 0.4, \\ 0.402, \\ 0.45$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Decimals", "Ordering"]
     }
   ]
 }

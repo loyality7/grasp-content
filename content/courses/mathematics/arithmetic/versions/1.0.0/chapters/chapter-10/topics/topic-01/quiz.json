@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Positive & Negative Numbers?",
+      "question": "Which of the following numbers is an integer but is neither positive nor negative?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1",
+        "-1",
+        "0",
+        "0.5"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Zero is a whole number and therefore an integer, but it is neutral—neither positive nor negative.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Positive & Negative Numbers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Choose the correct comparison symbol: $-15$ ____ $-12$.",
       "options": [
-        "True",
-        "False"
+        "$>$",
+        "$<$",
+        "$=$",
+        "$\\ge$"
       ],
       "correctIndex": 1,
-      "explanation": "Positive & Negative Numbers has many practical applications.",
+      "explanation": "On a horizontal number line, $-15$ lies further to the left than $-12$, which makes $-15$ less than $-12$ ($-15 < -12$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If a checking account is overdrawn by $\\$50$ (meaning the account is in debt), which integer represents this balance?",
+      "options": [
+        "$50$",
+        "$-50$",
+        "$-0.50$",
+        "$-500$"
+      ],
+      "correctIndex": 1,
+      "explanation": "An overdrawn state represents debt, which is represented by a negative integer: $-50$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "On a standard horizontal number line, negative numbers always lie:",
+      "options": [
+        "To the right of zero",
+        "To the left of zero",
+        "Directly above positive numbers",
+        "In decimal increments only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negative numbers are values less than zero and lie to the left of zero on a horizontal number line.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Arrange these integers in ascending order: $-3, \\ -8, \\ 2, \\ -1$.",
+      "options": [
+        "$-8, \\ -3, \\ -1, \\ 2$",
+        "$-1, \\ -3, \\ -8, \\ 2$",
+        "$2, \\ -1, \\ -3, \\ -8$",
+        "$-8, \\ -1, \\ -3, \\ 2$"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arranging from smallest (most negative) to largest gives: $-8, -3, -1, 2$.",
       "difficulty": "easy"
     }
   ]

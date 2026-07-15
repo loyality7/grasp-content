@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Square Roots?",
-      "back": "Square Roots is a fundamental concept in mathematics.",
+      "front": "What is a Square Root?",
+      "back": "A number that, when multiplied by itself, yields the original number.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Square Roots important?",
-      "back": "Square Roots is essential for understanding Arithmetic.",
+      "front": "What does the radical symbol ($\\sqrt{}$) represent?",
+      "back": "The principal (positive) square root of a number.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the principal square root of 49?",
+      "back": "$7$ (since $7 \\times 7 = 49$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why is the square root of -9 not a real number?",
+      "back": "Because no real number multiplied by itself can equal a negative number.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the relationship between squaring and square roots?",
+      "back": "They are inverse operations: squaring 4 gives 16, and the square root of 16 gives 4.",
+      "difficulty": "easy"
     }
   ]
 }

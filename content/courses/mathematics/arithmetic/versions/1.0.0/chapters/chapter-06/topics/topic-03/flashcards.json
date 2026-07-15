@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Rounding Decimals?",
-      "back": "Rounding Decimals is a fundamental concept in mathematics.",
+      "front": "What is the Target Digit in rounding?",
+      "back": "The digit in the place value you want to round to (e.g., in $1.23$ rounded to tenths, 2 is the target digit).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Rounding Decimals important?",
-      "back": "Rounding Decimals is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is the Deciding Digit?",
+      "back": "The digit immediately to the right of the target digit, which tells you whether to round up or down.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the rule for Rounding Up?",
+      "back": "If the deciding digit is 5 or more (5, 6, 7, 8, 9), add 1 to the target digit and drop all digits to its right.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the rule for Rounding Down?",
+      "back": "If the deciding digit is less than 5 (0, 1, 2, 3, 4), keep the target digit unchanged and drop all digits to its right.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What place value is rounded to when rounding to the nearest cent?",
+      "back": "The hundredths place (second decimal digit).",
+      "difficulty": "easy"
     }
   ]
 }

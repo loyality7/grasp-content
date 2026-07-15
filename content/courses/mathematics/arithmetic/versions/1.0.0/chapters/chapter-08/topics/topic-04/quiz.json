@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Proportion?",
+      "question": "Which statement best defines a mathematical proportion?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A ratio that contains decimals.",
+        "A comparison of two numbers by addition.",
+        "A mathematical statement that two ratios are equal.",
+        "The difference between two fractions."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "A proportion is specifically defined as an equation stating that two ratios are equivalent.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Proportion is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "In the proportion $w:x = y:z$, what are the terms $w$ and $z$ called?",
       "options": [
-        "True",
-        "False"
+        "Means",
+        "Extremes",
+        "Factors",
+        "Quotients"
       ],
       "correctIndex": 1,
-      "explanation": "Proportion has many practical applications.",
+      "explanation": "The outer terms ($w$ and $z$) are called the extremes, while the inner terms ($x$ and $y$) are called the means.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If the proportion $\\frac{a}{b} = \\frac{c}{d}$ is true, which equation must also be true?",
+      "options": [
+        "$a \\times c = b \\times d$",
+        "$a + d = b + c$",
+        "$a \\times d = b \\times c$",
+        "$a \\div b = d \\div c$"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cross-multiplication property states that the product of the extremes ($a \\times d$) equals the product of the means ($b \\times c$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Solve for $y$ in the proportion: $\\frac{4}{7} = \\frac{12}{y}$.",
+      "options": [
+        "15",
+        "21",
+        "28",
+        "19"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cross-multiplying: $4 \\times y = 7 \\times 12 \\to 4y = 84 \\to y = 84 \\div 4 = 21$. (Or multiply top and bottom of first fraction by 3).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Do the ratios $8:12$ and $10:16$ form a true proportion?",
+      "options": [
+        "Yes, because both represent even numbers.",
+        "Yes, because their difference is equivalent.",
+        "No, because $8 \\times 16 \\neq 12 \\times 10$.",
+        "No, because $8 \\times 10 \\neq 12 \\times 16$."
+      ],
+      "correctIndex": 2,
+      "explanation": "Testing cross-products: $8 \\times 16 = 128$, while $12 \\times 10 = 120$. Since $128 \\neq 120$, they are not proportional.",
+      "difficulty": "medium"
     }
   ]
 }

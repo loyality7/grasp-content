@@ -2,16 +2,19 @@
   "id": "topic-04",
   "name": "Linear Relationships",
   "topicId": "physics.physics-foundations.chapter-07.topic-04",
-  "description": "Learn about Linear Relationships and its applications in physics.",
+  "description": "When one quantity changes at a constant rate with another (straight line)",
   "content": {
-    "overview": "Linear Relationships is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Linear Relationships. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Linear Relationships requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A linear relationship is when two quantities are connected in the simplest way: one is a constant multiple of the other plus a constant. Graph = straight line. {{viz:diagram-01}}",
+    "explanation": "**The equation:** y = mx + b\n\n- m = slope (steepness)\n- b = y-intercept (where line crosses y-axis)\n- x = input\n- y = output\n\n**Examples in physics:** {{viz:chart-01}}\n- Distance = speed × time (if constant speed): d = st (straight line through origin)\n- Temperature (Celsius) vs Temperature (Kelvin): K = C + 273.15 (straight line)\n- Force = mass × acceleration: F = ma (straight line through origin)\n- Cost = number of items × price (straight line)\n\n**How to recognize linear:**\n- Graph is a straight line\n- When x increases by 1, y always increases by the same amount\n- The change is consistent\n\n**Why linear relationships are important:** {{viz:anim-01}}\n- Easy to understand\n- Easy to calculate\n- Very common in physics\n- If you know m and b, you know everything about the relationship\n\nWhen you see \"y = mx + b\" in a physics problem, you know it's a straight line and you can solve it easily.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Linear relationship: y = mx + b",
+      "Graph is always a straight line",
+      "m = slope (rate of change)",
+      "b = y-intercept (starting value)",
+      "Constant rate of change",
+      "Very common in physics"
     ],
-    "whyItMatters": "Linear Relationships is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Many physics laws are linear or approximately linear. Recognizing them saves time in problem-solving."
   },
   "availableLanguages": [
     "en"

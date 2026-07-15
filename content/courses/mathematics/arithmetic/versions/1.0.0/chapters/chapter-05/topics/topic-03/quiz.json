@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Mixed Numbers?",
+      "question": "A mixed number is composed of which two parts?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Two proper fractions.",
+        "A whole number and a proper fraction.",
+        "A whole number and an improper fraction.",
+        "A numerator and a denominator."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "A mixed number combines a whole number (representing completed wholes) and a proper fraction (representing the remaining fractional part).",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Mixed Numbers is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the mixed number $2\\frac{3}{4}$ expressed as an improper fraction?",
       "options": [
-        "True",
-        "False"
+        "$\\frac{10}{4}$",
+        "$\\frac{11}{4}$",
+        "$\\frac{8}{4}$",
+        "$\\frac{5}{4}$"
       ],
       "correctIndex": 1,
-      "explanation": "Mixed Numbers has many practical applications.",
+      "explanation": "Using the conversion formula: $((2 \\times 4) + 3)/4 = (8 + 3)/4 = \\frac{11}{4}$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Convert the improper fraction $\\frac{13}{5}$ into a mixed number.",
+      "options": [
+        "$2\\frac{1}{5}$",
+        "$3\\frac{2}{5}$",
+        "$2\\frac{3}{5}$",
+        "$1\\frac{8}{5}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dividing $13 \\div 5 = 2$ with a remainder of 3. So the mixed number is $2\\frac{3}{5}$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "When converting $4\\frac{1}{2}$ into an improper fraction, what is the resulting numerator?",
+      "options": [
+        "4",
+        "5",
+        "8",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiply the whole number 4 by the denominator 2 ($4 \\times 2 = 8$), then add the numerator 1 ($8 + 1 = 9$). The new numerator is 9.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which mixed number is equivalent to $\\frac{25}{3}$?",
+      "options": [
+        "$7\\frac{4}{3}$",
+        "$8\\frac{1}{3}$",
+        "$8\\frac{2}{3}$",
+        "$5\\frac{5}{3}$"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dividing $25 \\div 3 = 8$ with a remainder of 1. Therefore, it is $8\\frac{1}{3}$.",
       "difficulty": "easy"
     }
   ]

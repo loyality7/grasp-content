@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Exponents Flowchart",
-      "description": "Flowchart showing Exponents process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Exponents",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Exponents Formula",
-      "description": "Mathematical definition",
+      "title": "Mathematical Definition of an Exponent",
+      "description": "General formula showing that a base raised to power n is repeated multiplication.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "a^n = \\underbrace{a \\times a \\times \\dots \\times a}_{n \\text{ times}}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "a^n",
+            "explanation": "Base a raised to the exponent power n."
+          },
+          {
+            "latex": "a \\times a \\times \\dots \\times a",
+            "explanation": "Multiply the base a by itself. The total number of factors is n."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Exponents 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Exponents Animation",
-      "description": "Canvas animation",
+      "title": "Evaluating Powers of 2",
+      "description": "Watch how the number of circles doubles at each power step (2^1 to 2^4).",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Exponents Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Exponents.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Exponents Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Exponents Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Exponents",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.25 && progress < 0.50) stage = 2;\n    else if (progress >= 0.50 && progress < 0.75) stage = 3;\n    else if (progress >= 0.75) stage = 4;\n\n    var midY = H / 2 - 35;\n    var midX = W / 2;\n    var radius = 6;\n\n    // Helper to draw a grid of circles\n    function drawGrid(count, color) {\n      ctx.fillStyle = color;\n      // Arrange in grid depending on count\n      if (count === 2) {\n        // 1 row of 2\n        ctx.beginPath();\n        ctx.arc(midX - 12, midY, radius, 0, Math.PI * 2);\n        ctx.arc(midX + 12, midY, radius, 0, Math.PI * 2);\n        ctx.fill();\n      } else if (count === 4) {\n        // 2x2 grid\n        for (var r = 0; r < 2; r++) {\n          for (var c = 0; c < 2; c++) {\n            ctx.beginPath();\n            ctx.arc(midX - 12 + c * 24, midY - 12 + r * 24, radius, 0, Math.PI * 2);\n            ctx.fill();\n          }\n        }\n      } else if (count === 8) {\n        // 2x4 grid\n        for (var r = 0; r < 2; r++) {\n          for (var c = 0; c < 4; c++) {\n            ctx.beginPath();\n            ctx.arc(midX - 36 + c * 24, midY - 12 + r * 24, radius, 0, Math.PI * 2);\n            ctx.fill();\n          }\n        }\n      } else if (count === 16) {\n        // 4x4 grid\n        for (var r = 0; r < 4; r++) {\n          for (var c = 0; c < 4; c++) {\n            ctx.beginPath();\n            ctx.arc(midX - 36 + c * 24, midY - 36 + r * 24, radius, 0, Math.PI * 2);\n            ctx.fill();\n          }\n        }\n      }\n    }\n\n    // Draw based on stage\n    if (stage === 1) {\n      drawGrid(2, '#EF4444');\n    } else if (stage === 2) {\n      drawGrid(4, '#3B82F6');\n    } else if (stage === 3) {\n      drawGrid(8, '#10B981');\n    } else {\n      drawGrid(16, '#F59E0B');\n    }\n\n    // Bottom text explanations\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (stage === 1) {\n      ctx.fillText('2\u00b9 = 2', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Base 2 is written 1 time.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('2\u00b2 = 2 \u00d7 2 = 4', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Base 2 is multiplied 2 times (2 squared).', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#34D399';\n      ctx.fillText('2\u00b3 = 2 \u00d7 2 \u00d7 2 = 8', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Base 2 is multiplied 3 times (2 cubed).', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('2\u2074 = 2 \u00d7 2 \u00d7 2 \u00d7 2 = 16', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Base 2 is multiplied 4 times. Notice the doubling pattern.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

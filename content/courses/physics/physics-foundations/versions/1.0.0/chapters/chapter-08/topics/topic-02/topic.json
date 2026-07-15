@@ -4,14 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-02",
   "description": "Learn about Variables and its applications in physics.",
   "content": {
-    "overview": "Variables is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Variables. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Variables requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Variables are the things that change or stay the same in your experiment. Some you change, some you keep steady, some you measure.",
+    "explanation": "In an experiment, you have three types of variables:\n\n**Independent Variable** = the thing YOU change. Example: in testing spring stiffness, spring type is independent.\n\n**Dependent Variable** = the thing that CHANGES because of your independent variable. Measured by you. Example: how high the spring bounces.\n\n**Control Variables** = things you keep THE SAME so they don't mess up results. Example: drop height, ball mass.\n\nIf you don't control variables properly, you won't know what actually caused your results. Maybe the spring is stiffer AND the ball is heavier—then you don't know which caused the higher bounce.\n\n**Real example:** Testing how temperature affects magnet strength.\n- Independent: temperature (you change it: 0°C, 25°C, 50°C)\n- Dependent: magnet strength (you measure it)\n- Control: magnet type, distance from test object, time left at temperature\n\nKeeping track of variables is simple but crucial.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Independent variable = what you change",
+      "Dependent variable = what you measure (changes because of independent)",
+      "Control variable = what you keep the same",
+      "Control all variables except the one you're testing",
+      "Clear labels = clear thinking"
     ],
-    "whyItMatters": "Variables is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Without clear variables, your data means nothing. You won't know what caused your results."
   },
   "availableLanguages": [
     "en"

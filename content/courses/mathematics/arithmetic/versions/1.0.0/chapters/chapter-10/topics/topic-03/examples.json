@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Absolute Value",
-      "content": "A practical example demonstrating Absolute Value",
-      "source": "Generated",
+      "title": "Evaluating Basic Absolute Values",
+      "content": "Evaluate each of the following expressions:\n1.  **$|-18|$**\n2.  **$|24|$**\n3.  **$-|-7|$**\n\n### Step-by-Step Solution\n\n1.  **Evaluate $|-18|$**:\n    The absolute value strips away the negative sign because $-18$ is $18$ units from $0$:\n    $$|-18| = 18$$\n\n2.  **Evaluate $|24|$**:\n    Since $24$ is already positive, its distance from zero is $24$:\n    $$|24| = 24$$\n\n3.  **Evaluate $-|-7|$**:\n    -   First, find the absolute value of the inside: $|-7| = 7$.\n    -   Next, apply the negative sign outside the bars:\n        $$-|-7| = -(7) = -7$$\n\n**Answer**: 1. **$18$**, 2. **$24$**, 3. **$-7$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "absolute-value"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value", "Evaluation"]
+    },
+    {
+      "id": "example-02",
+      "title": "Simplifying Expressions with Absolute Values",
+      "content": "Evaluate the arithmetic expression: **$|-9| + |4| - |-2|$**.\n\n### Step-by-Step Solution\n\n1.  **Evaluate each individual absolute value term first**:\n    -   $|-9| = 9$\n    -   $|4| = 4$\n    -   $|-2| = 2$\n\n2.  **Substitute the evaluated numbers back into the expression**:\n    $$9 + 4 - 2$$\n\n3.  **Perform addition and subtraction left-to-right**:\n    -   $9 + 4 = 13$\n    -   $13 - 2 = 11$\n\n**Answer**: **$11$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Absolute Value", "Operations"]
     }
   ]
 }

@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Equivalent Ratios?",
+      "question": "Which of the following ratios is equivalent to $1:4$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "2 : 5",
+        "3 : 12",
+        "4 : 1",
+        "4 : 8"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "If we multiply both terms of $1:4$ by $3$, we get $(1 \\times 3) : (4 \\times 3) = 3:12$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Equivalent Ratios is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Solve for $x$ in the equivalent ratio statement: $3:7 = x:21$.",
       "options": [
-        "True",
-        "False"
+        "6",
+        "9",
+        "10",
+        "15"
       ],
       "correctIndex": 1,
-      "explanation": "Equivalent Ratios has many practical applications.",
+      "explanation": "Comparing second terms: $21 \\div 7 = 3$. Multiplying the first term by 3: $3 \\times 3 = 9$. So $x = 9$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "A model train uses a scale ratio of $1:48$. If a part on the real train is $96$ inches long, how long is the model part?",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "4 inches",
+        "48 inches"
+      ],
+      "correctIndex": 1,
+      "explanation": "Set up the ratio: $1:48 = x:96$. Since $96 = 48 \\times 2$, we find $x = 1 \\times 2 = 2$ inches.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Solve for $k$ in the ratio equivalence: $12:20 = 3:k$.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comparing the first terms, we divide by 4: $12 \\div 4 = 3$. Applying this to the second terms: $20 \\div 4 = 5$. So $k = 5$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "What scale factor is used to convert the ratio $2:7$ into $10:35$?",
+      "options": [
+        "2",
+        "5",
+        "7",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide the corresponding terms: $10 \\div 2 = 5$ and $35 \\div 7 = 5$. The scale factor is 5.",
       "difficulty": "easy"
     }
   ]

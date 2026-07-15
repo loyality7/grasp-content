@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Decimal Place Value?",
-      "back": "Decimal Place Value is a fundamental concept in mathematics.",
+      "front": "What is the purpose of the Decimal Point?",
+      "back": "It acts as a divider separating the whole number places on the left from the fractional part places on the right.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Decimal Place Value important?",
-      "back": "Decimal Place Value is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is the Tenths Place?",
+      "back": "The first place to the right of the decimal point, representing one-tenth (1/10 or 0.1) of a whole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the Hundredths Place?",
+      "back": "The second place to the right of the decimal point, representing one-hundredth (1/100 or 0.01) of a whole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the Thousandths Place?",
+      "back": "The third place to the right of the decimal point, representing one-thousandth (1/1000 or 0.001) of a whole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the expanded form of a decimal?",
+      "back": "Writing the decimal as an addition sentence showing the value of each individual digit (e.g., $1.25 = 1 + 0.2 + 0.05$).",
+      "difficulty": "easy"
     }
   ]
 }

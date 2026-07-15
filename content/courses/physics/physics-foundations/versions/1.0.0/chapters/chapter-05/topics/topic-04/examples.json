@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Parallelogram Law",
-      "content": "A practical example demonstrating Parallelogram Law",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "parallelogram-law"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Two Forces On Block","content":"Force A: 5 N north. Force B: 3 N east. Place both at origin (tail-to-tail). Complete parallelogram. Diagonal = resultant ≈ 5.8 N northeast.","source":"Mechanics","difficulty":"beginner","estimatedMinutes":2,"tags":["force","parallelogram"]},{"id":"example-02","title":"Displacement By Two Paths","content":"Walk 4 km north AND 4 km east simultaneously (like wind + your walking). Parallelogram diagonal = √(4²+4²)≈5.7 km. Same as head-to-tail method!","source":"Navigation","difficulty":"beginner","estimatedMinutes":2,"tags":["displacement"]},{"id":"example-03","title":"Electric Field Superposition","content":"Two charges create fields. Tail-to-tail placement shows how fields combine. The parallelogram diagonal is the net field.","source":"Electrostatics","difficulty":"intermediate","estimatedMinutes":2,"tags":["electric-field"]}]}

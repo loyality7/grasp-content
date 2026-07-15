@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Cubes.",
-      "solution": "Step-by-step solution for Cubes problem.",
+      "prompt": "Find and list all the **perfect cubes** that lie between **$1$ and $200$** (inclusive).",
+      "solution": "1. **Recall perfect cube values for sequential integers**:\n   - $1^3 = 1 \\times 1 \\times 1 = 1$\n   - $2^3 = 2 \\times 2 \\times 2 = 8$\n   - $3^3 = 3 \\times 3 \\times 3 = 27$\n   - $4^3 = 4 \\times 4 \\times 4 = 64$\n   - $5^3 = 5 \\times 5 \\times 5 = 125$\n   - $6^3 = 6 \\times 6 \\times 6 = 216$ (exceeds 200)\n2. **Filter the values**:\n   The perfect cubes inside the [1, 200] range are 1, 8, 27, 64, and 125.\n\n**Answer**: **$1, 8, 27, 64, 125$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Multiply integers (1, 2, 3, 4, 5...) by themselves three times.",
+        "List the resulting values that are less than 200."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "cubes"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Perfect Cubes"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Cubes to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Evaluate these expressions:\n1.  **$10^3$**\n2.  **$(-5)^3$**",
+      "solution": "1. **Evaluate $10^3$**:\n   $$10^3 = 10 \\times 10 \\times 10 = 1000$$\n   *(Note: This is a 1 followed by three zeros).* \n2. **Evaluate $(-5)^3$**:\n   $$(-5)^3 = (-5) \\times (-5) \\times (-5) = 25 \\times (-5) = -125$$\n\n**Answer**: 1. **$1000$**, 2. **$-125$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "For 10 raised to the power of 3, write 1 followed by 3 zeros.",
+        "When cubing a negative base, the result will always be negative. Compute 5 times 5 times 5, and write a negative sign in front."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "cubes"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Cubes", "Negative Numbers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A solid cubic container has a side length of **$8\\text{ inches}$**. Find the total volume inside the container.",
+      "solution": "1. **Recall the volume of a cube formula**:\n   $$\\text{Volume} = \\text{side}^3$$\n2. **Substitute side = 8**:\n   $$\\text{Volume} = 8^3 = 8 \\times 8 \\times 8$$\n   - $8 \\times 8 = 64$\n   - $64 \\times 8 = 512 \\text{ cubic inches}$$\n\n**Answer**: The volume is **$512\\text{ cubic inches}$**.",
+      "hints": [
+        "Geometrically, volume is calculated by multiplying side length by side length by side length.",
+        "Compute 8 cubed."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Cubes", "Volume", "Geometry"]
     }
   ]
 }

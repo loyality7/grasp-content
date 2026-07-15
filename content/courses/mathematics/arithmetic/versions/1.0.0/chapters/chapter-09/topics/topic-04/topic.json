@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Square Roots",
   "topicId": "mathematics.arithmetic.chapter-09.topic-04",
-  "description": "Learn about Square Roots and its applications in mathematics.",
+  "description": "Understand square roots as the inverse operation of squaring, recognize the radical sign, evaluate principal square roots of perfect squares, and solve area word problems.",
   "content": {
-    "overview": "Square Roots is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Square Roots. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Square Roots requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Finding a square root is the exact opposite (inverse) of squaring a number. A square root of a number is a value that, when multiplied by itself, gives the original number.",
+    "explanation": "### What is a Square Root?\n\nIf you know that:\n$$5^2 = 5 \\times 5 = 25$$\nThen the **square root** of $25$ is $5$, because $5$ multiplied by itself is $25$. \n\nWe represent the square root using the **radical symbol $\\sqrt{}$**:\n\n{{viz:formula-01}}\n\nSo we write:\n$$\\sqrt{25} = 5$$\n\n### The Principal Square Root\n\nTechnically, every positive number has **two** square roots, one positive and one negative:\n-   $4 \\times 4 = 16$\n-   $(-4) \\times (-4) = 16$\nBoth $4$ and $-4$ are square roots of $16$. However, the radical symbol $\\sqrt{}$ refers specifically to the positive square root, known as the **principal square root**. Thus, $\\sqrt{16} = 4$.\n\n### Radical Roots of Perfect Squares\n\nHere are the square roots of the first few perfect squares:\n-   $\\sqrt{1} = 1$\n-   $\\sqrt{4} = 2$\n-   $\\sqrt{9} = 3$\n-   $\\sqrt{16} = 4$\n-   $\\sqrt{25} = 5$\n-   $\\sqrt{36} = 6$\n-   $\\sqrt{49} = 7$\n-   $\\sqrt{64} = 8$\n-   $\\sqrt{81} = 9$\n-   $\\sqrt{100} = 10$\n\n### Square Roots of Negative Numbers\n\nIn the real number system, **you cannot take the square root of a negative number** (like $\\sqrt{-9}$). There is no real number that, when multiplied by itself, results in a negative number, because:\n-   $\\text{Positive} \\times \\text{Positive} = \\text{Positive}$\n-   $\\text{Negative} \\times \\text{Negative} = \\text{Positive}$\n\n### Visualizing Square Roots\n\nIf you know the area of a square, the square root of that area is the side length. Watch this animation showing a square of area $9$ and how its side length is calculated as $\\sqrt{9} = 3$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Finding the square root of a number is the inverse of squaring a number.",
+      "The radical sign \u221a represents the principal (positive) square root.",
+      "Every positive number has a positive and negative square root, but \u221ax refers only to the positive one.",
+      "Square roots of negative numbers are not real numbers."
     ],
-    "whyItMatters": "Square Roots is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Square roots are essential for calculating distances in geometry (using the Pythagorean theorem), designing building foundations, studying waves and vibrations, and calculating ratios in photography (f-stop scales)."
   },
   "availableLanguages": [
     "en"

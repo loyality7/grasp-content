@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: SI Base Units",
-      "content": "A practical example demonstrating SI Base Units",
-      "source": "Generated",
+      "title": "Measuring Your Height",
+      "content": "You're 170 cm tall. That's a length. The SI base unit for length is the meter. 170 cm = 1.7 meters. The meter (m) is one of the 7 SI base units—everyone worldwide agrees on it.",
+      "source": "Everyday Measurement",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "si-base-units"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["length", "meter", "everyday"]
+    },
+    {
+      "id": "example-02",
+      "title": "Weighing Your Backpack",
+      "content": "Your backpack weighs 5 kg. That's a mass. The SI base unit for mass is the kilogram (kg). Everyone agrees: a kilogram is the mass of a specific cylinder in France (seriously!). So when you say 5 kg, everyone knows exactly what you mean.",
+      "source": "Everyday Measurement",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["mass", "kilogram", "everyday"]
+    },
+    {
+      "id": "example-03",
+      "title": "Timing a Race",
+      "content": "A 100-meter race takes 10 seconds to run. Time is a base unit: the second (s). Every scientist, every country, every person agrees on what a second is. No confusion!",
+      "source": "Sports",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["time", "second"]
     }
   ]
 }

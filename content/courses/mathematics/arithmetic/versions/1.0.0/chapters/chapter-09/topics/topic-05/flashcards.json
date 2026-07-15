@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Cube Roots?",
-      "back": "Cube Roots is a fundamental concept in mathematics.",
+      "front": "What is a Cube Root?",
+      "back": "A number that, when multiplied by itself three times, yields the original number.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Cube Roots important?",
-      "back": "Cube Roots is essential for understanding Arithmetic.",
+      "front": "What symbol is used to represent a cube root?",
+      "back": "The radical sign with an index of 3 ($\\sqrt[3]{}$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Can you take the cube root of a negative number?",
+      "back": "Yes, and the result is negative (e.g. $\\sqrt[3]{-64} = -4$).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the cube root of 1000?",
+      "back": "$10$ (since $10 \\times 10 \\times 10 = 1000$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the geometric meaning of taking a cube root?",
+      "back": "Finding the side length of a cube when you know its volume.",
+      "difficulty": "easy"
     }
   ]
 }

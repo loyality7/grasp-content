@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Square Roots",
-      "content": "A practical example demonstrating Square Roots",
-      "source": "Generated",
+      "title": "Evaluating a Perfect Square Root",
+      "content": "Evaluate the expression **$\\sqrt{64}$**.\n\n### Step-by-Step Solution\n\n1.  **Understand the radical sign**:\n    The symbol $\\sqrt{64}$ asks: \"What positive number, when multiplied by itself, equals $64$?\"\n\n2.  **Recall perfect square multiplication pairs**:\n    Let's test whole numbers:\n    -   $6 \\times 6 = 36$\n    -   $7 \\times 7 = 49$\n    -   $8 \\times 8 = 64$\n\n3.  **Identify the matching value**:\n    Since $8^2 = 64$, the principal square root of $64$ is $8$:\n    $$\\sqrt{64} = 8$$\n\n**Answer**: **$8$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "square-roots"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Square Roots", "Perfect Squares"]
+    },
+    {
+      "id": "example-02",
+      "title": "Applying Square Roots to Geometry (Area)",
+      "content": "A square garden has a total area of **$144$ square meters**. Find the length of one side of the garden.\n\n### Step-by-Step Solution\n\n1.  **Use the area of a square formula**:\n    $$\\text{Area} = \\text{side}^2$$\n    We are given that $\\text{Area} = 144$, so:\n    $$\\text{side}^2 = 144$$\n\n2.  **Apply the inverse operation (square root) to find the side length**:\n    $$\\text{side} = \\sqrt{144}$$\n\n3.  **Evaluate $\\sqrt{144}$**:\n    Search for the number that squares to $144$:\n    -   $10 \\times 10 = 100$\n    -   $11 \\times 11 = 121$\n    -   $12 \\times 12 = 144$\n    Since $12^2 = 144$, we find:\n    $$\\text{side} = 12 \\text{ meters}$$\n\n**Answer**: The length of one side of the garden is **$12$ meters**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Square Roots", "Geometry", "Word Problems"]
     }
   ]
 }

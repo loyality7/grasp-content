@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Factors?",
-      "back": "Factors is a fundamental concept in mathematics.",
+      "front": "What is a Factor?",
+      "back": "A whole number that divides another whole number completely, leaving a remainder of zero. For example, 3 is a factor of 15.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Factors important?",
-      "back": "Factors is essential for understanding Arithmetic.",
+      "front": "What is a Factor Pair?",
+      "back": "Two numbers that multiply together to give a specific product. For example, (3, 8) is a factor pair of 24 because $3 \\times 8 = 24$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What are the smallest and largest factors of any positive integer $N$?",
+      "back": "The smallest positive factor is always 1, and the largest factor is always the number $N$ itself.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why do perfect square numbers have an odd number of factors?",
+      "back": "Because their middle factor pair consists of a number multiplied by itself ($a \\times a = N$). In the list of unique factors, $a$ is only written once, leading to an odd total count.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Are the factors of a positive integer finite or infinite?",
+      "back": "Finite. Factors of $N$ cannot be greater than $N$, so there is a limited, countable number of them.",
+      "difficulty": "easy"
     }
   ]
 }

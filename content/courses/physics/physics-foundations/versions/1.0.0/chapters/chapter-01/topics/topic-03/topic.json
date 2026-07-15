@@ -2,16 +2,19 @@
   "id": "topic-03",
   "name": "Scientific Method",
   "topicId": "physics.physics-foundations.chapter-01.topic-03",
-  "description": "Learn about Scientific Method and its applications in physics.",
+  "description": "The systematic process scientists use to ask questions and find answers about nature.",
   "content": {
-    "overview": "Scientific Method is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Scientific Method. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Scientific Method requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The scientific method is just a smart way to figure stuff out. It's not complicated—you probably already do it without thinking. {{viz:diagram-01}}",
+    "explanation": "Okay, so what's the scientific method? It's basically: Question → Predict → Experiment → Analyze → Conclude. That's it.\n\nLet's say you're curious: \"Why do some things float and others sink?\" That's your question. {{viz:diagram-02}}\n\nThen you predict: \"Maybe it depends on weight?\" or \"Maybe it's about density?\" That's your hypothesis.\n\nThen you test it: You get different objects and see what floats. That's your experiment.\n\nThen you look at the results: What patterns do you see? Heavy things sink? Light things float? Does material matter? That's analyzing.\n\nFinally you conclude: \"It seems like density matters more than weight. Objects less dense than water float.\" That's your conclusion.\n\nBut here's the key: If your prediction was wrong, that's GOOD. You learned something! The scientific method isn't about being right the first time. It's about learning. {{viz:anim-01}}\n\nYou can test your conclusion with more experiments. Maybe you find exceptions. Maybe you refine your answer. That's how science works—you get closer and closer to understanding. {{viz:chart-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Question: Ask something about nature",
+      "Predict: Make a hypothesis about the answer",
+      "Experiment: Test your hypothesis with observation or controlled test",
+      "Analyze: Look at the data and results",
+      "Conclude: What did you learn? Was your prediction right?",
+      "Being wrong is not failure—it's learning"
     ],
-    "whyItMatters": "Scientific Method is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "The scientific method is how we discover truth. It's not about opinions or guesses. It's about checking your ideas against reality. Every discovery in physics—from gravity to electricity to atoms—happened because someone used the scientific method."
   },
   "availableLanguages": [
     "en"

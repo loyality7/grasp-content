@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Factors.",
-      "solution": "Step-by-step solution for Factors problem.",
+      "prompt": "List all the factors of the number **28** in increasing order.",
+      "solution": "To find the factors of 28, test integers starting from 1:\n- $1 \\times 28 = 28$ (Factors: 1, 28)\n- $2 \\times 14 = 28$ (Factors: 2, 14)\n- 28 is not divisible by 3 ($28 \\div 3 = 9$ R 1)\n- $4 \\times 7 = 28$ (Factors: 4, 7)\n- 28 is not divisible by 5 ($28 \\div 5 = 5$ R 3)\n- 28 is not divisible by 6 ($28 \\div 6 = 4$ R 4)\n- $7 \\times 4 = 28$ (Repeated, stop).\n\nListing them in order: 1, 2, 4, 7, 14, 28.\n\n**Answer**: **1, 2, 4, 7, 14, 28**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Start dividing 28 by 1, 2, 3, 4, etc.",
+        "Stop testing when you reach a number that has already appeared as a factor in a pair."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "factors"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Factors", "Listing"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Factors to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A bakery wants to package **40** cookies into bags so that every bag has the exact same number of cookies. List all the possible bag sizes the bakery could choose.",
+      "solution": "The number of cookies in each bag must divide 40 evenly. Therefore, the possible bag sizes are the factors of 40.\n\nLet's find the factors of 40:\n- $1 \\times 40 = 40$ (Bag of 1 cookie or bag of 40 cookies)\n- $2 \\times 20 = 40$ (Bag of 2 or 20 cookies)\n- 40 is not divisible by 3.\n- $4 \\times 10 = 40$ (Bag of 4 or 10 cookies)\n- $5 \\times 8 = 40$ (Bag of 5 or 8 cookies)\n- 40 is not divisible by 6 or 7.\n- $8 \\times 5 = 40$ (Repeated, stop).\n\nThe factors of 40 in order are: 1, 2, 4, 5, 8, 10, 20, 40.\n\n**Answer**: The bakery can make bags containing **1, 2, 4, 5, 8, 10, 20, or 40 cookies**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "The size of the bags must divide 40 without leaving a remainder.",
+        "Find all the factors of 40."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "factors"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Factors", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Determine if the following statement is True or False: 'Since there are infinitely many whole numbers, every positive integer has infinitely many factors.' Explain your answer.",
+      "solution": "**False.** While there are infinitely many integers, the factors of any positive integer $N$ must be less than or equal to $N$ itself. Because there is only a limited (finite) count of whole numbers between 1 and $N$, a number can only have a **finite** number of factors.\n\nFor example, the number 1,000,000 is huge, but it still has a finite number of factors (exactly 49 factors). No factor of 1,000,000 can be larger than 1,000,000.\n\n**Answer**: **False**. Factors of a number $N$ are limited to the range $[1, N]$, meaning the total count of factors is always finite.",
+      "hints": [
+        "Think about the maximum size a factor of a number can have.",
+        "Can a factor of 10 be larger than 10?"
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Factors", "Concepts"]
     }
   ]
 }

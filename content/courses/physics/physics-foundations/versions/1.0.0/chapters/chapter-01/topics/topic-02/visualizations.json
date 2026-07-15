@@ -3,152 +3,157 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Branches of Physics Flowchart",
-      "description": "Flowchart showing Branches of Physics process",
+      "title": "The Seven Main Branches of Physics",
+      "description": "How physics divides into different branches",
       "spec": {
-        "diagramType": "flowchart",
+        "diagramType": "mindmap",
         "nodes": [
           {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
+            "id": "physics",
+            "label": "Physics",
+            "type": "circle"
           },
           {
-            "id": "process",
-            "label": "Branches of Physics",
+            "id": "classical",
+            "label": "Classical Mechanics\n(Motion & Forces)",
             "type": "rect"
           },
           {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
+            "id": "thermo",
+            "label": "Thermodynamics\n(Heat & Energy)",
+            "type": "rect"
+          },
+          {
+            "id": "em",
+            "label": "Electricity & Magnetism\n(Charged particles)",
+            "type": "rect"
+          },
+          {
+            "id": "waves",
+            "label": "Waves & Optics\n(Light & Sound)",
+            "type": "rect"
+          },
+          {
+            "id": "quantum",
+            "label": "Quantum Mechanics\n(Atoms & Particles)",
+            "type": "rect"
+          },
+          {
+            "id": "modern",
+            "label": "Modern Physics\n(Extreme conditions)",
+            "type": "rect"
           }
         ],
         "edges": [
           {
-            "from": "start",
-            "to": "process"
+            "from": "physics",
+            "to": "classical"
           },
           {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
-      "id": "formula-01",
-      "type": "formula",
-      "title": "Branches of Physics Formula",
-      "description": "Mathematical definition",
-      "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
-        "steps": [
+            "from": "physics",
+            "to": "thermo"
+          },
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "from": "physics",
+            "to": "em"
+          },
+          {
+            "from": "physics",
+            "to": "waves"
+          },
+          {
+            "from": "physics",
+            "to": "quantum"
+          },
+          {
+            "from": "physics",
+            "to": "modern"
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Branches of Physics 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
-      }
-    },
-    {
-      "id": "anim-01",
-      "type": "2d-anim",
-      "title": "Branches of Physics Animation",
-      "description": "Canvas animation",
-      "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Branches of Physics Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Branches of Physics.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Branches of Physics Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Branches of Physics Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
       }
     },
     {
       "id": "diagram-02",
       "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "title": "Classical Mechanics Examples",
+      "description": "Things that classical mechanics explains",
       "spec": {
-        "diagramType": "mindmap",
+        "diagramType": "flowchart",
         "nodes": [
           {
-            "id": "center",
-            "label": "Branches of Physics",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "classical",
+            "label": "Classical Mechanics",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
+            "id": "falling",
+            "label": "Falling objects",
+            "type": "ellipse"
+          },
+          {
+            "id": "planets",
+            "label": "Planet orbits",
+            "type": "ellipse"
+          },
+          {
+            "id": "cars",
+            "label": "Moving cars",
+            "type": "ellipse"
+          },
+          {
+            "id": "throws",
+            "label": "Throwing things",
+            "type": "ellipse"
+          },
+          {
+            "id": "balance",
+            "label": "Balancing forces",
+            "type": "ellipse"
           }
         ],
         "edges": [
           {
-            "from": "center",
-            "to": "prop1"
+            "from": "classical",
+            "to": "falling"
           },
           {
-            "from": "center",
-            "to": "prop2"
+            "from": "classical",
+            "to": "planets"
+          },
+          {
+            "from": "classical",
+            "to": "cars"
+          },
+          {
+            "from": "classical",
+            "to": "throws"
+          },
+          {
+            "from": "classical",
+            "to": "balance"
           }
         ]
+      }
+    },
+    {
+      "id": "anim-01",
+      "type": "2d-anim",
+      "title": "Quantum vs Classical Scale",
+      "description": "How physics changes at different scales",
+      "spec": {
+        "setup_code": "return {\n          draw: function(ctx, W, H, t, dt) {\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, W, H);\n            \n            // Title\n            ctx.fillStyle = '#333';\n            ctx.font = 'bold 14px Arial';\n            ctx.fillText('Classical Scale (Everyday)', 20, 30);\n            ctx.fillText('Quantum Scale (Atomic)', W/2 + 20, 30);\n            \n            // Classical side - smooth trajectory\n            ctx.strokeStyle = '#DC2626';\n            ctx.lineWidth = 2;\n            ctx.beginPath();\n            ctx.moveTo(50, 100);\n            for(let i = 0; i <= 100; i += 5) {\n              ctx.lineTo(50 + i, 100 + Math.sin(i/20)*30);\n            }\n            ctx.stroke();\n            \n            // Ball on classical side\n            ctx.fillStyle = '#DC2626';\n            ctx.beginPath();\n            ctx.arc(50 + (t%100), 100 + Math.sin((t%100)/20)*30, 8, 0, Math.PI*2);\n            ctx.fill();\n            \n            ctx.fillStyle = '#666';\n            ctx.font = '12px Arial';\n            ctx.fillText('Smooth path', 50, 160);\n            ctx.fillText('Predictable', 50, 175);\n            \n            // Quantum side - fuzzy/probability\n            ctx.fillStyle = 'rgba(59, 130, 246, 0.3)';\n            for(let i = 0; i < 20; i++) {\n              const x = W/2 + 50 + Math.random()*80;\n              const y = 100 + Math.random()*80;\n              ctx.beginPath();\n              ctx.arc(x, y, Math.random()*6, 0, Math.PI*2);\n              ctx.fill();\n            }\n            \n            ctx.fillStyle = '#3B82F6';\n            ctx.beginPath();\n            ctx.arc(W/2 + 90, 130, 10, 0, Math.PI*2);\n            ctx.fill();\n            \n            ctx.fillStyle = '#666';\n            ctx.fillText('Probability cloud', W/2 + 50, 220);\n            ctx.fillText('Uncertain', W/2 + 50, 235);\n          }\n        };"
+      }
+    },
+    {
+      "id": "chart-01",
+      "type": "d3",
+      "title": "Which Branch Handles What?",
+      "description": "Temperature ranges for different branches of physics",
+      "spec": {
+        "chart_type": "function",
+        "x_label": "Temperature (Kelvin)",
+        "y_label": "Branch of Physics",
+        "data_json": "{\"type\":\"categorical\",\"data\":[{\"name\":\"Classical Mechanics\",\"value\":300},{\"name\":\"Thermodynamics\",\"value\":350},{\"name\":\"Electricity & Magnetism\",\"value\":300},{\"name\":\"Waves & Optics\",\"value\":300},{\"name\":\"Quantum Mechanics\",\"value\":50},{\"name\":\"Modern Physics\",\"value\":10000000}]}"
       }
     }
   ]

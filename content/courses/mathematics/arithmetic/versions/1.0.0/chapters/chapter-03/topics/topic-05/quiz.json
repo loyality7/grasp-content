@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Order of Operations (BODMAS/PEMDAS)?",
+      "question": "What does the 'O' in the acronym BODMAS stand for?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Operations",
+        "Orders (exponents/roots)",
+        "Objects",
+        "Omission"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "In BODMAS, 'O' stands for 'Orders' (which refers to exponents, powers, indices, and roots). This is equivalent to 'E' (Exponents) in PEMDAS.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Order of Operations (BODMAS/PEMDAS) is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Evaluate the expression: $15 - 3 \\times 4$.",
       "options": [
-        "True",
-        "False"
+        "48",
+        "3",
+        "27",
+        "12"
       ],
       "correctIndex": 1,
-      "explanation": "Order of Operations (BODMAS/PEMDAS) has many practical applications.",
+      "explanation": "Multiplication has higher priority than subtraction. Multiply first: $3 \\times 4 = 12$. Then subtract: $15 - 12 = 3$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "True or False: Multiplication is always evaluated before division because 'M' comes before 'D' in PEMDAS.",
+      "options": [
+        "True",
+        "False, they have equal priority and are evaluated from left to right.",
+        "False, division is always evaluated before multiplication.",
+        "True, but only if there are no exponents."
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplication and division have equal rank/priority. You must evaluate them in the order they appear from left to right. This is why in BODMAS, D is written before M, but they still follow the same rule.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Evaluate: $32 \\div 4 \\times 2$.",
+      "options": [
+        "4",
+        "16",
+        "8",
+        "32"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplication and division are of equal priority, so evaluate left-to-right: First, divide: $32 \\div 4 = 8$. Next, multiply: $8 \\times 2 = 16$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Evaluate: $24 - (3 + 5) \\times 2$.",
+      "options": [
+        "32",
+        "8",
+        "16",
+        "24"
+      ],
+      "correctIndex": 1,
+      "explanation": "First, evaluate the parentheses: $(3 + 5) = 8$. The expression becomes $24 - 8 \\times 2$. Next, multiply: $8 \\times 2 = 16$. Lastly, subtract: $24 - 16 = 8$.",
       "difficulty": "easy"
     }
   ]

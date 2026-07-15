@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Prefixes (Milli, Kilo, Mega...)",
-      "content": "A practical example demonstrating Prefixes (Milli, Kilo, Mega...)",
-      "source": "Generated",
+      "title": "Millimeter vs Kilometer",
+      "content": "1 mm = 0.001 m (really small). 1 km = 1000 m (really big). Same unit (meter), different prefixes for different scales.",
+      "source": "Length",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "prefixes-milli-kilo-mega"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["prefix-scale"]
+    },
+    {
+      "id": "example-02",
+      "title": "Microgram in Medicine",
+      "content": "A medicine dose might be 500 μg (micrograms) = 0.0005 g. The micro- prefix lets doctors talk about tiny amounts precisely.",
+      "source": "Biology",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["practical", "prefix-small"]
+    },
+    {
+      "id": "example-03",
+      "title": "Gigabyte in Computing",
+      "content": "Your phone storage: 64 GB (gigabytes) = 64 billion bytes. The giga- prefix makes huge numbers readable.",
+      "source": "Computing",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["practical", "prefix-big"]
     }
   ]
 }

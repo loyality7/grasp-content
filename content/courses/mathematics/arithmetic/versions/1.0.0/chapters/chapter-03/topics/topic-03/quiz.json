@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Multiplication?",
+      "question": "In the multiplication equation $9 \\times 8 = 72$, the numbers 9 and 8 are called:",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Sums",
+        "Quotients",
+        "Factors",
+        "Addends"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "In multiplication, the numbers being multiplied are called 'factors'. The result (72) is called the 'product'.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Multiplication is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following demonstrates the Distributive Property of Multiplication?",
       "options": [
-        "True",
-        "False"
+        "$5 \\times (2 + 4) = (5 \\times 2) + (5 \\times 4)$",
+        "$5 \\times (2 \\times 4) = (5 \\times 2) \\times 4$",
+        "$5 \\times 2 = 2 \\times 5$",
+        "$5 \\times 1 = 5$"
       ],
-      "correctIndex": 1,
-      "explanation": "Multiplication has many practical applications.",
+      "correctIndex": 0,
+      "explanation": "The Distributive Property states that $a(b + c) = ab + ac$. The first equation is a perfect example of this.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Calculate: $142 \\times 30$.",
+      "options": [
+        "4,260",
+        "426",
+        "4,360",
+        "4,200"
+      ],
+      "correctIndex": 0,
+      "explanation": "To multiply by a multiple of 10, multiply the number by the digit ($142 \\times 3 = 426$) and append a zero to the right: $4,260$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "According to the Zero Property of Multiplication, what is $9,482 \\times 0$?",
+      "options": [
+        "9,482",
+        "1",
+        "0",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Zero Property states that multiplying any real number by zero results in zero.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which multiplication expression is equivalent to adding 4 seven times: $4 + 4 + 4 + 4 + 4 + 4 + 4$?",
+      "options": [
+        "$4 \\times 4$",
+        "$7 \\times 7$",
+        "$4 \\times 7$",
+        "$4 + 7$"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplication represents repeated addition. Adding 4 seven times can be written as $4 \\times 7$ (or $7 \\times 4$).",
       "difficulty": "easy"
     }
   ]

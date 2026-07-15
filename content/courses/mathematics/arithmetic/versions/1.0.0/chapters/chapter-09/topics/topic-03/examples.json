@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Cubes",
-      "content": "A practical example demonstrating Cubes",
-      "source": "Generated",
+      "title": "Finding the Cube of a Whole Number",
+      "content": "Evaluate the expression **$6^3$**.\n\n### Step-by-Step Solution\n\n1.  **Write out the definition of cubing**:\n    $6^3$ means multiplying the base $6$ by itself three times:\n    $$6^3 = 6 \\times 6 \\times 6$$\n\n2.  **Evaluate the multiplication step-by-step**:\n    -   First multiply the first two factors:\n        $$6 \\times 6 = 36$$\n    -   Then multiply that result by the third factor of $6$:\n        $$36 \\times 6 = 216$$\n\n**Answer**: **$216$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "cubes"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Cubes", "Multiplication"]
+    },
+    {
+      "id": "example-02",
+      "title": "Cubing a Negative Integer",
+      "content": "Calculate the value of **$(-4)^3$**.\n\n### Step-by-Step Solution\n\n1.  **Write out the repeated multiplication**:\n    $$(-4)^3 = (-4) \\times (-4) \\times (-4)$$\n\n2.  **Multiply the first two negative numbers**:\n    Recall that negative times negative equals positive:\n    $$(-4) \\times (-4) = 16$$\n\n3.  **Multiply by the third negative number**:\n    Recall that positive times negative equals negative:\n    $$16 \\times (-4) = -64$$\n\n**Answer**: **$-64$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Cubes", "Negative Numbers"]
     }
   ]
 }

@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Exponents",
   "topicId": "mathematics.arithmetic.chapter-09.topic-01",
-  "description": "Learn about Exponents and its applications in mathematics.",
+  "description": "Understand exponents, bases, how to write repeated multiplication in exponential form, and evaluate basic power expressions.",
   "content": {
-    "overview": "Exponents is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Exponents. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Exponents requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "An exponent represents repeated multiplication of a number by itself. It is a mathematical shorthand for writing long multiplications quickly.",
+    "explanation": "### What is an Exponent?\n\nIf you want to multiply **$3$** by itself **$4$ times**, you could write:\n$$3 \\times 3 \\times 3 \\times 3$$\nInstead of writing it out, we can write it in a compact exponential format:\n$$3^4$$\nHere:\n-   **$3$** is the **base** (the number being multiplied).\n-   **$4$** is the **exponent** or **power** (the number of times the base is used as a factor).\n\nWe read $3^4$ as **\"three to the power of four\"** or **\"three to the fourth power\"**.\n\n### General Formula\n\nFor any real number $a$ and any positive integer $n$:\n\n{{viz:formula-01}}\n\n### How to Evaluate Exponents\n\nTo evaluate an exponent, write out the repeated multiplication and compute the product:\n-   **$2^3$**: \n    $$2 \\times 2 \\times 2 = 8$$\n-   **$5^2$** (also read as **\"five squared\"**):\n    $$5 \\times 5 = 25$$\n-   **$4^3$** (also read as **\"four cubed\"**):\n    $$4 \\times 4 \\times 4 = 64$$\n\n### Special Rules for Exponents\n\n1.  **The Power of 1**:\n    Any number raised to the power of $1$ is equal to itself.\n    $$a^1 = a \\quad \\implies \\quad 8^1 = 8$$\n2.  **The Power of 0**:\n    Any non-zero number raised to the power of $0$ is equal to $1$.\n    $$a^0 = 1 \\quad (a \\neq 0) \\quad \\implies \\quad 15^0 = 1$$\n\n### Visualizing Exponential Growth\n\nWatch this animation showing how multiplying $2$ by itself repeatedly (doubling) makes the value grow very quickly:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The base is the number being multiplied.",
+      "The exponent tells you how many times to multiply the base by itself.",
+      "Any non-zero number to the power of 0 equals 1.",
+      "Any number to the power of 1 equals itself."
     ],
-    "whyItMatters": "Exponents is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Exponents are used in everyday life to describe population growth, compute compound interest in savings accounts, measure computer memory (bytes, kilobytes, megabytes), and describe scientific measurements."
   },
   "availableLanguages": [
     "en"

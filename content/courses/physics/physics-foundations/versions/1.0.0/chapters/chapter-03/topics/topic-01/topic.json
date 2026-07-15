@@ -2,16 +2,18 @@
   "id": "topic-01",
   "name": "Accuracy",
   "topicId": "physics.physics-foundations.chapter-03.topic-01",
-  "description": "Learn about Accuracy and its applications in physics.",
+  "description": "How close your measurement is to the true/correct value",
   "content": {
-    "overview": "Accuracy is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Accuracy. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Accuracy requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Accuracy = how close your measurement is to the true/correct value. Like throwing darts at a bullseye. If all your darts hit the center, you're accurate! {{viz:diagram-01}}",
+    "explanation": "Imagine a thermometer reading a boiling pot. Water boils at 100°C. If your thermometer says 99.8°C, that's accurate (very close). If it says 115°C, that's not accurate (far from true value).\n\nAccuracy is about being RIGHT. How close you are to the actual answer. {{viz:anim-01}}\n\nKey idea: There's a TRUE value (like 100°C for boiling water). Your measurement either hits it (accurate) or misses it (inaccurate).\n\nAccuracy tells you: 'Did I measure the right value?'\n\nBUT—you need to KNOW the true value to judge accuracy. If you don't know what's correct, you can't know if you're accurate! {{viz:chart-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Accuracy = how close to the TRUE value",
+      "The thermometer at 99.8°C is more accurate than one at 115°C",
+      "Accuracy is about being correct",
+      "You MUST know the true value to judge accuracy",
+      "Different from precision (which is about exactness)"
     ],
-    "whyItMatters": "Accuracy is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "In science, accurate measurements matter. A wrong answer is worse than a rough answer. If you're off, your whole conclusion is wrong."
   },
   "availableLanguages": [
     "en"

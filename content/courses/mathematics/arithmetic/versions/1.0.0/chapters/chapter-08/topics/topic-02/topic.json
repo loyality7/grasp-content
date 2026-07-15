@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Equivalent Ratios",
   "topicId": "mathematics.arithmetic.chapter-08.topic-02",
-  "description": "Learn about Equivalent Ratios and its applications in mathematics.",
+  "description": "Learn how to find equivalent ratios by multiplying or dividing both terms by the same number, and solve for missing terms in equivalent ratios.",
   "content": {
-    "overview": "Equivalent Ratios is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Equivalent Ratios. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Equivalent Ratios requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Equivalent ratios are ratios that express the same mathematical relationship between numbers, even if the numbers themselves are different. They behave exactly like equivalent fractions.",
+    "explanation": "### What are Equivalent Ratios?\n\nTwo ratios are equivalent if they simplify to the same basic ratio. For example, if you mix **$1$ drop of red paint** with **$3$ drops of white paint**, you get a light pink shade. If you want to make a larger quantity of the same pink shade, you could mix **$2$ drops of red** with **$6$ drops of white**. \n\nThe ratios $1:3$ and $2:6$ are equivalent because they represent the exact same recipe proportion.\n\n### Finding Equivalent Ratios\n\nTo find an equivalent ratio, multiply or divide both terms (the antecedent and consequent) by the same non-zero number:\n\n{{viz:formula-01}}\n\n#### Method 1: Scaling Up (Multiplication)\nMultiply both terms of the ratio by any whole number $k$:\n-   Start with $2:5$. Multiply both by $3$:\n    $$(2 \\times 3) : (5 \\times 3) = 6:15$$\n    So, $2:5$ and $6:15$ are equivalent ratios.\n\n#### Method 2: Scaling Down (Division)\nDivide both terms of the ratio by a common factor:\n-   Start with $10:20$. Divide both by $10$:\n    $$(10 \\div 10) : (20 \\div 10) = 1:2$$\n    So, $10:20$ and $1:2$ are equivalent ratios.\n\n### Solving for Missing Terms\n\nYou can find a missing number in an equivalent ratio pair by identifying the **scale factor**:\n\n*Example: Solve for $x$ in $3:4 = 12:x$*\n1.  Look at the first terms: how do we get from $3$ to $12$? \n    $$3 \\times 4 = 12$$\n    The scale factor is **$4$**.\n2.  Apply this same scale factor to the second terms:\n    $$4 \\times 4 = 16$$\n    So, $x = 16$ (making $3:4 = 12:16$).\n\n### Visualizing Equivalent Ratios\n\nObserve how scaling up a ratio of $1$ red ball to $3$ blue balls creates groups with the same proportions:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Equivalent ratios represent the same relative proportion between quantities.",
+      "Multiply or divide both terms of a ratio by the same number to maintain equivalence.",
+      "The scaling factor links the corresponding terms of equivalent ratios.",
+      "Equivalent ratios simplify to the exact same irreducible ratio."
     ],
-    "whyItMatters": "Equivalent Ratios is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Scaling recipes up or down, expanding models to scale (like model cars or blueprints), and converting currency exchange rates all rely on equivalent ratios."
   },
   "availableLanguages": [
     "en"

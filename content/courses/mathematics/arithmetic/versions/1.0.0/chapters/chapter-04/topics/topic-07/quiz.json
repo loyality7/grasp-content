@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Least Common Multiple (LCM)?",
+      "question": "What is the Least Common Multiple (LCM) of 5 and 7?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1",
+        "12",
+        "35",
+        "70"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Since 5 and 7 are prime numbers, they are coprime. The LCM of coprime numbers is simply their product: $5 \\times 7 = 35$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Least Common Multiple (LCM) is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the LCM of 12 and 18?",
       "options": [
-        "True",
-        "False"
+        "6",
+        "24",
+        "36",
+        "72"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiples of 12 are 12, 24, 36, 48... Multiples of 18 are 18, 36, 54... The smallest common multiple is 36. 6 is the GCD, not the LCM.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If you know that $\\text{GCD}(a, b) = 4$ and $a \\times b = 96$, what is the value of $\\text{LCM}(a, b)$?",
+      "options": [
+        "4",
+        "24",
+        "92",
+        "384"
       ],
       "correctIndex": 1,
-      "explanation": "Least Common Multiple (LCM) has many practical applications.",
+      "explanation": "Using the relation $\\text{LCM}(a, b) \\times \\text{GCD}(a, b) = a \\times b$, we have $\\text{LCM} \\times 4 = 96$. Therefore, $\\text{LCM} = 96 \\div 4 = 24$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which of the following is the correct method for finding the LCM using prime factorization?",
+      "options": [
+        "Multiply the lowest powers of shared prime factors.",
+        "Multiply the highest powers of all prime factors present in either number.",
+        "Add all prime factors together.",
+        "Divide the product of the numbers by their sum."
+      ],
+      "correctIndex": 1,
+      "explanation": "To find the LCM, you identify all prime bases present in either factorization and multiply the highest exponents of each base.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "A digital sign flashes Message A every 8 seconds and Message B every 12 seconds. If they flash together now, after how many seconds will they next flash at the same time?",
+      "options": [
+        "4 seconds",
+        "20 seconds",
+        "24 seconds",
+        "96 seconds"
+      ],
+      "correctIndex": 2,
+      "explanation": "We need to find the LCM of 8 and 12. Multiples of 8: 8, 16, 24, 32... Multiples of 12: 12, 24, 36... The LCM is 24 seconds.",
       "difficulty": "easy"
     }
   ]

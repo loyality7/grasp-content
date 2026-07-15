@@ -1,35 +1,33 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Dimensional Analysis.",
-      "solution": "Step-by-step solution for Dimensional Analysis problem.",
+      "id": "exercise-01",
+      "type": "check",
+      "title": "Check These Equations",
+      "content": "Do dimensions match? (1) v = d/t  (2) KE = ½mv  (3) W = Fd. Write the dimensions for each side.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Velocity = [L T⁻¹]",
+        "Energy = [M L² T⁻²]",
+        "Force = [M L T⁻²]",
+        "Check both sides"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "dimensional-analysis"
-      ]
+      "tags": ["equation-checking"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Dimensional Analysis to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "write",
+      "title": "Find the Wrong Equation",
+      "content": "Which of these is WRONG just by looking at dimensions? (1) d = vt  (2) a = vt  (3) v² = 2ad. Show why.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Check if both sides have the same dimensions",
+        "Write [M], [L], [T] for each term",
+        "If they don't match, it's wrong"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "dimensional-analysis"
-      ]
+      "tags": ["error-detection"]
     }
   ]
 }

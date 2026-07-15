@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Decrease Percentage",
   "topicId": "mathematics.arithmetic.chapter-07.topic-04",
-  "description": "Learn about Decrease Percentage and its applications in mathematics.",
+  "description": "Learn to calculate the new value of an amount after a percentage decrease using subtraction and multiplier methods.",
   "content": {
-    "overview": "Decrease Percentage is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Decrease Percentage. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Decrease Percentage requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A percentage decrease occurs when an amount shrinks by a certain percent of its original value. We see this in real life with store discounts, price markdowns, and vehicle depreciation.",
+    "explanation": "### Two Methods to Calculate Decrease\n\nLike percentage increases, there are two main methods to calculate a percentage decrease. Let's look at both using the example: **Decrease $80$ by $25\\%$**.\n\n#### Method 1: Two-Step (Calculate & Subtract)\n1.  **Calculate the decrease amount**: Find $25\\%$ of $80$.\n    $$\\text{Decrease} = 25\\% \\times 80 = \\frac{1}{4} \\times 80 = 20$$\n2.  **Subtract the decrease from the original value**:\n    $$\\text{New Value} = \\text{Original} - \\text{Decrease}$$\n    $$\\text{New Value} = 80 - 20 = 60$$\n\n#### Method 2: One-Step (The Multiplier Method)\nSince the original amount is $100\\%$, losing $25\\%$ means we are left with **$75\\%$** of the original value.\n\nWe can find this directly by multiplying the original by the decimal representation of $75\\%$ (which is $0.75$):\n\n{{viz:formula-01}}\n\nUsing this multiplier:\n$$\\text{New Value} = 80 \\times 0.75 = 60$$\n\n### Multiplier Cheat Sheet\n-   For a **$10\\%$ decrease**: Multiply by **$0.90$** (or $0.9$)\n-   For a **$5\\%$ decrease**: Multiply by **$0.95$**\n-   For a **$25\\%$ decrease**: Multiply by **$0.75$**\n-   For a **$50\\%$ decrease**: Multiply by **$0.50$** (or $0.5$)\n\n### Visualizing Percentage Decrease\n\nWatch how removing a $25\\%$ segment (worth $20$) from our original bar of $80$ leaves us with a final total of $60$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A percentage decrease subtracts a portion of the original value from itself.",
+      "The multiplier for a percentage decrease is always (1 - decimal percent).",
+      "Decreasing a value by 50% is equivalent to dividing it by 2 (halving it).",
+      "Always calculate the discount or decrease based on the starting original value, not the final value."
     ],
-    "whyItMatters": "Decrease Percentage is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Calculating percentage decreases allows you to instantly determine the sale price of a discounted item, track savings, and understand depreciation values of items over time."
   },
   "availableLanguages": [
     "en"

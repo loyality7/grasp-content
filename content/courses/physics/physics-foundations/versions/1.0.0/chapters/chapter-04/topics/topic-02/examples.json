@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Vectors",
-      "content": "A practical example demonstrating Vectors",
-      "source": "Generated",
+      "title": "Velocity (Speed + Direction)",
+      "content": "Speed is scalar: 60 km/h. Velocity is vector: 60 km/h east. Same number, but direction makes it a vector.",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "vectors"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["velocity", "vector"]
+    },
+    {
+      "id": "example-02",
+      "title": "Force Direction Matters",
+      "content": "Push with 50 N upward = object lifts. Push with 50 N downward = object gets pressed down. Same magnitude, opposite directions, opposite results!",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["force", "vector"]
+    },
+    {
+      "id": "example-03",
+      "title": "Displacement vs Distance",
+      "content": "Walk 5 m north then 5 m south. Distance (scalar) = 10 m. Displacement (vector) = 0 m (you're back where you started). Direction changes everything!",
+      "source": "Motion",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["displacement", "vector"]
     }
   ]
 }

@@ -2,16 +2,18 @@
   "id": "topic-07",
   "name": "Acceleration (Overview)",
   "topicId": "physics.physics-foundations.chapter-10.topic-07",
-  "description": "Learn about Acceleration (Overview) and its applications in physics.",
+  "description": "Change in velocity—how fast something speeds up, slows down, or changes direction",
   "content": {
-    "overview": "Acceleration (Overview) is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Acceleration (Overview). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Acceleration (Overview) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Acceleration answers: **IS THE VELOCITY CHANGING?** A car speeding up, a ball slowing down, a car turning—all acceleration. Acceleration is ANY change in velocity.",
+    "explanation": "Acceleration = change in velocity ÷ time\n\nAcceleration is a VECTOR—it has magnitude and direction.\n\n**Three types of acceleration:**\n\n1. **Speeding up:** Stepping on the gas. Acceleration forward.\n2. **Slowing down:** Braking. Acceleration backward (sometimes called deceleration).\n3. **Changing direction:** Turning a corner at constant speed. Still acceleration!\n\n**Example:**\n- Car goes 0 to 60 m/s in 10 seconds\n- Acceleration = (60 - 0) m/s ÷ 10 s = 6 m/s²\n\n**Common mistake:**\nPeople think acceleration = speeding up. WRONG. A car going 100 km/h turning a corner IS accelerating (direction changes). A car braking IS accelerating (slowing down). Any velocity change = acceleration.\n\n**Instantaneous vs average:**\n- Average acceleration = (final velocity - initial velocity) ÷ time\n- Instantaneous acceleration = acceleration at one moment\n\nAcceleration can be negative (if velocity decreases or direction reverses).\n\n**Units:**\n- m/s² (meters per second squared) - SI unit\n- This will make more sense once you see how acceleration works in equations",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Acceleration = change in velocity ÷ time",
+      "Vector quantity (magnitude + direction)",
+      "Speeding up, slowing down, changing direction—all acceleration",
+      "Can be negative",
+      "Caused by forces (Newton's laws coming next)"
     ],
-    "whyItMatters": "Acceleration (Overview) is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Acceleration is what forces create. Understanding acceleration bridges kinematics (motion) to dynamics (forces). This is the bridge to the rest of mechanics."
   },
   "availableLanguages": [
     "en"

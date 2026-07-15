@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Scientific Notation.",
-      "solution": "Step-by-step solution for Scientific Notation problem.",
+      "prompt": "Convert the scientific notation expression **$5.67 \\times 10^5$** into standard decimal form.",
+      "solution": "1. **Identify the exponent direction**:\n   The exponent is positive $5$, which means we must move the decimal point **$5$ places to the right** to make the number larger.\n2. **Shift the decimal point**:\n   - Start with: $5.67$\n   - Shift 1 place: $56.7$\n   - Shift 2 places: $567.0$\n   - Shift 3, 4, 5 places (add three zeros as placeholders): $567,000$\n\n**Answer**: **$567,000$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Since the exponent on the 10 is positive 5, the standard number will be large.",
+        "Move the decimal point in 5.67 to the right by 5 places, inserting zeros as fill-ins."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "scientific-notation"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Scientific Notation", "Standard Form"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Scientific Notation to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Express both of the following standard values in scientific notation:\n1.  **$24,800$**\n2.  **$0.00045$**",
+      "solution": "1. **Convert $24,800$**:\n   - Move decimal point left $4$ places to get $2.48$.\n   - Positive exponent because it is a large number: $10^4$.\n   - Result: **$2.48 \\times 10^4$**.\n2. **Convert $0.00045$**:\n   - Move decimal point right $4$ places to get $4.5$.\n   - Negative exponent because it is a small number: $10^{-4}$.\n   - Result: **$4.5 \\times 10^{-4}$**.\n\n**Answer**: 1. **$2.48 \\times 10^4$**, 2. **$4.5 \\times 10^{-4}$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "For 24,800, place the decimal after the 2, and count how many spots you hopped to get there from the end.",
+        "For 0.00045, place the decimal after the 4, and count how many spots you hopped to get there from the original decimal point. Use a negative exponent."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "scientific-notation"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Scientific Notation", "Conversions"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Identify why the expression **$12.3 \\times 10^3$** is **not** written in correct, standard scientific notation. Rewrite the expression in its proper form.",
+      "solution": "1. **Analyze the coefficient constraint**:\n   In scientific notation $a \\times 10^n$, the coefficient $a$ must satisfy $1 \\le a < 10$.\n   Here, the coefficient is $12.3$, which is greater than $10$, so it is not in proper form.\n2. **Adjust the coefficient and exponent**:\n   - Rewrite $12.3$ as $1.23 \\times 10^1$.\n   - Substitute this back into the original expression:\n     $$(1.23 \\times 10^1) \\times 10^3$$\n   - Combine the powers of 10 by adding the exponents ($1 + 3 = 4$):\n     $$1.23 \\times 10^4$$\n\n**Answer**: The coefficient $12.3$ is not less than 10. The proper form is **$1.23 \\times 10^4$**.",
+      "hints": [
+        "Compare the number 12.3 against the rule that the coefficient must be strictly less than 10.",
+        "Make 12.3 smaller by moving the decimal one place left to get 1.23, and balance this by increasing the power of 10 by 1."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Scientific Notation", "Rules"]
     }
   ]
 }

@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Decimals ↔ Percentages Flowchart",
-      "description": "Flowchart showing Decimals ↔ Percentages process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Decimals ↔ Percentages",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Decimals ↔ Percentages Formula",
-      "description": "Mathematical definition",
+      "title": "Decimal-Percentage Shift Rules",
+      "description": "A quick visual guide showing the direction of the decimal point jump.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{Decimal} \\xrightarrow{\\times 100} \\text{Percent} \\quad \\text{and} \\quad \\text{Percent} \\xrightarrow{\\div 100} \\text{Decimal}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "0.45 = 0.45 \\times 100\\% = 45\\%",
+            "explanation": "To go from decimal to percent, multiply by 100 (move decimal 2 places right)."
+          },
+          {
+            "latex": "45\\% = \\frac{45}{100} = 0.45",
+            "explanation": "To go from percent to decimal, divide by 100 (move decimal 2 places left)."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Decimals ↔ Percentages 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Decimals ↔ Percentages Animation",
-      "description": "Canvas animation",
+      "title": "Decimal Hop Animation",
+      "description": "Watch the decimal point shift two places to perform the conversions.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Decimals ↔ Percentages Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Decimals ↔ Percentages.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Decimals ↔ Percentages Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Decimals ↔ Percentages Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Decimals ↔ Percentages",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.33 && progress < 0.66) stage = 2;\n    else if (progress >= 0.66) stage = 3;\n\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n\n    // Stage 1: 0.35 -> 35%\n    if (stage === 1) {\n      var localT = progress / 0.33; // 0 to 1\n      \n      ctx.font = 'bold 24px monospace';\n      ctx.fillStyle = '#F3F4F6';\n      \n      // Draw characters at absolute spaces\n      // '0'  '.'  '3'  '5'\n      // If localT > 0.5, we show '%' and hide '0.'\n      var xCenter = W / 2;\n      var yCenter = H / 2 - 20;\n\n      if (localT < 0.5) {\n        ctx.fillText('0.35', xCenter, yCenter);\n        \n        // Draw hop arrows under the decimal\n        ctx.strokeStyle = '#60A5FA';\n        ctx.lineWidth = 2;\n        // First hop\n        ctx.beginPath();\n        ctx.arc(xCenter - 14, yCenter + 15, 8, Math.PI, 0, true);\n        ctx.stroke();\n        // Second hop\n        ctx.beginPath();\n        ctx.arc(xCenter, yCenter + 15, 8, Math.PI, 0, true);\n        ctx.stroke();\n\n        ctx.fillStyle = '#60A5FA';\n        ctx.font = 'bold 12px -apple-system, sans-serif';\n        ctx.fillText('Move Right \u2192', xCenter, yCenter + 35);\n      } else {\n        ctx.fillStyle = '#34D399';\n        ctx.fillText('35%', xCenter, yCenter);\n\n        ctx.fillStyle = '#10B981';\n        ctx.font = 'bold 12px -apple-system, sans-serif';\n        ctx.fillText('35% (Converted)', xCenter, yCenter + 35);\n      }\n\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Decimal to Percentage', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Shift the decimal point 2 places to the right.', W / 2, H - 22);\n    }\n    \n    // Stage 2: 8% -> 0.08\n    else if (stage === 2) {\n      var localT = (progress - 0.33) / 0.33; // 0 to 1\n      var xCenter = W / 2;\n      var yCenter = H / 2 - 20;\n      ctx.font = 'bold 24px monospace';\n\n      if (localT < 0.5) {\n        ctx.fillStyle = '#F3F4F6';\n        ctx.fillText('8%', xCenter, yCenter);\n        \n        // Draw hop arrows going left\n        ctx.strokeStyle = '#F59E0B';\n        ctx.lineWidth = 2;\n        ctx.beginPath();\n        ctx.arc(xCenter - 10, yCenter + 15, 8, 0, Math.PI, true);\n        ctx.stroke();\n        ctx.beginPath();\n        ctx.arc(xCenter - 26, yCenter + 15, 8, 0, Math.PI, true);\n        ctx.stroke();\n\n        ctx.fillStyle = '#F59E0B';\n        ctx.font = 'bold 12px -apple-system, sans-serif';\n        ctx.fillText('\u2190 Move Left', xCenter, yCenter + 35);\n      } else {\n        ctx.fillStyle = '#F59E0B';\n        ctx.fillText('0.08', xCenter, yCenter);\n\n        ctx.font = 'bold 12px -apple-system, sans-serif';\n        ctx.fillText('0.08 (Added zero placeholder)', xCenter, yCenter + 35);\n      }\n\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Percentage to Decimal', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Shift left 2 places. Put a placeholder 0 in front of 8.', W / 2, H - 22);\n    }\n\n    // Stage 3: 1.4 -> 140%\n    else {\n      var localT = (progress - 0.66) / 0.34; // 0 to 1\n      var xCenter = W / 2;\n      var yCenter = H / 2 - 20;\n      ctx.font = 'bold 24px monospace';\n\n      if (localT < 0.5) {\n        ctx.fillStyle = '#F3F4F6';\n        ctx.fillText('1.4', xCenter, yCenter);\n        \n        ctx.strokeStyle = '#8B5CF6';\n        ctx.lineWidth = 2;\n        ctx.beginPath();\n        ctx.arc(xCenter - 4, yCenter + 15, 8, Math.PI, 0, true);\n        ctx.stroke();\n        ctx.beginPath();\n        ctx.arc(xCenter + 12, yCenter + 15, 8, Math.PI, 0, true);\n        ctx.stroke();\n\n        ctx.fillStyle = '#8B5CF6';\n        ctx.font = 'bold 12px -apple-system, sans-serif';\n        ctx.fillText('Need a second place!', xCenter, yCenter + 35);\n      } else {\n        ctx.fillStyle = '#A78BFA';\n        ctx.fillText('140%', xCenter, yCenter);\n\n        ctx.font = 'bold 12px -apple-system, sans-serif';\n        ctx.fillText('Add a zero: 1.40 becomes 140%', xCenter, yCenter + 35);\n      }\n\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Padding Trailing Zeros', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Add trailing zeros to decimal places if you run out of digits.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

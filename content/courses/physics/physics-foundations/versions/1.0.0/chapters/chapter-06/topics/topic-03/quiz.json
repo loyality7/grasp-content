@@ -2,29 +2,30 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "multiple-choice",
-      "question": "Which statement best describes Cylindrical Coordinates (Introduction)?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
+      "type": "true-false",
+      "question": "Cylindrical is polar + height.",
+      "options": ["True", "False"],
       "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "explanation": "Yes! (r, θ, z) is like (r, θ) from polar with z added for vertical.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Cylindrical Coordinates (Introduction) is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cylindrical Coordinates (Introduction) has many practical applications.",
+      "type": "multiple-choice",
+      "question": "What does z represent in cylindrical (r, θ, z)?",
+      "options": ["Horizontal distance", "Angle", "Height/Vertical", "Radius"],
+      "correctIndex": 2,
+      "explanation": "z is always the vertical axis—height up or down.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "true-false",
+      "question": "Cylindrical is perfect for rotating systems.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes, spinning tops, vortexes, engines—all naturally cylindrical.",
+      "difficulty": "medium"
     }
   ]
 }

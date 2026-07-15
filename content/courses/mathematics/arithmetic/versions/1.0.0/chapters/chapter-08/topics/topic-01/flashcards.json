@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Ratio?",
-      "back": "Ratio is a fundamental concept in mathematics.",
+      "front": "What is the definition of a Ratio?",
+      "back": "A comparison of two numbers or quantities by division.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Ratio important?",
-      "back": "Ratio is essential for understanding Arithmetic.",
+      "front": "What are the three different ways to write a ratio?",
+      "back": "1. With a colon (e.g. $a:b$)\n2. As a fraction (e.g. $\\frac{a}{b}$)\n3. With the word 'to' (e.g. $a$ to $b$)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "In a ratio $a:b$, what are the terms $a$ and $b$ called?",
+      "back": "$a$ is the antecedent, and $b$ is the consequent.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is a Part-to-Part ratio?",
+      "back": "A ratio comparing one subgroup directly to another subgroup (e.g. boys to girls).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is a Part-to-Whole ratio?",
+      "back": "A ratio comparing one subgroup to the combined total (e.g. boys to total students).",
+      "difficulty": "easy"
     }
   ]
 }

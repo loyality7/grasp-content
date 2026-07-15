@@ -3,150 +3,142 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "What is Physics? Flowchart",
-      "description": "Flowchart showing What is Physics? process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "What is Physics?",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
-      "id": "formula-01",
-      "type": "formula",
-      "title": "What is Physics? Formula",
-      "description": "Mathematical definition",
-      "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
-        "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "What is Physics? 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
-      }
-    },
-    {
-      "id": "anim-01",
-      "type": "2d-anim",
-      "title": "What is Physics? Animation",
-      "description": "Canvas animation",
-      "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "What is Physics? Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of What is Physics?.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "What is Physics? Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "What is Physics? Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "title": "What is Physics? Concept Map",
+      "description": "How physics connects observation, laws, and prediction",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
           {
             "id": "center",
-            "label": "What is Physics?",
+            "label": "Physics",
             "type": "circle"
           },
           {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "observe",
+            "label": "Observation",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
+            "id": "experiment",
+            "label": "Experimentation",
+            "type": "rect"
+          },
+          {
+            "id": "theory",
+            "label": "Theory & Laws",
+            "type": "rect"
+          },
+          {
+            "id": "predict",
+            "label": "Prediction",
+            "type": "rect"
+          },
+          {
+            "id": "apply",
+            "label": "Application",
             "type": "rect"
           }
         ],
         "edges": [
           {
             "from": "center",
-            "to": "prop1"
+            "to": "observe",
+            "label": "starts with"
           },
           {
-            "from": "center",
-            "to": "prop2"
+            "from": "observe",
+            "to": "experiment",
+            "label": "leads to"
+          },
+          {
+            "from": "experiment",
+            "to": "theory",
+            "label": "reveals"
+          },
+          {
+            "from": "theory",
+            "to": "predict",
+            "label": "enables"
+          },
+          {
+            "from": "predict",
+            "to": "apply",
+            "label": "makes possible"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anim-01",
+      "type": "2d-anim",
+      "title": "Falling Ball Physics",
+      "description": "Animation showing an object falling under gravity with position markers",
+      "spec": {
+        "setup_code": "return {\n          draw: function(ctx, W, H, t, dt) {\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, W, H);\n            \n            // Grid\n            ctx.strokeStyle = '#E0E0E0';\n            ctx.lineWidth = 1;\n            for (let i = 0; i <= 10; i++) {\n              ctx.beginPath();\n              ctx.moveTo(i * (W/10), 0);\n              ctx.lineTo(i * (W/10), H);\n              ctx.stroke();\n              ctx.beginPath();\n              ctx.moveTo(0, i * (H/10));\n              ctx.lineTo(W, i * (H/10));\n              ctx.stroke();\n            }\n            \n            // Ball falling with acceleration\n            const g = 9.8;\n            const y = 50 + 0.5 * g * Math.pow(t * 0.5, 2);\n            const yPos = Math.min(y, H - 30);\n            \n            // Draw ball\n            ctx.fillStyle = '#DC2626';\n            ctx.beginPath();\n            ctx.arc(W/2, yPos, 15, 0, Math.PI * 2);\n            ctx.fill();\n            \n            // Position text\n            ctx.fillStyle = '#333';\n            ctx.font = '14px Arial';\n            ctx.fillText('y = ½gt²', 10, 30);\n            ctx.fillText('v = gt', 10, 50);\n            \n            // Velocity arrow\n            const v = g * (t * 0.5);\n            const arrowLen = Math.min(v * 2, 100);\n            ctx.strokeStyle = '#3B82F6';\n            ctx.lineWidth = 2;\n            ctx.beginPath();\n            ctx.moveTo(W/2 + 30, yPos);\n            ctx.lineTo(W/2 + 30, yPos + arrowLen);\n            ctx.stroke();\n            \n            // Arrowhead\n            ctx.beginPath();\n            ctx.moveTo(W/2 + 30, yPos + arrowLen);\n            ctx.lineTo(W/2 + 25, yPos + arrowLen - 10);\n            ctx.lineTo(W/2 + 35, yPos + arrowLen - 10);\n            ctx.closePath();\n            ctx.fillStyle = '#3B82F6';\n            ctx.fill();\n          }\n        };"
+      }
+    },
+    {
+      "id": "chart-01",
+      "type": "d3",
+      "title": "Velocity of Falling Object",
+      "description": "Graph showing how velocity increases linearly with time due to constant gravitational acceleration",
+      "spec": {
+        "chart_type": "function",
+        "x_label": "Time (s)",
+        "y_label": "Velocity (m/s)",
+        "data_json": "{\"fn\":\"9.8 * x\",\"x_min\":0,\"x_max\":5,\"samples\":100}"
+      }
+    },
+    {
+      "id": "diagram-02",
+      "type": "diagram",
+      "title": "Scales in Physics",
+      "description": "Physics governs phenomena across all scales, from subatomic to cosmic",
+      "spec": {
+        "diagramType": "flowchart",
+        "nodes": [
+          {
+            "id": "quantum",
+            "label": "Quantum Realm\n(10^-15 m)\nParticles, atoms, nuclei",
+            "type": "rect"
+          },
+          {
+            "id": "molecular",
+            "label": "Molecular Scale\n(10^-9 m)\nMolecules, chemistry",
+            "type": "rect"
+          },
+          {
+            "id": "everyday",
+            "label": "Everyday Scale\n(1 m)\nObjects, motion, heat",
+            "type": "rect"
+          },
+          {
+            "id": "planetary",
+            "label": "Planetary Scale\n(10^7 m)\nPlanets, orbits",
+            "type": "rect"
+          },
+          {
+            "id": "cosmic",
+            "label": "Cosmic Scale\n(10^26 m)\nGalaxies, universe",
+            "type": "rect"
+          }
+        ],
+        "edges": [
+          {
+            "from": "quantum",
+            "to": "molecular"
+          },
+          {
+            "from": "molecular",
+            "to": "everyday"
+          },
+          {
+            "from": "everyday",
+            "to": "planetary"
+          },
+          {
+            "from": "planetary",
+            "to": "cosmic"
           }
         ]
       }

@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Subtracting Decimals?",
-      "back": "Subtracting Decimals is a fundamental concept in mathematics.",
+      "front": "Why is adding trailing zeros crucial when subtracting decimals?",
+      "back": "If the top number has fewer decimal places, you must write zeros to know what you are borrowing from. (e.g. $2.1 - 1.05 = 2.10 - 1.05$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Subtracting Decimals important?",
-      "back": "Subtracting Decimals is essential for understanding Arithmetic.",
+      "front": "What does Borrowing mean in decimal subtraction?",
+      "back": "Taking 1 unit from the place value to the left and adding 10 units to the current place value (just like whole number subtraction).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you align decimals for subtraction?",
+      "back": "Vertically by their decimal points, keeping tenths aligned with tenths, hundredths with hundredths, etc.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the result of $1.0 - 0.25$?",
+      "back": "$0.75$, because $1.00 - 0.25 = 0.75$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "How do you set up $7 - 2.45$ for subtraction?",
+      "back": "Write it as $7.00 - 2.45$ so that the place values align and you can borrow properly.",
       "difficulty": "medium"
     }
   ]

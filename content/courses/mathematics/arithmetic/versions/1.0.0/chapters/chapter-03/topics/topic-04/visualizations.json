@@ -1,154 +1,39 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Division Flowchart",
-      "description": "Flowchart showing Division process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Division",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Division Formula",
-      "description": "Mathematical definition",
+      "title": "Anatomy of Division",
+      "description": "The parts of a division equation showing how a quantity is split.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "a \\div b = q \\quad \\text{R } r",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "a",
+            "explanation": "Dividend: The total quantity or number you want to divide."
+          },
+          {
+            "latex": "b",
+            "explanation": "Divisor: The number of equal groups or group size you are dividing by."
+          },
+          {
+            "latex": "q",
+            "explanation": "Quotient: The resulting number of items in each group (or number of groups)."
+          },
+          {
+            "latex": "r",
+            "explanation": "Remainder: The leftover quantity that cannot be divided evenly."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Division 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Division Animation",
-      "description": "Canvas animation",
+      "title": "Sharing Model: 12 Divided by 3",
+      "description": "Visualizing sharing 12 items equally into 3 groups, resulting in 4 items per group.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Division Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Division.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Division Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Division Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Division",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var totalDots = 12;\n    var numGroups = 3;\n    var dotsPerGroup = 4;\n    var dotRadius = 10;\n\n    // Positions\n    var startX = W / 2;\n    var startY = H / 4 + 10;\n\n    var boxWidth = W * 0.22;\n    var boxHeight = 70;\n    var boxCenters = [\n      { x: W * 0.22, y: H * 0.7 },\n      { x: W * 0.5, y: H * 0.7 },\n      { x: W * 0.78, y: H * 0.7 }\n    ];\n\n    var dotOffsets = [\n      { x: -20, y: -15 },\n      { x: 20, y: -15 },\n      { x: -20, y: 15 },\n      { x: 20, y: 15 }\n    ];\n\n    // Animation timing (6s cycle)\n    var duration = 6000;\n    var progress = (t % duration) / duration;\n\n    // Draw destination boxes\n    ctx.lineWidth = 2.5;\n    for (var g = 0; g < numGroups; g++) {\n      var box = boxCenters[g];\n      ctx.strokeStyle = '#4B5563';\n      if (progress > 0.6) {\n        ctx.strokeStyle = '#3B82F6'; // Highlight when sharing is complete\n      }\n      ctx.beginPath();\n      ctx.roundRect(box.x - boxWidth / 2, box.y - boxHeight / 2, boxWidth, boxHeight, 12);\n      ctx.stroke();\n\n      // Label\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '12px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.fillText('Group ' + (g + 1), box.x, box.y - boxHeight / 2 - 8);\n    }\n\n    // Draw/Animate dots\n    for (var i = 0; i < totalDots; i++) {\n      var groupIdx = Math.floor(i / dotsPerGroup);\n      var offsetIdx = i % dotsPerGroup;\n\n      var destX = boxCenters[groupIdx].x + dotOffsets[offsetIdx].x;\n      var destY = boxCenters[groupIdx].y + dotOffsets[offsetIdx].y;\n\n      // Staggered slide progress\n      var startDelay = 0.15 + i * 0.03;\n      var slideProgress = Math.max(0, Math.min(1, (progress - startDelay) / 0.35));\n      \n      // Apply easeInOutQuad to slide\n      var easeT = slideProgress < 0.5 ? 2 * slideProgress * slideProgress : 1 - Math.pow(-2 * slideProgress + 2, 2) / 2;\n\n      var curX = startX + (destX - startX) * easeT;\n      var curY = startY + (destY - startY) * easeT;\n\n      // Stagger source layout in center before sliding\n      if (slideProgress <= 0) {\n        var col = i % 4;\n        var row = Math.floor(i / 4);\n        curX = startX - 45 + col * 30;\n        curY = startY - 15 + row * 25;\n      }\n\n      ctx.fillStyle = slideProgress > 0.8 ? '#10B981' : '#FBBF24';\n      ctx.beginPath();\n      ctx.arc(curX, curY, dotRadius, 0, Math.PI * 2);\n      ctx.fill();\n    }\n\n    // Top Title / Stage explanation\n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 16px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n    \n    if (progress < 0.15) {\n      ctx.fillText('12 Items to divide into 3 groups', W / 2, 40);\n    } else if (progress < 0.6) {\n      ctx.fillText('Distributing items equally...', W / 2, 40);\n    } else {\n      ctx.fillText('12 ÷ 3 = 4 items in each group', W / 2, 40);\n    }\n  }\n};\n"
       }
     }
   ]

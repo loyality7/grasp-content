@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Proper Fractions",
-      "content": "A practical example demonstrating Proper Fractions",
-      "source": "Generated",
+      "title": "Identifying Proper Fractions",
+      "content": "Classify each of the following fractions as a **proper fraction** or **not a proper fraction**:\n$$\\frac{3}{5}, \\quad \\frac{8}{8}, \\quad \\frac{7}{4}, \\quad \\frac{1}{10}$$\n\n### Step-by-Step Solution\n\nA fraction $\\frac{n}{d}$ is a proper fraction if the numerator $n$ is strictly less than the denominator $d$ ($n < d$):\n\n1.  **Fraction $\\frac{3}{5}$**:\n    -   Numerator $n = 3$, Denominator $d = 5$.\n    -   Check: $3 < 5$. This is **true**.\n    -   **Classification**: Proper Fraction.\n2.  **Fraction $\\frac{8}{8}$**:\n    -   Numerator $n = 8$, Denominator $d = 8$.\n    -   Check: $8 < 8$. This is **false** (they are equal, which means it equals 1 whole).\n    -   **Classification**: Not a Proper Fraction.\n3.  **Fraction $\\frac{7}{4}$**:\n    -   Numerator $n = 7$, Denominator $d = 4$.\n    -   Check: $7 < 4$. This is **false** ($7$ is larger than $4$, representing more than 1 whole).\n    -   **Classification**: Not a Proper Fraction.\n4.  **Fraction $\\frac{1}{10}$**:\n    -   Numerator $n = 1$, Denominator $d = 10$.\n    -   Check: $1 < 10$. This is **true**.\n    -   **Classification**: Proper Fraction.\n\n**Answer**: The proper fractions are **$\\frac{3}{5}$** and **$\\frac{1}{10}$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "proper-fractions"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Proper Fractions"]
+    },
+    {
+      "id": "example-02",
+      "title": "Word Problem: Portions of a Whole",
+      "content": "A chocolate bar is divided into **8 equal pieces**. Maya eats **5 pieces**. \n1.  Write a fraction representing the portion of the chocolate bar Maya ate.\n2.  Is this a proper fraction? Explain why or why not.\n\n### Step-by-Step Solution\n\n1.  **Form the fraction**:\n    -   The total number of equal pieces is the **denominator**: $d = 8$.\n    -   The number of pieces Maya ate is the **numerator**: $n = 5$.\n    -   The fraction is:\n        $$\\frac{5}{8}$$\n2.  **Determine if it is proper**:\n    -   Compare the numerator and denominator:\n        $$5 < 8$$\n    -   Since the numerator (5) is less than the denominator (8), this is a **proper fraction**.\n    -   This means Maya ate less than 1 whole chocolate bar.\n\n**Answer**: The portion eaten is **$\\frac{5}{8}$**, which is a **proper fraction** because the numerator is smaller than the denominator.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Word Problems"]
     }
   ]
 }

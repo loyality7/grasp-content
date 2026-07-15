@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Models in Physics",
-      "content": "A practical example demonstrating Models in Physics",
-      "source": "Generated",
+      "title": "The Atom Model",
+      "content": "We model atoms like little solar systems—electrons orbiting a nucleus. Is that true? Not exactly! Electrons don't really 'orbit.' But the model helps you visualize atoms. It's simple, works for most situations, but breaks down at advanced levels.",
+      "source": "Atomic Physics",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "models-in-physics"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["atoms", "models"]
+    },
+    {
+      "id": "example-02",
+      "title": "The Ball as a Point",
+      "content": "In physics problems, we often treat a ball as a single point in space, ignoring its size and shape. Why? Because the size usually doesn't matter for calculating where it lands. The model simplifies without losing accuracy.",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["simplification", "models"]
+    },
+    {
+      "id": "example-03",
+      "title": "Light as Rays",
+      "content": "We model light as straight rays bouncing and bending. Is light actually rays? No—it's waves (and photons). But the ray model works great for mirrors and lenses. A different model (wave) works better for explaining colors.",
+      "source": "Optics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["light", "models"]
     }
   ]
 }

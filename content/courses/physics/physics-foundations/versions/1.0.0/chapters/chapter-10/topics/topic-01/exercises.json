@@ -1,35 +1,32 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Motion.",
-      "solution": "Step-by-step solution for Motion problem.",
+      "id": "exercise-01",
+      "type": "identify",
+      "title": "Spot the Motion",
+      "content": "Look around right now. List 3 things that are in motion and 3 things that are stationary. Remember: motion is relative!",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Moving = changing position",
+        "Even 'still' things might be moving relative to something else",
+        "Earth is moving!"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "motion"
-      ]
+      "tags": ["observation", "relative"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Motion to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "reasoning",
+      "title": "Is It Moving?",
+      "content": "A person on an airplane. Relative to the airplane: moving or still? Relative to the ground: moving or still?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Think about reference frames",
+        "Both answers can be correct",
+        "It depends on what you compare it to"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "motion"
-      ]
+      "tags": ["relative-motion"]
     }
   ]
 }

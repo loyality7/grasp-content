@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Scale",
-      "content": "A practical example demonstrating Scale",
-      "source": "Generated",
+      "title": "Solving Ticket Prices with Unitary Method",
+      "content": "If **$8$ concert tickets** cost **$96$ dollars**, how much will **$5$ concert tickets** cost?\n\n### Step-by-Step Solution\n\n1.  **Step 1: Find the value of a single unit (1 ticket)**:\n    Divide the total cost by the number of tickets:\n    $$\\text{Cost of 1 ticket} = \\frac{96 \\text{ dollars}}{8 \\text{ tickets}} = 12 \\text{ dollars per ticket}$$\n\n2.  **Step 2: Scale up to the target quantity (5 tickets)**:\n    Multiply the cost of a single ticket by $5$:\n    $$\\text{Cost of 5 tickets} = 12 \\text{ dollars/ticket} \\times 5 = 60 \\text{ dollars}$$\n\n**Answer**: **$60$ dollars**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "scale"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unitary Method", "Word Problems"]
+    },
+    {
+      "id": "example-02",
+      "title": "Scaling Rates: Plant Growth over Time",
+      "content": "A bamboo plant grows **$18\\text{ cm}$** over a period of **$6\\text{ weeks}$** at a perfectly steady, constant rate. How much will it grow in **$10\\text{ weeks}$**?\n\n### Step-by-Step Solution\n\n1.  **Step 1: Find the unit growth rate (growth in 1 week)**:\n    Divide the total growth by the number of weeks:\n    $$\\text{Growth in 1 week} = \\frac{18 \\text{ cm}}{6 \\text{ weeks}} = 3 \\text{ cm per week}$$\n\n2.  **Step 2: Multiply by the target number of weeks ($10$)**:\n    Multiply the weekly growth rate by the new duration of $10$ weeks:\n    $$\\text{Growth in 10 weeks} = 3 \\text{ cm/week} \\times 10 \\text{ weeks} = 30 \\text{ cm}$$\n\n**Answer**: The plant will grow **$30\\text{ cm}$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unitary Method", "Rates", "Word Problems"]
     }
   ]
 }

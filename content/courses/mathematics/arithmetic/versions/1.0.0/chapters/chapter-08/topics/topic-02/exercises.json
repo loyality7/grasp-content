@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Equivalent Ratios.",
-      "solution": "Step-by-step solution for Equivalent Ratios problem.",
+      "prompt": "Identify which of the following ratios are equivalent to **$2:5$**:\n- $4:10$\n- $6:15$\n- $8:18$\n- $10:25$",
+      "solution": "Let's check each ratio by simplifying it or finding a scale factor:\n1. **$4:10$**: Divide both terms by $2 \\to 2:5$. (Equivalent)\n2. **$6:15$**: Divide both terms by $3 \\to 2:5$. (Equivalent)\n3. **$8:18$**: Divide both terms by $2 \\to 4:9 \\neq 2:5$. (Not Equivalent)\n4. **$10:25$**: Divide both terms by $5 \\to 2:5$. (Equivalent)\n\n**Answer**: **$4:10$**, **$6:15$**, and **$10:25$** are equivalent to $2:5$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Divide the terms of each choice by their greatest common factor to see if they simplify to 2:5.",
+        "Alternatively, see if there is a single number that multiplies by 2 to get the first term, and multiplies by 5 to get the second term."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "equivalent-ratios"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Ratios"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Equivalent Ratios to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A baker uses a ratio of **$3$ cups of flour** to **$2$ eggs**. If she wants to bake a much larger cake and uses **$12$ cups of flour**, how many eggs does she need to keep the recipe proportional?",
+      "solution": "1. **Set up the equivalent ratio equation**:\n   $$3 : 2 = 12 : e$$\n2. **Find the scaling factor for flour**:\n   $$12 \\div 3 = 4$$\n   The baker is using $4$ times as much flour.\n3. **Scale eggs by the same factor**:\n   $$e = 2 \\times 4 = 8 \\text{ eggs}$$\n\n**Answer**: She needs **$8$ eggs**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Compare the amount of flour in the base recipe (3 cups) to the new recipe (12 cups). By what factor did it grow?",
+        "Multiply the number of eggs (2) by this same growth factor (4)."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "equivalent-ratios"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Ratios", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Solve for **$y$** in the equivalent ratio statement:\n$$18 : 24 = y : 4$$",
+      "solution": "1. **Analyze the relationship between the second terms**:\n   We are scaling down from $24$ to $4$.\n   $$24 \\div 4 = 6$$\n   This means we divide by $6$ to get from the first ratio to the second ratio.\n2. **Divide the first term by 6**:\n   $$y = 18 \\div 6$$\n   $$y = 3$$\n\n**Answer**: **$y = 3$**.",
+      "hints": [
+        "Find the division scale factor that takes the second term from 24 to 4.",
+        "Divide 18 by this same divisor to solve for y."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Ratios", "Scaling Down"]
     }
   ]
 }

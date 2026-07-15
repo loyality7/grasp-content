@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Division?",
-      "back": "Division is a fundamental concept in mathematics.",
+      "front": "What is a Dividend?",
+      "back": "The dividend is the number or total quantity that is being divided or split. In $a \\div b = c$, $a$ is the dividend.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Division important?",
-      "back": "Division is essential for understanding Arithmetic.",
+      "front": "What is a Divisor?",
+      "back": "The divisor is the number you divide by, indicating how many groups to make or how large each group is. In $a \\div b = c$, $b$ is the divisor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is a Quotient?",
+      "back": "The quotient is the main result of division. It represents how many items end up in each group (or how many groups are made). In $a \\div b = c$, $c$ is the quotient.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is a Remainder?",
+      "back": "The remainder is the leftover amount when a dividend cannot be divided equally by the divisor. It must always be smaller than the divisor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Why is Division by Zero Undefined?",
+      "back": "Because division is the inverse of multiplication. $a \\div 0 = c$ implies $c \\times 0 = a$, but any number multiplied by zero is zero, making it impossible to obtain a non-zero $a$.",
       "difficulty": "medium"
     }
   ]

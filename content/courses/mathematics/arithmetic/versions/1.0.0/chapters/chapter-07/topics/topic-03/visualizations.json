@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Increase Percentage Flowchart",
-      "description": "Flowchart showing Increase Percentage process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Increase Percentage",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Increase Percentage Formula",
-      "description": "Mathematical definition",
+      "title": "Percentage Increase Multiplier Formula",
+      "description": "The formula to calculate the final increased value in a single multiplication step.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{New Value} = \\text{Original Value} \\times \\left(1 + \\frac{\\text{Percent Increase}}{100}\\right)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "1 + \\frac{\\text{Percent Increase}}{100}",
+            "explanation": "Add the percentage in decimal form to 1 (representing 100% of the original amount)."
+          },
+          {
+            "latex": "\\text{New Value} = \\text{Original Value} \\times \\text{Multiplier}",
+            "explanation": "Multiply the original quantity by the resulting multiplier to get the new total."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Increase Percentage 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Increase Percentage Animation",
-      "description": "Canvas animation",
+      "title": "Increasing a Value of 80 by 25%",
+      "description": "Visualizing how a 25% increase appends an extra fourth of the original bar to the end.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Increase Percentage Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Increase Percentage.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Increase Percentage Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Increase Percentage Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Increase Percentage",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var blockW = 28;\n    var barH = 26;\n    var startX = (W - 5 * blockW) / 2;\n    var startY = H / 2 - 35;\n\n    // Stages\n    // 0 - 2s: stage 1 (4 blocks, representing 80)\n    // 2s - 4.5s: stage 2 (highlight 25% = 20)\n    // 4.5s - 7.5s: stage 3 (grow fifth block from right)\n    // 7.5s - 10s: stage 4 (show whole bracket of 100)\n    // 10s - 12s: stage 5 (formula / equations)\n\n    var stage = 1;\n    if (progress >= 0.16 && progress < 0.38) stage = 2;\n    else if (progress >= 0.38 && progress < 0.63) stage = 3;\n    else if (progress >= 0.63 && progress < 0.83) stage = 4;\n    else if (progress >= 0.83) stage = 5;\n\n    // Draw original 4 blocks\n    for (var i = 0; i < 4; i++) {\n      ctx.fillStyle = '#1F2937';\n      if (stage === 2 && i === 3) {\n        ctx.fillStyle = 'rgba(96, 165, 250, 0.4)'; // blue highlight\n      }\n      ctx.fillRect(startX + i * blockW, startY, blockW, barH);\n      ctx.strokeStyle = '#4B5563';\n      ctx.strokeRect(startX + i * blockW, startY, blockW, barH);\n      \n      // Label '20' inside\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = 'bold 10px -apple-system, sans-serif';\n      ctx.textAlign = 'center';\n      ctx.textBaseline = 'middle';\n      ctx.fillText('20', startX + i * blockW + blockW / 2, startY + barH / 2);\n    }\n\n    // Draw 5th block (the increase)\n    if (stage >= 3) {\n      var growth = 1;\n      if (stage === 3) {\n        growth = (progress - 0.38) / 0.25;\n      }\n      var x5 = startX + 4 * blockW;\n      ctx.fillStyle = 'rgba(16, 185, 129, ' + (0.3 + 0.5 * growth) + ')'; // Green highlight\n      ctx.fillRect(x5, startY, blockW * growth, barH);\n      \n      ctx.strokeStyle = '#34D399';\n      ctx.lineWidth = 1.5;\n      ctx.strokeRect(x5, startY, blockW * growth, barH);\n\n      if (growth > 0.8) {\n        ctx.fillStyle = '#065F46';\n        ctx.fillText('20', x5 + blockW / 2, startY + barH / 2);\n      }\n    }\n\n    // Brackets and outer labels\n    ctx.fillStyle = '#F3F4F6';\n    ctx.font = 'bold 12px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n\n    if (stage <= 2) {\n      ctx.fillText('Original = 80 (100%)', W / 2 - blockW/2, startY - 18);\n    } else {\n      ctx.fillText('Original = 80', startX + 2 * blockW, startY - 18);\n      ctx.fillStyle = '#34D399';\n      ctx.fillText('+20 (25% Increase)', startX + 4.5 * blockW, startY - 18);\n    }\n\n    // Bottom text instructions\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.fillStyle = '#9CA3AF';\n\n    if (stage === 1) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Original Value', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('The starting value is 80, split into four equal parts of 20.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Find 25% of 80', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('25% of 80 is 20 (exactly one of the 20-unit blocks).', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#34D399';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Adding the 25% Increase', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Grow the bar by adding the fifth block (worth 20) to the end.', W / 2, H - 22);\n    } else if (stage === 4) {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('New Total = 100', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('The new total is 80 + 20 = 100 (which is 125% of the original).', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('80 \u00d7 1.25 = 100', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Multiply by 1.25 directly to calculate a 25% increase.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

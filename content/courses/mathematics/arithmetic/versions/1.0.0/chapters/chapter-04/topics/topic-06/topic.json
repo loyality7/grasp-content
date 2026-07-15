@@ -2,16 +2,17 @@
   "id": "topic-06",
   "name": "Greatest Common Divisor (GCD/HCF)",
   "topicId": "mathematics.arithmetic.chapter-04.topic-06",
-  "description": "Learn about Greatest Common Divisor (GCD/HCF) and its applications in mathematics.",
+  "description": "Learn about the Greatest Common Divisor (GCD) or Highest Common Factor (HCF), methods to find it, and coprime numbers.",
   "content": {
-    "overview": "Greatest Common Divisor (GCD/HCF) is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Greatest Common Divisor (GCD/HCF). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Greatest Common Divisor (GCD/HCF) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The Greatest Common Divisor (GCD), also known as the Highest Common Factor (HCF), is the largest positive integer that divides two or more numbers evenly, leaving no remainder.",
+    "explanation": "### What is the Greatest Common Divisor?\n\nIf we have two numbers, they each have their own set of factors. The factors that appear in both sets are called **common factors**. The largest number among these common factors is the **Greatest Common Divisor (GCD)**.\n\nFor example, let's find the factors of 12 and 18:\n-   **Factors of 12**: $\\{1, 2, 3, 4, \\mathbf{6}, 12\\}$\n-   **Factors of 18**: $\\{1, 2, 3, \\mathbf{6}, 9, 18\\}$\n\nThe shared numbers (common factors) are: $\\{1, 2, 3, 6\\}$. The largest of these is **6**. Therefore:\n$$\\text{GCD}(12, 18) = 6$$\n\nMathematically:\n\n{{viz:formula-01}}\n\n### Visualizing GCD with Venn Diagrams\n\nWe can organize factors using overlapping circles (a Venn Diagram). Factors unique to 12 go in the left circle, factors unique to 18 go in the right circle, and factors shared by both go in the overlapping center intersection. The largest number in that intersection is the GCD.\n\n{{viz:anim-01}}\n\n### Methods to Find the GCD\n\n#### Method 1: Listing Factors\nList all factors of each number, identify the shared factors, and pick the largest one. (This is best for smaller numbers).\n\n#### Method 2: Prime Factorization (Best for larger numbers)\n1.  Find the prime factorization of each number.\n2.  Identify the **common prime bases**.\n3.  For each common base, take the **smallest exponent** that appears in either factorization.\n4.  Multiply these terms together to get the GCD.\n\n**Example: Find GCD of 24 and 36**\n-   $24 = 2^3 \\times 3^1$\n-   $36 = 2^2 \\times 3^2$\n-   Common prime bases: 2 and 3.\n-   Smallest exponent for 2 is $2^2$; smallest exponent for 3 is $3^1$.\n-   $$\\text{GCD} = 2^2 \\times 3^1 = 4 \\times 3 = 12$$\n\n### Coprime Numbers\n\nIf two numbers have **no common factors other than 1**, their GCD is 1. We call these numbers **coprime** (or relatively prime).\n-   *Example*: 8 (factors: 1, 2, 4, 8) and 15 (factors: 1, 3, 5, 15).\n-   The only common factor is 1, so $\\text{GCD}(8, 15) = 1$. Thus, 8 and 15 are coprime, even though neither number is a prime number on its own.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The GCD/HCF is the largest factor shared by two or more numbers.",
+      "The listing method involves writing out all factors and finding the largest common one.",
+      "The prime factorization method multiplies the lowest powers of shared prime factors.",
+      "Coprime numbers are pairs of numbers whose GCD is exactly 1."
     ],
-    "whyItMatters": "Greatest Common Divisor (GCD/HCF) is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "The GCD is used to simplify fractions to their lowest terms. It also solves practical packing and division problems, such as cutting materials of different lengths into the largest possible equal segments with zero waste."
   },
   "availableLanguages": [
     "en"

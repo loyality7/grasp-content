@@ -1,16 +1,1 @@
-{
-  "examples": [
-    {
-      "id": "example-01",
-      "title": "Example: Vector Subtraction",
-      "content": "A practical example demonstrating Vector Subtraction",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "vector-subtraction"
-      ]
-    }
-  ]
-}
+{"examples":[{"id":"example-01","title":"Finding Relative Position","content":"You're at (5,3). Your friend is at (2,1). Position of friend relative to you = (2-5, 1-3) = (-3,-2). Subtract to find relative position.","source":"Coordinate Systems","difficulty":"beginner","estimatedMinutes":2,"tags":["position","subtraction"]},{"id":"example-02","title":"Velocity Change","content":"You start moving at 10 m/s north. You stop at 5 m/s east. Change = Final - Initial = (5,0) - (0,10) = (5,-10). Shows how much you changed.","source":"Kinematics","difficulty":"beginner","estimatedMinutes":2,"tags":["velocity","change"]},{"id":"example-03","title":"Force Imbalance","content":"One rope pulls with 12 N right. Another pulls 5 N left. Net = 12 - 5 = 7 N right. Subtract to find what remains.","source":"Forces","difficulty":"beginner","estimatedMinutes":2,"tags":["force","net-force"]}]}

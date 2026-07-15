@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Unit Rate",
-      "content": "A practical example demonstrating Unit Rate",
-      "source": "Generated",
+      "title": "Finding a Simple Unit Rate",
+      "content": "An office printer can print **$120$ pages** in **$4$ minutes**. Find the unit rate of printing in pages per minute.\n\n### Step-by-Step Solution\n\n1.  **Identify the rate quantities and units**:\n    -   Pages printed = $120$ pages\n    -   Time taken = $4$ minutes\n\n2.  **Set up the rate division**:\n    $$\\text{Rate} = \\frac{120 \\text{ pages}}{4 \\text{ minutes}}$$\n\n3.  **Divide to simplify the rate to a denominator of 1**:\n    $$120 \\div 4 = 30$$\n    The rate is **$30$ pages per $1$ minute**.\n\n**Answer**: The printing unit rate is **$30$ pages per minute**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "unit-rate"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unit Rates", "Division"]
+    },
+    {
+      "id": "example-02",
+      "title": "Comparing Values (Unit Price)",
+      "content": "Which juice container is the better buy:\n1.  A **$16\\text{-ounce}$ bottle** for **$3.20$ dollars**?\n2.  A **$24\\text{-ounce}$ bottle** for **$4.32$ dollars**?\n\n### Step-by-Step Solution\n\n1.  **Calculate the unit price for the $16\\text{-ounce}$ bottle**:\n    Divide cost by ounces:\n    $$\\text{Unit Price} = \\frac{3.20 \\text{ dollars}}{16 \\text{ ounces}} = 0.20 \\text{ dollars per ounce} \\quad (20\\phi/\\text{oz})$$\n\n2.  **Calculate the unit price for the $24\\text{-ounce}$ bottle**:\n    Divide cost by ounces:\n    $$\\text{Unit Price} = \\frac{4.32 \\text{ dollars}}{24 \\text{ ounces}} = 0.18 \\text{ dollars per ounce} \\quad (18\\phi/\\text{oz})$$\n\n3.  **Compare the unit prices**:\n    $$0.18 \\text{ dollars/oz} < 0.20 \\text{ dollars/oz}$$\n    The $24\\text{-ounce}$ bottle has a cheaper cost per ounce.\n\n**Answer**: The **$24\\text{-ounce}$ bottle** is the better buy.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Unit Price", "Best Buy", "Word Problems"]
     }
   ]
 }

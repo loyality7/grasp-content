@@ -1,154 +1,35 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Absolute Value Flowchart",
-      "description": "Flowchart showing Absolute Value process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Absolute Value",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Absolute Value Formula",
-      "description": "Mathematical definition",
+      "title": "Algebraic Definition of Absolute Value",
+      "description": "Piecewise definition showing that absolute value strips away a number's negative sign.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "|x| = \\begin{cases} x & \\text{if } x \\ge 0 \\\\[0.5em] -x & \\text{if } x < 0 \\end{cases}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "|x|",
+            "explanation": "The absolute value of x."
+          },
+          {
+            "latex": "x \\quad (x \\ge 0)",
+            "explanation": "If x is already positive or zero, the absolute value is just x."
+          },
+          {
+            "latex": "-x \\quad (x < 0)",
+            "explanation": "If x is negative, multiplying it by -1 makes it positive: -(-x) = x."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Absolute Value 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Absolute Value Animation",
-      "description": "Canvas animation",
+      "title": "Absolute Value as Distance from Zero",
+      "description": "Watch how -3 and +3 both lie exactly 3 units away from zero, resulting in the same absolute value of 3.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Absolute Value Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Absolute Value.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Absolute Value Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Absolute Value Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Absolute Value",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var stage = 1;\n    if (progress >= 0.33 && progress < 0.66) stage = 2;\n    else if (progress >= 0.66) stage = 3;\n\n    var midY = H / 2 - 20;\n    var midX = W / 2;\n    var step = (W - 80) / 8; // spacing for -4 to 4\n    var startX = 40;\n\n    // Draw axis line\n    ctx.strokeStyle = '#4B5563';\n    ctx.lineWidth = 2;\n    ctx.beginPath();\n    ctx.moveTo(20, midY);\n    ctx.lineTo(W - 20, midY);\n    ctx.stroke();\n\n    // Draw tick marks and labels for -4 to 4\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'top';\n    ctx.font = '12px monospace';\n    for (var i = -4; i <= 4; i++) {\n      var tx = midX + i * step;\n      ctx.strokeStyle = '#4B5563';\n      ctx.lineWidth = 1.5;\n      ctx.beginPath();\n      ctx.moveTo(tx, midY - 4);\n      ctx.lineTo(tx, midY + 4);\n      ctx.stroke();\n      \n      // Highlight 0, -3, 3 depending on stage\n      if (i === 0) {\n        ctx.fillStyle = '#10B981';\n      } else if (stage === 1 && i === 3) {\n        ctx.fillStyle = '#3B82F6';\n      } else if (stage === 2 && i === -3) {\n        ctx.fillStyle = '#EF4444';\n      } else if (stage === 3 && (i === -3 || i === 3)) {\n        ctx.fillStyle = '#F59E0B';\n      } else {\n        ctx.fillStyle = '#9CA3AF';\n      }\n      ctx.fillText(i.toString(), tx, midY + 8);\n    }\n\n    // Draw arrows showing distance\n    if (stage === 1) {\n      // Distance to +3\n      var animProgress = (progress) / 0.33;\n      var currentX = midX + 3 * step * animProgress;\n      \n      ctx.strokeStyle = '#3B82F6';\n      ctx.lineWidth = 3;\n      ctx.beginPath();\n      ctx.moveTo(midX, midY - 15);\n      ctx.lineTo(currentX, midY - 15);\n      ctx.stroke();\n\n      // Arrowhead\n      ctx.fillStyle = '#3B82F6';\n      ctx.beginPath();\n      ctx.moveTo(currentX, midY - 15);\n      ctx.lineTo(currentX - 6, midY - 19);\n      ctx.lineTo(currentX - 6, midY - 11);\n      ctx.fill();\n    } else if (stage === 2) {\n      // Distance to -3\n      var animProgress = (progress - 0.33) / 0.33;\n      var currentX = midX - 3 * step * animProgress;\n\n      ctx.strokeStyle = '#EF4444';\n      ctx.lineWidth = 3;\n      ctx.beginPath();\n      ctx.moveTo(midX, midY - 15);\n      ctx.lineTo(currentX, midY - 15);\n      ctx.stroke();\n\n      // Arrowhead\n      ctx.fillStyle = '#EF4444';\n      ctx.beginPath();\n      ctx.moveTo(currentX, midY - 15);\n      ctx.lineTo(currentX + 6, midY - 19);\n      ctx.lineTo(currentX + 6, midY - 11);\n      ctx.fill();\n    } else {\n      // Both distances highlighted\n      ctx.strokeStyle = '#3B82F6';\n      ctx.lineWidth = 3;\n      ctx.beginPath();\n      ctx.moveTo(midX, midY - 15);\n      ctx.lineTo(midX + 3 * step, midY - 15);\n      ctx.stroke();\n      ctx.fillStyle = '#3B82F6';\n      ctx.beginPath();\n      ctx.moveTo(midX + 3 * step, midY - 15);\n      ctx.lineTo(midX + 3 * step - 6, midY - 19);\n      ctx.lineTo(midX + 3 * step - 6, midY - 11);\n      ctx.fill();\n\n      ctx.strokeStyle = '#EF4444';\n      ctx.beginPath();\n      ctx.moveTo(midX, midY - 25);\n      ctx.lineTo(midX - 3 * step, midY - 25);\n      ctx.stroke();\n      ctx.fillStyle = '#EF4444';\n      ctx.beginPath();\n      ctx.moveTo(midX - 3 * step, midY - 25);\n      ctx.lineTo(midX - 3 * step + 6, midY - 29);\n      ctx.lineTo(midX - 3 * step + 6, midY - 21);\n      ctx.fill();\n    }\n\n    // Bottom text explanations\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = 'bold 15px -apple-system, sans-serif';\n    ctx.fillStyle = '#F3F4F6';\n\n    if (stage === 1) {\n      ctx.fillText('|3| = 3', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('The number 3 is exactly 3 units to the right of zero.', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#F87171';\n      ctx.fillText('|-3| = 3', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('The number -3 is also exactly 3 units to the left of zero.', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#FBBF24';\n      ctx.fillText('Absolute Value strips away direction!', W / 2, H - 42);\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('Distance is always a positive magnitude. Both |3| and |-3| equal 3.', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Subtracting Decimals",
-      "content": "A practical example demonstrating Subtracting Decimals",
-      "source": "Generated",
+      "title": "Decimal Subtraction with Borrowing",
+      "content": "Calculate the difference: **$8.6 - 2.95$**.\n\n### Step-by-Step Solution\n\n1.  **Align decimal points vertically** and pad $8.6$ with a zero to make it $8.60$:\n    $$\\begin{array}{r@{\\quad}l}\n    8.60 \\\\\n    -\\ 2.95 \\\\\n    \\hline\n    \\end{array}$$\n\n2.  **Subtract column-by-column** from right to left:\n    -   **Hundredths place**: Subtract $0 - 5$. Since $0 < 5$, borrow $1$ tenth from the tenths digit ($6$). The $6$ becomes $5$, and the $0$ hundredths becomes $10$ hundredths.\n        $$10 - 5 = 5$$\n    -   **Tenths place**: Subtract $5 - 9$. Since $5 < 9$, borrow $1$ one from the ones place ($8$). The $8$ becomes $7$, and the $5$ tenths becomes $15$ tenths.\n        $$15 - 9 = 6$$\n    -   **Drop the decimal point** straight down.\n    -   **Ones place**: Subtract $7 - 2 = 5$.\n\n3.  **Assemble the final difference**:\n    $$\\begin{array}{r@{\\quad}l}\n    \\text{}^{7}\\text{}^{.15}\\text{}^{10} \\\\\n    8.60 \\\\\n    -\\ 2.95 \\\\\n    \\hline\n    \\mathbf{5.65} \\\\\n    \\hline\n    \\end{array}$$\n\n**Answer**: The difference is **$5.65$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "subtracting-decimals"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Subtracting"]
+    },
+    {
+      "id": "example-02",
+      "title": "Subtracting a Decimal from a Whole Number",
+      "content": "Find the value of: **$12 - 4.67$**.\n\n### Step-by-Step Solution\n\n1.  **Rewrite the whole number**:\n    Write the whole number $12$ as **$12.00$** so that you can align the decimal points and have columns for tenths and hundredths.\n\n2.  **Align vertically**:\n    $$\\begin{array}{r@{\\quad}l}\n    12.00 \\\\\n    -\\ \\phantom{0}4.67 \\\\\n    \\hline\n    \\end{array}$$\n\n3.  **Subtract and Borrow across zeros**:\n    -   **Hundredths place**: Subtract $0 - 7$. We need to borrow, but the tenths place is also $0$. We must borrow from the ones place ($2$ ones).\n    -   Borrow 1 one from $2$: the $2$ ones becomes $1$ one, and the tenths place becomes $10$ tenths.\n    -   Now, borrow 1 tenth from the $10$ tenths: the tenths digit becomes $9$, and the hundredths digit becomes $10$ hundredths.\n    -   **Subtract Hundredths**: $10 - 7 = 3$.\n    -   **Subtract Tenths**: $9 - 6 = 3$.\n    -   **Drop decimal point** down.\n    -   **Subtract Ones**: $1 - 4$. Borrow 1 ten from the tens place: the tens digit becomes $0$, and the ones digit becomes $11$.\n        $$11 - 4 = 7$$\n\n4.  **Assemble the final difference**:\n    $$\\begin{array}{r@{\\quad}l}\n    \\text{}^{0}\\text{}^{11}\\text{}^{.9}\\text{}^{10} \\\\\n    12.00 \\\\\n    -\\ \\phantom{0}4.67 \\\\\n    \\hline\n    \\mathbf{\\phantom{0}7.33} \\\\\n    \\hline\n    \\end{array}$$\n\n**Answer**: The difference is **$7.33$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Subtracting", "Whole Numbers"]
     }
   ]
 }

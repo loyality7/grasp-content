@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Simplifying Fractions.",
-      "solution": "Step-by-step solution for Simplifying Fractions problem.",
+      "prompt": "Reduce the fraction **$\\frac{14}{21}$** to its simplest form. State the Greatest Common Divisor (GCD) you used to simplify it.",
+      "solution": "1. **Find factors and GCD**:\n   - Factors of 14: $\\{1, 2, \\mathbf{7}, 14\\}$\n   - Factors of 21: $\\{1, 3, \\mathbf{7}, 21\\}$\n   - The Greatest Common Divisor (GCD) is **7**.\n2. **Divide by GCD**:\n   - Numerator: $14 \\div 7 = 2$\n   - Denominator: $21 \\div 7 = 3$\n3. **Form fraction**:\n   - The simplified fraction is **$\\frac{2}{3}$**.\n\n**Answer**: Simplified form is **$\\frac{2}{3}$**, and the GCD used is **7**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "What is the largest number that divides both 14 and 21 evenly?",
+        "Divide 14 and 21 by this number to get the simplest form."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "simplifying-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Simplifying", "GCD"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Simplifying Fractions to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Reduce the fraction **$\\frac{40}{100}$** to its simplest form.",
+      "solution": "We can use repeated division or divide by the GCD directly:\n- **Direct GCD method**:\n  - The GCD of 40 and 100 is 20.\n  - Divide both by 20:\n    $$\\frac{40 \\div 20}{100 \\div 20} = \\frac{2}{5}$$\n\n- **Repeated Division method**:\n  - Divide by 10 (drop the ending zeros):\n    $$\\frac{40 \\div 10}{100 \\div 10} = \\frac{4}{10}$$\n  - Divide numerator and denominator by 2:\n    $$\\frac{4 \\div 2}{10 \\div 2} = \\frac{2}{5}$$\n\n**Answer**: **$\\frac{2}{5}$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Since both numbers end in 0, they are both divisible by 10. Start by dividing by 10.",
+        "Simplify the resulting fraction further by dividing both numbers by 2."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "simplifying-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Simplifying"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A basketball team plays **18 games** in a season and wins **12 games**. \n1. Write a fraction representing the games won.\n2. Simplify this fraction to its simplest terms.",
+      "solution": "1. **Form the fraction**:\n   - Total games played = 18 (denominator).\n   - Games won = 12 (numerator).\n   - Win fraction = **$\\frac{12}{18}$**.\n\n2. **Simplify the fraction**:\n   - Find the GCD of 12 and 18, which is 6.\n   - Divide the numerator and denominator by 6:\n     $$\\frac{12 \\div 6}{18 \\div 6} = \\frac{2}{3}$$\n   - This means the team won 2 out of every 3 games they played.\n\n**Answer**: The team won **$\\frac{2}{3}$** of their games.",
+      "hints": [
+        "Write the fraction using wins as the top number and total games as the bottom number.",
+        "Simplify by dividing the top and bottom numbers by their greatest common factor, which is 6."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Word Problems"]
     }
   ]
 }

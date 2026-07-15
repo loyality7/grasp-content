@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Greatest Common Divisor (GCD/HCF)",
-      "content": "A practical example demonstrating Greatest Common Divisor (GCD/HCF)",
-      "source": "Generated",
+      "title": "Finding GCD by Listing Factors",
+      "content": "Find the Greatest Common Divisor (GCD) of **18** and **24** by listing factors.\n\n### Step-by-Step Solution\n\n**Step 1: List all the factors of 18**\n- $1 \\times 18 = 18$\n- $2 \\times 9 = 18$\n- $3 \\times 6 = 18$\n$$\\text{Factors of 18} = \\{1, 2, 3, 6, 9, 18\\}$$\n\n**Step 2: List all the factors of 24**\n- $1 \\times 24 = 24$\n- $2 \\times 12 = 24$\n- $3 \\times 8 = 24$\n- $4 \\times 6 = 24$\n$$\\text{Factors of 24} = \\{1, 2, 3, 4, 6, 8, 12, 24\\}$$\n\n**Step 3: Identify the common factors (shared values)**\nLooking at both sets, the numbers that appear in both lists are:\n$$\\text{Common Factors} = \\{1, 2, 3, 6\\}$$\n\n**Step 4: Choose the largest common factor**\nThe largest number in the set of common factors is **6**.\n\n**Answer**: The GCD of 18 and 24 is **6**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "greatest-common-divisor-gcdhcf"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "GCD", "Listing Factors"]
+    },
+    {
+      "id": "example-02",
+      "title": "Finding GCD by Prime Factorization",
+      "content": "Find the Greatest Common Divisor (GCD) of **60** and **72** using prime factorization.\n\n### Step-by-Step Solution\n\n**Step 1: Find the prime factorization of 60**\n- $60 = 2 \\times 30 = 2 \\times 2 \\times 15 = 2 \\times 2 \\times 3 \\times 5$\n$$60 = 2^2 \\times 3^1 \\times 5^1$$\n\n**Step 2: Find the prime factorization of 72**\n- $72 = 2 \\times 36 = 2 \\times 2 \\times 18 = 2 \\times 2 \\times 2 \\times 9 = 2 \\times 2 \\times 2 \\times 3 \\times 3$\n$$72 = 2^3 \\times 3^2$$\n\n**Step 3: Identify the common prime bases**\nThe prime bases that appear in both factorizations are **2** and **3** (5 only appears in 60, so we ignore it).\n\n**Step 4: Take the lowest exponent for each common prime**\n- For base 2: Compare $2^2$ (in 60) and $2^3$ (in 72). The lower power is **$2^2$**.\n- For base 3: Compare $3^1$ (in 60) and $3^2$ (in 72). The lower power is **$3^1$**.\n\n**Step 5: Multiply these lowest powers**\n$$\\text{GCD} = 2^2 \\times 3^1 = 4 \\times 3 = 12$$\n\n**Answer**: The GCD of 60 and 72 is **12**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "GCD", "Prime Factorization"]
     }
   ]
 }

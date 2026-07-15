@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Ratio.",
-      "solution": "Step-by-step solution for Ratio problem.",
+      "prompt": "A student has **$8$ pens** and **$12$ pencils** in their desk. Write the ratio of pens to pencils in three different ways.",
+      "solution": "The two quantities to compare are $8$ pens (antecedent) and $12$ pencils (consequent).\n1. **Colon notation**: $8:12$\n2. **Word notation**: $8$ to $12$\n3. **Fraction notation**: $\\frac{8}{12}$\n\n**Answer**: **$8:12$**, **$8$ to $12$**, and **$\\frac{8}{12}$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Use the three standard formats: colon, fraction, and the word 'to'.",
+        "Make sure to place pens (8) as the first term and pencils (12) as the second term."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "ratio"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Ratio to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A fruit bowl contains **$6$ bananas**, **$4$ apples**, and **$5$ oranges**. What is the part-to-whole ratio of bananas to the total fruits in the bowl?",
+      "solution": "1. **Find the total number of fruits**:\n   $$\\text{Total} = 6 \\text{ bananas} + 4 \\text{ apples} + 5 \\text{ oranges} = 15 \\text{ fruits}$$\n2. **Compare bananas to the total**:\n   - Bananas = $6$\n   - Total = $15$\n   - Part-to-whole ratio = **$6:15$** (or **$\\frac{6}{15}$**).\n\n**Answer**: **$6:15$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "To find a part-to-whole ratio, first add up all categories of fruits to get the total (the whole).",
+        "Compare the number of bananas to this sum."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "ratio"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios", "Part-to-Whole"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A bag contains **$10$ red marbles** and **$15$ blue marbles**. If **$5$ red marbles** are added to the bag, what is the new ratio of red marbles to blue marbles?",
+      "solution": "1. **Calculate the new number of red marbles**:\n   $$\\text{New Red} = 10 + 5 = 15 \\text{ red marbles}$$\n2. **Identify the blue marbles count**:\n   Blue marbles remains unchanged at $15$ marbles.\n3. **Form the ratio**:\n   $$\\text{Ratio} = 15 \\text{ red} : 15 \\text{ blue} = 15:15$$\n\n**Answer**: The new ratio is **$15:15$**.",
+      "hints": [
+        "First adjust the count of red marbles by adding 5.",
+        "Write the ratio of the new red marble count to the original blue marble count."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Ratios"]
     }
   ]
 }

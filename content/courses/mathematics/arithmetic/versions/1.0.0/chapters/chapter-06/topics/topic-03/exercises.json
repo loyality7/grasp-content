@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Rounding Decimals.",
-      "solution": "Step-by-step solution for Rounding Decimals problem.",
+      "prompt": "Round the number **$3.826$** to:\n1. The nearest tenth.\n2. The nearest whole number.",
+      "solution": "1. **Nearest Tenth**:\n   - Target: Tenths place is **8** ($3.\\mathbf{8}26$).\n   - Neighbor: **2** ($3.8\\mathbf{2}6$).\n   - Since $2 < 5$, round down. Target stays 8. Result = **$3.8$**.\n2. **Nearest Whole Number**:\n   - Target: Ones place is **3** ($\\mathbf{3}.826$).\n   - Neighbor: Tenths digit is **8** ($3.\\mathbf{8}26$).\n   - Since $8 \\ge 5$, round up. Target increases to 4. Result = **$4$**.\n\n**Answer**: Nearest tenth is **$3.8$**; nearest whole number is **$4$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "For the tenths place, look at the hundredths digit (2).",
+        "For the whole number, look at the tenths digit (8)."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "rounding-decimals"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Rounding"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Rounding Decimals to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Round **$15.097$** to the nearest hundredth. Be careful with any digit carries!",
+      "solution": "1. **Identify target**: The hundredths place is **9** ($15.0\\mathbf{9}7$).\n2. **Identify deciding digit**: The neighbor to the right is **7** ($15.09\\mathbf{7}$).\n3. **Apply the rule**: Since $7 \\ge 5$, we round up. We must add 1 to the target digit 9:\n   - $9 + 1 = 10$.\n   - Write 0 in the hundredths place and carry 1 over to the tenths place ($0 + 1 = 1$).\n4. **Result**: **$15.10$** (or $15.1$).\n\n**Answer**: **$15.10$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "The neighbor digit is 7, which tells us to round up.",
+        "Adding 1 to 9 makes 10, which carries over to the tenths digit (the 0 becomes a 1)."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "rounding-decimals"
-      ]
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Rounding", "Carrying"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A gas station displays the price of fuel as **$4.687$** dollars per gallon. Round this price to the nearest cent (nearest hundredth of a dollar) for the billing display.",
+      "solution": "To round to the nearest cent, we round to the hundredths place:\n1. **Target**: Hundredths place is **8** ($4.6\\mathbf{8}7$).\n2. **Deciding Digit**: Thousandths digit is **7** ($4.68\\mathbf{7}$).\n3. **Apply rule**: Since $7 \\ge 5$, round up. Add 1 to the target: $8 + 1 = 9$.\n4. **Result**: **$4.69$**.\n\n**Answer**: The rounded price is **$4.69$** per gallon.",
+      "hints": [
+        "Rounding to the nearest cent means rounding to two decimal places.",
+        "Look at the third decimal digit (7) to decide whether to round the second digit up or keep it the same."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Rounding", "Word Problems"]
     }
   ]
 }

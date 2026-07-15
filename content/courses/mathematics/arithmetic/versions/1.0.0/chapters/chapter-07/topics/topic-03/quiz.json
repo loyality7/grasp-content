@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Increase Percentage?",
+      "question": "What decimal multiplier should you use to find the final value after a $15\\%$ increase in a single multiplication step?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "0.15",
+        "1.15",
+        "1.015",
+        "15"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "A $15\\%$ increase means the new total is $115\\%$, which corresponds to the decimal multiplier $1.15$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Increase Percentage is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Increase $80$ by $10\\%$.",
       "options": [
-        "True",
-        "False"
+        "88",
+        "90",
+        "80.1",
+        "98"
+      ],
+      "correctIndex": 0,
+      "explanation": "$10\\%$ of $80$ is $8$. Adding $8$ to the original $80$ gives $88$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "A restaurant dinner bill is $60$ dollars. If you decide to leave a $20\\%$ tip, what is the total bill amount including tip?",
+      "options": [
+        "62 dollars",
+        "72 dollars",
+        "80 dollars",
+        "68 dollars"
       ],
       "correctIndex": 1,
-      "explanation": "Increase Percentage has many practical applications.",
+      "explanation": "$20\\%$ of $60$ is $12$ dollars. The total bill is $60 + 12 = 72$ dollars. (Or: $60 \\times 1.2 = 72$).",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Calculate the result of increasing $200$ by $5\\%$.",
+      "options": [
+        "205",
+        "210",
+        "250",
+        "220"
+      ],
+      "correctIndex": 1,
+      "explanation": "$5\\%$ of $200$ is $10$ (since $10\\%$ is 20, and 5% is half of that). Adding 10 to 200 gives $210$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "A population of $500$ birds in a nature reserve increases by $8\\%$. What is the new bird population?",
+      "options": [
+        "508",
+        "580",
+        "540",
+        "600"
+      ],
+      "correctIndex": 2,
+      "explanation": "$8\\%$ of $500$ is $\\frac{8}{100} \\times 500 = 8 \\times 5 = 40$ birds. The new population is $500 + 40 = 540$ birds. (Or: $500 \\times 1.08 = 540$).",
+      "difficulty": "medium"
     }
   ]
 }

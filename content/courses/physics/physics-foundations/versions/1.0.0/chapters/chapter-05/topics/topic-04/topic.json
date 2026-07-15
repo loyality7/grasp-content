@@ -2,18 +2,19 @@
   "id": "topic-04",
   "name": "Parallelogram Law",
   "topicId": "physics.physics-foundations.chapter-05.topic-04",
-  "description": "Learn about Parallelogram Law and its applications in physics.",
+  "description": "Another geometric way to add vectors—place them tail-to-tail and use the diagonal",
   "content": {
-    "overview": "Parallelogram Law is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Parallelogram Law. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Parallelogram Law requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The Parallelogram Law says: place two vectors tail-to-tail, complete the parallelogram, and the diagonal is their sum. Different from Triangle Law but same result. {{viz:diagram-01}}",
+    "explanation": "Unlike the Triangle Law (head-to-tail), the Parallelogram Law keeps both vectors starting at the same point. {{viz:diagram-02}}\n\n**Step 1:** Place both vectors A and B starting from the same origin (tail-to-tail)\n**Step 2:** Complete the parallelogram by drawing parallel lines to A and B\n**Step 3:** The diagonal from origin to opposite corner is A + B {{viz:anim-01}}\n\n**Why Both Methods?**\n\nTriangle Law and Parallelogram Law give the same answer. Choose whichever is easier:\n- Triangle Law: good for sequential actions (walk north, then east)\n- Parallelogram Law: good for simultaneous forces (two forces pulling at once)\n\n**Example: Two Forces on a Block**\n\nOne rope pulls with 5 N east. Another pulls with 3 N north. What's the net force?\n\nTail-to-tail: both forces start at the block. Complete the parallelogram. The diagonal tells you the net force.\n\n**Mathematical Relationship:** {{viz:chart-01}}\n\nBoth diagonals of a parallelogram: one is A + B, the other is A - B. They bisect each other at the midpoint.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Place vectors tail-to-tail (from same origin)",
+      "Complete the parallelogram with parallel copies",
+      "Diagonal from origin = A + B",
+      "Same result as Triangle Law",
+      "Better for simultaneous forces or actions",
+      "Both diagonals: one is A+B, other is A-B"
     ],
-    "whyItMatters": "Parallelogram Law is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Forces often act simultaneously from the same point. Parallelogram Law visualizes how they combine."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

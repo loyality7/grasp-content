@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Divisibility Rules.",
-      "solution": "Step-by-step solution for Divisibility Rules problem.",
+      "prompt": "Using divisibility rules, test whether the number **1,235** is divisible by **3** and by **5**. Explain your reasoning for each.",
+      "solution": "1. **Divisibility by 3**:\n   - Sum of the digits: $1 + 2 + 3 + 5 = 11$.\n   - Since 11 is not divisible by 3, **1,235 is not divisible by 3**.\n\n2. **Divisibility by 5**:\n   - Look at the last digit: **5**.\n   - Since the last digit is 5, **1,235 is divisible by 5**.\n\n**Answer**: 1,235 is **not** divisible by 3, but it **is** divisible by 5.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "For 3, add all the digits together and check if 3 goes into the sum evenly.",
+        "For 5, look at the last digit only."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "divisibility-rules"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Divisibility Rules"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Divisibility Rules to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Find the missing digit $d$ in the number **$5,4d2$** such that the entire four-digit number is divisible by **9**.",
+      "solution": "The rule for divisibility by 9 states that the sum of the digits must be divisible by 9.\n\n1. Let's write the sum of the digits:\n   $$\\text{Sum} = 5 + 4 + d + 2 = 11 + d$$\n2. For the number to be divisible by 9, the sum $(11 + d)$ must be a multiple of 9 ($9, 18, 27, \\dots$).\n3. Since $d$ is a single digit, it must lie in the range $[0, 9]$. The only multiple of 9 that can be formed is 18:\n   $$11 + d = 18$$\n   $$d = 18 - 11 = 7$$\n\n**Answer**: The missing digit is **7** (making the number 5,472).",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Sum the digits that you know: $5 + 4 + 2$.",
+        "What is the next multiple of 9 after that sum?",
+        "Solve for the digit $d$ that makes the sum reach that multiple."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "divisibility-rules"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Divisibility Rules", "Algebra"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why the divisibility rule for **6** relies on testing for both **2** and **3**. Why does a number divisible by 2 and 3 have to be divisible by 6?",
+      "solution": "1. **Factor structure of 6**:\n   The number 6 is a composite number made of the prime factors 2 and 3 ($6 = 2 \\times 3$).\n2. **Coprime factor property**:\n   If a number is divisible by two coprime numbers $a$ and $b$, it must also be divisible by their product $a \\times b$.\n   Since 2 and 3 are prime numbers (and therefore coprime, with a GCD of 1), any number divisible by both 2 and 3 must be divisible by their product: $2 \\times 3 = 6$.\n\n**Answer**: Because 6 is the product of the coprime factors 2 and 3. Any number divisible by both 2 and 3 is divisible by their product, 6.",
+      "hints": [
+        "Think about the prime factorization of 6.",
+        "Consider what it means for a number to share factors of 2 and 3 simultaneously."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Divisibility Rules", "Concepts"]
     }
   ]
 }

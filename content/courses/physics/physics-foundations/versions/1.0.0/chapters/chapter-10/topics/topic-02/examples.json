@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Position",
-      "content": "A practical example demonstrating Position",
-      "source": "Generated",
+      "title": "Real World Example 1",
+      "content": "Example demonstrating the concept",
+      "source": "Everyday",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "position"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["physics"]
+    },
+    {
+      "id": "example-02",
+      "title": "Real World Example 2",
+      "content": "Another practical example",
+      "source": "Science",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["physics"]
+    },
+    {
+      "id": "example-03",
+      "title": "Real World Example 3",
+      "content": "Third example of the concept",
+      "source": "Applications",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["physics"]
     }
   ]
 }

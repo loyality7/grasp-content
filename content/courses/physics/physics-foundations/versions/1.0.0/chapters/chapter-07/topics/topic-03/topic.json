@@ -2,16 +2,19 @@
   "id": "topic-03",
   "name": "Area Under Curves",
   "topicId": "physics.physics-foundations.chapter-07.topic-03",
-  "description": "Learn about Area Under Curves and its applications in physics.",
+  "description": "The area between a curve and the x-axis; tells you total accumulated quantity",
   "content": {
-    "overview": "Area Under Curves is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Area Under Curves. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Area Under Curves requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The area under a curve on a graph tells you something important. It's the total accumulated value of what's happening. {{viz:diagram-01}}",
+    "explanation": "Imagine a velocity-time graph. The curve shows how fast you're going at each moment. {{viz:chart-01}}\n\nThe AREA under that curve = total distance traveled.\n\nWhy? Because distance = speed × time. On the graph, that's like filling in rectangles. Add them all up = total distance.\n\n**Key insight:** The area under a curve on a graph has MEANING in physics. {{viz:anim-01}}\n\n**Examples:**\n- Force-distance graph: area = work done\n- Velocity-time graph: area = distance traveled\n- Power-time graph: area = energy used\n- Current-time graph: area = total charge\n\n**How to find the area:**\n- If it's a triangle or rectangle: use geometry (area = ½bh or lw)\n- If it's a weird curve: break it into boxes and add them up (approximation)\n- In advanced physics: use calculus (integration)\n\nFor now, just remember: the area under the curve MATTERS. It represents the total of something important.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Area under a curve = total accumulated quantity",
+      "On a velocity-time graph: area = distance",
+      "On a force-distance graph: area = work",
+      "Triangles and rectangles: use geometry",
+      "Weird curves: break into boxes and add",
+      "This concept is integral to physics (literally!)"
     ],
-    "whyItMatters": "Area Under Curves is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Understanding that area = accumulated quantity is crucial for physics. It connects graphs to real physical quantities."
   },
   "availableLanguages": [
     "en"

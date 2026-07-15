@@ -2,16 +2,19 @@
   "id": "topic-01",
   "name": "Graphs",
   "topicId": "physics.physics-foundations.chapter-07.topic-01",
-  "description": "Learn about Graphs and its applications in physics.",
+  "description": "Visual way to show relationships between two quantities",
   "content": {
-    "overview": "Graphs is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Graphs. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Graphs requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A graph is just a picture showing how one thing changes with another. Instead of numbers in a table, you draw it. Way easier to see what's happening! {{viz:diagram-01}}",
+    "explanation": "Graphs let you SEE relationships instead of just reading numbers. {{viz:chart-01}}\n\nBasic setup: two axes (usually x and y). Each point on the graph shows a pair of values. Like: at time x=5 seconds, position y=20 meters.\n\n**Why graphs rock:**\n- You can see patterns instantly\n- Straight line = simple relationship\n- Curve = something more complicated\n- Steep = changes fast\n- Flat = changes slowly\n\n**Graph types in physics:**\n- **Line graphs:** distance vs time, temperature vs time, etc.\n- **Scatter plots:** data points that might not be perfectly connected\n- **Bar graphs:** comparing quantities\n- **Curved graphs:** when relationships get complicated {{viz:anim-01}}\n\nGraphs are a TOOL. They make data talk to you instead of hiding in numbers.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Graphs show relationships visually",
+      "X-axis (horizontal) and Y-axis (vertical)",
+      "Straight line = linear relationship",
+      "Curve = nonlinear relationship",
+      "Steepness shows how fast things change",
+      "Graphs make patterns obvious"
     ],
-    "whyItMatters": "Graphs is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Graphs are how scientists communicate. You'll see graphs in every physics textbook, lab report, and research paper. Understanding them is essential."
   },
   "availableLanguages": [
     "en"

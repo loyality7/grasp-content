@@ -3,28 +3,20 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Prefixes (Milli, Kilo, Mega...)?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "question": "What does 'kilo-' mean?",
+      "options": ["0.001", "1000", "1 million", "0.000001"],
+      "correctIndex": 1,
+      "explanation": "Kilo = 1000. 1 kilometer = 1000 meters.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Prefixes (Milli, Kilo, Mega...) is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctIndex": 1,
-      "explanation": "Prefixes (Milli, Kilo, Mega...) has many practical applications.",
-      "difficulty": "easy"
+      "question": "Nano is smaller than micro.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes! Nano = 10⁻⁹, Micro = 10⁻⁶. Nano is 1000× smaller.",
+      "difficulty": "medium"
     }
   ]
 }

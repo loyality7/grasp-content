@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Laws of Exponents (Introduction)?",
+      "question": "According to the Product Rule of exponents, the expression $x^a \\times x^b$ simplifies to:",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$x^{a \\times b}$",
+        "$x^{a + b}$",
+        "$x^{a - b}$",
+        "$(2x)^{a+b}$"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "When multiplying terms with the same base, you keep the base and add the exponents: $x^a \\times x^b = x^{a+b}$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Laws of Exponents (Introduction) is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Simplify the quotient expression: $\\frac{6^7}{6^5}$",
       "options": [
-        "True",
-        "False"
+        "$6^{12}$",
+        "$6^2$",
+        "$1^2$",
+        "$6^{1.4}$"
       ],
       "correctIndex": 1,
-      "explanation": "Laws of Exponents (Introduction) has many practical applications.",
+      "explanation": "Using the Quotient Rule, keep base 6 and subtract exponents: $7 - 5 = 2$. Thus, the answer is $6^2$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Simplify: $(2^3)^4$",
+      "options": [
+        "$2^7$",
+        "$2^{12}$",
+        "$8^4$",
+        "$2^{8}$"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the Power of a Power Rule, you multiply the exponents: $(2^3)^4 = 2^{3 \\times 4} = 2^{12}$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Evaluate the expression: $\\frac{10^8}{10^5}$",
+      "options": [
+        "10",
+        "100",
+        "1,000",
+        "10,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "First simplify using the Quotient Rule: $\\frac{10^8}{10^5} = 10^{8-5} = 10^3$. Evaluating $10^3$ gives $1,000$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Can you simplify the product $3^4 \\times 4^3$ into a single base with an exponent using the Product Rule?",
+      "options": [
+        "Yes, it simplifies to $12^7$",
+        "Yes, it simplifies to $12^{12}$",
+        "No, because the bases are different",
+        "No, because the exponents must be equal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The laws of exponents for products only apply when the bases are identical. Since the bases are 3 and 4, the Product Rule does not apply.",
+      "difficulty": "medium"
     }
   ]
 }

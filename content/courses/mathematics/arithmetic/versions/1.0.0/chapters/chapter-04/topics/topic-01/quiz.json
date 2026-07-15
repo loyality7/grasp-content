@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Factors?",
+      "question": "Which of the following is the correct definition of a factor of a whole number $N$?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A number that is greater than $N$ and divides $N$ with no remainder.",
+        "A number that divides $N$ leaving a remainder of zero.",
+        "A number that when added to $N$ equals a square number.",
+        "A multiple of $N$."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "A factor is a whole number that divides another whole number completely, leaving a remainder of zero.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Factors is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the smallest factor of any positive whole number?",
       "options": [
-        "True",
-        "False"
+        "0",
+        "1",
+        "The number itself",
+        "-1"
       ],
       "correctIndex": 1,
-      "explanation": "Factors has many practical applications.",
+      "explanation": "The number 1 is a factor of every whole number, because any number divided by 1 is the number itself with 0 remainder. It is always the smallest positive factor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Which of the following numbers is NOT a factor of 18?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "18 is divisible by 2 ($18\\div2=9$), 3 ($18\\div3=6$), and 6 ($18\\div6=3$). However, $18 \\div 4 = 4$ remainder 2, so 4 is not a factor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Why does the number 16 have an odd number of factors?",
+      "options": [
+        "Because 16 is an odd number.",
+        "Because 16 is a perfect square ($4 \\times 4 = 16$).",
+        "Because 16 has only prime factors.",
+        "Because all numbers have an odd number of factors."
+      ],
+      "correctIndex": 1,
+      "explanation": "16 is a perfect square. Its factors are 1, 2, 4, 8, 16 (exactly 5 factors). The factor pair $4 \\times 4$ contains identical numbers, so 4 is only written once in the list, making the count odd.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "What is the largest factor of 150?",
+      "options": [
+        "1",
+        "75",
+        "150",
+        "300"
+      ],
+      "correctIndex": 2,
+      "explanation": "The largest factor of any positive number is the number itself ($150 \\div 150 = 1$). 300 is a multiple of 150, not a factor.",
       "difficulty": "easy"
     }
   ]

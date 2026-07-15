@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Rounding Decimals",
-      "content": "A practical example demonstrating Rounding Decimals",
-      "source": "Generated",
+      "title": "Rounding a Number to Multiple Place Values",
+      "content": "Round the number **$8.639$** to:\n1.  The nearest tenth.\n2.  The nearest hundredth.\n\n### Step-by-Step Solution\n\n1.  **Round to the nearest tenth**:\n    -   Identify target: Tenths place is **6** ($8.\\mathbf{6}39$).\n    -   Look at the neighbor to the right: **3** ($8.6\\mathbf{3}9$).\n    -   Apply rule: Since $3$ is less than 5 ($3 < 5$), round down (keep target digit 6 unchanged).\n    -   Drop all digits to the right.\n    -   **Result**: **$8.6$**.\n\n2.  **Round to the nearest hundredth**:\n    -   Identify target: Hundredths place is **3** ($8.6\\mathbf{3}9$).\n    -   Look at the neighbor to the right: **9** ($8.63\\mathbf{9}$).\n    -   Apply rule: Since $9$ is 5 or greater ($9 \\ge 5$), round up. Add 1 to the target digit: $3 + 1 = 4$.\n    -   Drop all digits to the right.\n    -   **Result**: **$8.64$**.\n\n**Answer**:\n-   Nearest tenth: **$8.6$**\n-   Nearest hundredth: **$8.64$**",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "rounding-decimals"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Decimals", "Rounding"]
+    },
+    {
+      "id": "example-02",
+      "title": "Rounding When the Deciding Digit is Exactly 5",
+      "content": "Round the decimal number **$0.045$** to the nearest hundredth.\n\n### Step-by-Step Solution\n\n1.  **Identify target place**: The hundredths place is **4** ($0.0\\mathbf{4}5$).\n2.  **Identify the deciding digit**: The neighbor to the right is **5** ($0.04\\mathbf{5}$).\n3.  **Apply the rule**: The neighbor is exactly 5. According to standard rounding rules (\"5 or more, round up\"), we round up.\n4.  **Modify target digit**: Add 1 to the target digit: $4 + 1 = 5$.\n5.  **Drop trailing digits**: Remove all digits to the right of the hundredths place.\n\n**Answer**: **$0.05$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Decimals", "Rounding"]
     }
   ]
 }

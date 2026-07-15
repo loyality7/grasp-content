@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Prime Numbers",
   "topicId": "mathematics.arithmetic.chapter-04.topic-03",
-  "description": "Learn about Prime Numbers and its applications in mathematics.",
+  "description": "Learn about prime numbers, their unique factor structure, the Sieve of Eratosthenes, and why 2 is the only even prime.",
   "content": {
-    "overview": "Prime Numbers is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Prime Numbers. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Prime Numbers requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A prime number is a whole number greater than 1 that has exactly two distinct positive factors: 1 and the number itself. They are the 'atoms' of arithmetic.",
+    "explanation": "### What is a Prime Number?\n\nIf you try to split a group of items into equal rows, some numbers can only be arranged in a single straight line. For example, 5 items can only be arranged in a $1 \\times 5$ or $5 \\times 1$ line. You cannot make a 2-row grid or a 3-row grid without leftovers.\n\nThis is because 5 has exactly two factors: **1 and 5**. Numbers like this are called **prime numbers**.\n\nMathematically:\n\n{{viz:formula-01}}\n\n### The First Few Prime Numbers\n\nThe prime numbers under 30 are:\n$$\\{2, 3, 5, 7, 11, 13, 17, 19, 23, 29\\}$$\n\n### Critical Characteristics of Primes\n\n1.  **The Number 1 is NOT Prime**: By definition, a prime number must have exactly **two distinct** factors. The number 1 only has one factor (1 itself). Therefore, 1 is neither prime nor composite.\n2.  **The Number 2 is Unique**: 2 is the smallest prime number. It is also the **only even prime number**. Every other even number is divisible by 2 (e.g., $4 = 2 \\times 2$, $6 = 2 \\times 3$), meaning they have more than two factors and are composite.\n3.  **Infinitude**: There are infinitely many prime numbers. They do not run out, as proven by the ancient Greek mathematician Euclid.\n\n### Finding Primes: The Sieve of Eratosthenes\n\nThe Sieve of Eratosthenes is a classic, visual method to find all prime numbers up to a certain limit:\n1.  List all numbers starting from 2.\n2.  Circle 2 (the first prime) and cross out all multiples of 2 ($4, 6, 8, \\dots$).\n3.  Move to the next uncrossed number (3). Circle it and cross out all its multiples ($9, 15, \\dots$).\n4.  Repeat this for the next uncrossed number (5, then 7, etc.).\n5.  All the numbers left circled (uncrossed) are primes.\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A prime number is a whole number greater than 1 with exactly two factors: 1 and itself.",
+      "The number 1 is not prime.",
+      "The number 2 is the smallest and only even prime number.",
+      "Prime numbers are the building blocks of all other whole numbers."
     ],
-    "whyItMatters": "Prime Numbers is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Prime numbers are the basis of the Fundamental Theorem of Arithmetic. They are also the backbone of modern cybersecurity; RSA encryption, which protects online banking and digital communications, relies on the extreme difficulty of factoring products of large prime numbers."
   },
   "availableLanguages": [
     "en"

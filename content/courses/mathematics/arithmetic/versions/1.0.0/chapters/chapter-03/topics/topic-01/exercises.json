@@ -2,34 +2,41 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Addition.",
-      "solution": "Step-by-step solution for Addition problem.",
+      "prompt": "Evaluate: **$8,756 + 4,895$** using vertical addition. Show carrying step-by-step.",
+      "solution": "1. Align the numbers vertically:\n   $$\\begin{array}{r@{\\quad}l}\n     8756 \\\\\n   + 4895 \\\\\n   \\hline\n   \\end{array}$$\n2. Add the columns from right to left:\n   - **Ones**: $6 + 5 = 11$. Write **1**, carry **1** to the tens.\n   - **Tens**: $1 \\text{ (carry)} + 5 + 9 = 15$. Write **5**, carry **1** to the hundreds.\n   - **Hundreds**: $1 \\text{ (carry)} + 7 + 8 = 16$. Write **6**, carry **1** to the thousands.\n   - **Thousands**: $1 \\text{ (carry)} + 8 + 4 = 13$. Write **13**.\n3. Putting it together with carries:\n   $$\\begin{array}{r@{\\quad}l}\n     \\text{Carries:} & \\color{red}{111} \\\\\n     & 8756 \\\\\n   + & 4895 \\\\\n   \\hline\n     & 13651\n   \\end{array}$$\n\n**Answer**: $8,756 + 4,895 = 13,651$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Line up the place values (ones under ones, tens under tens).",
+        "Start adding from the right-hand side.",
+        "Don't forget to add the carried digits to their respective columns."
       ],
       "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "addition"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Addition", "Carrying"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Addition to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A bakery sold **185** cupcakes in the morning and **247** cupcakes in the afternoon. What is the total number of cupcakes sold that day?",
+      "solution": "To find the total, we add the morning and afternoon sales:\n$$\\text{Total} = 185 + 247$$\n\n1. **Ones**: $5 + 7 = 12$. Write **2**, carry **1**.\n2. **Tens**: $1 \\text (carry) + 8 + 4 = 13$. Write **3**, carry **1**.\n3. **Hundreds**: $1 \\text (carry) + 1 + 2 = 4$. Write **4**.\n\n$$\\begin{array}{r@{\\quad}l}\n  \\text{Carries:} & \\color{red}{11} \\\\\n  & 185 \\\\\n+ & 247 \\\\\n\\hline\n  & 432\n\\end{array}$$\n\n**Answer**: The bakery sold **432 cupcakes**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Identify the two numbers to add: 185 and 247.",
+        "Perform vertical addition starting with $5 + 7$.",
+        "Keep track of the carries for the tens and hundreds columns."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "addition"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Addition", "Word Problem"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "If $x + 482 = 715$, find the value of $482 + x$ without calculating $x$. Explain which property of addition justifies your answer.",
+      "solution": "By the **Commutative Property of Addition**, the order in which we add two numbers does not affect their sum. Therefore:\n\n$$482 + x = x + 482$$\n\nSince we are given that $x + 482 = 715$, it follows directly that:\n\n$$482 + x = 715$$\n\nNo calculation of $x$ is required.\n\n**Answer**: $715$ (justified by the Commutative Property of Addition).",
+      "hints": [
+        "Recall what properties of addition let you rearrange terms.",
+        "Look at how the order of $x$ and $482$ changes."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Addition", "Properties"]
     }
   ]
 }

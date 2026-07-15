@@ -3,28 +3,34 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes SI Base Units?",
+      "question": "What does SI stand for?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Scientific International",
+        "Système International",
+        "Standard International Units",
+        "System of Interchangeable measurements"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "SI stands for 'Système International' (French). It's the worldwide agreed-on system of units.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "SI Base Units is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
+      "type": "multiple-choice",
+      "question": "How many SI base units are there?",
+      "options": ["5", "7", "10", "100"],
       "correctIndex": 1,
-      "explanation": "SI Base Units has many practical applications.",
+      "explanation": "There are exactly 7 SI base units. Everything else is derived from these 7.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "true-false",
+      "question": "Everyone uses SI units everywhere.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes! SI is the international standard. Every scientist uses it. Even the US officially uses SI (though inch/pound measurements still happen).",
+      "difficulty": "medium"
     }
   ]
 }

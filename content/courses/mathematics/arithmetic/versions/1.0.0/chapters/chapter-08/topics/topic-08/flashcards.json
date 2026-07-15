@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Scale?",
-      "back": "Scale is a fundamental concept in mathematics.",
+      "front": "What is the Unitary Method?",
+      "back": "A technique for solving proportion problems by first finding the value of one single unit, and then multiplying to find the required amount.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Scale important?",
-      "back": "Scale is essential for understanding Arithmetic.",
-      "difficulty": "medium"
+      "front": "What is the first step of the unitary method?",
+      "back": "Divide the total value by the number of units to find the value of exactly 1 unit.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the second step of the unitary method?",
+      "back": "Multiply the value of a single unit by the new quantity you want to calculate.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Where does the word 'unitary' come from?",
+      "back": "From the word 'unit', which means one.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "If 10 bags of flour cost $20, how do you find the cost of 7 bags using the unitary method?",
+      "back": "1. Find cost of 1 bag: $20 / 10 = $2.\n2. Find cost of 7 bags: $2 * 7 = $14.",
+      "difficulty": "easy"
     }
   ]
 }

@@ -2,16 +2,18 @@
   "id": "topic-04",
   "name": "Physical Quantities",
   "topicId": "physics.physics-foundations.chapter-01.topic-04",
-  "description": "Learn about Physical Quantities and its applications in physics.",
+  "description": "Things you can measure in physics—length, time, mass, speed, force, energy.",
   "content": {
-    "overview": "Physical Quantities is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Physical Quantities. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Physical Quantities requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A physical quantity is anything you can measure in physics. Length, time, temperature, force—all physical quantities. To measure something, you need a NUMBER and a UNIT. {{viz:diagram-01}}",
+    "explanation": "So what's a physical quantity? It's something measurable. \"I'm tall\" isn't a physical quantity. \"I'm 180 cm tall\"—that's a physical quantity. You have a number (180) and a unit (cm).\n\nEvery physical quantity needs both:\n- **Number**: How much?\n- **Unit**: In what measurement?\n\nFor example:\n- Length: 5 meters (number = 5, unit = meters)\n- Mass: 2 kilograms (number = 2, unit = kg)\n- Time: 10 seconds (number = 10, unit = s)\n- Speed: 60 kilometers per hour (number = 60, unit = km/h) {{viz:chart-01}}\n\nThere are two types of physical quantities:\n\n**Scalars** - Just a number. Like mass (10 kg) or temperature (25°C). You don't care about direction.\n\n**Vectors** - Number AND direction. Like velocity (10 m/s north) or force (50 N upward). Direction matters! {{viz:diagram-02}}\n\nWhy does this matter? Because \"10 m/s\" is different from \"10 m/s east.\" \"100 N\" means something different than \"100 N downward.\" The direction changes everything. {{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A physical quantity = a number + a unit",
+      "Always include the unit (meters, seconds, kg, etc.)",
+      "Scalars have just a number (mass, temperature, time)",
+      "Vectors have a number and a direction (velocity, force, acceleration)",
+      "Direction matters in physics!"
     ],
-    "whyItMatters": "Physical Quantities is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Physics is about measuring and predicting. You can't predict or calculate if you don't know what quantities matter and how to measure them. Physical quantities are the language of physics."
   },
   "availableLanguages": [
     "en"

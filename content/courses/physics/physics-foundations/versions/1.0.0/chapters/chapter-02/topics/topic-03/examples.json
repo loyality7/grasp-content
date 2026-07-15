@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Unit Conversion",
-      "content": "A practical example demonstrating Unit Conversion",
-      "source": "Generated",
+      "title": "Convert Kilometers to Meters",
+      "content": "5 km = ? m. Use: 5 km × (1000 m / 1 km) = 5000 m. The 'km' cancels, you're left with 'm'.",
+      "source": "Distance",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "unit-conversion"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["length", "basic"]
+    },
+    {
+      "id": "example-02",
+      "title": "Convert Hours to Seconds",
+      "content": "2 hours = ? seconds. Use: 2 hr × (60 min/hr) × (60 s/min) = 7200 s. Each unit cancels step by step.",
+      "source": "Time",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["time", "multi-step"]
+    },
+    {
+      "id": "example-03",
+      "title": "Convert Speed (km/h to m/s)",
+      "content": "60 km/h = ? m/s. Use: 60 × (1000 m/km) × (1 hr/3600 s) = 60 × 1000/3600 = 16.7 m/s.",
+      "source": "Velocity",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["speed", "complex"]
     }
   ]
 }

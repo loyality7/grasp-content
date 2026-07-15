@@ -2,16 +2,18 @@
   "id": "topic-01",
   "name": "Unit Checking",
   "topicId": "physics.physics-foundations.chapter-09.topic-01",
-  "description": "Learn about Unit Checking and its applications in physics.",
+  "description": "Making sure your answers have the right units",
   "content": {
-    "overview": "Unit Checking is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Unit Checking. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Unit Checking requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Unit checking is your first defense against silly mistakes. Before celebrating your answer, ask: 'Does this have the right units?' {{viz:diagram-01}}",
+    "explanation": "Unit checking is simple: look at your final answer and verify the units make sense for what you calculated.\n\nExample: You calculate speed and get 50 m/s. Good! Speed should be in m/s (distance/time).\n\nBut if you calculate speed and get 50 meters, that's WRONG. Speed isn't distance—it's distance per time.\n\nThe trick: {{viz:diagram-02}}\n\n1. Know what units your answer SHOULD have\n2. Check what units you actually got\n3. If they match → probably right\n4. If they don't match → definitely wrong\n\n**Example: Wrong answer caught by unit checking** {{viz:anim-01}}\n\nYou calculate: F = m × a = 5 kg × 3 m/s² = 15 kg·m/s²\n\nYou know force should be in Newtons (N), which equals kg·m/s². Your answer checks out! ✓\n\nBut imagine you accidentally wrote: F = m + a = 5 kg + 3 m/s² = ??? \n\nYou can't add kg and m/s²! Units don't match. This tells you something went wrong. {{viz:chart-01}}\n\nUnit checking won't tell you if your answer is 100% correct, but it WILL catch obvious blunders.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Know what units your answer should have",
+      "Check what units you actually got",
+      "If units don't match, something is wrong",
+      "If units match, your answer is at least plausible",
+      "Do this check EVERY TIME you solve a problem"
     ],
-    "whyItMatters": "Unit Checking is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Unit checking saves you from embarrassment. It's the fastest way to catch if you used the wrong formula, made an algebra mistake, or forgot a conversion."
   },
   "availableLanguages": [
     "en"

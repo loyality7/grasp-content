@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Unit Rate?",
+      "question": "What distinguishes a unit rate from a general mathematical rate?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "A unit rate compares identical units.",
+        "A unit rate has exactly 1 as its second (denominator) term.",
+        "A unit rate is always written in colon notation.",
+        "A unit rate must use decimal values."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "A unit rate is a rate where the second quantity is simplified to exactly 1 unit (e.g. per hour, per ounce).",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Unit Rate is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "A jogger runs $15$ miles in $3$ hours. What is their unit running speed?",
       "options": [
-        "True",
-        "False"
+        "4 miles per hour",
+        "5 miles per hour",
+        "15 miles per hour",
+        "45 miles per hour"
       ],
       "correctIndex": 1,
-      "explanation": "Unit Rate has many practical applications.",
+      "explanation": "Divide the distance by the time: $\\frac{15 \\text{ miles}}{3 \\text{ hours}} = 5$ miles per hour.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "If a $5\\text{-pound}$ bag of potatoes costs $4.50$ dollars, what is the unit price per pound?",
+      "options": [
+        "0.80 dollars per pound",
+        "0.90 dollars per pound",
+        "1.10 dollars per pound",
+        "2.25 dollars per pound"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide cost by weight: $\\frac{4.50 \\text{ dollars}}{5 \\text{ pounds}} = 0.90$ dollars per pound.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "A production line stamps $300$ parts in $15$ minutes. What is the unit stamping rate?",
+      "options": [
+        "15 parts per minute",
+        "20 parts per minute",
+        "30 parts per minute",
+        "45 parts per minute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide the total parts by the minutes: $\\frac{300 \\text{ parts}}{15 \\text{ minutes}} = 20$ parts per minute.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which option is the better buy: a $10\\text{-pack}$ of pens for $2.50$ dollars, or a $30\\text{-pack}$ of the same pens for $6.00$ dollars?",
+      "options": [
+        "The 10-pack of pens, because $2.50 is a smaller total cost.",
+        "The 30-pack of pens, because the unit cost is $0.20 per pen compared to $0.25.",
+        "Both are equal values.",
+        "The 10-pack, because the unit cost is $0.15 per pen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Store A (10-pack) unit cost is $\\frac{2.50}{10} = 0.25$ per pen. Store B (30-pack) unit cost is $\\frac{6.00}{30} = 0.20$ per pen. Lower unit cost is the better buy.",
+      "difficulty": "medium"
     }
   ]
 }

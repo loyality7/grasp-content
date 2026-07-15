@@ -2,16 +2,18 @@
   "id": "topic-01",
   "name": "Scalars",
   "topicId": "physics.physics-foundations.chapter-04.topic-01",
-  "description": "Learn about Scalars and its applications in physics.",
+  "description": "Quantities that have only magnitude (amount), no direction",
   "content": {
-    "overview": "Scalars is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Scalars. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Scalars requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A scalar is simple: just a number with a unit. Temperature, mass, time, distance. No direction needed. {{viz:diagram-01}}",
+    "explanation": "Remember when we said some physical quantities need direction and some don't? {{viz:diagram-02}}\n\nA scalar is a quantity that's ONLY a number. Just magnitude. No direction.\n\n**What's magnitude?** The size or amount. How much. How big. {{viz:anim-01}}\n\n**Examples of Scalars:**\n- **Mass**: 70 kg. That's it. Not \"70 kg to the left\" or \"70 kg upward.\" Just 70 kg.\n- **Temperature**: 25°C. Not a direction involved.\n- **Time**: 10 seconds. No direction. Time doesn't point anywhere.\n- **Distance**: 5 meters. (Not velocity! We'll get there.)\n- **Speed**: 60 km/h. Just the number. {{viz:chart-01}}\n- **Energy**: 100 Joules. Just amount.\n- **Density**: 1000 kg/m³. Just a number.\n\nNotice: with all these, you just need a number. No arrow, no direction, no compass.\n\n**Scalars Combine Simply:**\nIf you have 5 kg of flour and add 3 kg of sugar, you have 8 kg total. Easy math.\n5 kg + 3 kg = 8 kg. {{viz:chart-01}}\n\nIf the temperature is 20°C and it rises by 5°C, it's now 25°C.\n20°C + 5°C = 25°C. Simple.\n\n**The Key Difference (hint at vectors):**\nScalars: just magnitude. \"5 meters.\" \"100 watts.\" \"3 seconds.\"\nVectors (next topic): magnitude AND direction. \"5 meters north.\" \"100 watts upward.\" Direction matters!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Scalars = magnitude only, no direction",
+      "Just a number with a unit",
+      "Mass, temperature, time, distance, speed are scalars",
+      "Scalars add like regular numbers",
+      "Examples: 70 kg, 25°C, 5 m, 60 km/h"
     ],
-    "whyItMatters": "Scalars is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "You can't do physics without understanding scalars vs vectors. Many quantities are scalars, and they follow simple math rules."
   },
   "availableLanguages": [
     "en"

@@ -2,16 +2,17 @@
   "id": "topic-06",
   "name": "Inverse Proportion",
   "topicId": "mathematics.arithmetic.chapter-08.topic-06",
-  "description": "Learn about Inverse Proportion and its applications in mathematics.",
+  "description": "Learn the concept of inverse proportion, write inverse variation equations where products are constant, and solve speed-time and work-time problems.",
   "content": {
-    "overview": "Inverse Proportion is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Inverse Proportion. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Inverse Proportion requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Inverse proportion is a mathematical relationship between two variables where an increase in one variable causes a proportional decrease in the other, keeping their product constant.",
+    "explanation": "### What is Inverse Proportion?\n\nIf two quantities are in **inverse proportion** (or inverse variation), then as one quantity increases, the other decreases by the same factor. \n\n*Examples of Inverse Proportion*:\n-   **Workers and Time**: If $2$ workers take $4$ hours to paint a wall, then doubling the workers to $4$ cuts the time in half to $2$ hours.\n-   **Speed and Time**: If you double your speed on a trip, you arrive in half the time.\n\n### The Constant Product Rule\n\nIf variable $y$ is inversely proportional to $x$, we write this relation using a constant **$k$**:\n\n{{viz:formula-01}}\n\nThis means that the **product** of the two variables is always constant:\n$$x \\cdot y = k$$\n\n### Solving Inverse Proportion Problems\n\n#### Step-by-Step Method\n1.  **Find the constant $k$** by multiplying the first known pair of values ($k = x_1 \\cdot y_1$).\n2.  **Set up the equation** for the second case ($x_2 \\cdot y_2 = k$).\n3.  **Solve for the unknown value** by dividing $k$ by the known term ($y_2 = \\frac{k}{x_2}$).\n\n*Example: If $3$ builders take $8$ days to finish a roof, how many days will it take $6$ builders?*\n1.  Let $w = \\text{builders}$ and $d = \\text{days}$. We know that when $w = 3$, $d = 8$.\n2.  Find the constant work $k$:\n    $$k = w \\cdot d = 3 \\times 8 = 24 \\text{ builder-days}$$\n3.  Set up the equation for $6$ builders:\n    $$6 \\times d = 24$$\n4.  Divide to find the new days:\n    $$d = \\frac{24}{6} = 4 \\text{ days}$$\n-   *Double the workers ($3 \\to 6$) halves the time ($8 \\to 4$ days).*\n\n### Graphing Inverse Proportion\n\nThe graph of an inverse proportion is not a straight line. Instead, it is a curve called a **hyperbola** that bends towards the axes but never touches them (since neither $x$ nor $y$ can ever be zero, as their product is $k \\neq 0$).\n\n### Visualizing Inverse Proportion\n\nObserve three lanes of workers painting fence panels. Notice how doubling or quadrupling the crew speeds up the paint rate and cuts the time proportionally:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "In an inverse proportion, one variable increases while the other decreases.",
+      "The equation is y = k/x, which means the product x \u00d7 y is always constant (k).",
+      "Doubling one quantity halves the other.",
+      "The graph is a curved hyperbola that never touches the axes."
     ],
-    "whyItMatters": "Inverse Proportion is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Inverse proportions are vital for project management (scheduling labor), aerodynamics (wing lift vs speed), volume and pressure relationships in gases (Boyle's Law), and gear ratios."
   },
   "availableLanguages": [
     "en"

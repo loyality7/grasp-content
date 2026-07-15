@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Division?",
+      "question": "In the equation $45 \\div 9 = 5$, what term describes the number 9?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Dividend",
+        "Divisor",
+        "Quotient",
+        "Remainder"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "In division, the number you are dividing by is called the 'divisor'. 45 is the 'dividend', and 5 is the 'quotient'.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Division is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the result of dividing 0 by 17 ($0 \\div 17$)?",
       "options": [
-        "True",
-        "False"
+        "17",
+        "1",
+        "0",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zero divided by any non-zero number is always zero. ($0 \\div 17 = 0$ because $0 \\times 17 = 0$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the result of dividing 17 by 0 ($17 \\div 0$)?",
+      "options": [
+        "17",
+        "1",
+        "0",
+        "Undefined"
+      ],
+      "correctIndex": 3,
+      "explanation": "Division by zero is mathematically undefined. There is no number that can be multiplied by 0 to yield 17.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Find the quotient and remainder of $347 \\div 5$.",
+      "options": [
+        "69 R 2",
+        "69 R 4",
+        "68 R 2",
+        "68 R 4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Divide: $34 \\div 5 = 6$ remainder 4. Bring down $7 \\to 47$. $47 \\div 5 = 9$ remainder 2 ($9 \\times 5 = 45$). The quotient is 69 and the remainder is 2.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which equation disproves the associative property of division?",
+      "options": [
+        "$12 \\div 4 \\neq 4 \\div 12$",
+        "$(24 \\div 4) \\div 2 \\neq 24 \\div (4 \\div 2)$",
+        "$6 \\div 1 = 6$",
+        "$8 \\div 8 = 1$"
       ],
       "correctIndex": 1,
-      "explanation": "Division has many practical applications.",
-      "difficulty": "easy"
+      "explanation": "The associative property deals with grouping: $(a \\div b) \\div c = a \\div (b \\div c)$. The second option shows that $(24 \\div 4) \\div 2 = 3$, whereas $24 \\div (4 \\div 2) = 12$, proving division is not associative.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,35 +1,46 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Models in Physics.",
-      "solution": "Step-by-step solution for Models in Physics problem.",
+      "id": "exercise-01",
+      "type": "analysis",
+      "title": "Find the Simplification",
+      "content": "Look at a physics problem. What's being simplified or ignored? For example, we ignore air resistance, ignore the size of objects, ignore friction. Find one model and what it ignores.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "What details are left out?",
+        "Why would leaving them out still work?",
+        "When would it NOT work?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "models-in-physics"
-      ]
+      "tags": ["analysis"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Models in Physics to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "thinking",
+      "title": "When Does a Model Break?",
+      "content": "Think of a model from physics. When does it stop working? Example: treating air as empty works until speeds get very high.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Every model has limits",
+        "What extreme condition breaks it?",
+        "What assumptions does the model make?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "models-in-physics"
-      ]
+      "tags": ["critical-thinking"]
+    },
+    {
+      "id": "exercise-03",
+      "type": "creation",
+      "title": "Design a Simple Model",
+      "content": "Make up a simplified model for something you know about. What do you keep? What do you ignore? Why?",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "hints": [
+        "Models should be simpler than reality",
+        "But accurate enough to be useful",
+        "What details matter? What can you ignore?"
+      ],
+      "tags": ["creation"]
     }
   ]
 }

@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Decrease Percentage",
-      "content": "A practical example demonstrating Decrease Percentage",
-      "source": "Generated",
+      "title": "Calculating a Percentage Decrease in Two Steps",
+      "content": "Decrease **$120$** by **$15\\%$**.\n\n### Step-by-Step Solution\n\n1.  **Find the decrease amount**:\n    Calculate $15\\%$ of $120$:\n    -   $10\\%$ of $120 = 12$\n    -   $5\\%$ of $120 = 6$\n    -   $15\\%$ of $120 = 12 + 6 = 18$\n\n2.  **Subtract the decrease from the original number**:\n    $$\\text{New Value} = 120 - 18 = 102$$\n\n**Answer**: The new value is **$102$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "decrease-percentage"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Two-Step Method"]
+    },
+    {
+      "id": "example-02",
+      "title": "Using the Multiplier Method for Sale Discount",
+      "content": "A pair of jeans originally priced at **$60$ dollars** is discounted by **$30\\%$**. What is the sale price of the jeans?\n\n### Step-by-Step Solution\n\n1.  **Determine the remaining percentage**:\n    Losing $30\\%$ of the price means the buyer pays $70\\%$ of the original price.\n    $$\\text{Multiplier} = 1 - 0.30 = 0.70$$\n\n2.  **Multiply the original price by the multiplier**:\n    $$\\text{Sale Price} = 60 \\times 0.70$$\n    $$60 \\times 0.7 = 42$$\n\n**Answer**: The sale price of the jeans is **$42$ dollars**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Multiplier Method", "Word Problems"]
     }
   ]
 }

@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Accuracy",
-      "content": "A practical example demonstrating Accuracy",
-      "source": "Generated",
+      "title": "Thermometer Test",
+      "content": "True water boiling point: 100°C. Thermometer A reads 100.1°C (very close = accurate). Thermometer B reads 98°C (still close = somewhat accurate). Thermometer C reads 110°C (way off = NOT accurate).",
+      "source": "Measurement",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "accuracy"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["temperature", "measurement"]
+    },
+    {
+      "id": "example-02",
+      "title": "Weight Scale Accuracy",
+      "content": "Your actual weight: 65 kg (measured on a medical scale). Your home scale says 65.2 kg. Accurate! Your old scale says 62 kg. Not so accurate (3 kg off).",
+      "source": "Measurement",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["mass", "measurement"]
+    },
+    {
+      "id": "example-03",
+      "title": "Book Length Measurement",
+      "content": "A book is actually 20 cm long (you verified with a calibrated ruler). Your ruler says 19.9 cm. Very accurate! Your meter stick says 18 cm. Not accurate.",
+      "source": "Measurement",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["length", "measurement"]
     }
   ]
 }

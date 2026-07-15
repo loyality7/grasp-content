@@ -1,12 +1,1 @@
-{
-  "resources": [
-    {
-      "id": "resource-01",
-      "title": "Sample Resource Title",
-      "url": "https://example.com/resource",
-      "type": "website",
-      "description": "Replace this template. Supported types: 'video', 'pdf', 'article', 'website'.",
-      "source": "Grasp Academy"
-    }
-  ]
-}
+{"resources": []}

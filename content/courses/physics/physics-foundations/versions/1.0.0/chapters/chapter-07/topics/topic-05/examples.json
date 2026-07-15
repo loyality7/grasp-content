@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Nonlinear Relationships",
-      "content": "A practical example demonstrating Nonlinear Relationships",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "nonlinear-relationships"
-      ]
+      "title": "Falling Distance",
+      "content": "Distance = ½gt². At 1 sec = 5m, at 2 sec = 20m, at 3 sec = 45m. Not linear (curves faster).",
+      "source": "Kinematics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["falling", "quadratic"]
+    },
+    {
+      "id": "example-02",
+      "title": "Population Growth",
+      "content": "Bacteria double every hour: 1, 2, 4, 8, 16, 32... Exponential growth, not linear.",
+      "source": "Biology/Growth",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["exponential", "population"]
+    },
+    {
+      "id": "example-03",
+      "title": "Gravity's Inverse Square",
+      "content": "Force = GMm/r². Double distance, force becomes ¼. Inverse square relationship.",
+      "source": "Gravity",
+      "difficulty": "advanced",
+      "estimatedMinutes": 2,
+      "tags": ["gravity", "inverse-square"]
     }
   ]
 }

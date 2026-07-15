@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Laws of Exponents (Introduction)?",
-      "back": "Laws of Exponents (Introduction) is a fundamental concept in mathematics.",
+      "front": "What is the Product Rule of exponents?",
+      "back": "$a^m \\times a^n = a^{m+n}$ (add the exponents when multiplying terms with the same base).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Laws of Exponents (Introduction) important?",
-      "back": "Laws of Exponents (Introduction) is essential for understanding Arithmetic.",
+      "front": "What is the Quotient Rule of exponents?",
+      "back": "$\\frac{a^m}{a^n} = a^{m-n}$ (subtract exponents when dividing terms with the same base).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the Power of a Power Rule?",
+      "back": "$(a^m)^n = a^{m \\times n}$ (multiply exponents when raising an exponential power to another power).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the main requirement to apply exponent rules for products/quotients?",
+      "back": "The base numbers of the exponential terms must be exactly the same.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Evaluate the expression $(2^2)^3$.",
+      "back": "$64$ (since $(2^2)^3 = 2^{2 \\times 3} = 2^6 = 64$).",
       "difficulty": "medium"
     }
   ]

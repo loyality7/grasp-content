@@ -2,16 +2,17 @@
   "id": "topic-05",
   "name": "Simplifying Fractions",
   "topicId": "mathematics.arithmetic.chapter-05.topic-05",
-  "description": "Learn about Simplifying Fractions and its applications in mathematics.",
+  "description": "Learn how to reduce fractions to their simplest terms by dividing the numerator and denominator by their greatest common divisor (GCD).",
   "content": {
-    "overview": "Simplifying Fractions is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Simplifying Fractions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Simplifying Fractions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Simplifying a fraction (also called reducing it) means writing it in its simplest form, where the numerator and denominator are as small as possible and share no common factors other than 1.",
+    "explanation": "### What is Simplest Form?\n\nA fraction is in its **simplest form** (or lowest terms) when its numerator and denominator are coprime—meaning they have no common factors other than 1.\n\nFor example, $\\frac{2}{3}$ is in simplest form because the only common factor of 2 and 3 is 1. However, $\\frac{8}{12}$ is not in simplest form because both 8 and 12 can be divided by 2 or 4.\n\nSimplifying a fraction does not change its value; it creates an equivalent fraction that is easier to read and understand.\n\n### Methods to Simplify Fractions\n\nThere are two main methods to simplify a fraction:\n\n{{viz:formula-01}}\n\n#### Method 1: Division by the Greatest Common Divisor (GCD) - One-step Method\n1.  Find the Greatest Common Divisor (GCD) of the numerator and the denominator.\n2.  Divide both the numerator and the denominator by this GCD.\n\n-   *Example*: Simplify $\\frac{24}{36}$.\n    1.  The factors of 24 are $\\{1, 2, 3, 4, 6, 8, 12, 24\\}$.\n    2.  The factors of 36 are $\\{1, 2, 3, 4, 6, 9, 12, 18, 36\\}$.\n    3.  The GCD (largest shared factor) is **12**.\n    4.  Divide numerator and denominator by 12:\n        $$\\frac{24 \\div 12}{36 \\div 12} = \\frac{2}{3}$$\n\n#### Method 2: Repeated Division (Divide by Common Factors) - Step-by-Step Method\nIf you cannot easily find the GCD, you can divide by any common factor you see. Repeat this process until you cannot divide any further.\n\n-   *Example*: Simplify $\\frac{24}{36}$ using repeated division:\n    1.  Divide by 2 (both are even): \n        $$\\frac{24 \\div 2}{36 \\div 2} = \\frac{12}{18}$$\n    2.  Divide by 2 again (both are even):\n        $$\\frac{12 \\div 2}{18 \\div 2} = \\frac{6}{9}$$\n    3.  Divide by 3 (both are multiples of 3):\n        $$\\frac{6 \\div 3}{9 \\div 3} = \\frac{2}{3}$$\n    4.  Since 2 and 3 share no common factors other than 1, we are done!\n\nBoth methods give the exact same simplest form: **$\\frac{2}{3}$**.\n\n### Visualizing Simplification\n\nObserve how $\\frac{8}{12}$ is simplified to $\\frac{2}{3}$. By grouping the 12 small squares into 3 larger columns of 4 squares each, we see that shading 8 of the small squares covers the same area as shading 2 of the larger columns:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A fraction is in simplest form when the numerator and denominator share no common factors other than 1.",
+      "Simplifying a fraction does not alter its value; it creates an equivalent fraction in its simplest representation.",
+      "Dividing both the numerator and denominator by their Greatest Common Divisor (GCD) simplifies the fraction in a single step.",
+      "Repeatedly dividing by any common factors will eventually yield the simplest form."
     ],
-    "whyItMatters": "Simplifying Fractions is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Simplifying fractions makes numbers much easier to visualize and compare. In mathematics, it is standard practice to write all final answers in their simplest terms."
   },
   "availableLanguages": [
     "en"

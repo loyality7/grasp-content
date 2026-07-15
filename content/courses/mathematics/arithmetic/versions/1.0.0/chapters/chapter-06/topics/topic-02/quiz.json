@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Comparing Decimals?",
+      "question": "Which symbol makes the following statement true? \n$$0.3 \\quad \\underline{\\quad} \\quad 0.29$$",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "$<$",
+        "$>$",
+        "$=$",
+        "$\\le$"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "If we pad $0.3$ with a zero, it becomes $0.30$. Comparing tenths: $3 > 2$, so $0.30 > 0.29$.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Comparing Decimals is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following decimals is the largest?",
       "options": [
-        "True",
-        "False"
+        "$0.8$",
+        "$0.79$",
+        "$0.089$",
+        "$0.81$"
+      ],
+      "correctIndex": 3,
+      "explanation": "Padded with zeros: $0.800$, $0.790$, $0.089$, $0.810$. Comparing left-to-right, $0.810$ has the highest combination of tenths and hundredths.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Arrange $0.15$, $0.2$, and $0.095$ in ascending order (smallest to largest).",
+      "options": [
+        "$0.095, \\ 0.15, \\ 0.2$",
+        "$0.2, \\ 0.15, \\ 0.095$",
+        "$0.15, \\ 0.095, \\ 0.2$",
+        "$0.095, \\ 0.2, \\ 0.15$"
+      ],
+      "correctIndex": 0,
+      "explanation": "Converting all to three decimal places: $0.095$, $0.150$, $0.200$. Since $95 < 150 < 200$ hundredths/thousandths, the correct order is $0.095, 0.15, 0.2$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which statement is true regarding the decimals $0.6$ and $0.600$?",
+      "options": [
+        "$0.600$ is larger because it has more digits.",
+        "$0.6$ is larger because it is closer to the decimal point.",
+        "They are equal because adding trailing zeros does not change a decimal's value.",
+        "They cannot be compared."
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding zeros at the end of a decimal number does not add any value (it represents 0 hundredths and 0 thousandths), so $0.6 = 0.600$.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Which relationship is correct?",
+      "options": [
+        "$2.54 > 2.541$",
+        "$2.54 < 2.541$",
+        "$2.54 = 2.541$",
+        "$2.540 > 2.541$"
       ],
       "correctIndex": 1,
-      "explanation": "Comparing Decimals has many practical applications.",
+      "explanation": "Padding $2.54$ yields $2.540$. Comparing thousandths: $0$ is less than $1$ ($0 < 1$). Thus, $2.540 < 2.541$.",
       "difficulty": "easy"
     }
   ]

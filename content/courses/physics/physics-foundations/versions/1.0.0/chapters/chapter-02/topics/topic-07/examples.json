@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Dimensional Homogeneity",
-      "content": "A practical example demonstrating Dimensional Homogeneity",
-      "source": "Generated",
+      "title": "Can You Add Length + Time?",
+      "content": "No! 5 meters + 3 seconds = ???. Different dimensions can't be added. It's like adding 5 apples + 3 oranges—the result is meaningless.",
+      "source": "Basic Rule",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "dimensional-homogeneity"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["cannot-add"]
+    },
+    {
+      "id": "example-02",
+      "title": "Can You Add Distance + Distance?",
+      "content": "Yes! 5 meters + 3 meters = 8 meters. Both have dimension [L]. Addition works.",
+      "source": "Basic Rule",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["can-add"]
+    },
+    {
+      "id": "example-03",
+      "title": "Wrong Equation Check",
+      "content": "s = ut + v. Left: [L]. Right: [L T⁻¹][T] + [L T⁻¹] = [L] + [L T⁻¹]. Can't add [L] + [L T⁻¹]! The equation is WRONG.",
+      "source": "Kinematics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["error-detection"]
     }
   ]
 }

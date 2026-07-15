@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Improper Fractions?",
-      "back": "Improper Fractions is a fundamental concept in mathematics.",
+      "front": "What is an Improper Fraction?",
+      "back": "A fraction where the numerator is greater than or equal to the denominator (e.g., $\\frac{7}{4}$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Improper Fractions important?",
-      "back": "Improper Fractions is essential for understanding Arithmetic.",
+      "front": "What is the condition for a fraction to be improper?",
+      "back": "$$n \\ge d$$ where $n$ is the numerator and $d$ is the denominator.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the value of an improper fraction?",
+      "back": "It is always greater than or equal to 1 whole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How do you represent a whole number as a fraction?",
+      "back": "By placing the whole number over a denominator of 1. (e.g., $5 = \\frac{5}{1}$). This is also an improper fraction.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What form is equivalent to an improper fraction?",
+      "back": "A mixed number (which combines a whole number and a proper fraction). For example, $\\frac{5}{4} = 1\\frac{1}{4}$.",
+      "difficulty": "easy"
     }
   ]
 }

@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Proper Fractions",
   "topicId": "mathematics.arithmetic.chapter-05.topic-01",
-  "description": "Learn about Proper Fractions and its applications in mathematics.",
+  "description": "Learn the definition of proper fractions, numerator and denominator roles, and how to represent parts of a whole.",
   "content": {
-    "overview": "Proper Fractions is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Proper Fractions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Proper Fractions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A proper fraction represents a quantity that is less than one whole. It consists of a numerator (the top number) that is smaller than the denominator (the bottom number).",
+    "explanation": "### What is a Fraction?\n\nA fraction represents a **part of a whole**. When you divide a single unit (like a pizza, a candy bar, or a group of objects) into equal-sized pieces, a fraction tells you how many of those pieces you have.\n\n### Numerator and Denominator\n\nA fraction is written as one number over another, separated by a horizontal bar (called a vinculum):\n\n$$\\frac{\\text{Numerator}}{\\text{Denominator}} = \\frac{n}{d}$$\n\n1.  **Denominator (Bottom Number)**: Shows the total number of **equal parts** the whole has been divided into. It 'denominates' or names the size of the parts (e.g., fourths, fifths, eighths).\n2.  **Numerator (Top Number)**: Shows the number of parts **we are considering** or have. It 'numerates' or counts the parts.\n\n$$\\text{Proper Fraction Condition: } n < d \\quad (\\text{where } d \\neq 0)$$\n\n{{viz:formula-01}}\n\n### Proper Fractions\n\nIf the numerator is **strictly smaller** than the denominator, the fraction is a **proper fraction**. Because the numerator is smaller than the denominator, a proper fraction always represents a value that is **less than 1 whole**.\n\n-   *Examples of Proper Fractions*: \n    -   $\\frac{3}{4}$ (Three-quarters: 3 is less than 4)\n    -   $\\frac{1}{2}$ (One-half: 1 is less than 2)\n    -   $\\frac{5}{8}$ (Five-eighths: 5 is less than 8)\n\n-   *Non-examples*:\n    -   $\\frac{4}{3}$ (Numerator 4 is larger than denominator 3 - this is an improper fraction)\n    -   $\\frac{5}{5}$ (Numerator is equal to denominator - this equals exactly 1 whole)\n\n### Visualizing Proper Fractions\n\nWe can represent proper fractions visually using area models like a divided circle (pie chart) or a rectangle. For instance, to represent $\\frac{3}{4}$ of a pizza, we divide the pizza into 4 equal slices (denominator) and shade 3 of them (numerator).\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Fractions represent equal parts of a whole unit.",
+      "The denominator indicates the total parts; the numerator indicates the selected parts.",
+      "In a proper fraction, the numerator is always smaller than the denominator.",
+      "Proper fractions always represent a value strictly less than 1."
     ],
-    "whyItMatters": "Proper Fractions is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Proper fractions are the building blocks of fractional arithmetic and are used daily in recipes (e.g., $\\frac{1}{2}$ cup of milk), measurements (e.g., $\\frac{3}{4}$ inch), and probability (e.g., a $\\frac{1}{6}$ chance of rolling a 3)."
   },
   "availableLanguages": [
     "en"

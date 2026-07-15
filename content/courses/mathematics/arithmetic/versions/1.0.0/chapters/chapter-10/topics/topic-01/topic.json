@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Positive & Negative Numbers",
   "topicId": "mathematics.arithmetic.chapter-10.topic-01",
-  "description": "Learn about Positive & Negative Numbers and its applications in mathematics.",
+  "description": "Understand positive and negative whole numbers, visualize them on a horizontal number line, compare integers, and relate them to real-world scenarios like altitude and temperature.",
   "content": {
-    "overview": "Positive & Negative Numbers is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Positive & Negative Numbers. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Positive & Negative Numbers requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Positive and negative numbers represent values on opposite sides of zero. Together with zero, they form a set of numbers called integers.",
+    "explanation": "### What are Integers?\n\nAn **integer** is a whole number that can be positive, negative, or zero. In mathematics, we write the set of integers as $\\mathbb{Z}$:\n\n{{viz:formula-01}}\n\n-   **Positive numbers** are values greater than $0$ (like $+1, +2, +3$). We usually write them without the plus sign ($1, 2, 3$).\n-   **Negative numbers** are values less than $0$. They are always written with a minus sign (like $-1, -2, -3$).\n-   **Zero ($0$)** is the center boundary. It is **neutral** (neither positive nor negative).\n\n### The Number Line Visual\n\nImagine a horizontal line with zero in the exact center:\n-   As you move to the **right** of zero, numbers increase in value ($+1, +2, +3...$).\n-   As you move to the **left** of zero, numbers decrease in value ($-1, -2, -3...$).\n\n### Real-World Scenarios\n\nPositive and negative integers are used to describe opposite directions or states:\n-   **Temperature**: $+30^\\circ\\text{C}$ (above freezing) vs $-5^\\circ\\text{C}$ (below freezing).\n-   **Elevation**: $+2,500\\text{ feet}$ (above sea level) vs $-120\\text{ feet}$ (below sea level).\n-   **Money**: Depositing $+\\$50$ into a bank account vs withdrawing $-\\$20$.\n\n### Comparing Integers\n\nOn a number line, **whichever number lies further to the right is the larger number**.\n-   **Comparing positive and negative**: Any positive number is greater than any negative number ($3 > -5$).\n-   **Comparing negative numbers**: Since $-2$ is to the right of $-8$ on the number line, $-2$ is larger than $-8$:\n    $$-2 > -8$$\n    Think of temperature: $-2^\\circ$ is warmer (higher temperature) than $-8^\\circ$.\n\n### Visualizing Integers on the Number Line\n\nWatch this animation highlighting positive numbers, negative numbers, and zero, showing how they compare horizontally:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Integers are positive whole numbers, negative whole numbers, and zero.",
+      "Positive numbers are to the right of zero, and negative numbers are to the left of zero.",
+      "Zero is neither positive nor negative.",
+      "The further to the right a number is on the number line, the larger its value."
     ],
-    "whyItMatters": "Positive & Negative Numbers is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Positive and negative numbers are used in financial accounting (profits vs. losses), meteorology (temperatures), oceanography (sea depth), and coordinate graphing."
   },
   "availableLanguages": [
     "en"

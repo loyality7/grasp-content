@@ -1,35 +1,33 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Spherical Coordinates (Introduction).",
-      "solution": "Step-by-step solution for Spherical Coordinates (Introduction) problem.",
+      "id": "exercise-01",
+      "type": "describe",
+      "title": "Position in Spherical",
+      "content": "A star is 10 light-years from Earth, at azimuth 120°, at elevation 30° above the equator. Write its spherical coordinates.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "r = distance from center = 10 ly",
+        "θ = azimuthal angle = 120°",
+        "φ = elevation/polar angle = 30°",
+        "Answer: (10, 120°, 30°)"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "spherical-coordinates-introduction"
-      ]
+      "tags": ["3d", "astronomy"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Spherical Coordinates (Introduction) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "identify",
+      "title": "Spherical vs Systems",
+      "content": "For atom, planet orbits, radiation spreading—which system (Cartesian, cylindrical, spherical) fits best?",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Atoms: spherical symmetry around nucleus",
+        "Planets: orbits are circles, but 3D around sun",
+        "Radiation: spreads equally in all directions—spherical!"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "spherical-coordinates-introduction"
-      ]
+      "tags": ["comparison"]
     }
   ]
 }

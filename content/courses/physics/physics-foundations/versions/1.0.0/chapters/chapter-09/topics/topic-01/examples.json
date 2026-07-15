@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Unit Checking",
-      "content": "A practical example demonstrating Unit Checking",
-      "source": "Generated",
+      "title": "Speed Calculation",
+      "content": "You calculate speed = 100 meters / 5 seconds = 20. You got 20, but 20 what? 20 meters? No! 20 m/s. Unit checking catches that your answer MUST have units of m/s.",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "unit-checking"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["speed", "units"]
+    },
+    {
+      "id": "example-02",
+      "title": "Force Calculation Wrong",
+      "content": "You calculate F = m + a = 5 kg + 3 m/s² = 8. But 8 what? You can't add kg and m/s²! Unit checking immediately says: WRONG. Something went wrong in your formula.",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["force", "error-catching"]
+    },
+    {
+      "id": "example-03",
+      "title": "Energy in Joules",
+      "content": "You calculate E = m × v² = 2 kg × (5 m/s)² = 50. Unit check: kg × (m/s)² = kg·m²/s² = Joules. Your answer is 50 J. Units match! ✓",
+      "source": "Energy",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["energy", "joule"]
     }
   ]
 }

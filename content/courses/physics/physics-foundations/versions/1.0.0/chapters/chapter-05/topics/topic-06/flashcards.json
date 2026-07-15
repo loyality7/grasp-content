@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Dot Product?",
-      "back": "Dot Product is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Dot Product important?",
-      "back": "Dot Product is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"card-01","front":"Dot product formula (components)?","back":"A·B = Ax*Bx + Ay*By + Az*Bz","difficulty":"easy"},{"id":"card-02","front":"Dot product formula (angle)?","back":"A·B = |A| |B| cos(θ)","difficulty":"easy"},{"id":"card-03","front":"Perpendicular vectors: A·B = ?","back":"A·B = 0 (because cos(90°) = 0)","difficulty":"easy"}]}

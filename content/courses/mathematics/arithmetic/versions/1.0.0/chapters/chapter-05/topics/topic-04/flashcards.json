@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Equivalent Fractions?",
-      "back": "Equivalent Fractions is a fundamental concept in mathematics.",
+      "front": "What are Equivalent Fractions?",
+      "back": "Fractions that look different but represent the exact same value or proportion of a whole.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Equivalent Fractions important?",
-      "back": "Equivalent Fractions is essential for understanding Arithmetic.",
+      "front": "How do you scale up a fraction to find an equivalent one?",
+      "back": "Multiply both the numerator and the denominator by the same non-zero whole number.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you scale down a fraction to find an equivalent one?",
+      "back": "Divide both the numerator and the denominator by a common factor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the cross-multiplication rule for equivalent fractions?",
+      "back": "$$\\frac{a}{b} = \\frac{c}{d} \\iff a \\times d = b \\times c$$",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Are $\\frac{3}{4}$ and $\\frac{75}{100}$ equivalent?",
+      "back": "Yes, because $3 \\times 25 = 75$ and $4 \\times 25 = 100$ (or because both equal 0.75).",
+      "difficulty": "easy"
     }
   ]
 }

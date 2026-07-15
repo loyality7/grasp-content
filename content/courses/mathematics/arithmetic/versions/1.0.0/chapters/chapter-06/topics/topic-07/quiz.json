@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Dividing Decimals?",
+      "question": "When dividing $3.5$ by $0.05$, by how many places to the right must you shift the decimal points of both numbers?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1",
+        "2",
+        "3",
+        "None"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "The divisor is $0.05$. It has 2 decimal places, so we must shift the decimal point 2 places to the right to turn it into the whole number 5.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Dividing Decimals is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Calculate: $0.8 \\div 0.2$",
       "options": [
-        "True",
-        "False"
+        "0.4",
+        "4",
+        "0.04",
+        "40"
       ],
       "correctIndex": 1,
-      "explanation": "Dividing Decimals has many practical applications.",
+      "explanation": "Shift both decimal points 1 place to the right: $0.8 \\div 0.2$ becomes $8 \\div 2 = 4$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "Calculate: $1.44 \\div 1.2$",
+      "options": [
+        "12",
+        "1.2",
+        "0.12",
+        "0.012"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shift both decimal points 1 place to the right to make the divisor a whole number: $1.44 \\div 1.2$ becomes $14.4 \\div 12$. Dividing $14.4$ by $12$ yields $1.2$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Solve: $9 \\div 0.3$",
+      "options": [
+        "3",
+        "0.3",
+        "30",
+        "300"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shift both decimal points 1 place to the right. $9$ becomes $90$, and $0.3$ becomes $3$. $90 \\div 3 = 30$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Find the quotient: $0.075 \\div 0.25$",
+      "options": [
+        "3",
+        "0.3",
+        "0.03",
+        "0.003"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shift both decimal points 2 places to the right to turn $0.25$ into $25$. $0.075$ becomes $7.5$. Dividing $7.5 \\div 25$ yields $0.3$.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -2,34 +2,40 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Mixed Numbers.",
-      "solution": "Step-by-step solution for Mixed Numbers problem.",
+      "prompt": "Convert the mixed number **$4\\frac{3}{7}$** into an improper fraction.",
+      "solution": "Apply the mixed-to-improper conversion formula:\n$$\\text{Improper Fraction} = \\frac{(W \\times d) + n}{d}$$\n\n1. Identify parameters: $W = 4, n = 3, d = 7$.\n2. Multiply whole number by denominator:\n   $$4 \\times 7 = 28$$\n3. Add numerator:\n   $$28 + 3 = 31$$\n4. Place over denominator:\n   $$\\frac{31}{7}$$\n\n**Answer**: **$\\frac{31}{7}$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First multiply 4 by 7.",
+        "Add 3 to that result.",
+        "Keep the denominator as 7."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "mixed-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Mixed Numbers", "Conversion"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Mixed Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Convert the improper fraction **$\\frac{23}{5}$** into a mixed number.",
+      "solution": "Apply the division method:\n1. Divide 23 by 5 using integer division:\n   $$23 \\div 5 = 4 \\quad \\text{remainder } 3$$\n2. The quotient (4) becomes the whole number, the remainder (3) becomes the numerator, and the denominator remains 5.\n3. Form the mixed number: $4\\frac{3}{5}$.\n\n**Answer**: **$4\\frac{3}{5}$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Divide 23 by 5. How many times does 5 fit into 23 completely?",
+        "What is the leftover remainder after dividing?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "mixed-numbers"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Improper Fractions", "Conversion"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A soup recipe requires **$\\frac{9}{4}$ cups** of vegetable broth. If you only have a **1-cup scoop** and a **$\\frac{1}{4}$-cup scoop**, how should you measure this amount? (Convert the amount to a mixed number first).",
+      "solution": "To find out how to measure $\\frac{9}{4}$ cups using whole cups and quarter-cup scoops, we convert the improper fraction to a mixed number:\n\n1. Divide the numerator 9 by the denominator 4:\n   $$9 \\div 4 = 2 \\quad \\text{remainder } 1$$\n2. This gives us:\n   $$2\\frac{1}{4} \\text{ cups}$$\n3. This mixed number tells us we need exactly **2 full wholes** (2 full 1-cup scoops) and **1 quarter** (1 scoop of the $\\frac{1}{4}$-cup scoop).\n\n**Answer**: Measure **2 full cups** and **one $\\frac{1}{4}$ cup**.",
+      "hints": [
+        "Find the mixed number equivalent of $\\frac{9}{4}$.",
+        "The whole number represents the 1-cup scoops, and the proper fraction represents the remaining fraction."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Fractions", "Word Problems"]
     }
   ]
 }

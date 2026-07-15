@@ -2,15 +2,21 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Scalars?",
-      "back": "Scalars is a fundamental concept in physics.",
+      "front": "What's a scalar?",
+      "back": "A quantity with only magnitude (amount), no direction. Example: 70 kg, 25°C, 5 meters.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Scalars important?",
-      "back": "Scalars is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
+      "front": "Is temperature a scalar?",
+      "back": "Yes. 25°C is just a number. There's no direction to temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do scalars add?",
+      "back": "Like regular numbers. 5 kg + 3 kg = 8 kg. Simple arithmetic.",
+      "difficulty": "easy"
     }
   ]
 }

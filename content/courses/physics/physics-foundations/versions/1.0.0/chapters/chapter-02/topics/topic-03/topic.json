@@ -2,16 +2,18 @@
   "id": "topic-03",
   "name": "Unit Conversion",
   "topicId": "physics.physics-foundations.chapter-02.topic-03",
-  "description": "Learn about Unit Conversion and its applications in physics.",
+  "description": "Converting between different units (kilometers to meters, hours to seconds, etc.)",
   "content": {
-    "overview": "Unit Conversion is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Unit Conversion. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Unit Conversion requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Sometimes measurements come in different units and you need to convert. 5 kilometers = 5000 meters. 2 hours = 7200 seconds. How do you convert? With conversion factors! {{viz:diagram-01}}",
+    "explanation": "Unit conversion is just multiplication by 1 in a clever way. {{viz:diagram-02}}\n\nHere's the basic idea:\n- 1 kilometer = 1000 meters\n- So 5 km = 5 × 1000 m = 5000 m\n\nYou're just multiplying by 1 (written as 1000 m / 1 km). The units change but the value stays the same.\n\n**The Conversion Factor Method:** {{viz:anim-01}}\n\n1. Write what you know\n2. Multiply by a conversion factor (written as a fraction)\n3. The units you don't want cancel out\n4. You're left with the units you want\n\n**Example: Convert 60 kilometers to meters**\n\n60 km × (1000 m / 1 km) = 60,000 m\n\nNotice: The 'km' cancels out, you're left with 'm'\n\n**Example: Convert 2 hours to seconds**\n\n2 hours × (60 min / 1 hour) × (60 s / 1 min) = 2 × 60 × 60 seconds = 7,200 seconds\n\n**Example: Convert 5 m/s to km/h**\n\n5 m/s × (1 km / 1000 m) × (3600 s / 1 hour) = 5 × 3.6 km/h = 18 km/h\n\nThe trick: write the conversion factor so the units you want are on top and the units you're getting rid of are on the bottom. Then multiply. The unwanted units cancel out. {{viz:chart-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Unit conversion is multiplication by 1 in clever form",
+      "Write the conversion factor as a fraction",
+      "Put unwanted units on the bottom, wanted units on top",
+      "Units cancel out just like numbers",
+      "Check: does the answer make sense?"
     ],
-    "whyItMatters": "Unit Conversion is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Physics requires converting units constantly. Scientists worldwide use SI, but you might get measurements in other units. Knowing how to convert is essential."
   },
   "availableLanguages": [
     "en"

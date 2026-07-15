@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Multiples?",
+      "question": "Which of the following is a multiple of 9?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "3",
+        "1",
+        "27",
+        "15"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "A multiple of 9 is any product of 9 and another integer. Since $9 \\times 3 = 27$, 27 is a multiple of 9. 3 is a factor of 9, not a multiple.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Multiples is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "What is the smallest positive multiple of 45?",
       "options": [
-        "True",
-        "False"
+        "1",
+        "0",
+        "45",
+        "90"
+      ],
+      "correctIndex": 2,
+      "explanation": "The smallest positive multiple of any number is the number itself ($45 \\times 1 = 45$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "How many positive multiples does the number 7 have?",
+      "options": [
+        "Exactly 7",
+        "Infinite (unlimited)",
+        "Exactly 1",
+        "None"
       ],
       "correctIndex": 1,
-      "explanation": "Multiples has many practical applications.",
+      "explanation": "You can multiply 7 by any positive integer ($1, 2, 3, \\dots$) without end, so the list of multiples of 7 is infinite.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Which statement correctly describes the relationship between 6 and 18?",
+      "options": [
+        "18 is a factor of 6.",
+        "6 is a multiple of 18.",
+        "6 is a factor of 18, and 18 is a multiple of 6.",
+        "6 and 18 are coprime."
+      ],
+      "correctIndex": 2,
+      "explanation": "Since $6 \\times 3 = 18$, 6 divides 18 evenly (making 6 a factor of 18) and 18 is the product of 6 and an integer (making 18 a multiple of 6).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Why is 0 technically considered a multiple of every number?",
+      "options": [
+        "Because any number multiplied by 0 equals 0.",
+        "Because 0 divided by any number is undefined.",
+        "Because 0 is the smallest positive integer.",
+        "Because 0 is a prime number."
+      ],
+      "correctIndex": 0,
+      "explanation": "By definition, $M$ is a multiple of $n$ if $M = n \\times k$. Since $n \\times 0 = 0$, 0 satisfies this condition for any number $n$.",
+      "difficulty": "medium"
     }
   ]
 }

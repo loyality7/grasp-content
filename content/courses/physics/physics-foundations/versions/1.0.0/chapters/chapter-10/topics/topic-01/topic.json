@@ -2,16 +2,18 @@
   "id": "topic-01",
   "name": "Motion",
   "topicId": "physics.physics-foundations.chapter-10.topic-01",
-  "description": "Learn about Motion and its applications in physics.",
+  "description": "Understanding what motion is and how we describe it",
   "content": {
-    "overview": "Motion is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Motion. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Motion requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Motion is when something changes position. A car driving, a ball rolling, you walking to school—all motion. Mechanics is about understanding motion and what causes it.",
+    "explanation": "Okay so what's motion? Simple: motion is when something is in a different place than it was before. That's it.\n\nBut here's where it gets interesting. Motion requires:\n- **Something moving** (an object)\n- **A change in position** (it's not where it was)\n- **Time** (the change happens over time)\n\nYou can describe motion in different ways:\n- \"The car moved\" (yes, but where? how fast?)\n- \"The car moved 100 meters\" (distance)\n- \"The car moved 100 meters north\" (displacement—includes direction)\n- \"The car moved 100 meters in 10 seconds\" (now we're talking about speed!)\n\nMotion connects everything in mechanics. Speed, acceleration, forces—they all start with motion.\n\nOne important idea: **motion is relative**. You're sitting still reading this. But Earth is spinning. The solar system is moving through space. \"Still\" and \"moving\" depend on what you're comparing to. A car going 100 km/h on the highway is \"moving\" relative to the road. But relative to the car seat, you're \"still.\" Both are true!",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Motion = change in position over time",
+      "Motion requires an object, position change, and time",
+      "We can describe motion with distance, displacement, speed, velocity",
+      "Motion is relative—it depends on what you compare it to",
+      "Everything in mechanics builds on understanding motion"
     ],
-    "whyItMatters": "Motion is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Motion is the foundation of mechanics. Everything else (speed, acceleration, forces) depends on understanding what motion is and how to describe it."
   },
   "availableLanguages": [
     "en"

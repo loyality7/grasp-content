@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Fractions ↔ Percentages",
-      "content": "A practical example demonstrating Fractions ↔ Percentages",
-      "source": "Generated",
+      "title": "Converting a Fraction to a Percentage",
+      "content": "Convert the fraction **$\\frac{7}{25}$** to a percentage.\n\n### Step-by-Step Solution\n\n1.  **Examine the denominator**:\n    The denominator is $25$. Since $25$ is a factor of $100$, we can easily scale the fraction.\n\n2.  **Find the scaling factor**:\n    $$100 \\div 25 = 4$$\n\n3.  **Multiply numerator and denominator** by $4$:\n    $$\\frac{7 \\times 4}{25 \\times 4} = \\frac{28}{100}$$\n\n4.  **Write as a percentage**:\n    $$\\frac{28}{100} = 28\\%$$\n\n**Answer**: **$28\\%$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "fractions-percentages"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Percentages", "Scaling"]
+    },
+    {
+      "id": "example-02",
+      "title": "Converting a Percentage to a Simplified Fraction",
+      "content": "Convert **$68\\%$** to a fraction in its simplest terms.\n\n### Step-by-Step Solution\n\n1.  **Write the percentage over $100$**:\n    $$68\\% = \\frac{68}{100}$$\n\n2.  **Find the Greatest Common Divisor (GCD)**:\n    -   Factors of $68$: $1, 2, 4, 17, 34, 68$.\n    -   Factors of $100$: $1, 2, 4, 5, 10, 20, 25, 50, 100$.\n    -   The GCD is **$4$**.\n\n3.  **Divide both numerator and denominator** by $4$:\n    $$\\frac{68 \\div 4}{100 \\div 4} = \\frac{17}{25}$$\n\n**Answer**: **$\\frac{17}{25}$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Fractions", "Simplifying"]
     }
   ]
 }

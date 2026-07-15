@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Proper Fractions.",
-      "solution": "Step-by-step solution for Proper Fractions problem.",
+      "prompt": "For the fraction **$\\frac{4}{7}$**:\n1. Identify the numerator and the denominator.\n2. Determine if it is a proper fraction and explain why.",
+      "solution": "1. **Identify terms**:\n   - The top number is the **numerator**: **4**.\n   - The bottom number is the **denominator**: **7**.\n2. **Check proper fraction condition**:\n   - Compare numerator ($n = 4$) and denominator ($d = 7$):\n     $$4 < 7$$\n   - Since the numerator is less than the denominator, this is a **proper fraction**.\n\n**Answer**: Numerator = 4, Denominator = 7. It is a proper fraction because $4 < 7$.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Recall that the numerator is the number on top and the denominator is the number on the bottom.",
+        "Check if the top number is smaller than the bottom number."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "proper-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Proper Fractions"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Proper Fractions to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "A window is made of **12 equal glass panes**. A football breaks **5 panes**. Write the fraction representing the broken panes. Is the fraction proper?",
+      "solution": "1. **Form the fraction**:\n   - Total equal parts = 12 (denominator).\n   - Parts broken = 5 (numerator).\n   - Fraction representing broken panes = **$\\frac{5}{12}$**.\n2. **Determine classification**:\n   - Compare numerator (5) and denominator (12):\n     $$5 < 12$$\n   - Since $5 < 12$, it is a **proper fraction**.\n\n**Answer**: **$\\frac{5}{12}$**, which is a **proper fraction**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Identify the whole (total number of panes) to find the denominator.",
+        "Count the parts being considered (broken panes) to find the numerator."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "proper-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Fractions", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Explain why the fraction **$\\frac{9}{9}$** is not classified as a proper fraction, even though it does not have a numerator that is larger than the denominator.",
+      "solution": "For a fraction $\\frac{n}{d}$ to be a proper fraction, the numerator $n$ must be **strictly less than** ($<$) the denominator $d$. \n\nFor $\\frac{9}{9}$, the numerator is 9 and the denominator is 9. They are **equal** ($9 = 9$). \n\nBecause the numerator is not strictly less than the denominator, it fails the proper fraction condition. In fact, $\\frac{9}{9} = 1$ whole, whereas proper fractions must always represent a value less than 1 whole.\n\n**Answer**: $\\frac{9}{9}$ is not proper because the numerator is equal to the denominator, representing exactly 1 whole instead of a value less than 1.",
+      "hints": [
+        "Look at the mathematical definition of a proper fraction: $n < d$. Does this allow $n$ to be equal to $d$?",
+        "Compare the value of $\\frac{9}{9}$ to 1."
+      ],
+      "difficulty": "medium",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Proper Fractions", "Concepts"]
     }
   ]
 }

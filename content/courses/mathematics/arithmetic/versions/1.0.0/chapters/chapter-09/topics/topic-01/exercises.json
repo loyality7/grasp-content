@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Exponents.",
-      "solution": "Step-by-step solution for Exponents problem.",
+      "prompt": "Identify the base and the exponent in the expression **$7^6$**, and write out its meaning as a repeated multiplication.",
+      "solution": "1. **Identify terms**:\n   - The number at the bottom is the base: **$7$**.\n   - The superscript number is the exponent: **$6$**.\n2. **Express meaning**:\n   - The exponent 6 tells us to write the base 7 as a factor 6 times.\n   - Meaning: **$7 \\times 7 \\times 7 \\times 7 \\times 7 \\times 7$**.\n\n**Answer**: Base = **$7$**, Exponent = **$6$**, Meaning = **$7 \\times 7 \\times 7 \\times 7 \\times 7 \\times 7$**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "The base is the main number being multiplied by itself.",
+        "The exponent is the small number written above, indicating how many times to repeat the base."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "exponents"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Exponents to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Evaluate the following exponential expressions:\n1.  **$10^4$**\n2.  **$9^1$**",
+      "solution": "1. **Evaluate $10^4$**:\n   $$10^4 = 10 \\times 10 \\times 10 \\times 10 = 10,000$$\n   *(Note: For powers of 10, the exponent tells you the number of zeros in the final answer).* \n2. **Evaluate $9^1$**:\n   Any number raised to the power of 1 is just the number itself:\n   $$9^1 = 9$$\n\n**Answer**: 1. **$10,000$**, 2. **$9$**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "For 10 raised to a power, write a '1' followed by the number of zeros equal to the exponent.",
+        "Remember the special rule: any number to the power of 1 is equal to itself."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "exponents"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Special Powers"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Evaluate the value of **$2^6$**.",
+      "solution": "1. **Write out the repeated multiplication**:\n   $$2^6 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2$$\n2. **Multiply step-by-step**:\n   - $2 \\times 2 = 4$\n   - $4 \\times 2 = 8$\n   - $8 \\times 2 = 16$\n   - $16 \\times 2 = 32$\n   - $32 \\times 2 = 64$\n\n**Answer**: **$64$**.",
+      "hints": [
+        "Multiply the number 2 by itself 6 times.",
+        "Alternatively, group them: (2 × 2 × 2) × (2 × 2 × 2) = 8 × 8."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Evaluation"]
     }
   ]
 }

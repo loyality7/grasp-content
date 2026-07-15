@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Percentage Basics?",
-      "back": "Percentage Basics is a fundamental concept in mathematics.",
+      "front": "What does the word 'percent' mean?",
+      "back": "It means 'per hundred' or 'out of 100'.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Percentage Basics important?",
-      "back": "Percentage Basics is essential for understanding Arithmetic.",
+      "front": "What symbol is used to represent a percentage?",
+      "back": "The '%' symbol.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What fraction and decimal is equivalent to $100\\%$?",
+      "back": "Fraction: $\\frac{100}{100}$; Decimal: $1.0$ (which is exactly one whole).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is $25\\%$ written as a simplified fraction?",
+      "back": "$\\frac{1}{4}$ (since $\\frac{25}{100} = \\frac{1}{4}$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Why are percentages useful for comparison?",
+      "back": "They convert fractions with different denominators into a common base-100 format, making them directly comparable.",
       "difficulty": "medium"
     }
   ]

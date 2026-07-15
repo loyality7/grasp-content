@@ -1,154 +1,35 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Dividing Decimals Flowchart",
-      "description": "Flowchart showing Dividing Decimals process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Dividing Decimals",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Dividing Decimals Formula",
-      "description": "Mathematical definition",
+      "title": "Division Equivalence Property",
+      "description": "Fractions show why shifting decimal points in division is mathematically valid.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\frac{1.35}{0.05} = \\frac{1.35 \\times 100}{0.05 \\times 100} = \\frac{135}{5} = 27",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\frac{1.35}{0.05}",
+            "explanation": "Write the division problem as a fraction."
+          },
+          {
+            "latex": "\\frac{1.35 \\times 100}{0.05 \\times 100}",
+            "explanation": "Multiply both the numerator and denominator by 100 to clear the decimal point from the divisor."
+          },
+          {
+            "latex": "\\frac{135}{5}",
+            "explanation": "Simplify. The problem is now dividing whole numbers, which gives 27."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Dividing Decimals 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Dividing Decimals Animation",
-      "description": "Canvas animation",
+      "title": "Quotient Decimal Point Alignment",
+      "description": "Follow the step-by-step long division of 45.6 ÷ 6 and see how the decimal point aligns vertically into the quotient.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Dividing Decimals Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Dividing Decimals.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Dividing Decimals Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Dividing Decimals Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Dividing Decimals",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 12000;\n    var progress = (t % duration) / duration;\n\n    var divisorX = W / 2 - 45;\n    var startX = W / 2 - 15;\n    var charW = 12;\n    \n    var rowQuotient = H / 2 - 45;\n    var rowDividend = H / 2 - 25;\n    var rowSub1 = H / 2 - 4;\n    var rowLine1 = H / 2 + 7;\n    var rowRem1 = H / 2 + 22;\n    var rowSub2 = H / 2 + 42;\n    var rowLine2 = H / 2 + 53;\n    var rowRem2 = H / 2 + 68;\n\n    // Stages\n    // 0 - 2s: stage 1 (set up divisor, dividend and division box)\n    // 2s - 4.5s: stage 2 (ones place division: 6 into 45 goes 7, remainder 3)\n    // 4.5s - 7s: stage 3 (tenths place division: bring down 6, 6 into 36 goes 6)\n    // 7s - 9.5s: stage 4 (decimal point floats up to quotient)\n    // 9.5s - 12s: stage 5 (final result highlight)\n\n    var stage = 1;\n    if (progress >= 0.16 && progress < 0.38) stage = 2;\n    else if (progress >= 0.38 && progress < 0.58) stage = 3;\n    else if (progress >= 0.58 && progress < 0.79) stage = 4;\n    else if (progress >= 0.79) stage = 5;\n\n    ctx.font = 'bold 16px -apple-system, sans-serif';\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n\n    // Divisor 6\n    ctx.fillStyle = '#F3F4F6';\n    ctx.fillText('6', divisorX, rowDividend);\n\n    // Division box lines\n    ctx.beginPath();\n    ctx.moveTo(divisorX + 10, rowDividend - 10);\n    ctx.lineTo(divisorX + 10, rowDividend + 10);\n    ctx.moveTo(divisorX + 10, rowDividend - 10);\n    ctx.lineTo(startX + 45, rowDividend - 10);\n    ctx.strokeStyle = '#4B5563';\n    ctx.lineWidth = 1.5;\n    ctx.stroke();\n\n    // Dividend: 45.6\n    ctx.fillStyle = '#F3F4F6';\n    ctx.fillText('4', startX, rowDividend);\n    ctx.fillText('5', startX + charW, rowDividend);\n    ctx.fillStyle = (stage === 1 || stage >= 4) ? '#EF4444' : '#F3F4F6'; // Highlight point\n    ctx.fillText('.', startX + charW * 1.5, rowDividend);\n    ctx.fillStyle = '#F3F4F6';\n    ctx.fillText('6', startX + charW * 2, rowDividend);\n\n    // Quotient steps\n    if (stage >= 2) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('7', startX + charW, rowQuotient);\n    }\n    if (stage >= 3) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('6', startX + charW * 2, rowQuotient);\n    }\n\n    // Float decimal point animation in stage 4\n    if (stage === 4) {\n      var floatProg = (progress - 0.58) / 0.21;\n      var currentY = rowDividend - floatProg * (rowDividend - rowQuotient);\n      ctx.fillStyle = '#EF4444';\n      ctx.fillText('.', startX + charW * 1.5, currentY);\n    } else if (stage >= 5) {\n      ctx.fillStyle = '#10B981'; // Final green decimal point in quotient\n      ctx.fillText('.', startX + charW * 1.5, rowQuotient);\n    }\n\n    // Subtraction Step 1\n    if (stage >= 2) {\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('-', startX - charW * 1.2, rowSub1);\n      ctx.fillText('4', startX, rowSub1);\n      ctx.fillText('2', startX + charW, rowSub1);\n\n      ctx.beginPath();\n      ctx.moveTo(startX - 5, rowLine1);\n      ctx.lineTo(startX + charW + 5, rowLine1);\n      ctx.strokeStyle = '#374151';\n      ctx.lineWidth = 1;\n      ctx.stroke();\n\n      ctx.fillStyle = '#F3F4F6';\n      ctx.fillText('3', startX + charW, rowRem1);\n    }\n\n    // Subtraction Step 2\n    if (stage >= 3) {\n      // Bring down 6 arrow\n      ctx.beginPath();\n      ctx.moveTo(startX + charW * 2, rowDividend + 8);\n      ctx.lineTo(startX + charW * 2, rowRem1 - 8);\n      ctx.strokeStyle = '#3B82F6';\n      ctx.lineWidth = 1;\n      ctx.stroke();\n\n      ctx.fillStyle = '#60A5FA';\n      ctx.fillText('6', startX + charW * 2, rowRem1);\n\n      ctx.fillStyle = '#9CA3AF';\n      ctx.fillText('-', startX + charW * 0.2, rowSub2);\n      ctx.fillText('3', startX + charW, rowSub2);\n      ctx.fillText('6', startX + charW * 2, rowSub2);\n\n      ctx.beginPath();\n      ctx.moveTo(startX + charW - 5, rowLine2);\n      ctx.lineTo(startX + charW * 2 + 5, rowLine2);\n      ctx.strokeStyle = '#374151';\n      ctx.stroke();\n\n      ctx.fillStyle = '#10B981';\n      ctx.fillText('0', startX + charW * 2, rowRem2);\n    }\n\n    // Instructions\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n    ctx.font = '12px -apple-system, sans-serif';\n    ctx.fillStyle = '#9CA3AF';\n\n    if (stage === 1) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Shifted Division setup: 45.6 ÷ 6', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Ignore the decimal place during column division', W / 2, H - 22);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Divide Ones: 45 ÷ 6', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('6 goes into 45 seven times: 7 × 6 = 42, remainder 3', W / 2, H - 22);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#60A5FA';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Bring down Tenths: 36 ÷ 6', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('6 goes into 36 six times: 6 × 6 = 36, remainder 0', W / 2, H - 22);\n    } else if (stage === 4) {\n      ctx.fillStyle = '#EF4444';\n      ctx.font = 'bold 15px -apple-system, sans-serif';\n      ctx.fillText('Float Decimal Point Upwards', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Move the decimal point straight up to the quotient row', W / 2, H - 22);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('Quotient = 7.6', W / 2, H - 42);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '11px -apple-system, sans-serif';\n      ctx.fillText('Thus, original division: 4.56 ÷ 0.6 = 7.6', W / 2, H - 22);\n    }\n  }\n};\n"
       }
     }
   ]

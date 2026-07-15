@@ -4,14 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-06",
   "description": "Learn about Data Interpretation and its applications in physics.",
   "content": {
-    "overview": "Data Interpretation is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Data Interpretation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Data Interpretation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "You have data. Now what does it mean? Data interpretation is explaining what your numbers tell you.",
+    "explanation": "Steps to interpret data:\n\n**1. Look at the graph.** What pattern do you see? Does it go up? Down? Stay flat? Change shape?\n\n**2. Describe the relationship.** 'As temperature increases, spring height increases' or 'There's no clear relationship'\n\n**3. Find the strength.** Is the relationship strong (tight line) or weak (scattered dots)?\n\n**4. Check for exceptions.** Does one point stick out? Why?\n\n**5. Connect to your hypothesis.** Did your prediction match? If not, why not?\n\n**6. Consider errors.** Could measurement mistakes explain the results?\n\n**Examples:**\n- Strong upward relationship: 'Temperature definitely affects magnet strength'\n- Weak relationship: 'Maybe other factors matter more'\n- No relationship: 'Our hypothesis was wrong—this variable doesn't matter'\n- Unexpected: 'Results surprised us—something else is happening'\n\n**Be honest.** If your data didn't match your prediction, that's okay! Science learns from surprises. Say: 'We expected X, but got Y. This suggests...'\n\nData interpretation is the story your experiment tells. Numbers are boring. The story is interesting.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Describe what the graph shows",
+      "Is the relationship strong or weak?",
+      "Connect to your original question",
+      "Explain unexpected results",
+      "Consider possible errors",
+      "Be honest if you were wrong—that's scientific!"
     ],
-    "whyItMatters": "Data Interpretation is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Without interpretation, data is just numbers. Interpretation makes it mean something."
   },
   "availableLanguages": [
     "en"

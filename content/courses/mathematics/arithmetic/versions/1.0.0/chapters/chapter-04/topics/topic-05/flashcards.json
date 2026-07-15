@@ -3,14 +3,32 @@
     {
       "id": "card-01",
       "front": "What is Prime Factorization?",
-      "back": "Prime Factorization is a fundamental concept in mathematics.",
+      "back": "The process of writing a composite number as a product of only prime numbers. (e.g., $12 = 2 \\times 2 \\times 3$).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Prime Factorization important?",
-      "back": "Prime Factorization is essential for understanding Arithmetic.",
+      "front": "What is a Factor Tree?",
+      "back": "A visual diagram used to find the prime factorization of a number by branching factors until only prime numbers remain at the ends.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the Division Ladder Method?",
+      "back": "A method to find prime factors by successively dividing a number by prime numbers until the quotient becomes 1.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the Fundamental Theorem of Arithmetic?",
+      "back": "A theorem stating that every integer greater than 1 is prime or can be written uniquely as a product of prime numbers, regardless of order.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "How is exponential notation used in prime factorization?",
+      "back": "To group repeating prime factors together. For example, $2 \\times 2 \\times 2 \\times 5$ is written as $2^3 \\times 5$.",
+      "difficulty": "easy"
     }
   ]
 }

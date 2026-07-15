@@ -1,154 +1,31 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Simplifying Fractions Flowchart",
-      "description": "Flowchart showing Simplifying Fractions process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Simplifying Fractions",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Simplifying Fractions Formula",
-      "description": "Mathematical definition",
+      "title": "Simplification Rule",
+      "description": "The math equation showing how to simplify a fraction by dividing by the Greatest Common Divisor.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\frac{n}{d} = \\frac{n \\div \\text{GCD}(n, d)}{d \\div \\text{GCD}(n, d)}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\text{GCD}(n, d)",
+            "explanation": "Greatest Common Divisor: The largest positive integer that divides both the numerator n and the denominator d without leaving a remainder."
+          },
+          {
+            "latex": "\\frac{n \\div \\text{GCD}}{d \\div \\text{GCD}}",
+            "explanation": "Dividing both parts by the GCD scales the numbers down to their smallest possible whole-number values, keeping the fraction equivalent."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Simplifying Fractions 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Simplifying Fractions Animation",
-      "description": "Canvas animation",
+      "title": "Simplifying 8/12 to 2/3",
+      "description": "Watch 12 squares group into 3 larger columns, showing that shading 8/12 is identical to shading 2/3.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Simplifying Fractions Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Simplifying Fractions.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Simplifying Fractions Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Simplifying Fractions Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Simplifying Fractions",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    // Background\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n\n    var duration = 11000;\n    var progress = (t % duration) / duration;\n\n    var rows = 4;\n    var cols = 3;\n    var cellW = 35;\n    var cellH = 20;\n    var gridW = cols * cellW;\n    var gridH = rows * cellH;\n    var startX = (W - gridW) / 2;\n    var startY = (H - gridH) / 2 - 15;\n\n    // Progress stages\n    // 0 - 2s: stage 1 (8/12 cell view)\n    // 2s - 5s: stage 2 (draw columns highlighting)\n    // 5s - 8s: stage 3 (merge cells into solid columns)\n    // 8s - 11s: stage 4 (final text showing 2/3)\n\n    var stage = 1;\n    if (progress >= 0.18 && progress < 0.45) stage = 2;\n    else if (progress >= 0.45 && progress < 0.72) stage = 3;\n    else if (progress >= 0.72) stage = 4;\n\n    // Draw grid\n    for (var c = 0; c < cols; c++) {\n      for (var r = 0; r < rows; r++) {\n        var cx = startX + c * cellW;\n        var cy = startY + r * cellH;\n\n        // Column 0 and 1 are shaded (total 8 cells)\n        var isShaded = (c < 2);\n\n        ctx.beginPath();\n        ctx.rect(cx, cy, cellW, cellH);\n\n        if (stage >= 3) {\n          // In stage 3/4, draw columns merged\n          if (isShaded) {\n            ctx.fillStyle = '#10B981'; // Green for simplified\n          } else {\n            ctx.fillStyle = '#1F2937';\n          }\n        } else {\n          if (isShaded) {\n            ctx.fillStyle = '#3B82F6'; // Blue for initial\n          } else {\n            ctx.fillStyle = '#1F2937';\n          }\n        }\n        ctx.fill();\n\n        // Border\n        if (stage < 3) {\n          ctx.strokeStyle = '#374151';\n          ctx.lineWidth = 1;\n          ctx.stroke();\n        }\n      }\n    }\n\n    // Draw column outlines for stage 2 and 3\n    if (stage === 2) {\n      for (var c = 0; c < cols; c++) {\n        ctx.beginPath();\n        ctx.rect(startX + c * cellW, startY, cellW, gridH);\n        ctx.strokeStyle = '#F59E0B'; // Yellow divider\n        ctx.lineWidth = 2.5;\n        ctx.stroke();\n      }\n    } else if (stage >= 3) {\n      // Thick outer columns\n      for (var c = 0; c < cols; c++) {\n        ctx.beginPath();\n        ctx.rect(startX + c * cellW, startY, cellW, gridH);\n        ctx.strokeStyle = '#4B5563';\n        ctx.lineWidth = 2;\n        ctx.stroke();\n      }\n    }\n\n    // Texts\n    ctx.textAlign = 'center';\n    ctx.textBaseline = 'middle';\n\n    if (stage === 1) {\n      ctx.fillStyle = '#F3F4F6';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('8 / 12 Shaded', W / 2, H - 35);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '12px -apple-system, sans-serif';\n      ctx.fillText('8 cells out of 12 equal divisions', W / 2, H - 15);\n    } else if (stage === 2) {\n      ctx.fillStyle = '#F59E0B';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('Grouping by Columns', W / 2, H - 35);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '12px -apple-system, sans-serif';\n      ctx.fillText('We can group the 12 cells into 3 columns of 4', W / 2, H - 15);\n    } else if (stage === 3) {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('2 / 3 Columns Shaded', W / 2, H - 35);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = '12px -apple-system, sans-serif';\n      ctx.fillText('Merging cells: the shaded area is still identical!', W / 2, H - 15);\n    } else {\n      ctx.fillStyle = '#10B981';\n      ctx.font = 'bold 18px -apple-system, sans-serif';\n      ctx.fillText('Simplest Form: 2 / 3', W / 2, H - 35);\n      ctx.fillStyle = '#9CA3AF';\n      ctx.font = 'bold 12px -apple-system, sans-serif';\n      ctx.fillText('Divided numerator & denominator by GCD (4)', W / 2, H - 15);\n    }\n  }\n};\n"
       }
     }
   ]

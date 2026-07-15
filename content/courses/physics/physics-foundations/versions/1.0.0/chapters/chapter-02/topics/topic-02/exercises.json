@@ -1,35 +1,33 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Derived Units.",
-      "solution": "Step-by-step solution for Derived Units problem.",
+      "id": "exercise-01",
+      "type": "build",
+      "title": "Build a Unit",
+      "content": "What units do you combine to make velocity? (Hint: distance/time). What about acceleration? (Hint: velocity/time, or distance/time²)",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Think about what velocity means",
+        "Divide and combine base units",
+        "What's the formula for acceleration?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "derived-units"
-      ]
+      "tags": ["construction"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Derived Units to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "recognize",
+      "title": "Recognize Derived Units",
+      "content": "For each: Speed, Force, Energy, Power—write what base units combine to make it.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Speed = distance/time",
+        "Force = mass × acceleration",
+        "Energy = force × distance",
+        "Power = energy/time"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "derived-units"
-      ]
+      "tags": ["recognition"]
     }
   ]
 }

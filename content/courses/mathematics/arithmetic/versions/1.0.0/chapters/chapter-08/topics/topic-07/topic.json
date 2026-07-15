@@ -2,16 +2,17 @@
   "id": "topic-07",
   "name": "Unit Rate",
   "topicId": "mathematics.arithmetic.chapter-08.topic-07",
-  "description": "Learn about Unit Rate and its applications in mathematics.",
+  "description": "Learn what rates and unit rates are, find unit rates by dividing quantities with different units, and use unit price to compare shopping values.",
   "content": {
-    "overview": "Unit Rate is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Unit Rate. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Unit Rate requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A unit rate is a specific type of rate that compares a quantity to exactly one unit of another quantity. It makes it easy to compare speeds, wages, and shopping prices.",
+    "explanation": "### Rate vs. Unit Rate\n\n-   A **rate** compares two quantities measured in different units (like miles and hours, or dollars and pounds). \n    -   *Example: $120$ miles traveled in $2$ hours.*\n-   A **unit rate** simplifies this comparison so that the second quantity is exactly **$1$ unit**.\n    -   *Example: $60$ miles traveled per $1$ hour ($60$ mph).*\n\n### Calculating a Unit Rate\n\nTo find a unit rate, divide the first quantity by the second quantity:\n\n{{viz:formula-01}}\n\n*Example: A printer prints $150$ pages in $5$ minutes. Find the unit rate.*\n$$\\text{Unit Rate} = \\frac{150 \\text{ pages}}{5 \\text{ minutes}} = 30 \\text{ pages per minute}$$\n\n### Real-World Application: Unit Price (Best Buy)\n\nStores often sell the same item in different package sizes. To find which option is the better value, you calculate the **unit price** (cost per single ounce, pound, or item):\n\n-   **Brand A**: $12$ ounces of cereal for $3.60$ dollars.\n    $$\\text{Unit Price} = \\frac{3.60 \\text{ dollars}}{12 \\text{ ounces}} = 0.30 \\text{ dollars per ounce}$$\n-   **Brand B**: $18$ ounces of cereal for $4.50$ dollars.\n    $$\\text{Unit Price} = \\frac{4.50 \\text{ dollars}}{18 \\text{ ounces}} = 0.25 \\text{ dollars per ounce}$$\n-   *Brand B is the \"best buy\" because you pay less for each ounce ($0.25$ vs. $0.30$).*\n\n### Visualizing Unit Price Comparisons\n\nWatch this interactive calculation comparing a medium and large cereal box. Notice how dividing the cost by the ounces highlights the best value box:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A rate compares two different units, whereas a unit rate compares to exactly 1 unit.",
+      "Calculate unit rates by dividing the first quantity by the second quantity.",
+      "Unit price is the cost per single unit of measurement (ounces, grams, items).",
+      "The lower unit price represents the best financial value (best buy)."
     ],
-    "whyItMatters": "Unit Rate is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Calculating fuel economy (miles per gallon), reading grocery price labels, tracking typing speed (words per minute), and comparing salary offers all rely on unit rates."
   },
   "availableLanguages": [
     "en"

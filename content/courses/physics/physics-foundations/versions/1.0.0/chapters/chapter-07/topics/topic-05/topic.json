@@ -2,16 +2,19 @@
   "id": "topic-05",
   "name": "Nonlinear Relationships",
   "topicId": "physics.physics-foundations.chapter-07.topic-05",
-  "description": "Learn about Nonlinear Relationships and its applications in physics.",
+  "description": "When two quantities don't change at a constant rate (curved line)",
   "content": {
-    "overview": "Nonlinear Relationships is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Nonlinear Relationships. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Nonlinear Relationships requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Nonlinear relationships are when things DON'T follow a simple y = mx + b pattern. The rate of change itself changes. Graph = curved. {{viz:diagram-01}}",
+    "explanation": "These are relationships where the change ISN'T constant. {{viz:chart-01}}\n\n**Common types:** {{viz:anim-01}}\n\n1. **Quadratic (parabola):** y = ax² + bx + c\n   - Example: distance = ½gt² (falling object)\n   - Graph is a U-shape or upside-down U\n\n2. **Exponential:** y = a × e^(bx) or y = a × 2^x\n   - Example: population growth, radioactive decay\n   - Graph curves up or down sharply\n\n3. **Inverse (hyperbola):** y = k/x\n   - Example: pressure × volume = constant (at constant temperature)\n   - Graph looks like a corner\n\n4. **Power law:** y = ax^n\n   - Example: Force = GMm/r² (gravity)\n   - Graph is a smooth curve\n\n**How to recognize nonlinear:**\n- Graph is curved, not straight\n- Rate of change keeps changing\n- Might have powers, exponents, fractions\n\n**Why nonlinear relationships matter:**\n- Many real physics systems are nonlinear\n- Need calculus to fully understand them\n- But recognizing the shape helps you understand what's happening\n\nIf a graph curves, it's nonlinear. The type of curve tells you what kind of relationship it is.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Nonlinear: graph is curved, not straight",
+      "Rate of change is not constant",
+      "Quadratic: U-shaped, power of 2",
+      "Exponential: curves sharply",
+      "Inverse: hyperbola shape",
+      "Power law: smooth curve"
     ],
-    "whyItMatters": "Nonlinear Relationships is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Most real physics phenomena are nonlinear. Understanding them is essential for advanced physics."
   },
   "availableLanguages": [
     "en"

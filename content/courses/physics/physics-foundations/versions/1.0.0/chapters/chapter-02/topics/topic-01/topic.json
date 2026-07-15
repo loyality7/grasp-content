@@ -2,16 +2,18 @@
   "id": "topic-01",
   "name": "SI Base Units",
   "topicId": "physics.physics-foundations.chapter-02.topic-01",
-  "description": "Learn about SI Base Units and its applications in physics.",
+  "description": "The seven fundamental units that everything else in physics is built from",
   "content": {
-    "overview": "SI Base Units is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of SI Base Units. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding SI Base Units requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "SI stands for 'Système International.' It's the official system of units used worldwide in science. Every country agreed: we'll all use the same units. No more confusion! {{viz:diagram-01}}",
+    "explanation": "Okay so here's the thing: if different countries used different units, scientists couldn't talk to each other. If you say 'a meter' and someone else says 'a foot,' how do you know you're measuring the same thing?\n\nSo the world decided on SI units. There are **7 base units** that everything else comes from. Think of them like the alphabet—you make words from letters. You make all units from these 7 base units. {{viz:diagram-02}}\n\nThe 7 SI Base Units:\n\n1. **Length: Meter (m)** - How long or far something is. Your height, the distance to school, how long a pencil is.\n\n2. **Mass: Kilogram (kg)** - How much 'stuff' something has. Your weight (well, technically your mass!), a bag of flour, a book.\n\n3. **Time: Second (s)** - How long something takes. How fast you run, how old you are, how long a song lasts.\n\n4. **Electric Current: Ampere (A)** - How much electricity flows. Like water flowing through a pipe, but electrons. Your phone charger uses amps.\n\n5. **Temperature: Kelvin (K)** - How hot or cold something is. The stove temperature, room temperature, freezer temperature. (Note: Scientists use Kelvin, not Celsius, for SI)\n\n6. **Amount of Substance: Mole (mol)** - A count of particles. Like 'dozen' means 12, a 'mole' means a specific huge number of atoms/molecules (6.022 × 10²³).\n\n7. **Luminous Intensity: Candela (cd)** - How bright a light is. Like the brightness of a lightbulb. {{viz:chart-01}}\n\nThese 7 are the building blocks. Everything else (speed, force, energy, pressure) is made by combining these. {{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "SI = Système International, the worldwide standard system",
+      "7 base units: meter, kilogram, second, ampere, kelvin, mole, candela",
+      "Everything in physics comes from these 7 units",
+      "SI units are agreed on worldwide—no confusion!",
+      "All other units (like joules, watts, newtons) are made from these 7"
     ],
-    "whyItMatters": "SI Base Units is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Without a standard system, physics wouldn't work. Different countries using different units would create endless confusion and errors. SI units let scientists everywhere speak the same language."
   },
   "availableLanguages": [
     "en"

@@ -1,35 +1,45 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Physical Quantities.",
-      "solution": "Step-by-step solution for Physical Quantities problem.",
+      "id": "exercise-01",
+      "type": "classification",
+      "title": "Scalar or Vector?",
+      "content": "For each: mass, velocity, temperature, force, distance, acceleration—say if it's a scalar or vector and why.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Scalar = just a number",
+        "Vector = number + direction",
+        "Does direction matter for this quantity?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "physical-quantities"
-      ]
+      "tags": ["classification"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Physical Quantities to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "writing",
+      "title": "Add the Units",
+      "content": "Write these measurements properly (with units): The table is 2 long. The book weighs 500. The temperature is 25. The car is going 60.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "What would you measure this in?",
+        "Meters? Kilograms? Celsius? Kilometers per hour?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "physical-quantities"
-      ]
+      "tags": ["units"]
+    },
+    {
+      "id": "exercise-03",
+      "type": "thinking",
+      "title": "Why Do Units Matter?",
+      "content": "Why is 'the ball is moving at 10' not a complete answer? What's missing?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "hints": [
+        "Is it 10 m/s or 10 km/h?",
+        "Big difference?",
+        "Why would someone need to know the unit?"
+      ],
+      "tags": ["understanding"]
     }
   ]
 }

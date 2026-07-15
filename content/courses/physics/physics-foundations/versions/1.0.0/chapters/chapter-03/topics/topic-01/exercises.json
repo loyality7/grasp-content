@@ -1,35 +1,31 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Accuracy.",
-      "solution": "Step-by-step solution for Accuracy problem.",
+      "id": "exercise-01",
+      "type": "thinking",
+      "title": "Judging Accuracy",
+      "content": "A ruler measures a desk as 120 cm. The true length is 119 cm. Is this measurement accurate? Why or why not?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Accuracy = close to true value",
+        "How far off is 120 from 119?",
+        "Is 1 cm close enough to be 'accurate'?"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "accuracy"
-      ]
+      "tags": ["judgment"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Accuracy to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "analysis",
+      "title": "Know the True Value",
+      "content": "Can you judge if a measurement is accurate if you DON'T know the true value? Explain.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "You need something to compare to",
+        "Without the true value, what can you compare?"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "accuracy"
-      ]
+      "tags": ["understanding"]
     }
   ]
 }

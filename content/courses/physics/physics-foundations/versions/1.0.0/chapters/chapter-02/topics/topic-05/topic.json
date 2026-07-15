@@ -2,16 +2,19 @@
   "id": "topic-05",
   "name": "Dimensional Analysis",
   "topicId": "physics.physics-foundations.chapter-02.topic-05",
-  "description": "Learn about Dimensional Analysis and its applications in physics.",
+  "description": "Using units to check if your physics equation is correct",
   "content": {
-    "overview": "Dimensional Analysis is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Dimensional Analysis. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Dimensional Analysis requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Dimensional analysis is a POWER TOOL. You can catch math mistakes just by looking at the units! If the units don't match, the equation is wrong. {{viz:diagram-01}}",
+    "explanation": "Here's the idea: both sides of an equation must have the same units (dimensions). {{viz:diagram-02}}\n\nIf you get an answer with the wrong units, something went wrong.\n\n**Example: Does speed = distance ÷ time work?**\n\nLeft side: speed has units of m/s\nRight side: distance ÷ time = m ÷ s = m/s ✓\n\nUnits match! The equation is at least plausible.\n\n**Example: Wrong equation!**\n\nSuppose you (mistakenly) write: distance = speed × speed\n\nLeft side: distance = meters (m)\nRight side: speed × speed = (m/s) × (m/s) = m²/s²\n\nThey don't match! (m ≠ m²/s²) This equation is WRONG. {{viz:anim-01}}\n\n**How to use dimensional analysis:**\n\n1. Write the equation\n2. Replace every variable with its units\n3. Simplify like algebra (m/s ÷ s = m/s²)\n4. Check if both sides match\n5. If they don't, something is wrong\n\n**Real Example: Does E = mc² work?**\n\nLeft side: Energy = Joules = kg·m²/s²\nRight side: m × c² = kg × (m/s)² = kg × m²/s² = kg·m²/s²\n\nThey match! The dimensions are consistent. {{viz:chart-01}}\n\n**This doesn't prove the equation is RIGHT**, but if dimensions DON'T match, it's definitely WRONG. Dimensional analysis is a quick way to catch errors before you do all the calculation.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Both sides of an equation must have the same units (dimensions)",
+      "Replace variables with their units",
+      "Simplify the units like you do algebra",
+      "If units don't match, the equation is wrong",
+      "If units DO match, the equation might be right (still need to check the math)",
+      "Dimensional analysis catches mistakes FAST"
     ],
-    "whyItMatters": "Dimensional Analysis is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "You'll make mistakes. Everyone does. Dimensional analysis is your quick check: 'Wait, are the units right?' It saves you from looking foolish!"
   },
   "availableLanguages": [
     "en"

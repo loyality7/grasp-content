@@ -2,16 +2,18 @@
   "id": "topic-03",
   "name": "Distance",
   "topicId": "physics.physics-foundations.chapter-10.topic-03",
-  "description": "Learn about Distance and its applications in physics.",
+  "description": "The total length of the path traveled—how far something went",
   "content": {
-    "overview": "Distance is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Distance. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Distance requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Distance is HOW FAR something traveled. If you walk home, distance is the total length of the path you walked—every step, every turn.",
+    "explanation": "Distance answers: **HOW FAR did something travel?**\n\nDistance is the TOTAL length of the path taken. If you:\n- Walk 100 meters north\n- Then turn and walk 100 meters east\n- Total distance = 200 meters\n\n**Important:** Distance is NOT the same as displacement (you'll see next). Distance only cares about how much you traveled, not where you ended up.\n\nDistance is a SCALAR—it only has magnitude (a number). It doesn't care about direction.\n\n**Example:**\nYou drive to a store 5 km away, circle the parking lot (add 0.5 km), then drive home 5 km. Total distance = 10.5 km. Your displacement = 0 km (you're back where you started).\n\nDistance is always positive. You can't have negative distance. Distance traveled is always ≥ displacement.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Distance = total length of path traveled",
+      "Counts every meter, every turn, every detour",
+      "Scalar quantity (just a number, no direction)",
+      "Always positive or zero",
+      "Distance ≥ displacement"
     ],
-    "whyItMatters": "Distance is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Distance describes how much traveling happened. When you say 'I ran 5 km,' that's distance. Understanding distance vs displacement is critical for mechanics."
   },
   "availableLanguages": [
     "en"

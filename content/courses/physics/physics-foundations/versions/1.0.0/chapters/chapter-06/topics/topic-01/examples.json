@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Cartesian Coordinates",
-      "content": "A practical example demonstrating Cartesian Coordinates",
-      "source": "Generated",
+      "title": "Classroom Location",
+      "content": "Your desk is 3 meters from the left wall and 5 meters from the front wall. That's (3, 5). Cartesian: simple and intuitive.",
+      "source": "Everyday",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "cartesian-coordinates"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["position", "2d"]
+    },
+    {
+      "id": "example-02",
+      "title": "Moving Object",
+      "content": "A ball at time t=0 is at (0, 0). At t=1s it's at (2, 3). At t=2s it's at (4, 6). Track motion in Cartesian: straightforward.",
+      "source": "Kinematics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["motion", "trajectory"]
+    },
+    {
+      "id": "example-03",
+      "title": "3D Room Position",
+      "content": "A lamp hangs 2m from the left wall, 3m from the front wall, and 2m above the floor. Position: (2, 3, 2). Cartesian in 3D.",
+      "source": "Spatial",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["3d", "position"]
     }
   ]
 }

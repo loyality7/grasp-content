@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Percentage Basics",
-      "content": "A practical example demonstrating Percentage Basics",
-      "source": "Generated",
+      "title": "Converting a Percentage to Fraction and Decimal",
+      "content": "Express **$45\\%$** as a simplified fraction and as a decimal.\n\n### Step-by-Step Solution\n\n1.  **Convert to a fraction**:\n    By definition, percent means 'out of 100':\n    $$45\\% = \\frac{45}{100}$$\n\n2.  **Simplify the fraction**:\n    Divide the numerator and denominator by their Greatest Common Divisor ($5$):\n    $$\\frac{45 \\div 5}{100 \\div 5} = \\frac{9}{20}$$\n\n3.  **Convert to a decimal**:\n    Write $45$ hundredths in decimal place value notation:\n    $$45\\% = \\frac{45}{100} = 0.45$$\n    *(Or move the decimal point in 45.0 two places to the left: 0.45)*\n\n**Answer**:\n-   Fraction form: **$\\frac{9}{20}$**\n-   Decimal form: **$0.45$**",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "percentage-basics"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Converting"]
+    },
+    {
+      "id": "example-02",
+      "title": "Finding a Basic Percentage from a Group of 100",
+      "content": "A fruit crate contains exactly **$100$ apples**. If **$35$** of these apples are red, and the rest are green:\n1.  What percentage of the apples are red?\n2.  What percentage of the apples are green?\n\n### Step-by-Step Solution\n\n1.  **Find red apple percentage**:\n    -   Red apples = $35$ out of $100$.\n    -   Fraction = $\\frac{35}{100}$.\n    -   Since the denominator is already 100, this is directly: **$35\\%$**.\n\n2.  **Find green apple percentage**:\n    -   First, find the number of green apples: \n        $$100 - 35 = 65 \\text{ green apples}$$\n    -   Green apples = $65$ out of $100$.\n    -   Fraction = $\\frac{65}{100}$.\n    -   This is directly: **$65\\%$**.\n\n**Answer**:\n-   Red apples: **$35\\%$**\n-   Green apples: **$65\\%$**",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
     }
   ]
 }

@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Composite Numbers?",
-      "back": "Composite Numbers is a fundamental concept in mathematics.",
+      "front": "What is a Composite Number?",
+      "back": "A positive whole number greater than 1 that has more than two factors. (e.g., 4, 6, 8, 9, 10, ...).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Composite Numbers important?",
-      "back": "Composite Numbers is essential for understanding Arithmetic.",
+      "front": "What is the smallest composite number?",
+      "back": "4. Its factors are 1, 2, and 4.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Are all composite numbers even?",
+      "back": "No. Many odd numbers are composite, such as 9, 15, 21, 25, 27, and 33.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why are 0 and 1 neither prime nor composite?",
+      "back": "A prime or composite number must be greater than 1. 1 has only one positive factor (itself), and 0 has infinitely many factors.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the difference in factors between primes and composites?",
+      "back": "Primes have exactly two positive factors (1 and itself). Composites have three or more positive factors.",
+      "difficulty": "easy"
     }
   ]
 }

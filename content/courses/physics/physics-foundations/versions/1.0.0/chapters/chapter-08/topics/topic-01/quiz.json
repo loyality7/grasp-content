@@ -2,29 +2,26 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "multiple-choice",
-      "question": "Which statement best describes Experimental Design?",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "type": "true-false",
+      "question": "In an experiment, you should change multiple variables at once.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "No! Change ONE variable, keep everything else the same. Otherwise you won't know what caused your results.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Experimental Design is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Before running an experiment, what should you plan?",
       "options": [
-        "True",
-        "False"
+        "What you'll measure and what you'll change",
+        "Only the question",
+        "Only the materials",
+        "Nothing—just see what happens"
       ],
-      "correctIndex": 1,
-      "explanation": "Experimental Design has many practical applications.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Good design requires planning what to measure, what to change, what to keep constant, and how many trials.",
+      "difficulty": "medium"
     }
   ]
 }

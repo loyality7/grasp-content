@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Equivalent Fractions.",
-      "solution": "Step-by-step solution for Equivalent Fractions problem.",
+      "prompt": "Fill in the missing number to make the statement true:\n$$\\frac{2}{3} = \\frac{?}{18}$$",
+      "solution": "1. Compare the denominators: To go from 3 to 18, we multiply by 6:\n   $$18 \\div 3 = 6 \\implies 3 \\times 6 = 18$$\n2. Scale the numerator by multiplying by the same factor (6):\n   $$2 \\times 6 = 12$$\n3. Write the final equivalence:\n   $$\\frac{2}{3} = \\frac{12}{18}$$\n\n**Answer**: **12**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "What number multiplied by 3 gives 18?",
+        "Multiply the top number (numerator) by that same scaling factor."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "equivalent-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Fractions"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Equivalent Fractions to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "Write two fractions that are equivalent to **$\\frac{5}{8}$** by multiplying both the numerator and denominator.",
+      "solution": "We can choose any whole numbers to multiply the numerator and denominator by. Let's choose 2 and 3:\n\n1. Multiply by 2:\n   $$\\frac{5 \\times 2}{8 \\times 2} = \\frac{10}{16}$$\n2. Multiply by 3:\n   $$\\frac{5 \\times 3}{8 \\times 3} = \\frac{15}{24}$$\n\nBoth $\\frac{10}{16}$ and $\\frac{15}{24}$ are equivalent to $\\frac{5}{8}$.\n\n**Answer**: **$\\frac{10}{16}$** and **$\\frac{15}{24}$** (other correct answers exist depending on the choice of multiplier).",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Choose a small whole number, like 2. Multiply the top and bottom of the fraction by 2.",
+        "Choose another whole number, like 3. Multiply the top and bottom of the fraction by 3."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "equivalent-fractions"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Equivalent Fractions"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Sam cuts a small pizza into **3 equal slices** and eats **2 slices**. Amy cuts an identical small pizza into **6 equal slices** and eats **4 slices**. Who ate a larger portion of their pizza? Explain using fractions.",
+      "solution": "1. **Express Sam's portion**:\n   - Sam ate 2 out of 3 slices, which is **$\\frac{2}{3}$**.\n2. **Express Amy's portion**:\n   - Amy ate 4 out of 6 slices, which is **$\\frac{4}{6}$**.\n3. **Compare the portions**:\n   - We can check if $\\frac{2}{3}$ and $\\frac{4}{6}$ are equivalent:\n     $$\\frac{2 \\times 2}{3 \\times 2} = \\frac{4}{6}$$\n   - Since the fractions are equivalent, Sam and Amy ate the **exact same portion** of their pizzas.\n\n**Answer**: They both ate the same portion because $\\frac{2}{3}$ and $\\frac{4}{6}$ are equivalent fractions.",
+      "hints": [
+        "Write the fractions representing what Sam and Amy ate.",
+        "Check if you can multiply or divide one fraction to make it identical to the other."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Equivalent Fractions", "Word Problems"]
     }
   ]
 }

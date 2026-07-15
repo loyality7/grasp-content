@@ -3,27 +3,71 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Proper Fractions?",
+      "question": "In a fraction, what does the bottom number (denominator) represent?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "The number of parts we have.",
+        "The total number of equal parts the whole has been divided into.",
+        "The number of parts left over.",
+        "The value of the fraction."
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "The denominator names (denominates) the size of the parts by showing how many equal segments make up one full unit.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Proper Fractions is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Which of the following is a proper fraction?",
       "options": [
-        "True",
-        "False"
+        "$\\frac{5}{3}$",
+        "$\\frac{7}{7}$",
+        "$\\frac{3}{8}$",
+        "$\\frac{9}{2}$"
+      ],
+      "correctIndex": 2,
+      "explanation": "In $\\frac{3}{8}$, the numerator (3) is smaller than the denominator (8), making it a proper fraction. In the others, the numerator is either equal to or larger than the denominator.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the relationship between the value of any proper fraction and the number 1?",
+      "options": [
+        "A proper fraction is always greater than 1.",
+        "A proper fraction is always equal to 1.",
+        "A proper fraction is always less than 1.",
+        "It can be greater than or less than 1."
+      ],
+      "correctIndex": 2,
+      "explanation": "Because the numerator of a proper fraction is strictly less than its denominator, it represents a portion of a whole, which means its value is always less than 1.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "If you divide a cake into 10 equal slices and eat 3 slices, what proper fraction of the cake is remaining?",
+      "options": [
+        "$\\frac{3}{10}$",
+        "$\\frac{7}{10}$",
+        "$\\frac{10}{3}$",
+        "$\\frac{10}{7}$"
       ],
       "correctIndex": 1,
-      "explanation": "Proper Fractions has many practical applications.",
+      "explanation": "Since 3 slices out of 10 were eaten, $10 - 3 = 7$ slices remain. The fraction of remaining cake is $\\frac{7}{10}$, which is proper because $7 < 10$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "For a positive fraction $\\frac{n}{d}$ to be proper, which condition must be met?",
+      "options": [
+        "$n > d$",
+        "$n = d$",
+        "$n < d$",
+        "$n = 2d$"
+      ],
+      "correctIndex": 2,
+      "explanation": "By definition, a proper fraction requires the numerator $n$ to be strictly smaller than the denominator $d$.",
       "difficulty": "easy"
     }
   ]

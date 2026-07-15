@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Proportion",
-      "content": "A practical example demonstrating Proportion",
-      "source": "Generated",
+      "title": "Verifying a Proportion by Cross-Multiplication",
+      "content": "Determine whether the ratios **$3:5$** and **$12:20$** form a proportion.\n\n### Step-by-Step Solution\n\n1.  **Write as a proportion equation**:\n    $$\\frac{3}{5} = \\frac{12}{20}$$\n\n2.  **Cross-multiply (multiply diagonally)**:\n    -   Product of extremes: \n        $$3 \\times 20 = 60$$\n    -   Product of means:\n        $$5 \\times 12 = 60$$\n\n3.  **Compare the products**:\n    Both products are equal to $60$. Therefore, the proportion is true.\n\n**Answer**: Yes, $3:5$ and $12:20$ form a true proportion.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "proportion"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Proportions", "Cross-Multiplication"]
+    },
+    {
+      "id": "example-02",
+      "title": "Solving for an Unknown in a Proportion",
+      "content": "Solve for **$x$** in the proportion equation:\n$$\\frac{x}{8} = \\frac{15}{24}$$\n\n### Step-by-Step Solution\n\n1.  **Apply the cross-multiplication property**:\n    $$x \\times 24 = 8 \\times 15$$\n\n2.  **Perform the multiplication on the right side**:\n    $$24x = 120$$\n\n3.  **Isolate $x$ by dividing both sides by $24$**:\n    $$x = \\frac{120}{24}$$\n    $$x = 5$$\n\n4.  **Alternative Scaling Method**:\n    Observe the denominators: how do you get from $8$ to $24$? Multiply by $3$ ($8 \\times 3 = 24$).\n    Therefore, $x \\times 3 = 15$. Divide by $3 \\to x = 5$.\n\n**Answer**: **$x = 5$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Proportions", "Solving for Variable"]
     }
   ]
 }

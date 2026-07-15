@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Integer Operations",
   "topicId": "mathematics.arithmetic.chapter-10.topic-02",
-  "description": "Learn about Integer Operations and its applications in mathematics.",
+  "description": "Learn the rules for adding, subtracting, multiplying, and dividing positive and negative integers.",
   "content": {
-    "overview": "Integer Operations is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Integer Operations. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Integer Operations requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Operating with integers requires specific rules to handle negative signs. With a few simple guidelines, you can perform any arithmetic operation on signed numbers.",
+    "explanation": "### 1. Adding Integers\n\n-   **Same Signs**: Add the absolute values together and keep their shared sign.\n    $$(+3) + (+5) = +8$$\n    $$(-3) + (-5) = -8$$\n-   **Different Signs**: Subtract the smaller number from the larger number (ignoring signs), and keep the sign of whichever number was larger.\n    $$(-7) + 3 = -4 \\quad \\text{(since 7 is larger than 3, and 7 is negative)}$$\n    $$7 + (-3) = +4$$\n\n---\n\n### 2. Subtracting Integers\n\n**Rule**: Subtracting an integer is the exact same as adding its opposite. Change the subtraction sign to addition and flip the sign of the second number:\n$$a - b = a + (-b)$$\n$$a - (-b) = a + b$$\n\n*Examples*:\n-   $$5 - 8 \\to 5 + (-8) = -3$$\n-   $$3 - (-2) \\to 3 + 2 = 5$$\n\n---\n\n### 3. Multiplying & Dividing Integers\n\nThe sign rules for multiplication and division are identical and very straightforward:\n\n{{viz:formula-01}}\n\n-   **Same Signs yield Positive (+)**:\n    $$(-4) \\times (-3) = +12$$\n    $$(-20) \\div (-5) = +4$$\n-   **Different Signs yield Negative (-)**:\n    $$(-4) \\times 3 = -12$$\n    $$(-20) \\div 5 = -4$$\n\n---\n\n### Visualizing Subtraction on a Number Line\n\nSubtracting a negative number is equivalent to adding. Watch this animation showing why $3 - (-2)$ moves to the right to equal $5$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "To subtract an integer, add its opposite.",
+      "Multiplying or dividing two integers with the same sign results in a positive number.",
+      "Multiplying or dividing two integers with different signs results in a negative number.",
+      "For addition of different signs, subtract their magnitudes and take the sign of the larger magnitude."
     ],
-    "whyItMatters": "Integer Operations is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Integer operations are critical for algebra, balancing financial ledgers (adding income and subtracting debts), coding loops that count backwards, and analyzing changes in physical systems (like voltage drops)."
   },
   "availableLanguages": [
     "en"

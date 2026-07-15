@@ -2,16 +2,18 @@
   "id": "topic-02",
   "name": "Precision",
   "topicId": "physics.physics-foundations.chapter-03.topic-02",
-  "description": "Learn about Precision and its applications in physics.",
+  "description": "How exact and consistent your measurements are",
   "content": {
-    "overview": "Precision is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Precision. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Precision requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Precision = how exact/consistent your measurements are. Like how many decimal places you can measure. A scale reading 65.347 kg is more precise than one reading 65 kg. {{viz:diagram-01}}",
+    "explanation": "Precision is about EXACTNESS and REPEATABILITY. Not about being right, about being exact.\n\nImagine throwing 3 darts:\n- All 3 darts hit the same small spot (even if not at center). PRECISE.\n- Darts scattered all over. NOT precise.\n\nPrecision = how closely grouped your measurements are. {{viz:anim-01}}\n\nA scale showing 65.2347 kg is MORE precise than one showing 65 kg (more decimal places).\n\nBUT WAIT! That precise scale might be WRONG (inaccurate). It could consistently read high by 5 kg. Precise but not accurate! {{viz:chart-01}}\n\nKey idea: You can be precise without being accurate. Like a broken clock that's always 10 minutes fast—very consistent (precise) but always wrong (inaccurate).",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Precision = exactness and consistency of measurements",
+      "More decimal places = more precise",
+      "A scale showing 65.347 is more precise than 65",
+      "You can be precise but not accurate!",
+      "Precision is about how finely you measure, not if you're right"
     ],
-    "whyItMatters": "Precision is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "A precise measurement tells you the tool quality. It shows how carefully you can measure. But if it's wrong (inaccurate), precision doesn't help!"
   },
   "availableLanguages": [
     "en"

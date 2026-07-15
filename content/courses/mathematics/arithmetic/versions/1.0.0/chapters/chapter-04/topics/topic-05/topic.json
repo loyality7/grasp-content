@@ -2,16 +2,17 @@
   "id": "topic-05",
   "name": "Prime Factorization",
   "topicId": "mathematics.arithmetic.chapter-04.topic-05",
-  "description": "Learn about Prime Factorization and its applications in mathematics.",
+  "description": "Learn about prime factorization, representing composite numbers as products of primes, using factor trees, and division ladders.",
   "content": {
-    "overview": "Prime Factorization is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Prime Factorization. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Prime Factorization requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Prime factorization is the process of breaking down a composite number into a product of prime numbers. It reveals the unique mathematical DNA of a number.",
+    "explanation": "### What is Prime Factorization?\n\nThe **Fundamental Theorem of Arithmetic** states that every whole number greater than 1 is either a prime number itself or can be written as a unique product of prime numbers (ignoring the order of the factors).\n\nFor example, the number 12 can be written as:\n$$12 = 2 \\times 2 \\times 3 = 2^2 \\times 3$$\nSince 2 and 3 are both prime numbers, $2^2 \\times 3$ is the prime factorization of 12. There is no other combination of prime numbers that multiplies to equal 12.\n\n{{viz:formula-01}}\n\n### Methods of Prime Factorization\n\nThere are two common visual methods to find the prime factorization of a number:\n\n#### Method 1: The Factor Tree\n1.  Write down the number at the top.\n2.  Split the number into two branches representing any factor pair (e.g., $24 = 2 \\times 12$ or $3 \\times 8$).\n3.  If a factor is **prime**, circle it. If a factor is **composite**, branch it again.\n4.  Continue branching until all ends are circled prime numbers.\n5.  Collect the circled primes to write the product.\n\n*Example of a factor tree for 24*:\n-   $24 \\to 2$ (prime) and $12$ (composite)\n-   $12 \\to 2$ (prime) and $6$ (composite)\n-   $6 \\to 2$ (prime) and $3$ (prime)\n-   The ends are: **2, 2, 2, and 3**.\n-   Product: $2 \\times 2 \\times 2 \\times 3 = 2^3 \\times 3$.\n\n{{viz:anim-01}}\n\n#### Method 2: The Division Ladder (Successive Division)\n1.  Divide the number by the smallest prime number that goes into it evenly.\n2.  Write the quotient directly below.\n3.  Divide that quotient by the smallest prime number possible.\n4.  Repeat this process until you get a quotient of 1.\n5.  The column of divisors on the side is your prime factorization.\n\n**Example: Prime factorization of 60**\n-   $60 \\div \\mathbf{2} = 30$\n-   $30 \\div \\mathbf{2} = 15$\n-   $15 \\div \\mathbf{3} = 5$\n-   $5 \\div \\mathbf{5} = 1$ (Stop!)\n-   Divisors: **2, 2, 3, 5**.\n-   Prime Factorization: $2 \\times 2 \\times 3 \\times 5 = 2^2 \\times 3 \\times 5$.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Prime factorization represents a composite number as a product of prime factors.",
+      "The prime factorization of any number is unique (except for the order of factors).",
+      "Exponential notation is used to write repeated prime factors compactly (e.g., $2^3 \\times 3$).",
+      "Factor trees and division ladders are standard methods to decompose composite numbers."
     ],
-    "whyItMatters": "Prime Factorization is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Prime factorization simplifies finding the Greatest Common Divisor (GCD) and Least Common Multiple (LCM). It is also the primary tool used to simplify square roots and solve modular arithmetic equations."
   },
   "availableLanguages": [
     "en"

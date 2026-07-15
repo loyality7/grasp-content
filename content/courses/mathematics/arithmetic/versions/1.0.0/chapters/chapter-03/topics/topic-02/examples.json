@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Subtraction",
-      "content": "A practical example demonstrating Subtraction",
-      "source": "Generated",
-      "difficulty": "beginner",
+      "title": "Subtraction with Borrowing (Regrouping)",
+      "content": "Subtract **$1,848$** from **$4,025$** step-by-step.\n\n### Step-by-Step Solution\n\nFirst, line up the numbers vertically:\n\n$$\\begin{array}{r@{\\quad}l}\n  4025 \\\\\n- 1848 \\\\\n\\hline\n\\end{array}$$\n\n1. **Ones column**: Subtract $5 - 8$. Since $5 < 8$, we must borrow from the tens column.\n   - Borrow 1 ten from the tens column ($2 \\to 1$).\n   - This turns the 5 in the ones place into **15**.\n   - Now, $15 - 8 = 7$.\n\n2. **Tens column**: Subtract $1 - 4$. Since $1 < 4$, we must borrow from the hundreds column. However, the hundreds column is **0**!\n   - To borrow, we must first regroup from the thousands column ($4 \\to 3$ thousands, making it **10** hundreds).\n   - Now we can borrow from the hundreds column ($10 \\to 9$ hundreds, making the tens column **11** tens).\n   - Now, $11 - 4 = 7$.\n\n3. **Hundreds column**: Subtract $9 - 8 = 1$.\n\n4. **Thousands column**: Subtract $3 - 1 = 2$.\n\nLet's write it down with regrouping shown:\n\n$$\\begin{array}{r@{\\quad}l}\n  \\text{Regrouped:} & \\color{red}{3\\,\\,9\\,\\,11\\,\\,15} \\\\ & \\cancel{4}\\,\\cancel{0}\\,\\cancel{2}\\,\\cancel{5} \\\\ - & 1\\,8\\,4\\,8 \\\\ \\hline & 2\\,1\\,7\\,7 \\end{array}$$\n\n**Answer**: $4,025 - 1,848 = 2,177$.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
       "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "subtraction"
-      ]
+      "tags": ["Arithmetic", "Subtraction", "Borrowing"]
+    },
+    {
+      "id": "example-02",
+      "title": "Real-World Application: Checking Account Balance",
+      "content": "Sarah started the month with a bank balance of **$1,250$**. During the month, she paid **$485$** for rent and **$132$** for groceries. What is her remaining balance?\n\n### Step-by-Step Solution\n\nWe need to subtract both expenses from the starting balance:\n$$\\text{Remaining Balance} = 1250 - 485 - 132$$\n\nWe can do this in two stages:\n\n**Stage 1: Subtract Rent ($1250 - 485$)**\n1. Ones column: $0 - 5$. Borrow from tens ($5 \\to 4$, ones becomes $10$). $10 - 5 = 5$.\n2. Tens column: $4 - 8$. Borrow from hundreds ($2 \\to 1$, tens becomes $14$). $14 - 8 = 6$.\n3. Hundreds column: $1 - 4$. Borrow from thousands ($1 \\to 0$, hundreds becomes $11$). $11 - 4 = 7$.\n4. Thousands column: $0 - 0 = 0$.\n\n$$1250 - 485 = 765$$\n\n**Stage 2: Subtract Groceries ($765 - 132$)**\n1. Ones column: $5 - 2 = 3$.\n2. Tens column: $6 - 3 = 3$.\n3. Hundreds column: $7 - 1 = 6$.\n\n$$765 - 132 = 633$$\n\n**Answer**: Sarah's remaining bank balance is **$633$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Subtraction", "Word Problem"]
     }
   ]
 }

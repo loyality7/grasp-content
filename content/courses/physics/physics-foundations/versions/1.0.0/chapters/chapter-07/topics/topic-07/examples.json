@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Logarithmic Graphs",
-      "content": "A practical example demonstrating Logarithmic Graphs",
-      "source": "Generated",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "logarithmic-graphs"
-      ]
+      "title": "Decibels (Sound)",
+      "content": "Sound loudness uses logarithmic scale. 10 dB = barely audible, 60 dB = normal conversation, 120 dB = painful. Normal scale would be useless.",
+      "source": "Acoustics",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["sound", "decibel"]
+    },
+    {
+      "id": "example-02",
+      "title": "Earthquake Magnitude",
+      "content": "Richter scale is logarithmic. Magnitude 5 is 30× stronger than magnitude 4. Normal numbers would be confusing.",
+      "source": "Seismology",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["earthquake", "richter"]
+    },
+    {
+      "id": "example-03",
+      "title": "Exponential Decay",
+      "content": "Radioactivity decays exponentially. On a normal graph: big drop then flat. On log scale: straight line! Shows you the decay rate clearly.",
+      "source": "Nuclear Physics",
+      "difficulty": "advanced",
+      "estimatedMinutes": 2,
+      "tags": ["exponential", "radioactivity"]
     }
   ]
 }

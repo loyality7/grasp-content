@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Laws of Exponents (Introduction)",
-      "content": "A practical example demonstrating Laws of Exponents (Introduction)",
-      "source": "Generated",
+      "title": "Applying the Product Rule",
+      "content": "Simplify the expression **$5^4 \\times 5^3$** into a single power term.\n\n### Step-by-Step Solution\n\n1.  **Check if the bases are the same**:\n    Both exponential terms have a base of $5$. Therefore, we can apply the Product Rule.\n\n2.  **Recall the Product Rule**:\n    $$a^m \\times a^n = a^{m+n}$$\n\n3.  **Apply the rule to the expression**:\n    Keep the base $5$ and add the exponents ($4$ and $3$):\n    $$5^4 \\times 5^3 = 5^{4+3}$$\n    $$= 5^7$$\n\n**Answer**: **$5^7$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "laws-of-exponents-introduction"
-      ]
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Exponents", "Product Rule"]
+    },
+    {
+      "id": "example-02",
+      "title": "Applying the Quotient Rule",
+      "content": "Simplify and evaluate the expression **$\\frac{7^9}{7^6}$**.\n\n### Step-by-Step Solution\n\n1.  **Check the bases**:\n    Both the numerator and denominator have the same base of $7$. We can apply the Quotient Rule.\n\n2.  **Recall the Quotient Rule**:\n    $$\\frac{a^m}{a^n} = a^{m-n}$$\n\n3.  **Apply the rule to subtract exponents**:\n    Subtract the bottom exponent ($6$) from the top exponent ($9$):\n    $$\\frac{7^9}{7^6} = 7^{9-6}$$\n    $$= 7^3$$\n\n4.  **Evaluate the value**:\n    $$7^3 = 7 \\times 7 \\times 7$$\n    $$= 49 \\times 7 = 343$$\n\n**Answer**: Simplified form: **$7^3$**. Evaluated value: **$343$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Quotient Rule", "Evaluation"]
     }
   ]
 }

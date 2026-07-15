@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Prime Numbers?",
-      "back": "Prime Numbers is a fundamental concept in mathematics.",
+      "front": "What is a Prime Number?",
+      "back": "A positive whole number greater than 1 that has exactly two distinct factors: 1 and the number itself. For example: 2, 3, 5, 7, 11, ...",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Prime Numbers important?",
-      "back": "Prime Numbers is essential for understanding Arithmetic.",
+      "front": "What is the only even prime number?",
+      "back": "2. All other even numbers can be divided by 2, meaning they have more than two factors and are composite.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Why is 1 not considered a prime number?",
+      "back": "Because a prime number must have exactly two distinct factors. The number 1 only has one factor (itself).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the Sieve of Eratosthenes?",
+      "back": "An ancient algorithm for finding all prime numbers up to a certain limit by systematically crossing out multiples of primes starting from 2.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "Are there a finite or infinite number of primes?",
+      "back": "Infinite. Euclid proved that prime numbers continue forever without end.",
       "difficulty": "medium"
     }
   ]

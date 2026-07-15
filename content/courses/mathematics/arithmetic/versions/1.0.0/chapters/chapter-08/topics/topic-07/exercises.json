@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Unit Rate.",
-      "solution": "Step-by-step solution for Unit Rate problem.",
+      "prompt": "A car travels **$210$ miles** using **$7$ gallons** of gasoline. Calculate the car's fuel economy unit rate in miles per gallon (mpg).",
+      "solution": "1. **Set up the unit rate division**:\n   $$\\text{Fuel Economy} = \\frac{\\text{Distance}}{\\text{Fuel Amount}} = \\frac{210 \\text{ miles}}{7 \\text{ gallons}}$$\n2. **Perform the division**:\n   $$210 \\div 7 = 30 \\text{ miles per gallon}$$\n\n**Answer**: **$30$ miles per gallon** (or $30$ mpg).",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Divide the total distance (210) by the total fuel (7).",
+        "The resulting number is the number of miles the car can travel on exactly 1 gallon."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "unit-rate"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unit Rates", "Division"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Unit Rate to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "An employee earns **$360$ dollars** for working **$24$ hours**. What is their hourly pay rate (dollars per hour)?",
+      "solution": "1. **Set up the rate equation**:\n   $$\\text{Hourly pay} = \\frac{360 \\text{ dollars}}{24 \\text{ hours}}$$\n2. **Divide to simplify**:\n   Divide both numerator and denominator by $12$:\n   $$\\frac{360 \\div 12}{24 \\div 12} = \\frac{30}{2} = 15 \\text{ dollars per hour}$$\n\n**Answer**: Their hourly pay rate is **$15$ dollars per hour**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Divide the total earnings by the total hours worked.",
+        "Simplify the division 360 / 24 using common factors like 12 or 6."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "unit-rate"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Unit Rates", "Hourly Pay"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "Store A sells a pack of **$8$ batteries** for **$6.40$ dollars**. Store B sells a pack of **$12$ batteries** for **$10.20$ dollars**. Which store has the cheaper price per battery?",
+      "solution": "1. **Find Store A's unit price**:\n   $$\\text{Store A} = \\frac{6.40 \\text{ dollars}}{8 \\text{ batteries}} = 0.80 \\text{ dollars per battery}$$\n2. **Find Store B's unit price**:\n   $$\\text{Store B} = \\frac{10.20 \\text{ dollars}}{12 \\text{ batteries}} = 0.85 \\text{ dollars per battery}$$\n3. **Compare**:\n   $$0.80 \\text{ dollars} < 0.85 \\text{ dollars}$$\n   Store A's unit price is cheaper.\n\n**Answer**: **Store A** has the cheaper price per battery.",
+      "hints": [
+        "Find the cost of a single battery at each store by dividing the pack price by the number of batteries.",
+        "Compare the two unit costs to see which store offers the lower rate."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Unit Price", "Best Buy", "Word Problems"]
     }
   ]
 }

@@ -2,15 +2,30 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Derived Units",
-      "content": "A practical example demonstrating Derived Units",
-      "source": "Generated",
+      "title": "Speed = Distance ÷ Time",
+      "content": "Speed combines length and time: meters ÷ seconds = m/s. This is a derived unit. You create it by combining base units.",
+      "source": "Motion",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "derived-units"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["speed", "derived-unit"]
+    },
+    {
+      "id": "example-02",
+      "title": "Force = Mass × Acceleration",
+      "content": "Force uses kg × m/s² = kg·m/s². This combo is so common it gets a special name: Newton (N). But it's really just a combination of base units.",
+      "source": "Mechanics",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["force", "newton"]
+    },
+    {
+      "id": "example-03",
+      "title": "Energy = Force × Distance",
+      "content": "Energy = (kg·m/s²) × m = kg·m²/s². This is the Joule (J). Again, just base units combined.",
+      "source": "Energy",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["energy", "joule"]
     }
   ]
 }

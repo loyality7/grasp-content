@@ -4,14 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-07",
   "description": "Learn about Uncertainty Analysis and its applications in physics.",
   "content": {
-    "overview": "Uncertainty Analysis is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Uncertainty Analysis. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Uncertainty Analysis requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Every measurement has uncertainty. Your ruler measures to ±0.5 cm. Your stopwatch has reaction time error. Good scientists acknowledge this.",
+    "explanation": "Uncertainty analysis is admitting: 'I'm not 100% sure of my measurement.'\n\n**Where uncertainty comes from:**\n- **Tool limits:** A ruler marked in cm can't measure mm precisely\n- **Human error:** Reaction time, reading scales, parallax\n- **Environmental changes:** Temperature changes, vibrations, air currents\n- **Repeats:** Different trials give different results\n\n**How to report it:**\n- Bad: 'The period is 2.0 seconds'\n- Good: 'The period is 2.0 ± 0.1 seconds'\n\nThe ±0.1 says: 'It's probably between 1.9 and 2.1 seconds.'\n\n**How to estimate uncertainty:**\n1. **Tool uncertainty:** Half the smallest division. Ruler in cm? Uncertainty = ±0.5 cm\n2. **Repeat trials:** Measure the range (max - min) ÷ 2. If heights are 15.0, 15.2, 14.9 cm, range is 0.3, uncertainty = ±0.15 cm\n3. **Reaction time:** Usually ±0.2 seconds for hand-timing\n\n**Why it matters:**\nIf you say 'Spring A has period 2.0 s and Spring B has period 2.1 s,' that sounds different. But if uncertainties are ±0.5 s each, they might be the same! Uncertainty tells the real story.\n\nGood scientists report uncertainty. It shows you understand your measurements' limits.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Every measurement has uncertainty",
+      "Report as: value ± uncertainty (e.g., 2.0 ± 0.1 s)",
+      "Tool uncertainty = half the smallest division",
+      "Repeat-trial uncertainty = range ÷ 2",
+      "Uncertainty shows you understand your limits",
+      "Don't claim precision you don't have"
     ],
-    "whyItMatters": "Uncertainty Analysis is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Uncertainty separates real data from lucky noise. Scientists report it; non-scientists ignore it."
   },
   "availableLanguages": [
     "en"

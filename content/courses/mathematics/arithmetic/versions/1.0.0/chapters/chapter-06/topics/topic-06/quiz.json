@@ -3,28 +3,72 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Multiplying Decimals?",
+      "question": "How many decimal places will the product of $2.35$ and $1.4$ have before simplification?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1",
+        "2",
+        "3",
+        "4"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "The factor $2.35$ has 2 decimal places, and $1.4$ has 1 decimal place. Adding them together gives $2 + 1 = 3$ decimal places in the product.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
-      "type": "true-false",
-      "question": "Multiplying Decimals is only applicable in theoretical contexts.",
+      "type": "multiple-choice",
+      "question": "Calculate the product: $0.3 \\times 0.4$",
       "options": [
-        "True",
-        "False"
+        "1.2",
+        "0.12",
+        "0.012",
+        "12"
       ],
       "correctIndex": 1,
-      "explanation": "Multiplying Decimals has many practical applications.",
+      "explanation": "Multiply as whole numbers: $3 \\times 4 = 12$. The factors have a combined total of 2 decimal places ($1 + 1 = 2$). Moving the decimal point 2 places left yields $0.12$.",
       "difficulty": "easy"
+    },
+    {
+      "id": "q-03",
+      "type": "multiple-choice",
+      "question": "What is the product of $1.5 \\times 6$?",
+      "options": [
+        "9",
+        "0.9",
+        "90",
+        "0.09"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiply as whole numbers: $15 \\times 6 = 90$. Total decimal places in factors is 1. Move point 1 place left: $9.0$, which is exactly 9.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-04",
+      "type": "multiple-choice",
+      "question": "Solve the multiplication: $0.02 \\times 0.08$",
+      "options": [
+        "0.16",
+        "0.016",
+        "0.0016",
+        "0.00016"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiply whole numbers: $2 \\times 8 = 16$. The factors have a total of 4 decimal places ($2 + 2 = 4$). We must add two placeholder zeros to the left of 16 to get 4 places: $0.0016$.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-05",
+      "type": "multiple-choice",
+      "question": "Multiply: $1.25 \\times 0.8$",
+      "options": [
+        "1",
+        "10",
+        "0.1",
+        "1.08"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiply whole numbers: $125 \\times 8 = 1000$. Combined decimal places is $2 + 1 = 3$. Moving the decimal point 3 places to the left gives $1.000$, which simplifies to 1.",
+      "difficulty": "medium"
     }
   ]
 }

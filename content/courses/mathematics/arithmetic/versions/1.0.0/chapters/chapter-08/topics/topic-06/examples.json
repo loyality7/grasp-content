@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Inverse Proportion",
-      "content": "A practical example demonstrating Inverse Proportion",
-      "source": "Generated",
+      "title": "Solving Workers and Time (Inverse Proportion)",
+      "content": "If **$3$ workers** take **$6$ hours** to pack a shipping container, how long would it take **$9$ workers** to complete the exact same task?\n\n### Step-by-Step Solution\n\n#### Method 1: Constant Product (Worker-Hours)\n1.  **Calculate the total work constant ($k$)**:\n    Multiply the starting workers by the starting hours:\n    $$k = 3 \\text{ workers} \\times 6 \\text{ hours} = 18 \\text{ worker-hours}$$\n    This represents the total amount of labor required for the job.\n\n2.  **Divide by the new crew size ($9$ workers)**:\n    $$\\text{Time} = \\frac{k}{\\text{New Workers}} = \\frac{18 \\text{ worker-hours}}{9 \\text{ workers}} = 2 \\text{ hours}$$\n\n#### Method 2: Scaling Analysis\n1.  Compare the worker count: we scale up the number of workers by a factor of $3$ (since $3 \\times 3 = 9$).\n2.  Because workers and time vary inversely, we must scale the time down by dividing by that same factor of $3$:\n    $$\\text{New Time} = 6 \\text{ hours} \\div 3 = 2 \\text{ hours}$$\n\n**Answer**: **$2$ hours**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "inverse-proportion"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Inverse Proportion", "Workers and Time", "Word Problems"]
+    },
+    {
+      "id": "example-02",
+      "title": "Finding Unknowns in Inverse Variation",
+      "content": "Variables **$x$** and **$y$** vary inversely. When **$x = 3$**, **$y = 8$**.\n1.  Find the constant of variation **$k$**.\n2.  Find the value of **$y$** when **$x = 6$**.\n\n### Step-by-Step Solution\n\n1.  **Find the constant $k$**:\n    Since $x$ and $y$ vary inversely, we use the formula:\n    $$x \\cdot y = k$$\n    Substitute the given values:\n    $$k = 3 \\times 8 = 24$$\n    The constant of variation is **$24$**.\n\n2.  **Find $y$ when $x = 6$**:\n    Use the equation with $k = 24$:\n    $$y = \\frac{k}{x}$$\n    Substitute $x = 6$:\n    $$y = \\frac{24}{6} = 4$$\n\n**Answer**:\n1.  $k = 24$\n2.  $y = 4$",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Inverse Variation", "Constant of Proportionality"]
     }
   ]
 }

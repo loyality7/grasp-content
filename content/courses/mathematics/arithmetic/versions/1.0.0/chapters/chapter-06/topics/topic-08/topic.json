@@ -1,17 +1,18 @@
 {
   "id": "topic-08",
-  "name": "Converting Fractions ↔ Decimals",
+  "name": "Converting Fractions \u2194 Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-08",
-  "description": "Learn about Converting Fractions ↔ Decimals and its applications in mathematics.",
+  "description": "Learn to convert fractions to decimals using division, and convert decimals back to fractions using place values.",
   "content": {
-    "overview": "Converting Fractions ↔ Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Converting Fractions ↔ Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Converting Fractions ↔ Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Fractions and decimals are two different ways of representing the same fractional value. Being able to convert between them allows you to choose the representation that makes calculation easiest.",
+    "explanation": "### Converting Fractions to Decimals\n\nA fraction bar represents division. To convert any fraction to a decimal, simply **divide the numerator (top) by the denominator (bottom)** using long division.\n\n$$\\frac{a}{b} = a \\div b$$\n\n#### Example: Convert $\\frac{3}{4}$ to a decimal\n1.  Set up division: $3 \\div 4$.\n2.  Since $4$ cannot divide into $3$, place a decimal point and write trailing zeros: $3.00 \\div 4$.\n3.  Divide:\n    -   $4$ goes into $3.0$ seven times ($7 \\times 4 = 2.8$, remainder $0.2$).\n    -   Bring down another $0$ to make $20$ hundredths. $4$ goes into $20$ five times exactly ($5 \\times 4 = 20$, remainder $0$).\n4.  Align the decimal point: **$0.75$**.\n\n#### Repeating Decimals\n\nSometimes division never ends! For example, converting **$\\frac{1}{3}$**:\n$$1 \\div 3 = 0.3333\\dots$$\nWe write repeating digits with a line over them (called bar notation):\n$$\\frac{1}{3} = 0.\\bar{3}$$\n\n### Converting Decimals to Fractions\n\nTo convert a terminating decimal (a decimal that ends) into a fraction:\n\n1.  **Determine the place value** of the last digit (tenths, hundredths, thousandths).\n2.  **Write the fraction**: Place the decimal digits (without the point) in the numerator, and the place value number ($10$, $100$, $1000$) in the denominator.\n3.  **Simplify** the fraction to its lowest terms.\n\n#### Example: Convert $0.35$ to a fraction\n1.  The last digit ($5$) is in the **Hundredths** place.\n2.  Write as a fraction over $100$:\n    $$0.35 = \\frac{35}{100}$$\n3.  Simplify by dividing the numerator and denominator by their Greatest Common Divisor ($5$):\n    $$\\frac{35 \\div 5}{100 \\div 5} = \\frac{7}{20}$$\n\n{{viz:formula-01}}\n\n### Visualizing Fraction-Decimal Equivalents\n\nLook at this slide bar to see how fractional parts align perfectly with their decimal representation:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Fractions convert to decimals by dividing numerator by denominator.",
+      "Repeating decimals are written with a bar over the repeating digits (e.g. 0.666... = 0.6 with a bar).",
+      "Decimals convert to fractions by placing the digits over 10, 100, or 1000 based on the last digit's place value.",
+      "Always simplify the resulting fraction to simplest terms."
     ],
-    "whyItMatters": "Converting Fractions ↔ Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Converting fractions to decimals makes comparisons easy (is 5/8 larger than 0.6?) and allows us to use calculators, which typically operate on decimal values."
   },
   "availableLanguages": [
     "en"

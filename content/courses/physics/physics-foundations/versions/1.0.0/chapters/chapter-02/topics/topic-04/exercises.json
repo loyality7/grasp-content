@@ -1,35 +1,35 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Prefixes (Milli, Kilo, Mega...).",
-      "solution": "Step-by-step solution for Prefixes (Milli, Kilo, Mega...) problem.",
+      "id": "exercise-01",
+      "type": "match",
+      "title": "Match Prefix to Power",
+      "content": "Match: milli, micro, kilo, mega, giga to 10³, 10⁶, 10⁻³, 10⁻⁶, 10⁹",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "milli = thousandth",
+        "micro = millionth",
+        "kilo = thousand",
+        "mega = million",
+        "giga = billion"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "prefixes-milli-kilo-mega"
-      ]
+      "tags": ["memorization"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Prefixes (Milli, Kilo, Mega...) to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "type": "convert",
+      "title": "Prefix Conversions",
+      "content": "Write as numbers: 5 km = ? m, 20 mm = ? m, 3 μs = ? s, 2 GB = ? bytes",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "1 km = 1000 m",
+        "1 mm = 0.001 m",
+        "1 μs = 0.000001 s",
+        "1 GB = 1 billion bytes"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "prefixes-milli-kilo-mega"
-      ]
+      "tags": ["conversion"]
     }
   ]
 }

@@ -2,16 +2,17 @@
   "id": "topic-01",
   "name": "Percentage Basics",
   "topicId": "mathematics.arithmetic.chapter-07.topic-01",
-  "description": "Learn about Percentage Basics and its applications in mathematics.",
+  "description": "Understand what percent means, how it relates to parts of a hundred, and how to express it visually and mathematically.",
   "content": {
-    "overview": "Percentage Basics is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Percentage Basics. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Percentage Basics requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The word percent comes from the Latin 'per centum', which means 'by the hundred'. A percentage is simply a fraction with a denominator of 100, representing parts of a whole divided into 100 equal pieces.",
+    "explanation": "### What is a Percentage?\n\nA percentage is a way of expressing a number as a fraction of 100. It is written using the percent sign **`%`**.\n\n-   **$1\\%$** means $1$ out of $100$ parts ($\\frac{1}{100}$ or $0.01$).\n-   **$50\\%$** means $50$ out of $100$ parts ($\\frac{50}{100}$, which simplifies to $\\frac{1}{2}$ or $0.5$).\n-   **$100\\%$** means $100$ out of $100$ parts ($\\frac{100}{100}$, which is $1$ or the entire whole).\n\nMathematically, any percentage $x\\%$ is defined as:\n\n{{viz:formula-01}}\n\n### Visualizing Percentages with a 100-Grid\n\nImagine a large square divided into a grid of $10$ columns and $10$ rows, making exactly **$100$ small squares** in total:\n-   If you color in **$1$** small square, you have colored in **$1\\%$** of the grid.\n-   If you color in **$25$** small squares, you have colored in **$25\\%$** of the grid (which is exactly $\\frac{1}{4}$ of the area).\n-   If you color in **$100$** small squares, you have colored in **$100\\%$** (the entire grid).\n\nLet's see this visually by shading different portions of a 100-grid:\n\n{{viz:anim-01}}\n\n### Why Do We Use Percentages?\n\nPercentages make it easy to compare fractions with different denominators. For example, if you got $15$ out of $20$ on a history quiz and $17$ out of $25$ on a math quiz, it's hard to compare them directly. By converting both to percentages ($75\\%$ vs $68\\%$), you can instantly see that you did better on the history quiz.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Percent means 'per hundred' or 'out of 100'.",
+      "The symbol '%' is used to represent percentages.",
+      "100% represents the entire whole (1.0).",
+      "A percentage can always be written as a fraction with a denominator of 100 or as a decimal."
     ],
-    "whyItMatters": "Percentage Basics is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Percentages are used everywhere: store discounts (e.g., 20% off), phone battery levels, interest rates, tax calculations, and statistics in news reports."
   },
   "availableLanguages": [
     "en"

@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Vector Addition?",
-      "back": "Vector Addition is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Vector Addition important?",
-      "back": "Vector Addition is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"card-01","front":"How do you add vectors with components?","back":"Add each component separately: (Ax+Bx, Ay+By, Az+Bz)","difficulty":"easy"},{"id":"card-02","front":"What's the head-to-tail method?","back":"Place B's tail at A's head. The line from A's tail to B's head is the sum.","difficulty":"easy"},{"id":"card-03","front":"Is A+B = B+A?","back":"Yes! Vector addition is commutative.","difficulty":"easy"}]}

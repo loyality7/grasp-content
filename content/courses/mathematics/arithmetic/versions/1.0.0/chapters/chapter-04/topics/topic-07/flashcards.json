@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Least Common Multiple (LCM)?",
-      "back": "Least Common Multiple (LCM) is a fundamental concept in mathematics.",
+      "front": "What is the Least Common Multiple (LCM)?",
+      "back": "The smallest positive whole number that is a multiple of two or more numbers. (e.g., LCM of 4 and 6 is 12).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Least Common Multiple (LCM) important?",
-      "back": "Least Common Multiple (LCM) is essential for understanding Arithmetic.",
+      "front": "What is the Listing Multiples Method for LCM?",
+      "back": "Write out positive multiples of each number until you find the first (smallest) common number.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "How do you find LCM using Prime Factorization?",
+      "back": "Decompose the numbers, identify all prime bases, select the highest exponent for each prime base, and multiply them.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the GCD-LCM formula?",
+      "back": "$$\\text{LCM}(a, b) \\times \\text{GCD}(a, b) = a \\times b$$ This relates the product, GCD, and LCM of two numbers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the LCM of two coprime numbers $a$ and $b$?",
+      "back": "The product of the two numbers: $$a \\times b$$ (since their GCD is 1).",
+      "difficulty": "easy"
     }
   ]
 }

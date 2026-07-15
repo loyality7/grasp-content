@@ -3,28 +3,28 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Motion?",
+      "question": "What is motion?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Something moving very fast",
+        "Change in position over time",
+        "Moving in a straight line",
+        "Anything that's not sitting still"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Motion is simply change in position over time. It doesn't have to be fast, could be curved, and it's relative to your reference frame.",
+      "difficulty": "easy"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Motion is only applicable in theoretical contexts.",
+      "question": "Motion is always relative to the Earth.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "Motion has many practical applications.",
-      "difficulty": "easy"
+      "explanation": "Motion is relative to ANY reference frame. A person on a train can be still relative to the train but moving relative to the ground.",
+      "difficulty": "medium"
     }
   ]
 }

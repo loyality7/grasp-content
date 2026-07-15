@@ -2,16 +2,19 @@
   "id": "topic-07",
   "name": "Dimensional Homogeneity",
   "topicId": "physics.physics-foundations.chapter-02.topic-07",
-  "description": "Learn about Dimensional Homogeneity and its applications in physics.",
+  "description": "The principle that you can only add/subtract quantities with the same units",
   "content": {
-    "overview": "Dimensional Homogeneity is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Dimensional Homogeneity. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Dimensional Homogeneity requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "You can't add apples and oranges. You also can't add meters and seconds! Dimensional homogeneity is the rule that says: only add/subtract quantities with the same dimensions. {{viz:diagram-01}}",
+    "explanation": "This is super simple but really important. {{viz:diagram-02}}\n\n**The Rule: Both sides of an equation must have the same dimensions (units).**\n\nAlso: You can only add or subtract quantities if they have the same dimensions.\n\n**What does this mean?**\n\nYou can do: 5 meters + 3 meters = 8 meters ✓ (both are length)\nYou can do: 10 seconds + 5 seconds = 15 seconds ✓ (both are time)\n\nYou CANNOT do: 5 meters + 3 seconds = ??? ✗ (different dimensions!)\nYou CANNOT do: 10 kg + 5 m/s = ??? ✗ (mass + velocity makes no sense)\n\n**Why is this a LAW?**\n\nBecause physics equations describe reality, and reality is consistent. A distance is always a distance. A time is always a time. They can't magically become the same thing.\n\nIf you write an equation like: distance = speed + time\n\nThat's saying: [L] = [L T⁻¹] + [T]\n\nThe left side is length. The right side is (velocity) + (time), which doesn't even make sense dimensionally! This equation is WRONG. {{viz:chart-01}}\n\n**In equations:**\n\nIn the equation: **distance = speed × time**\n\nLeft side: distance = [L]\nRight side: speed × time = [L T⁻¹] × [T] = [L]\n\nDimensions match! ✓ {{viz:anim-01}}\n\n**In addition/subtraction:**\n\nYou CAN write: **Total distance = distance₁ + distance₂ + distance₃**\n\nBecause all distances have the same dimension [L].\n\nBut you CANNOT write: **Total = distance + speed + mass**\n\nBecause [L] ≠ [L T⁻¹] ≠ [M]. They're different dimensions.\n\n**Simple Rule for Checking Your Work:**\n\n1. Look at your equation\n2. Write the dimensions of each term\n3. Check that all terms on the left have the same dimension\n4. Check that all terms on the right have the same dimension\n5. Check that left = right dimension\n6. If any don't match, your equation is WRONG",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Only add/subtract quantities with the SAME dimensions",
+      "Both sides of an equation must have the SAME dimensions",
+      "You can't add meters + seconds, or kg + m/s",
+      "This is called 'dimensional homogeneity'",
+      "Use it to check if your equations are right",
+      "Mismatched dimensions = wrong equation"
     ],
-    "whyItMatters": "Dimensional Homogeneity is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "This is your final check on whether an equation makes physical sense. If dimensions don't match, something is definitely wrong. Use it to catch mistakes!"
   },
   "availableLanguages": [
     "en"

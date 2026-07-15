@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Order of Operations (BODMAS/PEMDAS)?",
-      "back": "Order of Operations (BODMAS/PEMDAS) is a fundamental concept in mathematics.",
+      "front": "What is the Order of Operations?",
+      "back": "A set of rules that defines which operations must be performed first when evaluating a mathematical expression, ensuring a single correct result.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Order of Operations (BODMAS/PEMDAS) important?",
-      "back": "Order of Operations (BODMAS/PEMDAS) is essential for understanding Arithmetic.",
+      "front": "What do the acronyms PEMDAS and BODMAS help you remember?",
+      "back": "The sequence of operations: Parentheses/Brackets, Exponents/Orders, Multiplication & Division (L-to-R), and Addition & Subtraction (L-to-R).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the Left-to-Right Rule?",
+      "back": "Operations of equal rank (like multiplication/division or addition/subtraction) must be calculated in the order they appear from left to right.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Why do Parentheses or Brackets have the highest priority?",
+      "back": "They allow you to group operations and override the default mathematical hierarchy, forcing those operations to be evaluated first.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "How do you evaluate $10 - 2 + 3$ correctly?",
+      "back": "Since subtraction and addition are of equal priority, solve from left to right: first $10 - 2 = 8$, then $8 + 3 = 11$.",
+      "difficulty": "easy"
     }
   ]
 }

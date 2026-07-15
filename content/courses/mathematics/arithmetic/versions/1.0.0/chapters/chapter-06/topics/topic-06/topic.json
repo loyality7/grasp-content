@@ -2,16 +2,17 @@
   "id": "topic-06",
   "name": "Multiplying Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-06",
-  "description": "Learn about Multiplying Decimals and its applications in mathematics.",
+  "description": "Learn to multiply decimals by treating them as whole numbers first, then placing the decimal point based on the total decimal places of the factors.",
   "content": {
-    "overview": "Multiplying Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Multiplying Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Multiplying Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Multiplying decimals does not require lining up decimal points. Instead, you multiply the numbers as if they were whole numbers, and then insert the decimal point so that the product has the same number of decimal places as both factors combined.",
+    "explanation": "### The Three-Step Rule for Multiplication\n\nTo multiply decimal numbers:\n\n1.  **Multiply as whole numbers**: Temporarily ignore the decimal points and multiply the numbers as if they were integers.\n2.  **Count decimal places in the factors**: Count the total number of digits to the right of the decimal point in both of your original factors.\n3.  **Place the decimal point in the product**: Start from the far right of your whole-number answer and move the decimal point to the left by that total number of places.\n\n### Detailed Example: $2.4 \\times 1.5$\n\n-   **Step 1**: Multiply as whole numbers:\n    $$24 \\times 15 = 360$$\n-   **Step 2**: Count the decimal places in the factors:\n    -   $2.4$ has **1** decimal place.\n    -   $1.5$ has **1** decimal place.\n    -   Total = $1 + 1 = 2$ decimal places.\n-   **Step 3**: Move the decimal point 2 places to the left in $360$:\n    $$360 \\to 3.60$$\n    *(Since trailing zeros don't change value, $3.60 = 3.6$)*\n\n### Why Does This Work?\n\nIf we write the decimals as fractions, it becomes clear why the decimal places combine:\n\n$$2.4 \\times 1.5 = \\frac{24}{10} \\times \\frac{15}{10} = \\frac{24 \\times 15}{10 \\times 10} = \\frac{360}{100} = 3.60$$\n\nMultiplying the denominators ($10 \\times 10 = 100$) creates a new denominator of 100, which naturally places the decimal point two digits from the right.\n\n{{viz:formula-01}}\n\n### Handling Leading Zeros: $0.03 \\times 0.2$\n\nWhen multiplying very small decimals, you might need to add placeholder zeros to the left of your product to have enough decimal places:\n1.  Multiply whole numbers: $3 \\times 2 = 6$.\n2.  Count decimal places:\n    -   $0.03$ has **2** places.\n    -   $0.2$ has **1** place.\n    -   Total = $2 + 1 = 3$ decimal places.\n3.  Place decimal point: Since we only have one digit (6) in our product, we must add two zeros to the left before placing the point:\n    $$6 \\to 0.006$$\n\n### Visualizing with an Area Model\n\nWe can visualize $0.8 \\times 0.6$ inside a $10 \\times 10$ grid representing 1 whole. Shading 8 tenths horizontally and 6 tenths vertically shows that the overlapping region contains 48 hundredths ($0.48$):\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Do not line up decimal points when multiplying decimals vertically.",
+      "Multiply the numbers as whole numbers first.",
+      "The product must have the same number of decimal places as the sum of the decimal places in the factors.",
+      "Add placeholder zeros to the left of the product if you need more decimal places than digits."
     ],
-    "whyItMatters": "Multiplying Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Multiplying decimals is crucial for calculating tax (e.g., multiplying a price by $0.08$ sales tax), finding areas of rooms with fractional dimensions (e.g., $10.5$ ft by $12.2$ ft), and calculating compound interest."
   },
   "availableLanguages": [
     "en"

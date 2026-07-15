@@ -1,16 +1,1 @@
-{
-  "flashcards": [
-    {
-      "id": "card-01",
-      "front": "What is Cross Product?",
-      "back": "Cross Product is a fundamental concept in physics.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "card-02",
-      "front": "Why is Cross Product important?",
-      "back": "Cross Product is essential for understanding Physics Foundations.",
-      "difficulty": "medium"
-    }
-  ]
-}
+{"flashcards":[{"id":"card-01","front":"Cross product result is...","back":"A VECTOR perpendicular to both A and B","difficulty":"easy"},{"id":"card-02","front":"|A×B| = ?","back":"|A| |B| sin(θ). Maximum when perpendicular, zero when parallel.","difficulty":"medium"},{"id":"card-03","front":"Right-hand rule: how to find direction?","back":"Point fingers in direction of A, curl toward B, thumb points in direction of A×B.","difficulty":"easy"}]}

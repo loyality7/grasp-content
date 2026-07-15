@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Prime Factorization",
-      "content": "A practical example demonstrating Prime Factorization",
-      "source": "Generated",
+      "title": "Factor Tree Method for 60",
+      "content": "Find the prime factorization of **60** using the factor tree method.\n\n### Step-by-Step Solution\n\n1.  **Start at the top**: Write **60**.\n2.  **Split 60**: We can choose any factor pair, for example, $6 \\times 10$.\n    - Branch 60 into **6** and **10** (both are composite).\n3.  **Split the branch 6**:\n    - $6 = 2 \\times 3$. Both **2** and **3** are prime. Circle them. (Branches end here).\n4.  **Split the branch 10**:\n    - $10 = 2 \\times 5$. Both **2** and **5** are prime. Circle them. (Branches end here).\n5.  **Collect all circled primes**:\n    - Primes are: 2, 3, 2, and 5.\n6.  **Write as a product**:\n    $$60 = 2 \\times 2 \\times 3 \\times 5$$\n7.  **Apply exponents**:\n    $$60 = 2^2 \\times 3 \\times 5$$\n\n**Answer**: The prime factorization of 60 is **$2^2 \\times 3 \\times 5$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "prime-factorization"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Factorization", "Factor Tree"]
+    },
+    {
+      "id": "example-02",
+      "title": "Division Ladder Method for 84",
+      "content": "Find the prime factorization of **84** using the successive division (ladder) method.\n\n### Step-by-Step Solution\n\nWe divide 84 by prime numbers sequentially, starting with the smallest prime, 2, until we reach 1:\n\n1.  **Divide by 2**: 84 is even.\n    $$84 \\div \\mathbf{2} = 42$$\n2.  **Divide by 2**: 42 is even.\n    $$42 \\div \\mathbf{2} = 21$$\n3.  **Divide by 3**: 21 is odd, but divisible by 3.\n    $$21 \\div \\mathbf{3} = 7$$\n4.  **Divide by 7**: 7 is a prime number, so divide by 7.\n    $$7 \\div \\mathbf{7} = 1$$\n    (Since we reached 1, we stop division).\n\nLet's display this as a division ladder:\n\n$$\\begin{array}{r|l}\n  \\mathbf{2} & 84 \\\\\n  \\hline\n  \\mathbf{2} & 42 \\\\\n  \\hline\n  \\mathbf{3} & 21 \\\\\n  \\hline\n  \\mathbf{7} & 7 \\\\\n  \\hline\n  & 1\n\\end{array}$$\n\nMultiply the prime factors in the left column:\n$$84 = 2 \\times 2 \\times 3 \\times 7 = 2^2 \\times 3 \\times 7$$\n\n**Answer**: The prime factorization of 84 is **$2^2 \\times 3 \\times 7$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Prime Factorization", "Division Ladder"]
     }
   ]
 }

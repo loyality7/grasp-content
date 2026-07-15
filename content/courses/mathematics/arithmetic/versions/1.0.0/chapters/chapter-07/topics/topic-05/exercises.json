@@ -2,34 +2,39 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Solve a problem related to Percentage Change.",
-      "solution": "Step-by-step solution for Percentage Change problem.",
+      "prompt": "Find the percentage change from **$50$** to **$45$**.",
+      "solution": "1. **Identify starting point**:\n   - Original value = $50$.\n   - New value = $45$.\n2. **Calculate the difference**:\n   $$\\text{Change} = 50 - 45 = 5$$\n3. **Divide by the original starting value**:\n   $$\\text{Ratio} = \\frac{5}{50} = \\frac{1}{10} = 0.10$$\n4. **Convert to percentage**:\n   $$0.10 \\times 100 = 10\\%$$\n5. **Specify direction**:\n   Since the value went down, it is a **$10\\%$ decrease**.\n\n**Answer**: **$10\\%$ decrease**.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "First find the difference between 50 and 45.",
+        "Divide this difference by the original value (50), not the new value (45)."
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "percentage-change"
-      ]
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages"]
     },
     {
       "id": "ex-02",
-      "prompt": "Advanced problem: Apply Percentage Change to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "An online video received **$800$ views** on its first day and **$1,000$ views** on its second day. What is the percentage change in daily views from day one to day two?",
+      "solution": "1. **Identify values**:\n   - Original value = $800$.\n   - New value = $1,000$.\n2. **Find the change**:\n   $$\\text{Change} = 1000 - 800 = 200$$\n3. **Divide by original value**:\n   $$\\text{Ratio} = \\frac{200}{800} = \\frac{2}{8} = \\frac{1}{4} = 0.25$$\n4. **Convert to percentage**:\n   $$0.25 \\times 100 = 25\\%$$\n5. **Specify direction**:\n   Since the view count increased, this is a **$25\\%$ increase**.\n\n**Answer**: **$25\\%$ increase**.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Find how many new views were added on day two.",
+        "Divide the added views by the day-one view count (800) and convert to a percentage."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "percentage-change"
-      ]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
+    },
+    {
+      "id": "ex-03",
+      "prompt": "A student's math test score improves from **$80$ points** on the midterm to **$92$ points** on the final exam. What is the percentage increase in their test score?",
+      "solution": "1. **Identify values**:\n   - Original value = $80$ points.\n   - New value = $92$ points.\n2. **Find the change**:\n   $$\\text{Change} = 92 - 80 = 12 \\text{ points}$$\n3. **Divide by the original score**:\n   $$\\text{Ratio} = \\frac{12}{80}$$\n   Divide numerator and denominator by 4 to simplify:\n   $$\\frac{12 \\div 4}{80 \\div 4} = \\frac{3}{20}$$\n   Convert $\\frac{3}{20}$ to hundredths: \n   $$\\frac{3 \\times 5}{20 \\times 5} = \\frac{15}{100} = 0.15$$\n4. **Convert to percentage**:\n   $$0.15 \\times 100 = 15\\%$$\n\n**Answer**: The test score improved by a **$15\\%$ increase**.",
+      "hints": [
+        "Calculate how many points the score improved by.",
+        "Divide that point improvement by the original score of 80."
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Percentages", "Word Problems"]
     }
   ]
 }

@@ -3,27 +3,24 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which statement best describes Dimensional Formula?",
+      "question": "What does [M L² T⁻²] represent?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Speed",
+        "Force",
+        "Energy",
+        "Acceleration"
       ],
-      "correctIndex": 0,
-      "explanation": "Explanation of the correct answer",
+      "correctIndex": 2,
+      "explanation": "Energy (or work, or joules) = [M L² T⁻²]. This is force × distance.",
       "difficulty": "medium"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Dimensional Formula is only applicable in theoretical contexts.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctIndex": 1,
-      "explanation": "Dimensional Formula has many practical applications.",
+      "question": "Dimensional formulas use symbols like M, L, T instead of writing out 'meter' and 'kilogram.'",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "Yes! It's shorthand. M = mass, L = length, T = time, I = current, θ = temperature, n = amount, J = luminous intensity.",
       "difficulty": "easy"
     }
   ]

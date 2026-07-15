@@ -2,18 +2,18 @@
   "id": "topic-03",
   "name": "Triangle Law",
   "topicId": "physics.physics-foundations.chapter-05.topic-03",
-  "description": "Learn about Triangle Law and its applications in physics.",
+  "description": "A geometric rule for adding two vectors—the head-to-tail method forms a triangle",
   "content": {
-    "overview": "Triangle Law is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Triangle Law. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Triangle Law requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The Triangle Law is the head-to-tail method of vector addition visualized as a triangle. Place one vector's tail at another's head—the closing side is the sum. {{viz:diagram-01}}",
+    "explanation": "The Triangle Law is just a formal name for the head-to-tail method. Here's how it works: {{viz:diagram-02}}\n\n**Step 1:** Draw vector A from origin\n**Step 2:** Draw vector B starting at the HEAD of A\n**Step 3:** Draw the closing side from the origin to B's head. This is A + B.\n\nYou get a triangle! {{viz:anim-01}}\n\n**Example: Two Boats**\n\nBoat 1 travels 5 km east. Boat 2 (starting from Boat 1's position) travels 3 km north. Where is Boat 2 from the original start?\n\nDraw 5 km east. From that point, draw 3 km north. The straight line back to start is the resultant. Length = √(5² + 3²) = √34 ≈ 5.8 km, at an angle.\n\n**Mathematical Form:** {{viz:chart-01}}\n\nIf two vectors form two sides of a triangle, the third side (magnitude and direction) is their sum.\n\n**Why \"Triangle\"?**\n\nBecause three vectors form a closed path: A, B, and (-(A+B)) make a closed triangle. This is useful for checking if vectors balance.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Triangle Law = head-to-tail vector addition",
+      "Two vectors form two sides, sum is the third side",
+      "Three vectors can form a closed triangle",
+      "Used to find resultant of two forces or displacements",
+      "Graphical method—no need for components"
     ],
-    "whyItMatters": "Triangle Law is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "It's the visual way to understand vector addition. Many physics problems use this method for force and displacement problems."
   },
-  "availableLanguages": [
-    "en"
-  ]
+  "availableLanguages": ["en"]
 }

@@ -2,14 +2,32 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Positive & Negative Numbers?",
-      "back": "Positive & Negative Numbers is a fundamental concept in mathematics.",
+      "front": "What is an Integer?",
+      "back": "A whole number that can be positive, negative, or zero (e.g. ..., -3, -2, -1, 0, 1, 2, 3...).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Positive & Negative Numbers important?",
-      "back": "Positive & Negative Numbers is essential for understanding Arithmetic.",
+      "front": "Where are Positive Numbers located relative to zero on a horizontal number line?",
+      "back": "To the right of zero.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "Where are Negative Numbers located relative to zero on a horizontal number line?",
+      "back": "To the left of zero.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "Is Zero a positive or negative integer?",
+      "back": "Neither. Zero is neutral.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "Which integer is larger: $-10$ or $-2$?",
+      "back": "$-2$ (because it is further to the right on a number line, representing a higher value).",
       "difficulty": "medium"
     }
   ]

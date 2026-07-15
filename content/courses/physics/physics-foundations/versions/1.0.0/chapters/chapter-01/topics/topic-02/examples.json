@@ -2,15 +2,39 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Branches of Physics",
-      "content": "A practical example demonstrating Branches of Physics",
-      "source": "Generated",
+      "title": "Throwing a Football",
+      "content": "When you throw a football, you're using classical mechanics. How hard you throw (force), the angle (geometry), how far it goes (trajectory)—all classical mechanics. Not heat, not electricity, not atoms. Just basic motion and forces.",
+      "source": "Sports",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "physics",
-        "branches-of-physics"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["classical-mechanics", "motion"]
+    },
+    {
+      "id": "example-02",
+      "title": "Your Phone Battery",
+      "content": "Your phone battery works because of electricity and magnetism. Electrons moving (electricity), creating a current, powering your phone. If you asked why classical mechanics instead, you'd get the wrong answer.",
+      "source": "Technology",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["electricity-magnetism", "technology"]
+    },
+    {
+      "id": "example-03",
+      "title": "Cooking on a Stove",
+      "content": "Turning up the heat on a stove is thermodynamics. Heat energy transfers from the burner to the pot to your food. Temperature, energy transfer, heat flow—all thermodynamics, not classical mechanics.",
+      "source": "Cooking",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": ["thermodynamics", "heat", "energy"]
+    },
+    {
+      "id": "example-04",
+      "title": "Why Your Radio Works",
+      "content": "Radio uses waves—electromagnetic waves. That's the waves and optics branch (specifically waves). Sound in your speaker is also waves (sound waves). Light from your screen—waves. Same branch handles all of them.",
+      "source": "Technology",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 3,
+      "tags": ["waves", "electromagnetic", "optics"]
     }
   ]
 }

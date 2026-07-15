@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Composite Numbers",
   "topicId": "mathematics.arithmetic.chapter-04.topic-04",
-  "description": "Learn about Composite Numbers and its applications in mathematics.",
+  "description": "Learn about composite numbers, their factor structures, the distinction between primes and composites, and odd composite numbers.",
   "content": {
-    "overview": "Composite Numbers is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Composite Numbers. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Composite Numbers requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A composite number is a positive whole number that has more than two distinct positive factors. It is a number that can be divided evenly by numbers other than 1 and itself.",
+    "explanation": "### What is a Composite Number?\n\nIf you have a group of 8 items, you can arrange them in a single line ($1 \\times 8$) or you can group them into 2 neat rows of 4 ($2 \\times 4$). Because you can make multiple grid arrangements, 8 has factors other than 1 and itself:\n$$\\text{Factors of 8} = \\{1, 2, 4, 8\\}$$\nSince 8 has **four** distinct factors (which is more than two), it is a **composite number**.\n\nMathematically:\n\n{{viz:formula-01}}\n\n### Comparing Primes and Composites\n\nEvery positive whole number greater than 1 falls into one of two categories:\n-   **Prime**: Exactly two factors (e.g., 2, 3, 5, 7).\n-   **Composite**: More than two factors (e.g., 4, 6, 8, 9, 10).\n\n### Visualizing the Difference\n\nLet's compare a prime number (7) with a composite number (8):\n-   **7 (Prime)**: 7 items cannot be arranged in a tidy rectangle of width $\\ge 2$. There is always an empty spot or an uneven row. Its only arrangement is a straight line ($1 \\times 7$).\n-   **8 (Composite)**: 8 items can be arranged in a tidy, even rectangle of $2 \\times 4$.\n\n{{viz:anim-01}}\n\n### Important Details\n\n1.  **Smallest Composite**: The smallest composite number is **4** (factors: 1, 2, 4).\n2.  **Odd Composite Numbers**: A common mistake is thinking that all composite numbers are even, or that all odd numbers are prime. This is false! \n    *   Examples of odd composite numbers include: **9** (factors 1, 3, 9), **15** (factors 1, 3, 5, 15), and **21** (factors 1, 3, 7, 21).\n3.  **The Case of 0 and 1**: \n    *   **1** is not composite because it only has one factor (1).\n    *   **0** is not composite because it is not a positive integer and has infinitely many factors (since any number times 0 is 0).\n    *   Therefore, 0 and 1 are **neither prime nor composite**.",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A composite number has more than two positive factors.",
+      "The smallest composite number is 4.",
+      "Many composite numbers are odd (e.g., 9, 15, 21, 25).",
+      "The numbers 0 and 1 are neither prime nor composite."
     ],
-    "whyItMatters": "Composite Numbers is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Composite numbers represent quantities that can be decomposed, simplified, or divided into smaller units. Understanding composite numbers allows us to master factors, division algorithms, and fractional computations."
   },
   "availableLanguages": [
     "en"

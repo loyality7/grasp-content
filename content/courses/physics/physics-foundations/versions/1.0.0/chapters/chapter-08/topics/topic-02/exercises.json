@@ -1,35 +1,24 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Variables.",
-      "solution": "Step-by-step solution for Variables problem.",
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "variables"
-      ]
+      "id": "exercise-01",
+      "type": "identify",
+      "title": "Label the Variables",
+      "content": "Experiment: 'Test if string thickness affects bow arrow distance.' Identify: independent, dependent, control variables.",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "hints": ["What do you change?", "What do you measure?", "What stays the same?"],
+      "tags": ["classification"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Variables to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "variables"
-      ]
+      "id": "exercise-02",
+      "type": "design",
+      "title": "Identify Missing Controls",
+      "content": "Bad experiment: 'Test if ice cream melts faster on paper or plastic. Winter and summer.' What control variable is missing?",
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "hints": ["Temperature affects melting", "Both should be at same temperature"],
+      "tags": ["troubleshooting"]
     }
   ]
 }

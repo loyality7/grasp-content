@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Exponents",
-      "content": "A practical example demonstrating Exponents",
-      "source": "Generated",
+      "title": "Converting Repeated Multiplication to Exponential Form",
+      "content": "Write the expression **$5 \\times 5 \\times 5 \\times 5$** in exponential form, identify the base and exponent, and evaluate its value.\n\n### Step-by-Step Solution\n\n1.  **Count the number of times the number is multiplied**:\n    The number $5$ is repeated as a factor $4$ times.\n\n2.  **Write in exponential form**:\n    $$5^4$$\n\n3.  **Identify the parts**:\n    -   **Base**: $5$ (the number being multiplied)\n    -   **Exponent**: $4$ (the number of times it is repeated)\n\n4.  **Evaluate the value**:\n    Multiply step-by-step:\n    -   $5 \\times 5 = 25$\n    -   $25 \\times 5 = 125$\n    -   $125 \\times 5 = 625$\n\n**Answer**: Exponential form: **$5^4$** (Base: $5$, Exponent: $4$). Evaluated value: **$625$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "exponents"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Evaluation"]
+    },
+    {
+      "id": "example-02",
+      "title": "Evaluating a Higher Power",
+      "content": "Evaluate the expression **$3^5$**.\n\n### Step-by-Step Solution\n\n1.  **Write out the repeated multiplication**:\n    $$3^5 = 3 \\times 3 \\times 3 \\times 3 \\times 3$$\n\n2.  **Group the factors to multiply easily**:\n    -   First pair: $3 \\times 3 = 9$\n    -   Second pair: $3 \\times 3 = 9$\n    -   Leftover factor: $3$\n    This simplifies the multiplication to:\n    $$9 \\times 9 \\times 3$$\n\n3.  **Perform final multiplications**:\n    -   $9 \\times 9 = 81$\n    -   $81 \\times 3 = 243$\n\n**Answer**: **$243$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Exponents", "Evaluation"]
     }
   ]
 }

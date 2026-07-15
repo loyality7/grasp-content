@@ -2,16 +2,17 @@
   "id": "topic-02",
   "name": "Squares",
   "topicId": "mathematics.arithmetic.chapter-09.topic-02",
-  "description": "Learn about Squares and its applications in mathematics.",
+  "description": "Learn what it means to square a number, connect squares to geometric area, identify perfect squares, and calculate squares of positive and negative numbers.",
   "content": {
-    "overview": "Squares is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Squares. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Squares requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The square of a number is the product obtained by multiplying the number by itself. Raising a number to the power of 2 is called squaring it.",
+    "explanation": "### What is a Square?\n\nTo square a number, you multiply it by itself. Mathematically, we write the square of a variable $n$ as $n^2$:\n\n{{viz:formula-01}}\n\n*Examples*:\n-   The square of $5$ is written as $5^2$:\n    $$5^2 = 5 \\times 5 = 25$$\n-   The square of $8$ is written as $8^2$:\n    $$8^2 = 8 \\times 8 = 64$$\n\n### The Geometric Connection\n\nThe term \"square\" comes from geometry. If a square has a side length of $3$ units, the total area of the square is found by multiplying the length by the width:\n$$\\text{Area} = 3 \\times 3 = 3^2 = 9 \\text{ square units}$$\nThus, finding the square of a number is like counting the unit blocks that make up a geometric square.\n\n### Perfect Squares\n\nA **perfect square** is the square of a whole number. The first few perfect squares are:\n-   $1^2 = 1$\n-   $2^2 = 4$\n-   $3^2 = 9$\n-   $4^2 = 16$\n-   $5^2 = 25$\n-   $6^2 = 36$\n-   $7^2 = 49$\n-   $8^2 = 64$\n-   $9^2 = 81$\n-   $10^2 = 100$\n\n### Squaring Negative Numbers\n\nWhen you square a negative number, the result is **always positive** because the product of two negative numbers is positive:\n$$(-6)^2 = (-6) \\times (-6) = 36$$\nNotice that $(-6)^2$ is positive $36$, which is different from $-6^2$ (which means $-(6 \\times 6) = -36$). Always use parentheses when squaring negative numbers!\n\n### Visualizing Geometric Squares\n\nWatch this animation illustrating how squares grow from $1 \\times 1$ to $4 \\times 4$ in a geometric grid layout:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Squaring a number means multiplying it by itself: n\u00b2 = n \u00d7 n.",
+      "The result of squaring a whole number is called a perfect square.",
+      "The square of any non-zero real number (positive or negative) is always positive.",
+      "Geometrically, squaring a number represents the area of a square with that side length."
     ],
-    "whyItMatters": "Squares is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Squares are key to calculating surface areas, finding distances between points (Pythagorean Theorem), solving quadratic algebraic equations, and analyzing statistics (variance and standard deviation)."
   },
   "availableLanguages": [
     "en"

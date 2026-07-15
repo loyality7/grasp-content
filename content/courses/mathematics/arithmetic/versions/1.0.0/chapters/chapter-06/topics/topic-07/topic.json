@@ -2,16 +2,17 @@
   "id": "topic-07",
   "name": "Dividing Decimals",
   "topicId": "mathematics.arithmetic.chapter-06.topic-07",
-  "description": "Learn about Dividing Decimals and its applications in mathematics.",
+  "description": "Learn to divide decimal numbers by shifting decimal points to make the divisor a whole number, then applying standard long division.",
   "content": {
-    "overview": "Dividing Decimals is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Dividing Decimals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Dividing Decimals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Dividing decimals is simplified by converting the divisor (the number you are dividing by) into a whole number. You can then use standard long division and place the decimal point directly above its position in the dividend.",
+    "explanation": "### The Shifting Rule for Division\n\nDividing by a decimal like **$0.6$** can be hard to visualize. However, we can convert it into dividing by a whole number (**$6$**) without changing the answer by shifting the decimal points in both numbers. This is because division is a fraction, and multiplying both parts of a fraction by the same number keeps it equivalent:\n\n$$\\frac{4.56}{0.6} = \\frac{4.56 \\times 10}{0.6 \\times 10} = \\frac{45.6}{6}$$\n\n### Steps to Divide Decimals\n\n1.  **Check the Divisor**: Look at the divisor (on the outside). If it has a decimal point, shift it to the right until it becomes a whole number. Count the number of places shifted.\n2.  **Shift the Dividend**: Shift the decimal point of the dividend (on the inside) to the right by the **exact same number of places**.\n    -   *If the dividend runs out of digits, pad it with trailing zeros.*\n3.  **Position the Decimal Point**: Place the decimal point in the quotient (the answer row) directly above its new position in the dividend.\n4.  **Perform Long Division**: Divide the numbers ignoring the decimal point, just like whole numbers.\n\n### Step-by-Step Example: $4.56 \\div 0.6$\n\n-   **Make Divisor a Whole Number**: $0.6 \\to 6$ (shift 1 place right).\n-   **Shift Dividend**: $4.56 \\to 45.6$ (shift 1 place right).\n-   Set up the long division: \n    $$\\begin{array}{r}\n    7.6 \\\\\n    6 \\overline{\\smash{)} \\, 45.6} \\\\\n    -\\ \\underline{42.0} \\\\\n    3.6 \\\\\n    -\\ \\underline{3.6} \\\\\n    0.0 \\\\\n    \\end{array}$$\n-   **Ones column**: $6$ goes into $45$ seven times ($7 \\times 6 = 42$) with a remainder of $3$.\n-   **Tenths column**: Bring down $6$ to make $36$. $6$ goes into $36$ six times ($6 \\times 6 = 36$) with a remainder of $0$.\n-   **Place Decimal**: Float the decimal point straight up, yielding **$7.6$**.\n\n{{viz:formula-01}}\n\n### Adding Zeros to the Dividend: $9 \\div 0.3$\n\n1.  Convert $0.3 \\to 3$ (shift 1 place right).\n2.  Shift $9$ (which is $9.0$) 1 place right: it becomes $90$.\n3.  Divide: $90 \\div 3 = 30$.\n\n### Visualizing Long Division\n\nWatch how the decimal point in the dividend floats straight up into the quotient during the long division of $45.6 \\div 6$:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Always convert the divisor into a whole number before dividing.",
+      "Shift the dividend's decimal point by the same number of places as the divisor's.",
+      "Pad the dividend with trailing zeros if you need to shift beyond its existing digits.",
+      "The decimal point in the quotient goes directly above the decimal point in the shifted dividend."
     ],
-    "whyItMatters": "Dividing Decimals is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Dividing decimals helps us split bills among friends (e.g., splitting a $45.60 tab 6 ways), find unit prices (e.g., cost per ounce of cereal), and perform unit conversions in geometry and physics."
   },
   "availableLanguages": [
     "en"

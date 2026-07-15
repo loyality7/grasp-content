@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Percentage of a Number?",
-      "back": "Percentage of a Number is a fundamental concept in mathematics.",
+      "front": "What math operation does 'of' represent in percentage questions?",
+      "back": "Multiplication.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Percentage of a Number important?",
-      "back": "Percentage of a Number is essential for understanding Arithmetic.",
+      "front": "How do you mentally calculate 10% of any number?",
+      "back": "Divide the number by 10 (shift the decimal point one place to the left).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the easiest way to calculate 25% of a number?",
+      "back": "Divide the number by 4 (since $25\\% = \\frac{1}{4}$).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-04",
+      "front": "How do you mentally find 5% of a number?",
+      "back": "Find 10% of the number first, then cut that result in half.",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-05",
+      "front": "What is 50% of 142?",
+      "back": "71, because 50% means dividing by 2 ($142 \\div 2 = 71$).",
+      "difficulty": "easy"
     }
   ]
 }

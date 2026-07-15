@@ -2,16 +2,17 @@
   "id": "topic-07",
   "name": "Least Common Multiple (LCM)",
   "topicId": "mathematics.arithmetic.chapter-04.topic-07",
-  "description": "Learn about Least Common Multiple (LCM) and its applications in mathematics.",
+  "description": "Learn about the Least Common Multiple (LCM), listing and prime factorization methods, and the relationship between GCD and LCM.",
   "content": {
-    "overview": "Least Common Multiple (LCM) is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Least Common Multiple (LCM). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Least Common Multiple (LCM) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The Least Common Multiple (LCM) is the smallest positive whole number that is a multiple of two or more numbers. It is the first common landing point when skip counting.",
+    "explanation": "### What is the Least Common Multiple?\n\nIf you list the multiples of two numbers, the numbers that appear on both lists are **common multiples**. The smallest of these positive numbers is the **Least Common Multiple (LCM)**.\n\nFor example, let's find the multiples of 4 and 6:\n-   **Multiples of 4**: $\\{4, 8, \\\\mathbf{12}, 16, 20, \\\\mathbf{24}, 28, \\\\dots\\\\}$\n-   **Multiples of 6**: $\\{6, \\\\mathbf{12}, 18, \\\\mathbf{24}, 30, \\\\dots\\\\}$\n\nShared multiples include: $\\{12, 24, 36, \\\\dots\\\\}$. The smallest positive number is **12**. Therefore:\n$$\\\\text{LCM}(4, 6) = 12$$\n\nMathematically:\n\n{{viz:formula-01}}\n\n### Visualizing LCM with Jumps\n\nImagine two frogs hopping along parallel tracks starting at 0:\n-   Frog A hops in jumps of **4** units (landing on 4, 8, 12, 16...).\n-   Frog B hops in jumps of **6** units (landing on 6, 12, 18...).\n\nThe very first point where they land on the exact same mark is **12** units from the start.\n\n{{viz:anim-01}}\n\n### Methods to Find the LCM\n\n#### Method 1: Listing Multiples\nWrite out multiples of each number until you find the first match. (Best for small numbers).\n\n#### Method 2: Prime Factorization (Best for larger numbers)\n1.  Find the prime factorization of each number.\n2.  Identify **all prime bases** that appear in either number.\n3.  For each base, select the **highest exponent** that appears.\n4.  Multiply these terms together to get the LCM.\n\n**Example: Find LCM of 12 and 18**\n-   $12 = 2^2 \\\\times 3^1$\n-   $18 = 2^1 \\\\times 3^2$\n-   All prime bases present: 2 and 3.\n-   Highest exponent for 2 is $2^2$; highest exponent for 3 is $3^2$.\n-   $$\\\\text{LCM} = 2^2 \\\\times 3^2 = 4 \\\\times 9 = 36$$\n\n### The GCD-LCM Connection\n\nThere is a useful mathematical relationship between the GCD and LCM of any two positive numbers $a$ and $b$:\n\n$$\\\\text{LCM}(a, b) \\\\times \\\\text{GCD}(a, b) = a \\\\times b$$\n\nThis means that if you already know the GCD of two numbers, you can calculate the LCM using:\n$$\\\\text{LCM}(a, b) = \\\\frac{a \\\\times b}{\\\\text{GCD}(a, b)}$$",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "The LCM is the smallest positive number that is a multiple of two or more numbers.",
+      "The listing method works well for small numbers by finding the first shared multiple.",
+      "The prime factorization method selects the highest powers of all prime factors present.",
+      "For coprime numbers $a$ and $b$, the LCM is simply their product: $a \\\\times b$."
     ],
-    "whyItMatters": "Least Common Multiple (LCM) is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "The LCM is essential for adding and subtracting fractions with unlike denominators (where the LCM becomes the Least Common Denominator, or LCD). It also coordinates repeating cycles, like orbital alignments, schedule synchronizations, and gear revolutions."
   },
   "availableLanguages": [
     "en"

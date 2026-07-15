@@ -2,16 +2,17 @@
   "id": "topic-04",
   "name": "Proportion",
   "topicId": "mathematics.arithmetic.chapter-08.topic-04",
-  "description": "Learn about Proportion and its applications in mathematics.",
+  "description": "Understand what a proportion is, identify the means and extremes, and learn to use cross-multiplication to check for equivalence and solve for unknowns.",
   "content": {
-    "overview": "Proportion is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Proportion. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Proportion requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A proportion is a mathematical statement stating that two ratios are equal. It is the basis for solving scale, sizing, and rate problems.",
+    "explanation": "### What is a Proportion?\n\nWhen two ratios are equivalent, they form a **proportion**. For example, the ratio of $1$ teacher to $20$ students ($1:20$) is equivalent to $3$ teachers to $60$ students ($3:60$). We can write this equality as:\n\n$$1 : 20 = 3 : 60 \\quad \\text{or} \\quad \\frac{1}{20} = \\frac{3}{60}$$\n\nThis statement is read as: **\"1 is to 20 as 3 is to 60\"**.\n\n### Means and Extremes\n\nIn the proportion notation $a:b = c:d$:\n-   The outer terms, **$a$** and **$d$**, are called the **extremes**.\n-   The inner terms, **$b$** and **$c$**, are called the **means**.\n\n### The Cross-Multiplication Property\n\nIn any true proportion, the product of the extremes is always equal to the product of the means. This is commonly known as **cross-multiplication**:\n\n{{viz:formula-01}}\n\nIf we cross-multiply $\\frac{a}{b} = \\frac{c}{d}$, we get:\n$$a \\times d = b \\times c$$\n\n### Checking if Ratios Form a Proportion\n\nTo check if two ratios are proportional, you can either:\n1.  **Cross-multiply**: If the cross-products are equal, they form a proportion.\n2.  **Simplify**: Write both ratios in simplest form. If they are identical, they form a proportion.\n\n*Example: Do $4:6$ and $10:15$ form a proportion?*\n-   Method 1: Cross-multiply. \n    $$4 \\times 15 = 60$$\n    $$6 \\times 10 = 60$$\n    Since $60 = 60$, yes, they are proportional!\n-   Method 2: Simplify.\n    $$4:6 \\to 2:3$$\n    $$10:15 \\to 2:3$$\n    Since both simplify to $2:3$, they form a proportion!\n\n### Visualizing Cross-Multiplication\n\nWatch how the diagonal cross-products of proportional fractions align to yield identical numbers:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A proportion states that two ratios are equal.",
+      "In a:b = c:d, a and d are extremes; b and c are means.",
+      "The product of the extremes equals the product of the means (a \u00d7 d = b \u00d7 c).",
+      "Use cross-multiplication to check for proportion or solve for a missing variable."
     ],
-    "whyItMatters": "Proportion is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Proportions are used to calculate distances on a travel map, adjust camera lens zooms, resize images without stretching, and convert units (like kilometers to miles)."
   },
   "availableLanguages": [
     "en"

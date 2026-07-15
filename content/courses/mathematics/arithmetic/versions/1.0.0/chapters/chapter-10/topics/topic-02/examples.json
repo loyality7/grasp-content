@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Integer Operations",
-      "content": "A practical example demonstrating Integer Operations",
-      "source": "Generated",
+      "title": "Adding, Subtracting, and Multiplying Integers",
+      "content": "Perform the operations and compute the final values for:\n1.  **$(-15) + (+8)$**\n2.  **$6 - (-9)$**\n3.  **$(-4) \\times (-6)$**\n\n### Step-by-Step Solution\n\n1.  **Solve $(-15) + 8$**:\n    These have different signs. Subtract the smaller magnitude ($8$) from the larger ($15$):\n    $$15 - 8 = 7$$\n    Since $15$ is larger and is negative, the result is negative:\n    $$(-15) + 8 = -7$$\n\n2.  **Solve $6 - (-9)$**:\n    Subtracting a negative is the same as adding its positive opposite:\n    $$6 - (-9) = 6 + 9$$\n    $$= 15$$\n\n3.  **Solve $(-4) \\times (-6)$**:\n    Multiply the numbers: $4 \\times 6 = 24$. Since both factors are negative (same signs), the product is positive:\n    $$(-4) \\times (-6) = 24$$\n\n**Answer**: 1. **$-7$**, 2. **$15$**, 3. **$24$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "integer-operations"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Integer Operations", "Signs"]
+    },
+    {
+      "id": "example-02",
+      "title": "Dividing Integers with Different Signs",
+      "content": "Evaluate the quotient: **$(-36) \\div (+9)$**.\n\n### Step-by-Step Solution\n\n1.  **Determine the sign of the quotient**:\n    The dividend is negative ($-36$) and the divisor is positive ($+9$). Since they have different signs, the result must be negative.\n\n2.  **Perform the division on the absolute values**:\n    $$36 \\div 9 = 4$$\n\n3.  **Apply the negative sign**:\n    $$-4$$\n\n**Answer**: **$-4$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 1,
+      "tags": ["Arithmetic", "Integer Operations", "Division"]
     }
   ]
 }

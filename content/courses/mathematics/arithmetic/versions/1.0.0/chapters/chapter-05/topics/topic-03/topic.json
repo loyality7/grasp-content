@@ -2,16 +2,17 @@
   "id": "topic-03",
   "name": "Mixed Numbers",
   "topicId": "mathematics.arithmetic.chapter-05.topic-03",
-  "description": "Learn about Mixed Numbers and its applications in mathematics.",
+  "description": "Learn about mixed numbers, how they combine whole numbers and proper fractions, and how to convert between mixed numbers and improper fractions.",
   "content": {
-    "overview": "Mixed Numbers is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Mixed Numbers. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Mixed Numbers requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "A mixed number represents a quantity greater than 1 by combining a whole number and a proper fraction (for example, $2\\frac{1}{2}$, which means two wholes and one-half).",
+    "explanation": "### What is a Mixed Number?\n\nA **mixed number** is another way to write an improper fraction that is greater than 1 whole. Instead of expressing the quantity purely as fractional pieces, we group as many pieces as possible into wholes.\n\nFor example, if we have 7 quarter-slices of pie:\n-   We can group 4 of the quarters to make **1 whole pie**.\n-   We have **3 quarters** left over.\n-   We write this as:\n    $$1\\frac{3}{4} \\quad (\\text{read as \"one and three-quarters\"})$$\n\nThis combines a **whole number** (1) and a **proper fraction** ($\\frac{3}{4}$).\n\n### Converting Between Forms\n\nBecause improper fractions and mixed numbers represent the same quantities, we can convert between them using simple math operations.\n\n{{viz:formula-01}}\n\n#### 1. Converting Mixed Numbers to Improper Fractions\nTo find how many total fractional pieces are in a mixed number $W\\frac{n}{d}$:\n1.  **Multiply** the whole number $W$ by the denominator $d$ (this tells you how many pieces make up the wholes).\n2.  **Add** the numerator $n$ (this adds the remaining pieces).\n3.  Write the result over the original denominator $d$.\n\n$$\\text{Formula: } W\\frac{n}{d} = \\frac{(W \\times d) + n}{d}$$\n\n*Example*: Convert $3\\frac{2}{5}$ to an improper fraction:\n$$3\\frac{2}{5} = \\frac{(3 \\times 5) + 2}{5} = \\frac{15 + 2}{5} = \\frac{17}{5}$$\n\n#### 2. Converting Improper Fractions to Mixed Numbers\nTo group fractional pieces $\\frac{n}{d}$ into wholes:\n1.  **Divide** the numerator $n$ by the denominator $d$ using integer division.\n2.  The **quotient** (result of division) is the **whole number** part.\n3.  The **remainder** is the **numerator** of the fractional part.\n4.  The denominator stays the same.\n\n*Example*: Convert $\\frac{14}{3}$ to a mixed number:\n1.  Divide $14 \\div 3 = 4$ with a remainder of $2$.\n2.  The quotient is 4, and the remainder is 2.\n3.  $$14 \\div 3 = 4 \\text{ R } 2 \\implies \\frac{14}{3} = 4\\frac{2}{3}$$\n\n### Visual Comparison\n\nLet's visualize how the exact same shaded segments represent both $\\frac{7}{4}$ (when counting individual quarters) and $1\\frac{3}{4}$ (when grouping them into wholes):\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A mixed number consists of a non-zero whole number and a proper fraction.",
+      "Mixed numbers and improper fractions represent the same values in different forms.",
+      "To convert mixed to improper, use the formula: ((Whole * Denominator) + Numerator) / Denominator.",
+      "To convert improper to mixed, divide the numerator by the denominator; the remainder becomes the new numerator."
     ],
-    "whyItMatters": "Mixed Numbers is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Mixed numbers are commonly used in everyday language and measurements, such as carpentry (e.g., $5\\frac{3}{8}$ inches) or cooking (e.g., $1\\frac{1}{2}$ tablespoons of sugar), because they are easier to visualize than improper fractions."
   },
   "availableLanguages": [
     "en"

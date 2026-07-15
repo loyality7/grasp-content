@@ -2,16 +2,17 @@
   "id": "topic-05",
   "name": "Percentage Change",
   "topicId": "mathematics.arithmetic.chapter-07.topic-05",
-  "description": "Learn about Percentage Change and its applications in mathematics.",
+  "description": "Learn to calculate the percentage change between an original value and a new value, and distinguish between percentage increase and decrease.",
   "content": {
-    "overview": "Percentage Change is a fundamental concept in mathematics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Percentage Change. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Percentage Change requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Percentage change measures how much a value has grown or shrunk relative to its starting point. It expresses the difference between the starting and ending values as a percentage of the original starting value.",
+    "explanation": "### The Percentage Change Formula\n\nTo find the percentage change, calculate the absolute change between the two numbers, divide by the **starting (original) value**, and then multiply by $100$:\n\n{{viz:formula-01}}\n\n### The Golden Rule\n> [!IMPORTANT]\n> The denominator in the formula is **always the original starting value**, not the new value. Dividing by the wrong number is the most common error in percentage change calculations.\n\n### Step-by-Step Examples\n\n#### Example A: Value Increases ($50 \\to $60$)\n1.  **Find the change**: Subtract the smaller number from the larger number.\n    $$\\text{Change} = 60 - 50 = 10$$\n2.  **Divide by original value**:\n    $$\\frac{10}{50} = 0.20$$\n3.  **Convert to percentage**: Multiply by $100$.\n    $$0.20 \\times 100 = 20\\%$$\n-   *Since the value went up, it is a **$20\\%$ increase**.*\n\n#### Example B: Value Decreases ($80 \\to $60$)\n1.  **Find the change**: Subtract the smaller number from the larger number.\n    $$\\text{Change} = 80 - 60 = 20$$\n2.  **Divide by original value**:\n    $$\\frac{20}{80} = 0.25$$\n3.  **Convert to percentage**: Multiply by $100$.\n    $$0.25 \\times 100 = 25\\%$$\n-   *Since the value went down, it is a **$25\\%$ decrease**.*\n\n### Visualizing Percentage Change\n\nWatch this visual comparison showing how a change of $20$ from an original height of $80$ translates into a $25\\%$ increase:\n\n{{viz:anim-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Percentage change measures relative growth or decline.",
+      "Always divide the change by the original (starting) value.",
+      "If the new value is larger than the original, it is a percentage increase.",
+      "If the new value is smaller than the original, it is a percentage decrease."
     ],
-    "whyItMatters": "Percentage Change is essential for mastering Arithmetic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Percentage change is widely used to track stock market performances, report population fluctuations, monitor business growth, and evaluate academic score improvements."
   },
   "availableLanguages": [
     "en"

@@ -2,15 +2,33 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Divisibility Rules?",
-      "back": "Divisibility Rules is a fundamental concept in mathematics.",
+      "front": "What are the divisibility rules for 2 and 5?",
+      "back": "For 2: The last digit must be even (0, 2, 4, 6, 8).\nFor 5: The last digit must be 0 or 5.",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Divisibility Rules important?",
-      "back": "Divisibility Rules is essential for understanding Arithmetic.",
+      "front": "What are the divisibility rules for 3 and 9?",
+      "back": "For 3: The sum of the digits must be divisible by 3.\nFor 9: The sum of the digits must be divisible by 9.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the divisibility rule for 4?",
+      "back": "The number formed by the last two digits must be divisible by 4 (e.g., 1,324 is divisible because 24 is).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-04",
+      "front": "What is the divisibility rule for 6?",
+      "back": "The number must be divisible by both 2 and 3 (i.e., it must be an even number whose digits sum to a multiple of 3).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-05",
+      "front": "What is the divisibility rule for 10?",
+      "back": "The last digit of the number must be 0.",
+      "difficulty": "easy"
     }
   ]
 }

@@ -2,15 +2,21 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Example: Squares",
-      "content": "A practical example demonstrating Squares",
-      "source": "Generated",
+      "title": "Finding the Square of a Two-Digit Number",
+      "content": "Calculate the value of **$13^2$**.\n\n### Step-by-Step Solution\n\n1.  **Understand the notation**:\n    $13^2$ means \"13 squared\" or $13$ multiplied by itself:\n    $$13^2 = 13 \\times 13$$\n\n2.  **Multiply the numbers**:\n    You can split $13$ into $(10 + 3)$ to multiply easily using the distributive property:\n    $$13 \\times 13 = 13 \\times (10 + 3)$$\n    $$= (13 \\times 10) + (13 \\times 3)$$\n    $$= 130 + 39$$\n    $$= 169$$\n\n**Answer**: **$169$**.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "squares"
-      ]
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Squares", "Multiplication"]
+    },
+    {
+      "id": "example-02",
+      "title": "Squaring a Negative Number",
+      "content": "Evaluate the expression **$(-7)^2$**.\n\n### Step-by-Step Solution\n\n1.  **Understand the expression**:\n    The base is $(-7)$ and the exponent is $2$. This means multiplying $(-7)$ by itself:\n    $$(-7)^2 = (-7) \\times (-7)$$\n\n2.  **Evaluate the signs and numbers**:\n    -   A negative number multiplied by another negative number yields a positive result: $(-1) \\times (-1) = 1$.\n    -   Multiply the magnitudes: $7 \\times 7 = 49$.\n    Therefore:\n    $$(-7) \\times (-7) = 49$$\n\n**Answer**: **$49$**.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 2,
+      "tags": ["Arithmetic", "Squares", "Negative Numbers"]
     }
   ]
 }
