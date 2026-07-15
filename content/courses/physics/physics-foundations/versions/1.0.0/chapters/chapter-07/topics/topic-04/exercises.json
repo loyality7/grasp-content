@@ -1,12 +1,17 @@
-{
-  "exercises": [
-    {
-      "prompt": "",
-      "solution": "See hints and examples for approach.",
-      "hints": true,
-      "difficulty": true,
-      "estimatedMinutes": true,
-      "tags": true
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Complete this exercise (prompt content needed)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  5,
+                          "hints":  [
+
+                                    ],
+                          "tags":  [
+
+                                   ]
+                      }
+                  ]
 }

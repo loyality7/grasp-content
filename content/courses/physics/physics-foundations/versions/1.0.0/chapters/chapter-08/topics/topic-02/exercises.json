@@ -1,18 +1,30 @@
-{
-  "exercises": [
-    {
-      "solution": "See hints and examples for approach.",
-      "difficulty": true,
-      "estimatedMinutes": true,
-      "hints": true,
-      "tags": true
-    },
-    {
-      "solution": "See hints and examples for approach.",
-      "difficulty": true,
-      "estimatedMinutes": true,
-      "hints": true,
-      "tags": true
-    }
-  ]
+﻿{
+    "exercises":  [
+                      {
+                          "id":  "exercise-1",
+                          "prompt":  "Complete this exercise (prompt content needed)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  5,
+                          "hints":  [
+
+                                    ],
+                          "tags":  [
+
+                                   ]
+                      },
+                      {
+                          "id":  "exercise-2",
+                          "prompt":  "Complete this exercise (prompt content needed)",
+                          "solution":  "See hints and examples for approach.",
+                          "difficulty":  "beginner",
+                          "estimatedMinutes":  5,
+                          "hints":  [
+
+                                    ],
+                          "tags":  [
+
+                                   ]
+                      }
+                  ]
 }
