@@ -105,17 +105,6 @@
       }
     },
     {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Orthonormal Bases Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
       "id": "diagram-02",
       "type": "diagram",
       "title": "Concept Map",

@@ -105,17 +105,6 @@
       }
     },
     {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "*Course 3 (Newtonian Mechanics)** will answer **why objects move** by introducing forces, Newton's laws, free-body diagrams, friction, tension, and equilibrium. Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
       "id": "diagram-02",
       "type": "diagram",
       "title": "Concept Map",
