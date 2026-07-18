@@ -114,7 +114,7 @@ final response = await http.get(
 | **🃏 Flashcards** | 26401 |
 | **📝 Practice Exercises** | 26205 |
 | **💡 Examples** | 13235 |
-| **🎨 Interactive Canvas Visuals** | 104169 |
+| **🎨 Interactive Canvas Visuals** | 104167 |
 <!-- STATS_END -->
 
 ## License
